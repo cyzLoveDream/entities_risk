@@ -83,11 +83,11 @@
 	|
 	|
 备注：该项目的运行顺序是：
-	（1）先运行data_cleans-generate_train_data.py 和data_cleans-generate_test_data.py,生成想要的模型训练的测试集和训练集
-	（2）再运行crf_learn进行实体抽取的模型训练（在虚拟机1里进行训练）生成实体抽取模型
-	（3）运行untils-get_entities.py 利用训练好的模型进行实体的抽取
-	（4）运行untils-get_result_test_without_emotion.py 初步获取最终的结果文件，其中包括摘要、关键字等
-	（5）运行untils-data2tfrecords.py 将所使用的数据集转换为tfrecords格式，其中包括训练集、测试集、字典等，为了进行情感的抽取
-	（6）运行untils-cnn_clound.py 利用摘要训练实体情感分类模型，产生feature_data-submission_final_11.tfrecords文件
-	（7）运行untils-get_submission_result_from_tfrecords.py 产生最终的结果文件
+1.  （1）先运行data_cleans-generate_train_data.py 和data_cleans-generate_test_data.py,生成想要的模型训练的测试集和训练集
+2.  （2）再运行crf_learn进行实体抽取的模型训练（在虚拟机1里进行训练）生成实体抽取模型
+3.  （3）运行untils-get_entities.py 利用训练好的模型进行实体的抽取
+4.  （4）运行untils-get_result_test_without_emotion.py 初步获取最终的结果文件，其中包括摘要、关键字等
+5.  （5）运行untils-data2tfrecords.py 将所使用的数据集转换为tfrecords格式，其中包括训练集、测试集、字典等，为了进行情感的抽取
+6.  （6）运行untils-cnn_clound.py 利用摘要训练实体情感分类模型，产生feature_data-submission_final_11.tfrecords文件
+7.  （7）运行untils-get_submission_result_from_tfrecords.py 产生最终的结果文件
 	
