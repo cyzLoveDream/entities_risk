@@ -1,0 +1,236 @@
+山	Bns	B
+东	Mns	I
+省	Ens	I
+食	Sv	I
+药	Bnt	I
+监	Mnt	I
+局	Ent	E
+抽	Bv	O
+检	Ev	O
+糕	Bn	O
+点	En	O
+1	Bm	O
+9	Mm	O
+9	Em	O
+批	Bd	O
+次	Ed	O
+不	Sd	O
+合	Bn	O
+格	En	O
+产	Bn	O
+品	En	O
+5	Sw	O
+批	Bd	O
+次	Ed	O
+。	Sw	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+1	Bm	O
+6	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+1	Bm	O
+1	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+6	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+
+时	Bn	O
+间	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+9	Em	O
+-	Sw	O
+0	Bm	O
+2	Em	O
+

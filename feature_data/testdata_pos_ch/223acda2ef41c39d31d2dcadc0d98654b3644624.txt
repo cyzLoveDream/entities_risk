@@ -1,0 +1,140 @@
+江	Bns
+苏	Mns
+省	Ens
+工	Bj
+商	Mj
+局	Ej
+网	Bn
+售	En
+儿	Bl
+童	Ml
+服	Ml
+装	El
+抽	Bv
+检	Ev
+ 	Sw
+
+2	Bm
+1	Em
+个	Sm
+批	Bd
+次	Ed
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+￥	Sw
+ 	Sw
+
+1	Bm
+4	Mm
+.	Mm
+5	Mm
+0	Em
+元	Sm
+/	Sw
+米	Sq
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+.	Mm
+2	Mm
+0	Em
+元	Sm
+/	Sw
+码	Sn
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+1	Bm
+3	Mm
+.	Mm
+1	Mm
+0	Em
+元	Sm
+/	Sw
+米	Sq
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+5	Bm
+2	Mm
+.	Mm
+0	Mm
+0	Em
+元	Sm
+/	Sw
+公	Bq
+斤	Eq
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+面	Bn
+议	En
+元	Sm
+/	Sw
+件	Szg
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+2	Bm
+9	Mm
+.	Mm
+8	Mm
+0	Em
+元	Sm
+/	Sw
+米	Sq
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+1	Bm
+8	Mm
+.	Mm
+0	Mm
+0	Em
+元	Sm
+/	Sw
+米	Sq
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+1	Bm
+4	Mm
+.	Mm
+5	Mm
+0	Em
+元	Sm
+/	Sw
+米	Sq
+ 	Sw
+
+￥	Sw
+ 	Sw
+
+1	Bm
+9	Mm
+.	Mm
+5	Em
+元	Sm
+/	Sw
+米	Sq
+
+

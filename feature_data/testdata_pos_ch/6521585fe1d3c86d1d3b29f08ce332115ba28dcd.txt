@@ -1,0 +1,204 @@
+国	Bn
+家	En
+食	Bn
+药	Mn
+监	En
+总	Bn
+局	En
+抽	Bv
+检	Ev
+通	Bn
+报	En
+：	Sw
+京	Bns
+东	Ens
+、	Sw
+天	Bn
+猫	En
+等	Su
+售	Sv
+3	Sm
+批	Bd
+次	Ed
+食	Bn
+品	En
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+-	Sw
+-	Sw
+>	Sw
+ 	Sw
+
+0	Sw
+：	Sw
+ 	Sw
+
+1	Sw
+：	Sw
+ 	Sw
+
+2	Sw
+：	Sw
+ 	Sw
+
+3	Sw
+：	Sw
+ 	Sw
+
+4	Sw
+：	Sw
+-	Sw
+-	Sw
+>	Sw
+ 	Sw
+
+侬	Sg
+好	Sa
+上	Bns
+海	Ens
+由	Sp
+新	Bn
+民	En
+网	Sn
+出	Bn
+品	En
+ 	Sw
+
+微	Sn
+信	Bn
+号	En
+：	Sw
+h	Beng
+e	Meng
+l	Meng
+l	Meng
+o	Meng
+s	Meng
+h	Meng
+a	Meng
+n	Meng
+g	Meng
+h	Meng
+a	Meng
+i	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Eeng
+ 	Sw
+
+吃	Bi
+喝	Mi
+玩	Mi
+乐	Ei
+、	Sw
+上	Bns
+海	Ens
+故	Bn
+事	En
+、	Sw
+同	Sp
+城	Sn
+活	Bvn
+动	Evn
+ 	Sw
+
+每	Br
+天	Er
+热	Ba
+爱	Ea
+上	Bns
+海	Ens
+多	Bm
+一	Mm
+点	Em
+，	Sw
+ 	Sw
+
+加	Bv
+入	Ev
+小	Bnr
+侬	Enr
+家	Bnz
+族	Enz
+就	Sd
+对	Sp
+啦	Sy
+！	Sw
+
+ 	Sw
+
+新	Bnz
+民	Mnz
+晚	Mnz
+报	Enz
+官	Bn
+方	En
+微	Bvn
+信	Evn
+ 	Sw
+
+微	Sn
+信	Bn
+号	En
+：	Sw
+x	Beng
+m	Meng
+w	Meng
+b	Meng
+1	Meng
+9	Meng
+2	Meng
+9	Eeng
+ 	Sw
+
+街	Bi
+谈	Mi
+巷	Mi
+议	Ei
+微	Bvn
+信	Evn
+ 	Sw
+
+微	Sn
+信	Bn
+号	En
+：	Sw
+x	Beng
+i	Meng
+n	Meng
+m	Meng
+i	Meng
+n	Meng
+w	Meng
+a	Meng
+n	Meng
+g	Meng
+s	Meng
+h	Meng
+i	Eeng
+ 	Sw
+
+您	Sr
+还	Sd
+能	Sv
+输	Bv
+入	Ev
+3	Bm
+0	Mm
+0	Em
+字	Sn
+ 	Sw
+
+说	Sv
+点	Sq
+什	Br
+么	Er
+吧	Sy
+…	Sw
+…	Sw
+
+

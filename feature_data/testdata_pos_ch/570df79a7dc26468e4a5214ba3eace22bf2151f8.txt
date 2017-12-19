@@ -1,0 +1,11954 @@
+河	Bns
+南	Mns
+省	Ens
+食	Sv
+药	Bnt
+监	Mnt
+局	Ent
+抽	Bv
+检	Ev
+4	Sm
+大	Sa
+类	Bn
+食	Mn
+品	En
+1	Bm
+2	Mm
+0	Em
+批	Bd
+次	Ed
+样	Bn
+品	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+5	Sw
+批	Bd
+次	Ed
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+7	Sm
+月	Sm
+5	Sm
+日	Sm
+，	Sw
+河	Bns
+南	Mns
+省	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+官	Bn
+网	En
+发	Bv
+布	Ev
+关	Bp
+于	Ep
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+第	Sm
+2	Bm
+4	Em
+期	Sn
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+情	Bn
+况	En
+的	Suj
+通	Bn
+告	En
+。	Sw
+
+本	Bt
+期	Et
+信	Bn
+息	En
+显	Bv
+示	Ev
+，	Sw
+该	Br
+局	Er
+近	Bt
+期	Et
+在	Sp
+承	Bv
+担	Ev
+国	Bn
+家	En
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+任	Bn
+务	En
+中	Sf
+，	Sw
+抽	Bv
+检	Ev
+了	Sul
+饮	Bn
+料	En
+、	Sw
+饼	Bn
+干	En
+、	Sw
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+、	Sw
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+4	Sm
+大	Sa
+类	Bn
+食	Mn
+品	En
+1	Bm
+2	Mm
+0	Em
+批	Bd
+次	Ed
+样	Bn
+品	En
+，	Sw
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+项	Bn
+目	En
+合	Bn
+格	En
+样	Bn
+品	En
+1	Bm
+1	Mm
+5	Em
+批	Bd
+次	Ed
+，	Sw
+不	Sd
+合	Bn
+格	En
+样	Bn
+品	En
+5	Sw
+批	Bd
+次	Ed
+。	Sw
+
+ 	Sw
+
+根	Bp
+据	Ep
+食	Bl
+品	Ml
+安	Ml
+全	El
+国	Bn
+家	Mn
+标	Mn
+准	En
+，	Sw
+个	Bn
+别	En
+项	Bn
+目	En
+不	Sd
+合	Bn
+格	En
+，	Sw
+其	Sr
+产	Bn
+品	En
+即	Sv
+判	Bv
+定	Ev
+为	Sp
+不	Sv
+合	Bn
+格	En
+产	Bn
+品	En
+。	Sw
+
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+情	Bn
+况	En
+如	Bt
+下	Et
+：	Sw
+ 	Sw
+
+（	Sw
+一	Sm
+）	Sw
+西	Bns
+平	Ens
+杨	Bnr
+阳	Enr
+食	Bn
+品	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+生	Bvn
+产	Evn
+的	Suj
+3	Sm
+批	Bd
+次	Ed
+小	Bn
+猫	En
+钓	Bn
+鱼	En
+（	Sw
+挤	Bv
+压	Ev
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+，	Sw
+水	Bn
+分	En
+检	Bv
+出	Ev
+值	Sn
+均	Sd
+为	Sp
+8	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+，	Sw
+标	Bl
+准	Ml
+规	Ml
+定	El
+为	Sp
+不	Sv
+超	Bv
+过	Ev
+7	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+。	Sw
+
+初	Bv
+检	Ev
+机	Bn
+构	En
+为	Sp
+河	Bns
+南	Mns
+省	Ens
+口	Bs
+岸	Es
+食	Bn
+品	En
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+所	Sc
+，	Sw
+复	Bv
+检	Ev
+机	Bn
+构	En
+为	Sp
+河	Bns
+南	Mns
+省	Ens
+产	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+院	Sn
+。	Sw
+
+ 	Sw
+
+（	Sw
+二	Sm
+）	Sw
+河	Bns
+南	Ens
+康	Snr
+利	Bn
+源	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+生	Bvn
+产	Evn
+的	Suj
+2	Sm
+批	Bd
+次	Ed
+脆	Ba
+脆	Ea
+香	Sn
+（	Sw
+普	Bn
+通	Mn
+型	En
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+，	Sw
+二	Bnz
+氧	Mnz
+化	Mnz
+硫	Enz
+残	Bn
+留	Mn
+量	En
+检	Bv
+出	Ev
+值	Sn
+分	Bd
+别	Ed
+为	Sp
+0	Bm
+.	Mm
+1	Mm
+7	Mm
+3	Em
+g	Seng
+/	Sw
+k	Beng
+g	Eeng
+和	Sc
+0	Bm
+.	Mm
+4	Mm
+0	Mm
+3	Em
+g	Seng
+/	Sw
+k	Beng
+g	Eeng
+，	Sw
+标	Bl
+准	Ml
+规	Ml
+定	El
+为	Sp
+不	Sv
+超	Bv
+过	Ev
+0	Bm
+.	Mm
+1	Em
+g	Seng
+/	Sw
+k	Beng
+g	Eeng
+。	Sw
+
+初	Bv
+检	Ev
+机	Bn
+构	En
+为	Sp
+河	Bns
+南	Mns
+省	Ens
+口	Bs
+岸	Es
+食	Bn
+品	En
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+所	Sc
+，	Sw
+复	Bv
+检	Ev
+机	Bn
+构	En
+为	Sp
+河	Bns
+南	Mns
+省	Ens
+产	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+院	Sn
+。	Sw
+
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+针	Bp
+对	Ep
+抽	Bv
+检	Ev
+发	Bv
+现	Ev
+的	Suj
+问	Bn
+题	En
+，	Sw
+已	Sd
+要	Bv
+求	Ev
+驻	Bns
+马	Mns
+店	Ens
+食	Bn
+品	Mn
+药	Mn
+品	En
+监	Bn
+管	Mn
+部	Mn
+门	En
+对	Sp
+涉	Bv
+及	Ev
+单	Bn
+位	En
+依	Bl
+法	Ml
+处	Ml
+理	El
+，	Sw
+责	Bn
+令	En
+其	Sr
+查	Bnr
+清	Enr
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+的	Suj
+批	Bd
+次	Ed
+、	Sw
+数	Bn
+量	En
+、	Sw
+流	Bn
+向	En
+，	Sw
+召	Bv
+回	Ev
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+，	Sw
+采	Bv
+取	Ev
+下	Bn
+架	En
+等	Su
+措	Bn
+施	En
+控	Bv
+制	Ev
+风	Bn
+险	En
+，	Sw
+分	Bvn
+析	Evn
+原	Bn
+因	En
+进	Bv
+行	Ev
+整	Bv
+改	Ev
+，	Sw
+并	Sc
+依	Bn
+法	En
+予	Bv
+以	Ev
+查	Bv
+处	Ev
+。	Sw
+
+ 	Sw
+
+同	Bc
+时	Ec
+，	Sw
+河	Bns
+南	Mns
+省	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+特	Bd
+别	Ed
+提	Bv
+醒	Ev
+广	Ba
+大	Ea
+消	Bn
+费	Mn
+者	En
+，	Sw
+注	Bv
+意	Ev
+饮	Bn
+食	En
+安	Ban
+全	Ean
+，	Sw
+遇	Bv
+到	Ev
+食	Bl
+品	Ml
+安	Ml
+全	El
+问	Bn
+题	En
+，	Sw
+请	Sv
+积	Bi
+极	Mi
+参	Mi
+与	Ei
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+，	Sw
+拨	Bv
+打	Ev
+“	Sw
+1	Bm
+2	Mm
+3	Mm
+3	Mm
+1	Em
+”	Sw
+投	Bv
+诉	Ev
+举	Bl
+报	Ml
+电	Ml
+话	El
+进	Bv
+行	Ev
+投	Bv
+诉	Ev
+或	Sc
+举	Bv
+报	Ev
+。	Sw
+
+ 	Sw
+
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+信	Bn
+息	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+地	Mn
+址	En
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+商	Bn
+标	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+项	Bn
+目	En
+║	Sw
+检	Bvn
+验	Evn
+结	Bn
+果	En
+║	Sw
+标	Bn
+准	Mn
+值	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+检	Bvn
+验	Evn
+机	Bn
+构	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+西	Bns
+平	Ens
+杨	Bnr
+阳	Enr
+食	Bn
+品	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+9	Bm
+1	Mm
+8	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+西	Bns
+平	Ens
+杨	Bnr
+阳	Enr
+食	Bn
+品	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+9	Bm
+1	Mm
+8	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+小	Bn
+猫	En
+钓	Bn
+鱼	En
+（	Sw
+挤	Bv
+压	Ev
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+3	Em
+ 	Sw
+
+水	Bn
+分	En
+║	Sw
+8	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+║	Sw
+≤	Sw
+7	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+初	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+口	Bs
+岸	Es
+食	Bn
+品	En
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+所	Sc
+；	Sw
+
+复	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+产	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+院	Sn
+ 	Sw
+
+复	Bv
+检	Ev
+结	Bn
+果	En
+ 	Sw
+
+2	Sw
+ 	Sw
+
+西	Bns
+平	Ens
+杨	Bnr
+阳	Enr
+食	Bn
+品	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+9	Bm
+1	Mm
+8	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+西	Bns
+平	Ens
+杨	Bnr
+阳	Enr
+食	Bn
+品	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+9	Bm
+1	Mm
+8	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+小	Bn
+猫	En
+钓	Bn
+鱼	En
+（	Sw
+挤	Bv
+压	Ev
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+2	Em
+ 	Sw
+
+水	Bn
+分	En
+║	Sw
+8	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+║	Sw
+≤	Sw
+7	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+初	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+口	Bs
+岸	Es
+食	Bn
+品	En
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+所	Sc
+；	Sw
+
+复	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+产	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+院	Sn
+ 	Sw
+
+复	Bv
+检	Ev
+结	Bn
+果	En
+ 	Sw
+
+3	Sw
+ 	Sw
+
+西	Bns
+平	Ens
+杨	Bnr
+阳	Enr
+食	Bn
+品	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+9	Bm
+1	Mm
+8	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+西	Bns
+平	Ens
+杨	Bnr
+阳	Enr
+食	Bn
+品	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+9	Bm
+1	Mm
+8	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+小	Bn
+猫	En
+钓	Bn
+鱼	En
+（	Sw
+挤	Bv
+压	Ev
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+1	Em
+ 	Sw
+
+水	Bn
+分	En
+║	Sw
+8	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+║	Sw
+≤	Sw
+7	Sm
+g	Seng
+/	Sw
+1	Bm
+0	Mm
+0	Em
+g	Seng
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+初	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+口	Bs
+岸	Es
+食	Bn
+品	En
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+所	Sc
+；	Sw
+
+复	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+产	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+院	Sn
+ 	Sw
+
+复	Bv
+检	Ev
+结	Bn
+果	En
+ 	Sw
+
+4	Sw
+ 	Sw
+
+河	Bns
+南	Ens
+康	Snr
+利	Bn
+源	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+西	Bns
+五	Mns
+路	Ens
+1	Bm
+6	Mm
+8	Em
+号	Sm
+ 	Sw
+
+河	Bns
+南	Ens
+康	Snr
+利	Bn
+源	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+西	Bns
+五	Mns
+路	Ens
+1	Bm
+6	Mm
+8	Em
+号	Sm
+ 	Sw
+
+脆	Ba
+脆	Ea
+香	Sn
+（	Sw
+普	Bn
+通	Mn
+型	En
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+康	Snr
+利	Bn
+源	En
++	Sw
+图	Bn
+形	En
+商	Bn
+标	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+1	Em
+ 	Sw
+
+二	Bnz
+氧	Mnz
+化	Mnz
+硫	Enz
+残	Bn
+留	Mn
+量	En
+║	Sw
+0	Bm
+.	Mm
+1	Mm
+7	Mm
+3	Em
+g	Seng
+/	Sw
+k	Beng
+g	Eeng
+║	Sw
+≤	Sw
+0	Bm
+.	Mm
+1	Em
+g	Seng
+/	Sw
+k	Beng
+g	Eeng
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+初	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+口	Bs
+岸	Es
+食	Bn
+品	En
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+所	Sc
+；	Sw
+
+复	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+产	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+院	Sn
+ 	Sw
+
+复	Bv
+检	Ev
+结	Bn
+果	En
+ 	Sw
+
+5	Sw
+ 	Sw
+
+河	Bns
+南	Ens
+康	Snr
+利	Bn
+源	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+西	Bns
+五	Mns
+路	Ens
+1	Bm
+6	Mm
+8	Em
+号	Sm
+ 	Sw
+
+河	Bns
+南	Ens
+康	Snr
+利	Bn
+源	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+西	Bns
+平	Mns
+县	Ens
+西	Bns
+五	Mns
+路	Ens
+1	Bm
+6	Mm
+8	Em
+号	Sm
+ 	Sw
+
+脆	Ba
+脆	Ea
+香	Sn
+（	Sw
+普	Bn
+通	Mn
+型	En
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+康	Snr
+利	Bn
+源	En
++	Sw
+图	Bn
+形	En
+商	Bn
+标	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+二	Bnz
+氧	Mnz
+化	Mnz
+硫	Enz
+残	Bn
+留	Mn
+量	En
+║	Sw
+0	Bm
+.	Mm
+4	Mm
+0	Mm
+3	Em
+g	Seng
+/	Sw
+k	Beng
+g	Eeng
+║	Sw
+≤	Sw
+0	Bm
+.	Mm
+1	Em
+g	Seng
+/	Sw
+k	Beng
+g	Eeng
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+初	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+口	Bs
+岸	Es
+食	Bn
+品	En
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+所	Sc
+；	Sw
+
+复	Bv
+检	Ev
+机	Bn
+构	En
+：	Sw
+河	Bns
+南	Mns
+省	Ens
+产	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+院	Sn
+ 	Sw
+
+复	Bv
+检	Ev
+结	Bn
+果	En
+ 	Sw
+
+产	Bn
+品	En
+合	Bn
+格	En
+信	Bn
+息	En
+ 	Sw
+
+（	Sw
+声	Bn
+明	En
+：	Sw
+以	Bf
+下	Ef
+信	Bn
+息	En
+仅	Bv
+指	Ev
+本	Br
+次	Er
+抽	Bv
+检	Ev
+标	Bn
+称	En
+的	Suj
+生	Bvn
+产	Evn
+企	Bn
+业	En
+相	Bv
+关	Ev
+产	Bn
+品	En
+的	Suj
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+和	Sc
+所	Bv
+检	Ev
+项	Bn
+目	En
+）	Sw
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	En
+所	Bb
+在	Eb
+省	Bn
+份	En
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+口	Bi
+口	Mi
+妙	Ei
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+新	Bns
+乡	Mns
+市	Ens
+新	Bnz
+秀	Enz
+路	Sn
+中	Bn
+段	En
+东	Bnr
+郭	Enr
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+卫	Bn
+辉	Mn
+市	En
+奇	Bn
+村	En
+生	Bvn
+活	Evn
+广	Bn
+场	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+木	Bn
+糖	Mn
+醇	En
+苏	Bnz
+打	Mnz
+饼	Mnz
+干	Enz
+（	Sw
+香	Bn
+葱	En
+味	Sn
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+1	Bm
+3	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+2	Sw
+ 	Sw
+
+遂	Bns
+平	Ens
+金	Bns
+河	Ens
+（	Sw
+广	Bns
+东	Ens
+）	Sw
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+自	Bl
+然	Ml
+人	El
+独	Bvn
+资	Evn
+）	Sw
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+马	Bns
+庄	Ens
+路	Bns
+东	Ens
+ 	Sw
+
+遂	Bns
+平	Ens
+金	Bns
+河	Ens
+（	Sw
+广	Bns
+东	Ens
+）	Sw
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+自	Bl
+然	Ml
+人	El
+独	Bvn
+资	Evn
+）	Sw
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+白	Bn
+芝	Mn
+麻	En
+薄	Ba
+脆	Ea
+饼	Bn
+干	En
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+3	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+3	Sw
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+百	Bnz
+利	Enz
+源	Sng
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+平	Bns
+舆	Mns
+县	Ens
+西	Sf
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+百	Bnz
+利	Enz
+源	Sng
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+椰	Bn
+奶	En
+香	Bn
+饼	En
+(	Sw
+酥	Bn
+性	En
+饼	Bn
+干	En
+)	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+8	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+4	Sw
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+禾	Bnz
+兴	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+和	Sc
+兴	Sv
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+禾	Bnz
+兴	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+涂	Bnr
+蛋	Enr
+酥	Sa
+挞	Sg
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+0	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+5	Sw
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+百	Bnz
+利	Enz
+源	Sng
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+平	Bns
+舆	Mns
+县	Ens
+西	Sf
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+百	Bnz
+利	Enz
+源	Sng
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+鲜	Bn
+葱	En
+饼	Bn
+干	En
+(	Sw
+酥	Bn
+性	En
+饼	Bn
+干	En
+)	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+6	Sw
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+百	Bnz
+利	Enz
+源	Sng
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+平	Bns
+舆	Mns
+县	Ens
+西	Sf
+工	Bn
+业	Mn
+区	En
+B	Beng
+2	Eeng
+栋	Sm
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+百	Bnz
+利	Enz
+源	Sng
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+桃	Bn
+酥	En
+王	Snr
+(	Sw
+酥	Bn
+性	En
+饼	Bn
+干	En
+)	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+4	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+7	Sw
+ 	Sw
+
+遂	Bns
+平	Ens
+金	Bns
+河	Ens
+（	Sw
+广	Bns
+东	Ens
+）	Sw
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+自	Bl
+然	Ml
+人	El
+独	Bvn
+资	Evn
+）	Sw
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+马	Bns
+庄	Ens
+路	Bns
+东	Ens
+ 	Sw
+
+遂	Bns
+平	Ens
+金	Bns
+河	Ens
+（	Sw
+广	Bns
+东	Ens
+）	Sw
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+自	Bl
+然	Ml
+人	El
+独	Bvn
+资	Evn
+）	Sw
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+黑	Bn
+芝	Mn
+麻	En
+王	Snr
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+普	Bn
+通	Mn
+型	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+9	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+8	Sw
+ 	Sw
+
+遂	Bns
+平	Ens
+金	Bns
+河	Ens
+（	Sw
+广	Bns
+东	Ens
+）	Sw
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+自	Bl
+然	Ml
+人	El
+独	Bvn
+资	Evn
+）	Sw
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+马	Bns
+庄	Ens
+路	Bns
+东	Ens
+ 	Sw
+
+遂	Bns
+平	Ens
+金	Bns
+河	Ens
+（	Sw
+广	Bns
+东	Ens
+）	Sw
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+自	Bl
+然	Ml
+人	El
+独	Bvn
+资	Evn
+）	Sw
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+芒	Bn
+果	En
+夹	Bn
+心	En
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+5	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+9	Sw
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+鑫	Snr
+利	Bv
+来	Ev
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+遂	Bns
+平	Mns
+县	Ens
+和	Sc
+兴	Sv
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+鑫	Snr
+利	Bv
+来	Ev
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+黑	Bn
+芝	Mn
+麻	En
+王	Snr
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+7	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+鑫	Snr
+利	Bv
+来	Ev
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+遂	Bns
+平	Mns
+县	Ens
+和	Sc
+兴	Sv
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+鑫	Snr
+利	Bv
+来	Ev
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+牛	Bnr
+乳	Enr
+夹	Bn
+层	En
+饼	Sn
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+鑫	Snr
+利	Bv
+来	Ev
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+遂	Bns
+平	Mns
+县	Ens
+和	Sc
+兴	Sv
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+鑫	Snr
+利	Bv
+来	Ev
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+黑	Bn
+芝	Mn
+麻	En
+王	Snr
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+2	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+禾	Bnz
+兴	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+和	Sc
+兴	Sv
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+禾	Bnz
+兴	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+涂	Bnr
+蛋	Enr
+酥	Sa
+挞	Sg
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+7	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+禾	Bnz
+兴	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+和	Sc
+兴	Sv
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+禾	Bnz
+兴	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+涂	Bnr
+蛋	Enr
+酥	Sa
+挞	Sg
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+5	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+牧	Bn
+野	Mn
+区	En
+金	Bnr
+香	Mnr
+园	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+牧	Bn
+野	Mn
+区	En
+前	Sf
+辛	Bnr
+庄	Mnr
+村	Enr
+北	Sns
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+牧	Bn
+野	Mn
+区	En
+金	Bnr
+香	Mnr
+园	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+鸡	Bn
+蛋	En
+烤	Sv
+芙	Snrt
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+4	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+牧	Bn
+野	Mn
+区	En
+金	Bnr
+香	Mnr
+园	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+牧	Bn
+野	En
+乡	Sn
+前	Sf
+辛	Bnr
+庄	Mnr
+村	Enr
+北	Sns
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+牧	Bn
+野	Mn
+区	En
+金	Bnr
+香	Mnr
+园	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+数	Bn
+字	En
+王	Bns
+国	Ens
+ 	Sw
+
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+5	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+河	Bns
+南	Ens
+谷	Bn
+部	En
+一	Bn
+族	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+郾	Bnrt
+城	Enrt
+区	Sn
+漯	Bns
+李	Ens
+路	Sn
+6	Sm
+号	Sm
+谷	Bn
+部	En
+一	Bn
+族	En
+食	Bn
+品	En
+工	Bn
+业	Mn
+园	En
+ 	Sw
+
+召	Sv
+陵	Bn
+区	En
+汇	Bn
+家	En
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+蔓	Bv
+越	Ev
+莓	Sg
+味	Sng
+丹	Bns
+麦	Ens
+曲	Bnr
+奇	Enr
+（	Sw
+酥	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+8	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+河	Bns
+南	Ens
+谷	Bn
+部	En
+一	Bn
+族	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+郾	Bnrt
+城	Enrt
+区	Sn
+漯	Bns
+李	Ens
+路	Sn
+6	Sm
+号	Sm
+谷	Bn
+部	En
+一	Bn
+族	En
+食	Bn
+品	En
+工	Bn
+业	Mn
+园	En
+ 	Sw
+
+召	Sv
+陵	Bn
+区	En
+汇	Bn
+家	En
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+谷	Bn
+物	En
+杂	Bn
+粮	En
+饼	Sn
+（	Sw
+酥	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+6	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Ens
+高	Bnr
+新	Mnr
+区	Enr
+广	Bns
+东	Ens
+金	Snr
+德	Bns
+利	Ens
+饼	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+高	Bnr
+新	Mnr
+区	Enr
+关	Bnr
+王	Mnr
+庙	Enr
+工	Bn
+业	Mn
+园	En
+纬	Sn
+6	Sm
+路	Sn
+东	Bn
+段	En
+ 	Sw
+
+确	Bns
+山	Mns
+县	Ens
+任	Bn
+店	En
+镇	Sn
+鑫	Snr
+旺	Sa
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+香	Bn
+葱	En
+切	Bn
+片	En
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+0	Bm
+7	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Ens
+高	Bnr
+新	Mnr
+区	Enr
+广	Bns
+东	Ens
+金	Snr
+德	Bns
+利	Ens
+饼	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+高	Bnr
+新	Mnr
+区	Enr
+关	Bnr
+王	Mnr
+庙	Enr
+工	Bn
+业	Mn
+园	En
+纬	Sn
+6	Sm
+路	Sn
+东	Bn
+段	En
+ 	Sw
+
+确	Bns
+山	Mns
+县	Ens
+任	Bn
+店	En
+镇	Sn
+鑫	Snr
+旺	Sa
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+花	Bn
+生	En
+切	Bn
+片	En
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+驻	Bns
+马	Mns
+店	Ens
+高	Bnr
+新	Mnr
+区	Enr
+广	Bns
+东	Ens
+金	Snr
+德	Bns
+利	Ens
+饼	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+驻	Bns
+马	Mns
+店	Mns
+市	Ens
+高	Bnr
+新	Mnr
+区	Enr
+关	Bnr
+王	Mnr
+庙	Enr
+工	Bn
+业	Mn
+园	En
+纬	Sn
+6	Sm
+路	Sn
+东	Bn
+段	En
+ 	Sw
+
+确	Bns
+山	Mns
+县	Ens
+任	Bn
+店	En
+镇	Sn
+鑫	Snr
+旺	Sa
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+巧	Bnr
+克	Mnr
+力	Enr
+层	Bn
+层	En
+酥	Sa
+饼	Bn
+干	En
+（	Sw
+韧	Bn
+性	En
+饼	Bn
+干	En
+普	Bn
+通	Mn
+型	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+漯	Bns
+河	Ens
+卡	Bnr
+其	Enr
+乐	Sa
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+燕	Bns
+山	Ens
+路	Sn
+6	Bm
+8	Em
+号	Sm
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+漯	Bns
+海	Ens
+望	Bnr
+泽	Enr
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+解	Bnz
+放	Mnz
+路	Enz
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+猴	Bnz
+菇	Mnz
+饼	Enz
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+1	Bm
+2	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+漯	Bns
+河	Ens
+卡	Bnr
+其	Enr
+乐	Sa
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+燕	Bns
+山	Ens
+路	Sn
+6	Bm
+8	Em
+号	Sm
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+漯	Bns
+海	Ens
+望	Bnr
+泽	Enr
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+解	Bnz
+放	Mnz
+路	Enz
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+无	Sv
+蔗	Bn
+糖	En
+每	Br
+日	Er
+果	Bn
+蔬	En
+饼	Bn
+干	En
+ 	Sw
+
+1	Bm
+5	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+1	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+鼎	Bz
+好	Ez
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+辉	Bns
+县	Mns
+市	Ens
+孟	Bns
+庄	Ens
+镇	Bns
+北	Ens
+田	Bnr
+庄	Enr
+村	Szg
+ 	Sw
+
+新	Bns
+乡	Mns
+县	Ens
+万	Sm
+德	Bns
+隆	Ens
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+碱	Bn
+体	En
+达	Sv
+人	Sn
+（	Sw
+奶	Szg
+盐	Bn
+味	En
+牛	Bnr
+轧	Enr
+夹	Bi
+心	Mi
+饼	Mi
+干	Ei
+）	Sw
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+5	Em
+ 	Sw
+
+饼	Bn
+干	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+灵	Bnr
+宝	Enr
+汇	Bn
+源	En
+金	Snr
+地	Suv
+杜	Bnr
+仲	Enr
+产	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+灵	Bns
+宝	Mns
+市	Ens
+城	Bns
+东	Ens
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+ 	Sw
+
+灵	Bnr
+宝	Enr
+汇	Bn
+源	En
+金	Snr
+地	Suv
+杜	Bnr
+仲	Enr
+产	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+沁	Sv
+霖	Snr
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+3	Bm
+1	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+怡	Bnz
+凯	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+卫	Bn
+辉	Mn
+市	En
+唐	Bnr
+庄	Mnr
+镇	Enr
+工	Bnz
+业	Mnz
+集	Mnz
+聚	Enz
+区	Sn
+（	Sw
+工	Bn
+业	En
+路	Sn
+中	Bn
+段	En
+路	Bns
+西	Ens
+）	Sw
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+怡	Bnz
+凯	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+6	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+河	Bns
+南	Ens
+冠	Bn
+仕	En
+达	Sv
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+鲁	Bns
+山	Mns
+县	Ens
+董	Bnr
+周	Enr
+乡	Bs
+南	Es
+张	Bnr
+庄	Enr
+ 	Sw
+
+湛	Bns
+河	Mns
+区	Ens
+百	Bn
+花	En
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+1	Bm
+1	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+舞	Bn
+阳	En
+钢	Bn
+铁	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+九	Bm
+九	Em
+山	Sn
+纯	Bn
+净	Mn
+水	En
+厂	Szg
+ 	Sw
+
+尹	Bnr
+集	Mnr
+镇	Enr
+埂	Sng
+上	Sf
+村	Sn
+ 	Sw
+
+舞	Bn
+钢	Mn
+市	En
+寺	Bn
+坡	En
+渊	Bn
+泉	En
+九	Bm
+九	Em
+山	Sn
+纯	Bn
+净	Mn
+水	En
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+玖	Sm
+玖	Sm
+山	Sn
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+8	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+大	Bd
+自	Md
+然	Ed
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+凤	Bns
+泉	Mns
+区	Ens
+站	Sv
+前	Bn
+路	En
+3	Bm
+9	Em
+号	Sm
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+红	Bnt
+旗	Mnt
+区	Ent
+海	Sn
+金	Snr
+矿	Bn
+泉	Mn
+水	En
+经	Bn
+销	Mn
+处	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+云	Bnr
+妹	Enr
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+1	Bm
+8	Mm
+.	Mm
+9	Em
+L	Seng
+/	Sw
+桶	Szg
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+大	Bd
+自	Md
+然	Ed
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+凤	Bns
+泉	Mns
+区	Ens
+站	Sv
+前	Bn
+路	En
+3	Bm
+9	Em
+号	Sm
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+红	Bnt
+旗	Mnt
+区	Ent
+海	Sn
+金	Snr
+矿	Bn
+泉	Mn
+水	En
+经	Bn
+销	Mn
+处	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+云	Bnr
+妹	Enr
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+1	Bm
+8	Mm
+.	Mm
+9	Em
+L	Seng
+/	Sw
+桶	Szg
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+河	Bns
+南	Ens
+豫	Bns
+联	Ens
+能	Bn
+源	En
+集	Bn
+团	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+纯	Bn
+净	Mn
+水	En
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+巩	Bns
+义	Mns
+市	Ens
+光	Bn
+明	En
+路	Sn
+1	Sm
+号	Sm
+ 	Sw
+
+巩	Bns
+义	Mns
+市	Ens
+城	Bn
+区	En
+小	Bnr
+青	Enr
+副	Bn
+食	En
+自	Bv
+选	Ev
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+1	Bm
+8	Mm
+.	Mm
+9	Em
+L	Seng
+／	Sw
+桶	Szg
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+4	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+亿	Sm
+隆	St
+乳	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+宁	Bns
+陵	Mns
+县	Ens
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+工	Bn
+业	En
+大	Bns
+道	Mns
+北	Ens
+张	Bnr
+弓	Enr
+北	Bns
+路	Ens
+西	Bf
+侧	Ef
+ 	Sw
+
+唐	Bnr
+文	Mnr
+利	Enr
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+2	Bm
+3	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+河	Bns
+南	Ens
+中	Bn
+象	En
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+宁	Bns
+陵	Mns
+县	Ens
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+工	Bn
+业	En
+路	Sn
+中	Bn
+段	En
+北	Bf
+侧	Ef
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+梁	Bns
+园	Mns
+区	Ens
+伟	Ba
+祥	Ea
+百	Bn
+货	En
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+毫	Bq
+升	Eq
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+2	Bm
+6	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+河	Bns
+南	Ens
+中	Bn
+象	En
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+宁	Bns
+陵	Mns
+县	Ens
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+工	Bn
+业	En
+路	Sn
+中	Bn
+段	En
+北	Bf
+侧	Ef
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+梁	Bns
+园	Mns
+区	Ens
+伟	Ba
+祥	Ea
+百	Bn
+货	En
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+9	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+商	Bn
+丘	En
+市	Bn
+民	En
+润	Sv
+纯	Bn
+净	Mn
+水	En
+厂	Szg
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+梁	Bns
+园	Mns
+区	Ens
+西	Bs
+郊	Es
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+梁	Bns
+园	Mns
+区	Ens
+伟	Ba
+祥	Ea
+百	Bn
+货	En
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+3	Mm
+0	Em
+毫	Bq
+升	Eq
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+2	Bm
+3	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+今	Stg
+麦	Bnr
+郎	Enr
+饮	Bn
+品	En
+(	Sw
+漯	Bns
+河	Ens
+)	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+漯	Bns
+河	Mns
+市	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+ 	Sw
+
+郾	Bnrt
+城	Enrt
+区	Sn
+黑	Bns
+龙	Mns
+潭	Ens
+乡	Sn
+壹	Sm
+加	Sv
+壹	Bm
+量	Em
+贩	Sv
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+今	Stg
+麦	Bnr
+郎	Enr
+深	Bn
+层	En
+泉	Bns
+水	Ens
+(	Sw
+饮	Bn
+用	En
+天	Bn
+然	Mn
+水	En
+)	Sw
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+2	Em
+-	Sw
+0	Bm
+9	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+今	Stg
+麦	Bnr
+郎	Enr
+饮	Bn
+品	En
+(	Sw
+漯	Bns
+河	Ens
+)	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+漯	Bns
+河	Mns
+市	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+ 	Sw
+
+郾	Bnrt
+城	Enrt
+区	Sn
+黑	Bns
+龙	Mns
+潭	Ens
+乡	Sn
+壹	Sm
+加	Sv
+壹	Bm
+量	Em
+贩	Sv
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+今	Stg
+麦	Bnr
+郎	Enr
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+2	Bm
+4	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+乐	Bnr
+天	Enr
+澳	Bns
+的	Mns
+利	Ens
+饮	Bn
+料	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+郾	Bnrt
+城	Enrt
+区	Sn
+郾	Sg
+襄	Sj
+大	Bn
+道	En
+8	Bm
+8	Em
+号	Sm
+ 	Sw
+
+召	Sv
+陵	Bn
+区	En
+百	Sm
+全	Sn
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+1	Em
+-	Sw
+1	Bm
+3	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+今	Stg
+麦	Bnr
+郎	Enr
+饮	Bn
+品	En
+（	Sw
+漯	Bns
+河	Ens
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+漯	Bns
+河	Mns
+市	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+ 	Sw
+
+召	Sv
+陵	Bn
+区	En
+百	Sm
+全	Sn
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+今	Stg
+麦	Bnr
+郎	Enr
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+焦	Bn
+作	En
+电	Bn
+力	Mn
+集	Mn
+团	En
+野	Bnrt
+王	Enrt
+食	Bn
+品	Mn
+饮	Mn
+料	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+山	Bns
+阳	Mns
+区	Ens
+岗	Bn
+庄	En
+ 	Sw
+
+武	Bns
+陟	Mns
+县	Ens
+群	Bn
+星	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+p	Beng
+H	Eeng
+-	Sw
+7	Sw
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+2	Mm
+0	Em
+m	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+0	Bm
+9	Em
+-	Sw
+2	Bm
+7	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+0	Em
+ 	Sw
+
+焦	Bn
+作	En
+电	Bn
+力	Mn
+集	Mn
+团	En
+野	Bnrt
+王	Enrt
+食	Bn
+品	Mn
+饮	Mn
+料	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+岗	Bn
+庄	En
+水	Bn
+源	Mn
+地	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+城	Bn
+乡	En
+一	Bl
+体	Ml
+化	El
+示	Bn
+范	Mn
+区	En
+芦	Bnr
+堡	Enr
+万	Bm
+家	Em
+百	Bn
+货	En
+粮	Bn
+油	En
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+P	Beng
+H	Eeng
+－	Sw
+7	Sw
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+2	Mm
+0	Em
+m	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+1	Em
+-	Sw
+1	Bm
+5	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+1	Em
+ 	Sw
+
+河	Bns
+南	Ens
+天	Bnr
+之	Mnr
+水	Enr
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+梁	Bns
+园	Mns
+区	Ens
+陇	Bns
+海	Mns
+路	Ens
+8	Bm
+8	Em
+号	Sm
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+睢	Bns
+阳	Mns
+区	Ens
+玉	Bns
+洋	Ens
+副	Bn
+食	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+光	Bn
+明	En
+谷	Snr
+系	Bq
+列	Eq
+天	Bb
+然	Eb
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+6	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+2	Em
+ 	Sw
+
+河	Bns
+南	Ens
+益	Bnr
+多	Enr
+天	Bnr
+宇	Enr
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+柘	Bns
+城	Mns
+县	Ens
+浦	Bns
+东	Ens
+区	Sn
+沙	Bn
+土	En
+李	Bnr
+村	Enr
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+睢	Bns
+阳	Mns
+区	Ens
+玉	Bns
+洋	Ens
+副	Bn
+食	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+3	Mm
+0	Em
+亳	Sw
+升	Sv
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+3	Bm
+0	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+3	Em
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+体	Bn
+宝	En
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+郾	Bnrt
+城	Enrt
+区	Sn
+龙	Bns
+江	Mns
+路	Ens
+西	Bn
+段	En
+淞	Sg
+江	Snr
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+ 	Sw
+
+召	Sv
+陵	Bn
+区	En
+亿	Bnz
+客	Mnz
+隆	Enz
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+1	Mm
+5	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+8	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+4	Em
+ 	Sw
+
+南	Bns
+阳	Ens
+蓝	Bnr
+冠	Enr
+生	Bn
+态	En
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+南	Bns
+召	Mns
+县	Ens
+白	Bnr
+土	Mnr
+岗	Enr
+镇	Bnrt
+杜	Mnrt
+村	Enrt
+ 	Sw
+
+南	Bns
+阳	Mns
+市	Ens
+宛	Bns
+城	Mns
+区	Ens
+家	Bnz
+福	Enz
+来	Bn
+量	En
+贩	Sv
+儒	Bnz
+林	Enz
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+蓝	Bnr
+冠	Enr
+山	Bns
+泉	Ens
+ 	Sw
+
+5	Bm
+6	Mm
+0	Em
+m	Beng
+l	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+0	Bm
+8	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+5	Em
+ 	Sw
+
+南	Bns
+阳	Ens
+蓝	Bnr
+冠	Enr
+生	Bn
+态	En
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+南	Bns
+召	Mns
+县	Ens
+白	Bnr
+土	Mnr
+岗	Enr
+镇	Bnrt
+杜	Mnrt
+村	Enrt
+ 	Sw
+
+南	Bns
+阳	Mns
+市	Ens
+宛	Bns
+城	Mns
+区	Ens
+家	Bnz
+福	Enz
+来	Bn
+量	En
+贩	Sv
+儒	Bnz
+林	Enz
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+蓝	Bnr
+冠	Enr
+山	Bns
+泉	Ens
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+1	Em
+-	Sw
+2	Bm
+3	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+6	Em
+ 	Sw
+
+洛	Bns
+阳	Ens
+顶	Sv
+津	Sj
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+洛	Bns
+阳	Mns
+市	Ens
+伊	Bns
+川	Mns
+县	Ens
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+西	Bns
+园	Ens
+高	Bd
+新	Ed
+九	Bm
+路	Em
+1	Sm
+号	Sm
+ 	Sw
+
+洛	Bns
+阳	Mns
+市	Ens
+站	Sv
+区	Sn
+花	Bns
+城	Ens
+百	Bn
+货	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+康	Bnr
+师	Mnr
+傅	Enr
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+7	Em
+ 	Sw
+
+洛	Bns
+阳	Ens
+顶	Sv
+津	Sj
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+洛	Bns
+阳	Mns
+市	Ens
+伊	Bns
+川	Mns
+县	Ens
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+西	Bns
+园	Ens
+高	Bd
+新	Ed
+九	Bm
+路	Em
+1	Sm
+号	Sm
+ 	Sw
+
+洛	Bns
+阳	Ens
+菲	Bnrt
+英	Enrt
+特	Sd
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+康	Bnr
+师	Mnr
+傅	Enr
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+9	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+8	Em
+ 	Sw
+
+洛	Bns
+阳	Ens
+顶	Sv
+津	Sj
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+洛	Bns
+阳	Mns
+市	Ens
+伊	Bns
+川	Mns
+县	Ens
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+西	Bns
+园	Ens
+高	Bd
+新	Ed
+九	Bm
+路	Em
+1	Sm
+号	Sm
+ 	Sw
+
+洛	Bns
+阳	Ens
+喜	Bn
+汇	En
+西	Bns
+城	Ens
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+康	Bnr
+师	Mnr
+傅	Enr
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+0	Bm
+7	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+4	Bm
+9	Em
+ 	Sw
+
+许	Bnr
+昌	Enr
+瑞	Bnr
+贝	Mnr
+卡	Enr
+饮	Bn
+用	Mn
+水	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+襄	Bns
+城	Ens
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+许	Bns
+昌	Mns
+市	Ens
+麦	Bnrt
+岭	Enrt
+水	Bn
+源	En
+保	Bn
+护	Mn
+区	En
+ 	Sw
+
+许	Bnr
+昌	Enr
+魏	Bnr
+都	Mnr
+豫	Enr
+果	Sd
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+5	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+1	Bm
+4	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+0	Em
+ 	Sw
+
+河	Bns
+南	Ens
+五	Bnz
+农	Enz
+好	Sa
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+兰	Bns
+考	Mns
+县	Ens
+仪	Bns
+封	Ens
+乡	Sn
+创	Bn
+业	Mn
+园	En
+区	Sn
+1	Sm
+号	Sm
+ 	Sw
+
+开	Bv
+封	Ev
+新	Sa
+供	Bvn
+销	Evn
+电	Bn
+子	Mn
+商	Mn
+务	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+4	Bm
+1	Mm
+8	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+1	Em
+-	Sw
+1	Bm
+1	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+1	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+四	Bm
+方	Em
+水	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+卫	Bnt
+滨	Mnt
+区	Ent
+水	Sn
+南	Bns
+村	Ens
+(	Sw
+西	Sf
+环	Bn
+水	En
+南	Bns
+村	Ens
+南	Sns
+)	Sw
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+四	Bm
+方	Em
+水	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+包	Bv
+装	Ev
+饮	Bn
+用	Mn
+水	En
+（	Sw
+其	Br
+它	Er
+饮	Bn
+用	Mn
+水	En
+）	Sw
+ 	Sw
+
+1	Bm
+8	Mm
+.	Mm
+9	Em
+L	Seng
+/	Sw
+桶	Szg
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+2	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+2	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+新	Sa
+水	Bn
+水	En
+处	Bv
+理	Ev
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+中	Bns
+同	Ens
+大	Bn
+道	En
+1	Bm
+5	Mm
+9	Em
+号	Sm
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+新	Sa
+水	Bn
+水	En
+处	Bv
+理	Ev
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+桶	Bb
+装	Eb
+饮	Bn
+用	En
+纯	Bn
+净	Mn
+水	En
+ 	Sw
+
+1	Bm
+8	Mm
+.	Mm
+9	Em
+L	Seng
+/	Sw
+桶	Szg
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+3	Em
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+强	Bn
+民	En
+乳	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+巩	Bns
+义	Mns
+市	Ens
+永	Bns
+安	Mns
+路	Ens
+中	Bn
+段	En
+ 	Sw
+
+巩	Bns
+义	Mns
+市	Ens
+城	Bn
+区	En
+圣	Bn
+尚	En
+酒	Bn
+业	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+大	Bns
+马	Ens
+邦	Sng
+蓝	Bn
+莓	En
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+7	Bm
+8	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+4	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+和	Bnr
+丝	Mnr
+露	Enr
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+中	Bns
+国	Ens
+.	Sw
+新	Bns
+乡	Ens
+.	Sw
+原	Bn
+阳	En
+新	Bns
+城	Ens
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+惠	Bnr
+丰	Mnr
+玛	Enr
+特	Sd
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+蓝	Bn
+莓	En
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+4	Bm
+2	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+0	Bm
+9	Em
+-	Sw
+2	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+5	Em
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+强	Bn
+民	En
+乳	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+巩	Bns
+义	Mns
+市	Ens
+永	Bns
+安	Mns
+路	Ens
+中	Bn
+段	En
+ 	Sw
+
+巩	Bns
+义	Mns
+市	Ens
+城	Bn
+区	En
+圣	Bn
+尚	En
+酒	Bn
+业	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+大	Bns
+马	Ens
+邦	Sng
+西	Bnr
+番	Mnr
+莲	Enr
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+3	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+2	Em
+-	Sw
+2	Bm
+6	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+6	Em
+ 	Sw
+
+河	Bns
+南	Ens
+百	Bnz
+芝	Mnz
+源	Enz
+绿	Bn
+色	En
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+凤	Bns
+泉	Mns
+区	Ens
+卫	Bnt
+北	Ent
+工	Bn
+业	Mn
+园	Mn
+区	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+百	Bn
+货	Mn
+大	Mn
+楼	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+芒	Bn
+果	En
+原	Bn
+浆	En
+饮	Bn
+品	En
+ 	Sw
+
+2	Bm
+8	Mm
+5	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+1	Bm
+7	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+7	Em
+ 	Sw
+
+河	Bns
+南	Ens
+百	Bnz
+芝	Mnz
+源	Enz
+绿	Bn
+色	En
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+凤	Bns
+泉	Mns
+区	Ens
+卫	Bnt
+北	Ent
+工	Bn
+业	Mn
+园	Mn
+区	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+百	Bn
+货	Mn
+大	Mn
+楼	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+猕	Bn
+猴	Mn
+桃	En
+原	Bn
+浆	En
+饮	Bn
+品	En
+ 	Sw
+
+2	Bm
+8	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+2	Bm
+3	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+8	Em
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+迪	Bnr
+士	Enr
+酒	Bn
+业	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+辉	Bns
+县	Mns
+市	Ens
+新	Bnz
+辉	Mnz
+路	Enz
+孟	Bnr
+庄	Enr
+大	Bn
+道	En
+路	Bs
+南	Es
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+惠	Bnr
+丰	Mnr
+玛	Enr
+特	Sd
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+百	Bnz
+泉	Enz
+牌	Sn
+芒	Bn
+果	Mn
+汁	En
+饮	Bn
+料	En
+ 	Sw
+
+1	Bm
+.	Mm
+5	Em
+L	Seng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+2	Bm
+1	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+5	Bm
+9	Em
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+迪	Bnr
+士	Enr
+酒	Bn
+业	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+辉	Bns
+县	Mns
+市	Ens
+新	Bnz
+辉	Mnz
+路	Enz
+孟	Bnr
+庄	Enr
+大	Bn
+道	En
+路	Bs
+南	Es
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+惠	Bnr
+丰	Mnr
+玛	Enr
+特	Sd
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+百	Bnz
+泉	Enz
+牌	Sn
+蓝	Bn
+莓	En
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+1	Bm
+.	Mm
+5	Em
+L	Seng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+0	Em
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+海	Bnz
+泉	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+新	Bns
+乡	Mns
+市	Ens
+辉	Bns
+县	Mns
+市	Ens
+南	Bns
+寨	Ens
+镇	Sn
+东	Bns
+关	Ens
+村	Bn
+村	En
+东	Sns
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+惠	Bnr
+丰	Mnr
+玛	Enr
+特	Sd
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+纯	Bn
+品	En
+山	Bn
+楂	En
+果	Bn
+汁	En
+（	Sw
+野	Sn
+山	Bn
+楂	Mn
+果	En
+肉	Sn
+饮	Bn
+品	En
+）	Sw
+ 	Sw
+
+2	Bm
+4	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+听	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+1	Em
+-	Sw
+2	Bm
+9	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+1	Em
+ 	Sw
+
+可	Bi
+口	Mi
+可	Mi
+乐	Ei
+装	Bn
+瓶	En
+商	Sn
+生	Bvn
+产	Evn
+（	Sw
+东	Bns
+莞	Ens
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+漯	Bns
+河	Ens
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+纬	Sn
+一	Bm
+路	Em
+1	Sm
+号	Sm
+ 	Sw
+
+郑	Bns
+州	Ens
+丹	Bns
+尼	Mns
+斯	Ens
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+漯	Bns
+河	Ens
+有	Sv
+爱	Sv
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+美	Bnz
+汁	Enz
+源	Bn
+果	En
+粒	Bn
+橙	En
+ 	Sw
+
+4	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+3	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+2	Em
+ 	Sw
+
+可	Bi
+口	Mi
+可	Mi
+乐	Ei
+装	Bn
+瓶	En
+商	Sn
+生	Bvn
+产	Evn
+(	Sw
+东	Bns
+莞	Ens
+)	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+漯	Bns
+河	Ens
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+漯	Bns
+河	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+纬	Sn
+一	Bm
+路	Em
+1	Sm
+号	Sm
+ 	Sw
+
+漯	Bns
+河	Ens
+新	Bns
+玛	Mns
+特	Ens
+购	Bn
+物	Mn
+广	Mn
+场	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+美	Bnz
+汁	Enz
+源	Bn
+果	En
+粒	Bn
+橙	En
+ 	Sw
+
+4	Bm
+5	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+3	Em
+ 	Sw
+
+河	Bns
+南	Ens
+统	Bvn
+一	Evn
+企	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+.	Sw
+国	Bn
+家	En
+漯	Bns
+河	Ens
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+西	Bn
+段	En
+ 	Sw
+
+漯	Bns
+河	Ens
+新	Bns
+玛	Mns
+特	Ens
+购	Bn
+物	Mn
+广	Mn
+场	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+海	Bnr
+之	Mnr
+言	Enr
+水	Bn
+果	En
+饮	Bn
+料	En
+(	Sw
+柠	Bn
+檬	En
+味	Sn
+)	Sw
+ 	Sw
+
+5	Bm
+0	Mm
+0	Em
+毫	Bq
+升	Eq
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+1	Bm
+4	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+4	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+及	Bi
+时	Mi
+雨	Ei
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+新	Bns
+乡	Mns
+市	Ens
+延	Bns
+津	Ens
+迎	Bnr
+宾	Enr
+大	Bn
+道	En
+中	Bn
+段	En
+ 	Sw
+
+获	Bns
+嘉	Mns
+县	Ens
+景	Bnr
+文	Enr
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+绿	Bn
+归	Mn
+园	En
+蓝	Bn
+莓	En
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+4	Bm
+2	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+2	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+5	Em
+ 	Sw
+
+今	Stg
+麦	Bnr
+郎	Enr
+饮	Bn
+品	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+郑	Bns
+州	Ens
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+巩	Bns
+义	Mns
+市	Ens
+生	Bn
+态	En
+经	Bn
+济	En
+园	Bn
+区	En
+神	Bn
+堤	En
+大	Bn
+道	En
+1	Sm
+号	Sm
+ 	Sw
+
+巩	Bns
+义	Mns
+市	Ens
+孝	Bn
+义	En
+城	Bs
+北	Es
+商	Bn
+店	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+冰	Bn
+糖	En
+雪	Bnr
+梨	Enr
+（	Sw
+梨	Bn
+汁	En
+饮	Bn
+料	En
+）	Sw
+ 	Sw
+
+5	Bm
+0	Mm
+0	Em
+m	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+1	Bm
+5	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+6	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+及	Bi
+时	Mi
+雨	Ei
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+延	Bns
+津	Mns
+县	Ens
+迎	Bnr
+宾	Enr
+大	Bn
+道	En
+中	Bn
+段	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+广	Bns
+联	Ens
+嘉	Sj
+和	Sc
+商	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+芒	Bn
+果	Mn
+汁	En
+饮	Bn
+料	En
+ 	Sw
+
+4	Bm
+2	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+2	Bm
+2	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+7	Em
+ 	Sw
+
+济	Bns
+源	Mns
+市	Ens
+王	Bnr
+屋	Mnr
+山	Enr
+黑	Bns
+加	Mns
+伦	Ens
+饮	Bn
+料	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+济	Bns
+源	Mns
+市	Ens
+济	Bns
+水	Ens
+大	Bns
+街	Ens
+西	Bn
+段	En
+3	Bm
+1	Mm
+8	Em
+号	Sm
+ 	Sw
+
+济	Bns
+源	Mns
+市	Ens
+王	Bnr
+屋	Mnr
+山	Enr
+黑	Bns
+加	Mns
+伦	Ens
+饮	Bn
+料	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+红	Sa
+苹	Bn
+果	En
+果	Bn
+汁	En
+饮	Bn
+料	En
+ 	Sw
+
+2	Bm
+5	Mm
+0	Em
+毫	Bq
+升	Eq
+／	Sw
+盒	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+9	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+8	Em
+ 	Sw
+
+济	Bns
+源	Mns
+市	Ens
+千	Bnr
+禧	Mnr
+源	Enr
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+济	Bns
+源	Mns
+市	Ens
+梨	Bns
+林	Mns
+镇	Ens
+裴	Bnr
+城	Mnr
+村	Enr
+ 	Sw
+
+济	Bns
+源	Mns
+市	Ens
+千	Bnr
+禧	Mnr
+源	Enr
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+橙	Bn
+汁	En
+饮	Bn
+品	En
+ 	Sw
+
+5	Bm
+0	Mm
+0	Em
+m	Beng
+l	Eeng
+／	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+9	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+6	Bm
+9	Em
+ 	Sw
+
+郑	Bns
+州	Ens
+顶	Bnz
+真	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+郑	Mns
+市	Ens
+梨	Sn
+河	Bns
+镇	Ens
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+西	Bf
+侧	Ef
+工	Bj
+贸	Ej
+区	Sn
+ 	Sw
+
+郑	Bns
+州	Ens
+顶	Bnz
+真	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+蓝	Bn
+莓	En
+复	Bv
+合	Ev
+果	Bn
+汁	En
+饮	Bn
+品	En
+ 	Sw
+
+4	Bm
+2	Mm
+0	Em
+m	Beng
+l	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+6	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+7	Bm
+0	Em
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+米	Bnr
+奇	Enr
+食	Bn
+品	Mn
+饮	Mn
+料	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+孟	Bns
+州	Mns
+市	Ens
+米	Bnr
+庄	Enr
+工	Bn
+业	En
+开	Bn
+发	Mn
+区	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+米	Bnr
+奇	Enr
+食	Bn
+品	Mn
+饮	Mn
+料	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+蓝	Bn
+莓	En
+复	Bv
+合	Ev
+果	Bn
+汁	En
+饮	Bn
+料	En
+ 	Sw
+
+1	Sm
+L	Seng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+1	Bm
+1	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+7	Bm
+1	Em
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+竹	Bnz
+溪	Enz
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+博	Bnr
+爱	Mnr
+县	Enr
+许	Bnr
+良	Mnr
+镇	Enr
+唐	Bnr
+庄	Enr
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+竹	Bnz
+溪	Enz
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+仓	Bn
+西	En
+农	Bn
+场	En
+蓝	Bn
+莓	En
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+1	Bm
+.	Mm
+5	Em
+L	Seng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+3	Bm
+0	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+7	Bm
+2	Em
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+竹	Bnz
+溪	Enz
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+博	Bnr
+爱	Mnr
+县	Enr
+许	Bnr
+良	Mnr
+镇	Enr
+唐	Bnr
+庄	Enr
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+竹	Bnz
+溪	Enz
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+唱	Bl
+起	Ml
+来	El
+蓝	Bn
+莓	En
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+1	Sm
+L	Seng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+9	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+7	Bm
+3	Em
+ 	Sw
+
+孟	Bns
+州	Mns
+市	Ens
+粒	Bn
+汁	En
+健	Sa
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+孟	Bns
+州	Mns
+市	Ens
+河	Bns
+阳	Ens
+办	Bn
+上	En
+酒	Bn
+路	En
+工	Bn
+业	Mn
+园	Mn
+区	En
+ 	Sw
+
+孟	Bns
+州	Mns
+市	Ens
+粒	Bn
+汁	En
+健	Sa
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+杨	Bnr
+枝	Enr
+甘	Bv
+露	Ev
+复	Bv
+合	Ev
+果	Bn
+汁	En
+饮	Bn
+品	En
+ 	Sw
+
+3	Bm
+8	Mm
+0	Em
+M	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+4	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+7	Bm
+4	Em
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+竹	Bnz
+溪	Enz
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+博	Bnr
+爱	Mnr
+县	Enr
+许	Bnr
+良	Mnr
+镇	Enr
+唐	Bnr
+庄	Enr
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+竹	Bnz
+溪	Enz
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+仓	Bn
+西	En
+农	Bn
+场	En
+蓝	Bn
+莓	En
+汁	Sng
+饮	Bn
+料	En
+ 	Sw
+
+1	Bm
+.	Mm
+5	Em
+L	Seng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+4	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+7	Bm
+5	Em
+ 	Sw
+
+孟	Bns
+州	Mns
+市	Ens
+粒	Bn
+汁	En
+健	Sa
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+孟	Bns
+州	Mns
+市	Ens
+河	Bns
+阳	Ens
+办	Bn
+上	En
+酒	Bn
+路	En
+工	Bn
+业	Mn
+园	Mn
+区	En
+ 	Sw
+
+孟	Bns
+州	Mns
+市	Ens
+粒	Bn
+汁	En
+健	Sa
+饮	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+杨	Bnr
+枝	Enr
+甘	Bv
+露	Ev
+复	Bv
+合	Ev
+果	Bn
+汁	En
+饮	Bn
+品	En
+ 	Sw
+
+3	Bm
+8	Mm
+0	Em
+M	Beng
+L	Eeng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+1	Bm
+4	Em
+ 	Sw
+
+饮	Bn
+料	En
+ 	Sw
+
+ 	Sw
+
+7	Bm
+6	Em
+ 	Sw
+
+遂	Bns
+平	Ens
+沁	Bns
+园	Mns
+春	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+灈	Syg
+阳	Snr
+大	Bn
+道	En
+北	Bt
+段	Et
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+沁	Bns
+园	Mns
+春	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+雪	Bn
+饼	En
+（	Sw
+焙	Bv
+烤	Ev
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+5	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+7	Bm
+7	Em
+ 	Sw
+
+遂	Bns
+平	Ens
+沁	Bns
+园	Mns
+春	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+灈	Syg
+阳	Snr
+大	Bn
+道	En
+北	Bt
+段	Et
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+沁	Bns
+园	Mns
+春	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+香	Bn
+米	En
+饼	Sn
+（	Sw
+焙	Bv
+烤	Ev
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+1	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+7	Bm
+8	Em
+ 	Sw
+
+遂	Bns
+平	Ens
+沁	Bns
+园	Mns
+春	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+灈	Syg
+阳	Snr
+大	Bn
+道	En
+北	Bt
+段	Et
+ 	Sw
+
+遂	Bns
+平	Mns
+县	Ens
+沁	Bns
+园	Mns
+春	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+雪	Bnr
+米	Mnr
+饼	Enr
+（	Sw
+焙	Bv
+烤	Ev
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+5	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+7	Bm
+9	Em
+ 	Sw
+
+河	Bns
+南	Ens
+谷	Bnr
+力	Mnr
+佳	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+太	Bj
+行	Ej
+西	Bns
+路	Ens
+ 	Sw
+
+河	Bns
+南	Ens
+谷	Bnr
+力	Mnr
+佳	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+怀	Sv
+山	Bn
+药	En
+薄	Bn
+片	En
+（	Sw
+麻	Bz
+辣	Ez
+鸡	Bnz
+片	Mnz
+味	Enz
+）	Sw
+ 	Sw
+
+1	Bm
+6	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+0	Em
+ 	Sw
+
+河	Bns
+南	Ens
+谷	Bnr
+力	Mnr
+佳	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+太	Bj
+行	Ej
+西	Bns
+路	Ens
+ 	Sw
+
+河	Bns
+南	Ens
+谷	Bnr
+力	Mnr
+佳	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+怀	Sv
+山	Bn
+药	En
+薄	Bn
+片	En
+（	Sw
+香	Bn
+葱	En
+排	Bn
+骨	En
+味	Sn
+）	Sw
+ 	Sw
+
+1	Bm
+6	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+1	Em
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+恒	Bnz
+达	Enz
+食	Bn
+品	Mn
+工	Mn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+漯	Bns
+河	Mns
+市	Ens
+淞	Sg
+江	Snr
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Bn
+纬	En
+八	Bm
+路	Em
+ 	Sw
+
+南	Bns
+阳	Mns
+市	Ens
+禄	Bnr
+康	Mnr
+源	Enr
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+孔	Bnr
+明	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+香	Bn
+米	En
+饼	Sn
+（	Sw
+含	Bn
+油	En
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+4	Bm
+3	Mm
+9	Em
+克	Snr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+2	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+2	Em
+ 	Sw
+
+洛	Bns
+阳	Ens
+金	Bnr
+秋	Enr
+农	Bn
+副	Mn
+产	Mn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+洛	Bns
+阳	Mns
+市	Ens
+伊	Bns
+川	Mns
+县	Ens
+江	Bns
+左	Ens
+镇	Bn
+石	En
+张	Bnr
+庄	Mnr
+村	Enr
+ 	Sw
+
+河	Bns
+南	Ens
+大	Bm
+张	Em
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+勤	Bn
+政	En
+苑	Snr
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+台	Bns
+湾	Ens
+风	Bn
+味	En
+米	Sm
+饼	Sn
+(	Sw
+蛋	Bn
+黄	En
+味	Sn
+)	Sw
+ 	Sw
+
+3	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+(	Sw
+内	Bn
+装	En
+4	Bm
+0	Em
+枚	Sm
+)	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+3	Bm
+0	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+3	Em
+ 	Sw
+
+洛	Bns
+阳	Ens
+金	Bnr
+秋	Enr
+农	Bn
+副	Mn
+产	Mn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+洛	Bns
+阳	Mns
+市	Ens
+伊	Bns
+川	Mns
+县	Ens
+江	Bns
+左	Ens
+镇	Bn
+石	En
+张	Bnr
+庄	Mnr
+村	Enr
+ 	Sw
+
+河	Bns
+南	Ens
+大	Bm
+张	Em
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+勤	Bn
+政	En
+苑	Snr
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+台	Bns
+湾	Ens
+风	Bn
+味	En
+米	Sm
+饼	Sn
+(	Sw
+胡	Bnr
+萝	Mnr
+卜	Enr
+味	Sn
+)	Sw
+ 	Sw
+
+3	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+(	Sw
+内	Bn
+装	En
+4	Bm
+0	Em
+枚	Sm
+)	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+4	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+4	Em
+ 	Sw
+
+洛	Bns
+阳	Ens
+金	Bnr
+秋	Enr
+农	Bn
+副	Mn
+产	Mn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+洛	Bns
+阳	Mns
+市	Ens
+伊	Bns
+川	Mns
+县	Ens
+江	Bns
+左	Ens
+镇	Bn
+石	En
+张	Bnr
+庄	Mnr
+村	Enr
+ 	Sw
+
+河	Bns
+南	Ens
+大	Bm
+张	Em
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+勤	Bn
+政	En
+苑	Snr
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+台	Bns
+湾	Ens
+风	Bn
+味	En
+米	Sm
+饼	Sn
+(	Sw
+咸	Bnr
+香	Enr
+芝	Bns
+士	Ens
+味	Sn
+)	Sw
+ 	Sw
+
+3	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+(	Sw
+内	Bn
+装	En
+4	Bm
+0	Em
+枚	Sm
+)	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+3	Bm
+0	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+5	Em
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+武	Bns
+陟	Mns
+县	Ens
+俏	Sa
+味	Sng
+香	Sa
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+武	Bns
+陟	Mns
+县	Ens
+詹	Bnr
+泗	Mnr
+路	Enr
+立	Bn
+交	Mn
+桥	En
+北	Bf
+侧	Ef
+ 	Sw
+
+武	Bns
+陟	Mns
+县	Ens
+俏	Sa
+味	Sng
+香	Sa
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+燕	Bn
+窝	En
+麦	Bn
+片	En
+（	Sw
+膨	Bl
+化	Ml
+食	Ml
+品	El
+-	Sw
+直	Bad
+接	Ead
+挤	Bv
+压	Ev
+型	Sk
+）	Sw
+ 	Sw
+
+1	Bm
+8	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+1	Bm
+6	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+6	Em
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+东	Bs
+方	Es
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+市	Bn
+区	En
+人	Bn
+民	En
+东	Bns
+路	Ens
+1	Sm
+号	Sm
+ 	Sw
+
+召	Sv
+陵	Bn
+区	En
+亿	Bnz
+客	Mnz
+隆	Enz
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+麦	Bnr
+烧	Enr
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+7	Em
+ 	Sw
+
+温	Bns
+县	Ens
+豫	Bns
+龙	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+温	Bns
+县	Ens
+大	Bns
+渠	Mns
+河	Ens
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+温	Bns
+县	Ens
+豫	Bns
+龙	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+锅	Bn
+巴	En
+（	Sw
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+4	Bm
+5	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+8	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+8	Em
+ 	Sw
+
+温	Bns
+县	Ens
+豫	Bns
+龙	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+温	Bns
+县	Ens
+大	Bns
+渠	Mns
+河	Ens
+工	Bn
+业	Mn
+区	En
+ 	Sw
+
+温	Bns
+县	Ens
+豫	Bns
+龙	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+锅	Bn
+巴	En
+（	Sw
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+4	Bm
+5	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+3	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+8	Bm
+9	Em
+ 	Sw
+
+典	Bn
+洋	En
+食	Bn
+品	En
+（	Sw
+焦	Bn
+作	En
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+温	Bns
+县	Ens
+慈	Bnr
+胜	Enr
+大	Bns
+街	Ens
+4	Sm
+号	Sm
+ 	Sw
+
+典	Bn
+洋	En
+食	Bn
+品	En
+（	Sw
+焦	Bn
+作	En
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+爆	Bn
+米	Mn
+花	En
+（	Sw
+奶	Bn
+油	Mn
+味	En
+）	Sw
+（	Sw
+油	Bn
+炸	En
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+1	Bm
+5	Mm
+0	Em
+g	Seng
+/	Sw
+瓶	Sn
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+5	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+9	Bm
+0	Em
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+金	Bn
+味	En
+来	Sv
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+二	Bns
+七	Mns
+区	Ens
+马	Bnr
+寨	Mnr
+镇	Enr
+科	Bn
+技	En
+路	Sn
+3	Sm
+号	Sm
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+金	Bn
+味	En
+来	Sv
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+玩	Bn
+味	En
+(	Sw
+油	Bn
+炸	En
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+)	Sw
+ 	Sw
+
+4	Bm
+5	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+7	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+9	Bm
+1	Em
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+金	Bn
+味	En
+来	Sv
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+二	Bns
+七	Mns
+区	Ens
+马	Bnr
+寨	Mnr
+镇	Enr
+科	Bn
+技	En
+路	Sn
+3	Sm
+号	Sm
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+金	Bn
+味	En
+来	Sv
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+摇	Bv
+摇	Ev
+薯	Bn
+条	En
+(	Sw
+油	Bn
+炸	En
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+)	Sw
+ 	Sw
+
+5	Bm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+9	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+9	Bm
+2	Em
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+文	Bnz
+文	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+尉	Bnr
+氏	Mnr
+县	Enr
+尉	Bnr
+北	Enr
+科	Bn
+技	En
+食	Bn
+品	En
+工	Bn
+业	Mn
+园	Mn
+区	En
+皓	Bnz
+月	Enz
+大	Bn
+道	En
+7	Bm
+5	Em
+号	Sm
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+文	Bnz
+文	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+煎	Sv
+卷	Sq
+沙	Bnr
+拉	Enr
+（	Sw
+含	Bn
+油	En
+型	Sk
+膨	Bl
+化	Ml
+食	Ml
+品	El
+）	Sw
+ 	Sw
+
+6	Bm
+8	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+1	Bm
+7	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+9	Bm
+3	Em
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+豪	Sag
+一	Sm
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+尉	Bnr
+氏	Mnr
+县	Enr
+庄	Bn
+头	En
+镇	Sn
+庄	Bn
+头	En
+村	Szg
+ 	Sw
+
+南	Bns
+阳	Ens
+喜	Sv
+鸿	Snr
+嘉	Sj
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+独	Bns
+山	Ens
+大	Bn
+道	En
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+不	Bd
+得	Md
+不	Ed
+爱	Sv
+ 	Sw
+
+1	Bm
+3	Mm
+8	Em
+克	Snr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+0	Bm
+8	Em
+ 	Sw
+
+薯	Bn
+类	En
+和	Sc
+膨	Bl
+化	Ml
+食	Ml
+品	El
+ 	Sw
+
+ 	Sw
+
+9	Bm
+4	Em
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+庄	Bnr
+园	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+卫	Bn
+辉	Mn
+市	En
+安	Bns
+都	Ens
+工	Bn
+业	Mn
+园	Mn
+区	En
+ 	Sw
+
+卫	Bn
+辉	Mn
+市	En
+近	Bv
+邻	Ev
+超	Bv
+市	Ev
+大	Bn
+楼	En
+店	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+特	Bn
+色	En
+焖	Bn
+子	En
+ 	Sw
+
+3	Bm
+5	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+1	Bm
+6	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+9	Bm
+5	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+卫	Bnt
+滨	Mnt
+区	Ent
+立	Bnz
+丰	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+卫	Bnt
+滨	Mnt
+区	Ent
+平	Bns
+原	Ens
+乡	Sn
+金	Bn
+家	En
+营	Bn
+村	En
+东	Bns
+南	Ens
+ 	Sw
+
+卫	Bn
+辉	Mn
+市	En
+建	Bnt
+设	Mnt
+路	Ent
+今	Szg
+东	Bs
+方	Es
+新	Sa
+玉	Sn
+商	Bn
+贸	En
+经	Bn
+销	Mn
+部	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+烹	Bv
+调	Ev
+淀	Bn
+粉	En
+ 	Sw
+
+2	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+0	Bm
+4	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+9	Bm
+6	Em
+ 	Sw
+
+平	Bns
+顶	Mns
+山	Mns
+市	Ens
+全	Bn
+香	En
+棵	Sq
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+郏	Bns
+县	Ens
+白	Bnr
+庙	Mnr
+乡	Enr
+五	Bm
+里	Em
+庙	Bn
+村	En
+(	Sw
+郏	Snr
+神	Bn
+路	En
+西	Bn
+段	En
+)	Sw
+ 	Sw
+
+湛	Bns
+河	Mns
+区	Ens
+百	Bn
+花	En
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+生	Bn
+粉	En
+(	Sw
+分	Bv
+装	Ev
+)	Sw
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+克	Snr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+9	Bm
+7	Em
+ 	Sw
+
+汝	Bns
+州	Mns
+市	Ens
+腾	Bns
+达	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+汝	Bns
+州	Mns
+市	Ens
+庙	Sn
+下	Sf
+镇	Sn
+薛	Bnr
+庄	Mnr
+村	Enr
+ 	Sw
+
+湛	Bns
+河	Mns
+区	Ens
+百	Bn
+花	En
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+火	Bn
+锅	En
+川	Sj
+粉	Sn
+ 	Sw
+
+2	Bm
+9	Mm
+0	Em
+克	Snr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+9	Bm
+8	Em
+ 	Sw
+
+原	Bns
+阳	Mns
+县	Ens
+绿	Bn
+能	En
+粉	Bn
+皮	En
+厂	Szg
+ 	Sw
+
+河	Bns
+南	Ens
+原	Bn
+阳	En
+龙	Bnr
+王	Mnr
+庙	Enr
+ 	Sw
+
+获	Bns
+嘉	Mns
+县	Ens
+亢	Snr
+村	Bn
+镇	En
+北	Bns
+街	Ens
+涌	Bn
+源	En
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+手	Bn
+工	En
+粉	Bn
+皮	En
+ 	Sw
+
+2	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+1	Em
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+9	Bm
+9	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+圣	Bnrt
+普	Enrt
+百	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+新	Sa
+东	Sns
+产	Bn
+业	En
+集	Bv
+聚	Ev
+区	Sn
+ 	Sw
+
+获	Bns
+嘉	Mns
+县	Ens
+景	Bnr
+文	Enr
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+火	Bn
+锅	En
+川	Sj
+粉	Sn
+ 	Sw
+
+1	Bm
+9	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+1	Em
+-	Sw
+1	Bm
+0	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+凤	Bns
+泉	Mns
+区	Ens
+永	Bnz
+盛	Enz
+粉	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+新	Bns
+乡	Mns
+市	Ens
+凤	Bns
+泉	Mns
+区	Ens
+大	Bn
+块	En
+镇	Sn
+陈	Bnr
+堡	Mnr
+村	Enr
+ 	Sw
+
+获	Bns
+嘉	Mns
+县	Ens
+景	Bnr
+文	Enr
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+火	Bn
+锅	En
+川	Sj
+粉	Sn
+ 	Sw
+
+2	Bm
+8	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+1	Em
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+1	Em
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+龙	Bnr
+旭	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+商	Bn
+丘	En
+睢	Bns
+阳	Mns
+区	Ens
+路	Bns
+河	Ens
+乡	Sn
+刘	Bnr
+桥	Mnr
+村	Enr
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+梁	Bns
+园	Mns
+区	Ens
+铭	Sng
+悦	Svg
+便	Bn
+利	Mn
+店	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+鲁	Bnr
+豫	Enr
+粉	Bn
+条	En
+ 	Sw
+
+4	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+0	Bm
+8	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+2	Em
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+舒	Ba
+心	Ea
+食	Bn
+品	En
+加	Bnt
+工	Mnt
+厂	Ent
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+博	Bnr
+爱	Mnr
+县	Enr
+柏	Snr
+山	Bns
+镇	Ens
+杨	Bnr
+洞	Mnr
+村	Enr
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+舒	Ba
+心	Ea
+食	Bn
+品	En
+加	Bnt
+工	Mnt
+厂	Ent
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+芋	Bn
+头	En
+粉	Sn
+ 	Sw
+
+2	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+0	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+3	Em
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+舒	Ba
+心	Ea
+食	Bn
+品	En
+加	Bnt
+工	Mnt
+厂	Ent
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+博	Bnr
+爱	Mnr
+县	Enr
+柏	Snr
+山	Bns
+镇	Ens
+杨	Bnr
+洞	Mnr
+村	Enr
+ 	Sw
+
+焦	Bn
+作	Mn
+市	En
+舒	Ba
+心	Ea
+食	Bn
+品	En
+加	Bnt
+工	Mnt
+厂	Ent
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+芋	Bn
+头	En
+粉	Sn
+ 	Sw
+
+2	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+2	Bm
+1	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+4	Em
+ 	Sw
+
+长	Bns
+葛	Mns
+市	Ens
+豫	Bns
+盛	Mns
+丰	Mns
+源	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+长	Bns
+葛	Mns
+市	Ens
+增	Bv
+福	Ev
+庙	Bns
+乡	Ens
+申	Bnz
+店	Enz
+村	Sn
+ 	Sw
+
+许	Bnr
+昌	Enr
+胖	Bn
+子	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+一	Sm
+分	Bn
+店	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+土	Bnz
+豆	Mnz
+粉	Enz
+ 	Sw
+
+4	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+8	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+5	Em
+ 	Sw
+
+禹	Bns
+州	Mns
+市	Ens
+万	Bm
+家	Em
+康	Bn
+薯	En
+制	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+禹	Bns
+州	Mns
+市	Ens
+古	Bns
+城	Mns
+镇	Ens
+刘	Bnr
+楼	Mnr
+村	Enr
+ 	Sw
+
+许	Bnr
+昌	Enr
+胖	Bn
+子	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+一	Sm
+分	Bn
+店	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+红	Bn
+薯	En
+焖	Bn
+子	En
+ 	Sw
+
+4	Bm
+0	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+2	Bm
+3	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+6	Em
+ 	Sw
+
+永	Bns
+城	Mns
+市	Ens
+汉	Bnz
+星	Enz
+粉	Bn
+条	En
+加	Bnt
+工	Mnt
+厂	Ent
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+永	Bns
+城	Mns
+市	Ens
+太	Bnr
+丘	Mnr
+镇	Enr
+大	Bnr
+洪	Mnr
+庄	Enr
+ 	Sw
+
+永	Bns
+城	Mns
+市	Ens
+聚	Bn
+客	En
+隆	Sv
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+发	Bv
+现	Ev
+广	Bn
+场	En
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+纯	Sa
+红	Bn
+薯	En
+手	Bn
+工	En
+粉	Bn
+条	En
+（	Sw
+无	Sv
+明	Bn
+矾	En
+）	Sw
+ 	Sw
+
+1	Bm
+0	Mm
+0	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+0	Bm
+6	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+7	Em
+ 	Sw
+
+平	Bns
+顶	Mns
+山	Mns
+市	Ens
+全	Bn
+香	En
+棵	Sq
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+郏	Bns
+县	Ens
+白	Bnr
+庙	Mnr
+乡	Enr
+五	Bm
+里	Em
+庙	Bn
+村	En
+ 	Sw
+
+叶	Bns
+县	Ens
+三	Sm
+和	Bn
+源	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+川	Sj
+粉	Sn
+（	Sw
+分	Bv
+装	Ev
+）	Sw
+ 	Sw
+
+3	Bm
+0	Mm
+0	Em
+克	Snr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+2	Em
+-	Sw
+1	Bm
+0	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+8	Em
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+庄	Bnr
+园	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Mns
+省	Ens
+卫	Bn
+辉	Mn
+市	En
+安	Bns
+都	Ens
+工	Bn
+业	Mn
+园	Mn
+区	En
+ 	Sw
+
+卫	Bn
+辉	Mn
+市	En
+后	Bns
+河	Ens
+镇	Sn
+中	Sf
+伟	Sa
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+特	Bn
+色	En
+焖	Bn
+子	En
+ 	Sw
+
+3	Bm
+5	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+8	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Mm
+9	Em
+ 	Sw
+
+漯	Bns
+河	Ens
+豫	Sj
+鼎	Sng
+源	Sng
+食	Bn
+品	Mn
+工	Mn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+郾	Bnrt
+城	Enrt
+区	Sn
+1	Bm
+0	Mm
+7	Em
+国	Bn
+道	En
+第	Bm
+二	Em
+特	Ba
+殊	Ea
+学	Bn
+校	En
+斜	Bn
+对	Mn
+面	En
+ 	Sw
+
+召	Sv
+陵	Bn
+区	En
+胖	Sa
+德	Sj
+荭	Syg
+超	Bv
+市	Ev
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+土	Bnz
+豆	Mnz
+粉	Enz
+条	Sn
+（	Sw
+淀	Bn
+粉	En
+制	Bn
+品	En
+）	Sw
+ 	Sw
+
+3	Bm
+5	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+2	Bm
+9	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Mm
+0	Em
+ 	Sw
+
+禹	Bns
+州	Mns
+市	Ens
+万	Bm
+方	Em
+生	Bn
+态	Mn
+农	Mn
+业	En
+开	Bv
+发	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+禹	Bns
+州	Mns
+市	Ens
+范	Bnr
+坡	Enr
+镇	Sn
+孔	Bnr
+陈	Mnr
+村	Enr
+ 	Sw
+
+许	Bns
+昌	Mns
+市	Ens
+胖	Sa
+东	Bt
+来	Et
+商	Bn
+贸	En
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+胖	Sa
+东	Bt
+来	Et
+时	Bn
+代	Mn
+广	Mn
+场	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+仓	Bn
+屋	En
+红	Bn
+薯	En
+粉	Bn
+条	En
+ 	Sw
+
+3	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+0	Bm
+7	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Mm
+1	Em
+ 	Sw
+
+河	Bns
+南	Ens
+恒	Bnz
+祥	Enz
+进	Bvn
+出	Mvn
+口	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+郑	Bns
+州	Mns
+市	Ens
+惠	Bnr
+济	Enr
+区	Sn
+铁	Bn
+炉	En
+寨	Sng
+江	Bns
+山	Ens
+路	Sn
+8	Sm
+号	Sm
+ 	Sw
+
+河	Bns
+南	Ens
+恒	Bnz
+祥	Enz
+进	Bvn
+出	Mvn
+口	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+食	Bn
+用	En
+木	Bn
+薯	En
+淀	Bn
+粉	En
+ 	Sw
+
+2	Bm
+5	Em
+k	Beng
+g	Eeng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+5	Em
+-	Sw
+0	Bm
+8	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Mm
+2	Em
+ 	Sw
+
+招	Bn
+远	Mn
+市	En
+康	Bnr
+钧	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+烟	Bns
+台	Mns
+市	Ens
+ 	Sw
+
+中	Bns
+国	Ens
+水	Bn
+电	En
+十	Bm
+一	Em
+局	Sn
+三	Bns
+门	Mns
+峡	Ens
+千	Bnr
+禧	Enr
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+千	Bnr
+禧	Enr
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+龙	Bn
+口	En
+粉	Bn
+丝	En
+ 	Sw
+
+3	Bm
+6	Mm
+0	Em
+克	Snr
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+1	Em
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Mm
+3	Em
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+龙	Bnr
+旭	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+睢	Bns
+阳	Mns
+区	Ens
+路	Bns
+河	Ens
+乡	Sn
+刘	Bnr
+桥	Mnr
+村	Enr
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+梁	Bns
+园	Mns
+区	Ens
+王	Bnr
+剑	Enr
+联	Bnz
+华	Enz
+副	Bn
+食	En
+商	Bn
+行	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+绿	Bn
+豆	En
+粉	Bn
+丝	En
+ 	Sw
+
+2	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+0	Bm
+3	Em
+-	Sw
+0	Bm
+6	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Mm
+4	Em
+ 	Sw
+
+华	Bns
+阳	Ens
+生	Bn
+态	Mn
+农	Mn
+业	En
+发	Bvn
+展	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+梁	Bns
+园	Mns
+区	Ens
+李	Bnr
+庄	Enr
+乡	Bn
+史	En
+庄	Bn
+村	En
+ 	Sw
+
+商	Bns
+丘	Mns
+市	Ens
+睢	Bns
+阳	Mns
+区	Ens
+玉	Bns
+洋	Ens
+副	Bn
+食	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+龙	Bn
+口	En
+粉	Bn
+丝	En
+ 	Sw
+
+4	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+1	Em
+-	Sw
+0	Bm
+2	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Mm
+5	Em
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+豪	Bnrt
+达	Enrt
+工	Bj
+贸	Ej
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+经	Bn
+济	En
+开	Bn
+发	Mn
+区	En
+珠	Bns
+江	Mns
+路	Ens
+东	Bn
+段	En
+ 	Sw
+
+漯	Bns
+河	Mns
+市	Ens
+物	Bnz
+美	Enz
+廉	Snr
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+燕	Bns
+山	Ens
+路	Bn
+店	En
+ 	Sw
+
+河	Bns
+南	Ens
+ 	Sw
+
+食	Bn
+用	En
+玉	Bnr
+米	Enr
+淀	Bn
+粉	En
+ 	Sw
+
+1	Bm
+9	Mm
+8	Em
+g	Seng
+/	Sw
+袋	Sq
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+4	Em
+-	Sw
+0	Bm
+3	Em
+ 	Sw
+
+淀	Bn
+粉	En
+及	Sc
+淀	Bn
+粉	En
+制	Bn
+品	En
+
+

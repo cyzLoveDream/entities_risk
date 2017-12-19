@@ -1,0 +1,6526 @@
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+监	Bn
+管	Mn
+局	En
+公	Bv
+布	Ev
+4	Bm
+0	Em
+批	Bd
+次	Ed
+抽	Bv
+检	Ev
+合	Bn
+格	En
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+样	Bn
+品	En
+信	Bn
+息	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+9	Sm
+月	Sm
+6	Sm
+日	Sm
+，	Sw
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+官	Bn
+网	En
+发	Bv
+布	Ev
+通	Bn
+告	En
+称	Sv
+，	Sw
+按	Bp
+照	Ep
+《	Sw
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+监	Bn
+管	Mn
+局	En
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+食	Bn
+品	En
+安	Bj
+全	Mj
+监	Mj
+管	Ej
+计	Bn
+划	En
+》	Sw
+要	Bv
+求	Ev
+，	Sw
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+8	Sm
+月	Sm
+静	Sv
+海	Bn
+区	En
+市	Bn
+场	En
+监	Bn
+管	Mn
+局	En
+对	Sp
+4	Bm
+0	Em
+批	Bd
+次	Ed
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+进	Bv
+行	Ev
+了	Sul
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+。	Sw
+
+经	Bp
+过	Ep
+检	Bvn
+测	Evn
+，	Sw
+未	Sd
+发	Bv
+现	Ev
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+。	Sw
+
+ 	Sw
+
+本	Br
+次	Er
+抽	Bv
+检	Ev
+的	Suj
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+食	Bn
+品	En
+主	Bb
+要	Eb
+包	Bv
+括	Ev
+蔬	Bn
+菜	En
+等	Su
+产	Bn
+品	En
+。	Sw
+
+ 	Sw
+
+抽	Bv
+检	Ev
+依	Bp
+据	Ep
+是	Sv
+《	Sw
+食	Bl
+品	Ml
+安	Ml
+全	El
+国	Bn
+家	Mn
+标	Mn
+准	En
+ 	Sw
+
+食	Bn
+品	En
+中	Sf
+农	Bn
+药	En
+最	Ba
+大	Ea
+残	Bv
+留	Ev
+限	Bn
+量	En
+ 	Sw
+
+》	Sw
+（	Sw
+G	Beng
+B	Eeng
+ 	Sw
+
+2	Bm
+7	Mm
+6	Mm
+3	Em
+-	Sw
+2	Bm
+0	Mm
+1	Mm
+4	Em
+）	Sw
+ 	Sw
+
+等	Su
+标	Bn
+准	En
+及	Sc
+产	Bn
+品	En
+明	Bv
+示	Ev
+标	Bn
+准	En
+和	Sc
+指	Bn
+标	En
+的	Suj
+要	Bv
+求	Ev
+。	Sw
+
+ 	Sw
+
+抽	Bv
+检	Ev
+项	Bn
+目	En
+包	Bv
+括	Ev
+腐	Ba
+霉	Ea
+利	Sn
+、	Sw
+毒	Bn
+死	En
+蜱	Sg
+、	Sw
+氧	Sn
+乐	Bn
+果	En
+、	Sw
+多	Bn
+菌	Mn
+灵	En
+、	Sw
+克	Sm
+百	Bn
+威	En
+、	Sw
+甲	Sn
+拌	Sv
+磷	Sn
+、	Sw
+甲	Bnz
+胺	Mnz
+磷	Enz
+ 	Sw
+
+、	Sw
+氯	Bnz
+氰	Enz
+菊	Bn
+酯	En
+和	Sc
+高	Ba
+效	Ea
+氯	Bnz
+氰	Enz
+菊	Bn
+酯	En
+、	Sw
+敌	Bl
+敌	Ml
+畏	El
+、	Sw
+对	Bnz
+硫	Mnz
+磷	Enz
+、	Sw
+甲	Bnz
+基	Enz
+异	Svg
+柳	Sn
+磷	Sn
+、	Sw
+啶	Sw
+虫	Sn
+脒	Sg
+、	Sw
+氟	Bnz
+虫	Enz
+腈	Sn
+、	Sw
+甲	Bnz
+基	Mnz
+对	Mnz
+硫	Mnz
+磷	Enz
+、	Sw
+氯	Bnz
+氟	Mnz
+氰	Enz
+菊	Bn
+酯	En
+和	Sc
+高	Ba
+效	Ea
+氯	Bnz
+氟	Mnz
+氰	Enz
+菊	Bn
+酯	En
+、	Sw
+苯	Bn
+醚	En
+甲	Bnz
+环	Mnz
+唑	Enz
+、	Sw
+乐	Bn
+果	En
+等	Su
+共	Sd
+1	Bm
+7	Em
+个	Sm
+指	Bn
+标	En
+。	Sw
+
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+食	Bn
+品	En
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+合	Bn
+格	En
+产	Bn
+品	En
+信	Bn
+息	En
+ 	Sw
+
+抽	Bv
+样	Ev
+编	Bn
+号	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	En
+省	Bn
+份	En
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+公	Bn
+告	En
+号	Sm
+ 	Sw
+
+公	Bn
+告	En
+日	Bt
+期	Et
+ 	Sw
+
+任	Bn
+务	En
+来	Bn
+源	En
+/	Sw
+项	Bn
+目	Mn
+名	Mn
+称	En
+ 	Sw
+
+检	Bvn
+验	Evn
+机	Bn
+构	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+1	Eeng
+ 	Sw
+
+1	Sw
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+尖	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+2	Eeng
+ 	Sw
+
+2	Sw
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+香	Bnr
+芹	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+3	Eeng
+ 	Sw
+
+3	Sw
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+菠	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+4	Eeng
+ 	Sw
+
+4	Sw
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+小	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+5	Eeng
+ 	Sw
+
+5	Sw
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+青	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+6	Eeng
+ 	Sw
+
+6	Sw
+ 	Sw
+
+范	Snr
+庄	Bnr
+子	Enr
+蔬	Bn
+菜	En
+批	Bv
+发	Ev
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Bns
+海	Mns
+县	Ens
+范	Snr
+庄	Bnr
+子	Enr
+村	Szg
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+百	Bn
+果	En
+乐	Bn
+园	En
+水	Bn
+果	En
+连	Bvn
+锁	Evn
+超	Bv
+市	Ev
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+8	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+7	Eeng
+ 	Sw
+
+7	Sw
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+韭	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+8	Eeng
+ 	Sw
+
+8	Sw
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+芹	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+0	Meng
+9	Eeng
+ 	Sw
+
+9	Sw
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+0	Eeng
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bnr
+青	Enr
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+东	Bnr
+方	Mnr
+红	Enr
+路	Sn
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+京	Sns
+白	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+1	Eeng
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+美	Sj
+人	Sn
+椒	Sng
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+2	Eeng
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bns
+青	Mns
+区	Ens
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bns
+青	Mns
+区	Ens
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+芹	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+3	Eeng
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bns
+青	Mns
+区	Ens
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bns
+青	Mns
+区	Ens
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+香	Bnr
+芹	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+4	Eeng
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+5	Eeng
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+范	Snr
+庄	Bnr
+子	Enr
+蔬	Bn
+菜	En
+批	Bv
+发	Ev
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Bns
+海	Mns
+县	Ens
+范	Snr
+庄	Bnr
+子	Enr
+村	Szg
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+百	Bn
+果	En
+乐	Bn
+园	En
+水	Bn
+果	En
+连	Bvn
+锁	Evn
+超	Bv
+市	Ev
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+8	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+6	Eeng
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+青	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+P	Meng
+C	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+7	Eeng
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+家	Sm
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+尖	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+8	Eeng
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bns
+青	Mns
+区	Ens
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+西	Bns
+青	Mns
+区	Ens
+韩	Bnr
+子	Mnr
+红	Enr
+蔬	Bn
+菜	En
+种	Bv
+植	Ev
+基	Bn
+地	En
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+韭	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+1	Meng
+9	Eeng
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+小	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+0	Eeng
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+大	Bd
+连	Ed
+福	Bnr
+御	Enr
+贸	Bvn
+易	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+辽	Bns
+宁	Mns
+省	Ens
+大	Bns
+连	Mns
+市	Ens
+西	Bns
+岗	Mns
+区	Ens
+长	Bns
+春	Ens
+路	Sn
+1	Bm
+9	Mm
+6	Em
+-	Sw
+6	Sm
+号	Sm
+ 	Sw
+
+3	Bm
+1	Mm
+7	Em
+室	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+华	Bnz
+润	Enz
+万	Bm
+家	Em
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+静	Bns
+海	Ens
+春	Bnr
+曦	Enr
+道	Sq
+分	Bn
+店	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+菠	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+1	Eeng
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+2	Eeng
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+尖	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+5	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+3	Eeng
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+豇	Bn
+豆	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+4	Eeng
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+彩	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+5	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+5	Eeng
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+青	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+6	Eeng
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+韭	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+7	Eeng
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+菠	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+5	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+8	Eeng
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+2	Meng
+9	Eeng
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+缤	Bz
+纷	Ez
+田	Bnr
+园	Enr
+精	Bn
+品	En
+娃	Bn
+娃	En
+菜	Sn
+5	Bm
+0	Mm
+0	Em
+g	Seng
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+0	Eeng
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+北	Bns
+京	Ens
+新	Bnz
+发	Enz
+地	Sn
+农	Bn
+产	Mn
+品	En
+中	Bn
+心	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+南	Bnr
+四	Mnr
+环	Enr
+马	Bnr
+家	Mnr
+楼	Enr
+南	Sf
+1	Bm
+.	Mm
+2	Em
+公	Bq
+里	Eq
+处	Sn
+ 	Sw
+
+天	Bns
+津	Ens
+物	Bnz
+美	Enz
+未	Bt
+来	Et
+东	Bnr
+胜	Enr
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+芹	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+1	Eeng
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+范	Snr
+庄	Bnr
+子	Enr
+蔬	Bn
+菜	En
+批	Bv
+发	Ev
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Bns
+海	Mns
+县	Ens
+范	Snr
+庄	Bnr
+子	Enr
+村	Szg
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+百	Bn
+果	En
+乐	Bn
+园	En
+水	Bn
+果	En
+连	Bvn
+锁	Evn
+超	Bv
+市	Ev
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+芹	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+8	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+2	Eeng
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+长	Sa
+豆	Bn
+角	En
+（	Sw
+豇	Bn
+豆	En
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+3	Eeng
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+尖	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+4	Eeng
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+特	Bn
+价	En
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+5	Eeng
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+菠	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+6	Eeng
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+柿	Bn
+子	En
+辣	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+7	Eeng
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+芹	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+8	Eeng
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+三	Bm
+号	Em
+菜	Sn
+（	Sw
+白	Bn
+菜	En
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+3	Meng
+9	Eeng
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+小	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+ 	Sw
+
+N	Beng
+C	Meng
+P	Meng
+1	Meng
+2	Meng
+0	Meng
+2	Meng
+2	Meng
+3	Meng
+1	Meng
+7	Meng
+0	Meng
+8	Meng
+4	Meng
+0	Eeng
+ 	Sw
+
+4	Bm
+0	Em
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+祥	Bnrfg
+和	Enrfg
+长	Sa
+浩	Sag
+菇	Sng
+行	Sn
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+百	Bn
+业	En
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+泰	Bns
+山	Ens
+道	Sq
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+天	Bns
+津	Ens
+ 	Sw
+
+油	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+0	Mm
+8	Mm
+.	Mm
+0	Mm
+7	Em
+ 	Sw
+
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+静	Snr
+海	Bn
+区	En
+市	Bn
+场	En
+和	Sc
+质	Bn
+量	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+ 	Sw
+
+摩	Bnz
+天	Enz
+众	Bn
+创	En
+（	Sw
+天	Bns
+津	Ens
+）	Sw
+检	Bvn
+测	Evn
+服	Bvn
+务	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+
+

@@ -1,0 +1,3056 @@
+嘉	Bns
+兴	Mns
+市	Ens
+市	Bn
+场	En
+监	Bn
+管	Mn
+局	En
+抽	Bv
+检	Ev
+水	Bn
+产	Mn
+品	En
+4	Bm
+6	Em
+批	Bd
+次	Ed
+样	Bn
+品	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+3	Sw
+批	Bd
+次	Ed
+。	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+市	Bn
+场	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+水	Bn
+产	Mn
+品	En
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+合	Bn
+格	En
+信	Bn
+息	En
+汇	Bn
+总	Mn
+表	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+任	Bn
+务	En
+来	Bn
+源	En
+/	Sw
+项	Bn
+目	Mn
+名	Mn
+称	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+葛	Bnr
+凡	Mnr
+青	Enr
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Sw
+ 	Sw
+
+葛	Bnr
+凡	Mnr
+青	Enr
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Sw
+ 	Sw
+
+姚	Bnr
+夫	Mnr
+芳	Enr
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+4	Sw
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+经	Bnr
+开	Mnr
+文	Mnr
+祥	Enr
+水	Bn
+产	En
+店	Sn
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+5	Sw
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+经	Bnr
+开	Mnr
+文	Mnr
+祥	Enr
+水	Bn
+产	En
+店	Sn
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+6	Sw
+ 	Sw
+
+许	Bnr
+玲	Mnr
+娟	Enr
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+7	Sw
+ 	Sw
+
+孔	Bnr
+跃	Mnr
+兴	Enr
+ 	Sw
+
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+8	Sw
+ 	Sw
+
+邱	Snr
+建	Bnz
+华	Enz
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+9	Sw
+ 	Sw
+
+颜	Bnr
+明	Mnr
+弟	Enr
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+4	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+辛	Snr
+海	Bnz
+龙	Enz
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Bnr
+新	Mnr
+嘉	Enr
+街	Bn
+道	En
+辛	Snr
+海	Bnz
+龙	Enz
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+点	En
+）	Sw
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+马	Sn
+飞	Bnz
+龙	Enz
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+张	Bnr
+艳	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Bnr
+新	Mnr
+嘉	Enr
+街	Bn
+道	En
+张	Bnr
+艳	Enr
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+点	En
+）	Sw
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+秀	Bns
+洲	Mns
+区	Ens
+新	Bns
+城	Ens
+街	Bn
+道	En
+旺	Ba
+盛	Ea
+水	Bn
+产	Mn
+品	En
+摊	Sv
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+秀	Bns
+洲	Mns
+区	Ens
+新	Bns
+城	Ens
+街	Bn
+道	En
+旺	Ba
+盛	Ea
+水	Bn
+产	Mn
+品	En
+摊	Sv
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+王	Bnr
+根	Mnr
+云	Enr
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+顾	Bnr
+振	Mnr
+昊	Enr
+ 	Sw
+
+温	Bn
+室	En
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+0	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+（	Sw
+李	Bnrfg
+永	Mnrfg
+进	Enrfg
+）	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+秀	Bns
+洲	Mns
+区	Ens
+高	Bn
+照	En
+街	Bn
+道	En
+永	Bnrfg
+进	Enrfg
+淡	Bn
+水	En
+产	Bn
+品	En
+摊	Sv
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+（	Sw
+李	Bnrfg
+永	Mnrfg
+进	Enrfg
+）	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+秀	Bns
+洲	Mns
+区	Ens
+高	Bn
+照	En
+街	Bn
+道	En
+永	Bnrfg
+进	Enrfg
+淡	Bn
+水	En
+产	Bn
+品	En
+摊	Sv
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+（	Sw
+罗	Bnr
+梅	Enr
+）	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+经	Sp
+开	Bv
+长	Ev
+新	Sa
+农	Bn
+贸	Mn
+市	Mn
+场	En
+罗	Bnr
+梅	Enr
+水	Bn
+产	En
+摊	Sv
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+（	Sw
+罗	Bnr
+梅	Enr
+）	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+经	Sp
+开	Bv
+长	Ev
+新	Sa
+农	Bn
+贸	Mn
+市	Mn
+场	En
+罗	Bnr
+梅	Enr
+水	Bn
+产	En
+摊	Sv
+ 	Sw
+
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+（	Sw
+徐	Bnr
+学	Mnr
+利	Enr
+）	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+经	Sp
+开	Sv
+城	Bns
+南	Ens
+府	Bns
+南	Ens
+农	Bn
+贸	Mn
+市	Mn
+场	En
+徐	Bnr
+秀	Enr
+利	Ba
+淡	Ea
+水	Bn
+产	Mn
+品	En
+摊	Bn
+位	En
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+（	Sw
+徐	Bnr
+学	Mnr
+利	Enr
+）	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+经	Sp
+开	Sv
+城	Bns
+南	Ens
+府	Bns
+南	Ens
+农	Bn
+贸	Mn
+市	Mn
+场	En
+徐	Bnr
+秀	Enr
+利	Ba
+淡	Ea
+水	Bn
+产	Mn
+品	En
+摊	Bn
+位	En
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+张	Bnr
+彩	Mnr
+英	Enr
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+戴	Bnr
+建	Mnr
+琴	Enr
+ 	Sw
+
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+李	Bnr
+万	Mnr
+明	Enr
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+于	Sp
+美	Bns
+林	Ens
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+吴	Bnr
+炳	Mnr
+华	Enr
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+许	Sm
+连	Bv
+生	Ev
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+庄	Bnr
+秀	Mnr
+敏	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Sn
+解	Bv
+放	Ev
+街	Bn
+道	En
+庄	Bnr
+秀	Mnr
+敏	Enr
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+点	En
+）	Sw
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+祝	Bnr
+卫	Mnr
+军	Enr
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+张	Sq
+民	Bns
+昌	Ens
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+倪	Snr
+海	Bnz
+鹰	Enz
+ 	Sw
+
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+2	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+周	Bnr
+春	Mnr
+泉	Enr
+ 	Sw
+
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+0	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+顾	Bnr
+志	Mnr
+浩	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Sn
+建	Bvn
+设	Evn
+街	Bn
+道	En
+顾	Bnr
+志	Mnr
+浩	Enr
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+店	En
+）	Sw
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+郭	Bnr
+培	Mnr
+法	Enr
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+王	Bnr
+永	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Sn
+城	Bns
+西	Ens
+王	Bnr
+永	Enr
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+点	En
+）	Sw
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+乐	Bnr
+福	Mnr
+明	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Sn
+城	Bns
+西	Ens
+小	Bn
+乐	En
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+点	En
+）	Sw
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+李	Bnr
+敏	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Sn
+城	Bns
+西	Ens
+阿	Bnr
+敏	Enr
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+点	En
+）	Sw
+ 	Sw
+
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+杨	Bnr
+智	Mnr
+铭	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+南	Bns
+湖	Ens
+区	Sn
+南	Bns
+湖	Ens
+街	Bn
+道	En
+杨	Bnr
+智	Mnr
+铭	Enr
+水	Bn
+产	Mn
+品	En
+销	Bn
+售	Mn
+点	En
+）	Sw
+ 	Sw
+
+牛	Bn
+蛙	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+6	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+4	Bm
+0	Em
+ 	Sw
+
+张	Bnr
+永	Mnr
+珍	Enr
+ 	Sw
+
+甲	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+7	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+4	Bm
+1	Em
+ 	Sw
+
+沈	Bnr
+玉	Mnr
+美	Enr
+（	Sw
+嘉	Bns
+兴	Mns
+市	Ens
+秀	Bns
+洲	Mns
+区	Ens
+新	Bns
+城	Ens
+街	Bn
+道	En
+晓	Bnr
+峰	Enr
+水	Bn
+产	Mn
+品	En
+店	Sn
+）	Sw
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+8	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+4	Bm
+2	Em
+ 	Sw
+
+费	Bnr
+月	Mnr
+平	Enr
+（	Sw
+3	Bm
+3	Mm
+0	Mm
+4	Mm
+2	Mm
+2	Mm
+1	Mm
+9	Mm
+6	Mm
+8	Mm
+0	Mm
+2	Mm
+1	Mm
+2	Mm
+4	Mm
+8	Mm
+9	Mm
+4	Em
+）	Sw
+ 	Sw
+
+桂	Bnr
+鱼	Enr
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+8	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+4	Bm
+3	Em
+ 	Sw
+
+费	Bnr
+月	Mnr
+平	Enr
+（	Sw
+3	Bm
+3	Mm
+0	Mm
+4	Mm
+2	Mm
+2	Mm
+1	Mm
+9	Mm
+6	Mm
+8	Mm
+0	Mm
+2	Mm
+1	Mm
+2	Mm
+4	Mm
+8	Mm
+9	Mm
+4	Em
+）	Sw
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+称	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+8	Em
+ 	Sw
+
+淡	Bn
+水	Mn
+鱼	En
+类	Sq
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+嘉	Bns
+兴	Mns
+市	Ens
+/	Sw
+（	Sw
+市	Sn
+抽	Sv
+）	Sw
+“	Sw
+百	Bm
+日	Em
+攻	Bvn
+坚	Evn
+”	Sw
+专	Bn
+项	En
+ 	Sw
+
+/	Sw
+
+

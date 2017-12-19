@@ -1,0 +1,2942 @@
+遂	Bns
+宁	Mns
+市	Ens
+工	Bj
+商	Mj
+局	Ej
+：	Sw
+1	Bm
+9	Em
+批	Bd
+次	Ed
+化	Bn
+肥	En
+抽	Bv
+检	Ev
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+遂	Bns
+宁	Mns
+市	Ens
+工	Bj
+商	Mj
+局	Ej
+在	Sp
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+上	Bt
+半	Mt
+年	Et
+“	Sw
+红	Bnz
+盾	Mnz
+护	Mnz
+农	Enz
+”	Sw
+专	Bn
+项	En
+行	Bvn
+动	Evn
+中	Sf
+，	Sw
+对	Sp
+部	Bn
+分	En
+县	Bn
+区	En
+流	Bl
+通	Ml
+领	Ml
+域	El
+农	Bn
+资	En
+商	Bn
+品	Mn
+质	Mn
+量	En
+进	Bv
+行	Ev
+了	Sul
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+。	Sw
+
+共	Sd
+抽	Bv
+检	Ev
+化	Bn
+肥	En
+1	Bm
+0	Mm
+6	Em
+个	Sm
+批	Bd
+次	Ed
+，	Sw
+其	Br
+中	Er
+不	Sd
+合	Bn
+格	En
+1	Bm
+9	Em
+个	Sm
+批	Bd
+次	Ed
+，	Sw
+合	Bn
+格	Mn
+率	En
+8	Bm
+2	Mm
+.	Mm
+1	Em
+%	Sw
+；	Sw
+
+抽	Bv
+检	Ev
+农	Bn
+膜	En
+1	Bm
+5	Em
+个	Sm
+批	Bd
+次	Ed
+，	Sw
+全	Bn
+部	En
+合	Bn
+格	En
+，	Sw
+合	Bn
+格	Mn
+率	En
+1	Bm
+0	Mm
+0	Em
+%	Sw
+。	Sw
+
+ 	Sw
+
+本	Br
+次	Er
+抽	Bv
+查	Ev
+检	Bvn
+验	Evn
+主	Bb
+要	Eb
+对	Sp
+河	Bns
+东	Ens
+新	Bns
+区	Ens
+、	Sw
+安	Bnr
+居	Mnr
+区	Enr
+及	Sc
+射	Bns
+洪	Mns
+县	Ens
+部	Bn
+分	En
+乡	Bn
+镇	En
+农	Bn
+资	En
+销	Bn
+售	Mn
+店	En
+的	Suj
+化	Bn
+肥	En
+、	Sw
+农	Bn
+膜	En
+的	Suj
+质	Bn
+量	Mn
+指	Mn
+标	En
+进	Bv
+行	Ev
+了	Sul
+检	Bvn
+测	Evn
+，	Sw
+其	Br
+中	Er
+化	Bn
+肥	En
+检	Bvn
+测	Evn
+的	Suj
+主	Bb
+要	Eb
+指	Bn
+标	En
+包	Bv
+括	Ev
+：	Sw
+有	Ba
+效	Ea
+磷	Sn
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+、	Sw
+总	Sb
+养	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+、	Sw
+氧	Bn
+化	Mn
+钾	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+、	Sw
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+质	Bn
+量	En
+分	Bn
+数	En
+、	Sw
+水	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+、	Sw
+酸	Bn
+碱	Mn
+度	En
+等	Su
+。	Sw
+
+经	Bj
+检	Mj
+测	Ej
+不	Sd
+合	Bn
+格	En
+的	Suj
+主	Bb
+要	Eb
+指	Bn
+标	En
+是	Sv
+硫	Bn
+含	Mn
+量	En
+、	Sw
+甲	Bnz
+醇	Enz
+含	Bn
+量	En
+。	Sw
+
+ 	Sw
+
+遂	Bns
+宁	Mns
+市	Ens
+工	Bnt
+商	Mnt
+行	Mnt
+政	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+已	Sd
+将	Sd
+销	Bvn
+售	Evn
+质	Bn
+量	En
+不	Sd
+合	Bn
+格	En
+农	Bn
+资	En
+商	Bn
+品	En
+经	Bn
+营	Mn
+户	En
+名	Bn
+单	En
+及	Sc
+《	Sw
+不	Sd
+合	Bn
+格	En
+商	Bn
+品	En
+报	Bn
+告	En
+》	Sw
+移	Bv
+交	Ev
+属	Bn
+地	En
+县	Bb
+级	Eb
+工	Bn
+商	En
+（	Sw
+质	Bn
+监	En
+）	Sw
+部	Bn
+门	En
+进	Bv
+行	Ev
+立	Bn
+案	Mn
+查	Mn
+处	En
+。	Sw
+
+ 	Sw
+
+质	Bn
+量	En
+抽	Bv
+检	Ev
+不	Sd
+合	Bn
+格	En
+表	Sv
+ 	Sw
+
+标	Bn
+准	Mn
+值	En
+或	Sc
+规	Bn
+定	En
+ 	Sw
+
+实	Bn
+测	Mn
+值	En
+或	Sc
+实	Bn
+际	En
+情	Bn
+况	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+样	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+查	Ev
+检	Bvn
+验	Evn
+经	Bn
+营	Mn
+者	En
+ 	Sw
+
+标	Bn
+称	En
+商	Bn
+标	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bn
+产	Mn
+者	En
+ 	Sw
+
+抽	Bv
+检	Ev
+日	Bt
+期	Et
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+项	Bn
+目	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+情	Bn
+况	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+情	Bn
+况	En
+ 	Sw
+
+1	Sw
+ 	Sw
+
+过	Bnz
+磷	Mnz
+酸	Mnz
+钙	Enz
+ 	Sw
+
+范	Bnr
+吕	Mnr
+松	Enr
+ 	Sw
+
+旭	Snr
+超	Sv
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+蜀	Bns
+峰	Ens
+化	Bn
+工	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+磷	Sn
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≧	Sw
+1	Bm
+2	Mm
+.	Mm
+0	Em
+ 	Sw
+
+7	Bm
+.	Mm
+5	Mm
+2	Em
+ 	Sw
+
+2	Sw
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+射	Bns
+洪	Mns
+县	Ens
+农	Bn
+化	En
+科	Bn
+技	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+仁	Bns
+和	Mns
+镇	Ens
+一	Sm
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+绵	Bns
+阳	Ens
+涪	Bns
+城	Ens
+红	Bnr
+太	Mnr
+阳	Enr
+生	Bvn
+化	Evn
+制	Bn
+品	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≥	Sw
+4	Bm
+0	Mm
+.	Mm
+0	Em
+ 	Sw
+
+3	Bm
+5	Mm
+.	Mm
+0	Mm
+4	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+/	Sw
+ 	Sw
+
+绵	Bns
+阳	Ens
+涪	Bns
+城	Ens
+红	Bnr
+太	Mnr
+阳	Enr
+生	Bvn
+化	Evn
+制	Bn
+品	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+粒	Bn
+度	En
+（	Sw
+1	Bm
+.	Mm
+0	Mm
+0	Em
+ｍ	Sw
+ｍ	Sw
+-	Sw
+4	Bm
+.	Mm
+7	Mm
+5	Em
+ｍ	Sw
+ｍ	Sw
+）	Sw
+ 	Sw
+
+≥	Sw
+9	Bm
+0	Em
+ 	Sw
+
+7	Bm
+3	Mm
+.	Mm
+8	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+/	Sw
+ 	Sw
+
+绵	Bns
+阳	Ens
+涪	Bns
+城	Ens
+红	Bnr
+太	Mnr
+阳	Enr
+生	Bvn
+化	Evn
+制	Bn
+品	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+氧	Bn
+化	Mn
+钾	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≥	Sw
+4	Bm
+.	Mm
+5	Em
+ 	Sw
+
+3	Bm
+.	Mm
+9	Mm
+8	Em
+ 	Sw
+
+3	Sw
+ 	Sw
+
+复	Bl
+合	Ml
+肥	Ml
+料	El
+ 	Sw
+
+射	Bns
+洪	Mns
+县	Ens
+金	Bnz
+华	Enz
+镇	Bns
+江	Ens
+西	Bns
+街	Ens
+化	Bn
+肥	En
+门	Bn
+市	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≧	Sw
+3	Bm
+5	Mm
+.	Mm
+0	Em
+ 	Sw
+
+2	Bm
+9	Mm
+.	Mm
+2	Mm
+7	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+/	Sw
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≧	Sw
+6	Bm
+.	Mm
+5	Em
+ 	Sw
+
+2	Bm
+.	Mm
+1	Mm
+8	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+/	Sw
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+氧	Bn
+化	Mn
+钾	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≧	Sw
+4	Bm
+.	Mm
+0	Em
+ 	Sw
+
+3	Bm
+.	Mm
+0	Mm
+3	Em
+ 	Sw
+
+4	Sw
+ 	Sw
+
+过	Bnz
+磷	Mnz
+酸	Mnz
+钙	Enz
+ 	Sw
+
+射	Bns
+洪	Mns
+县	Ens
+金	Bnz
+华	Enz
+镇	Bns
+江	Ens
+西	Bns
+街	Ens
+化	Bn
+肥	En
+门	Bn
+市	En
+ 	Sw
+
+万	Bnz
+福	Enz
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+万	Bnz
+福	Enz
+磷	Bn
+肥	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+磷	Sn
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≧	Sw
+1	Bm
+2	Mm
+.	Mm
+0	Em
+ 	Sw
+
+1	Bm
+1	Mm
+.	Mm
+5	Mm
+6	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+万	Bnz
+福	Enz
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+万	Bnz
+福	Enz
+磷	Bn
+肥	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+水	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≤	Sw
+1	Bm
+5	Mm
+.	Mm
+0	Em
+ 	Sw
+
+1	Bm
+5	Mm
+.	Mm
+5	Mm
+4	Em
+ 	Sw
+
+5	Sw
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+王	Bnrfg
+炯	Enrfg
+ 	Sw
+
+德	Bnz
+沃	Enz
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+德	Bns
+阳	Ens
+丰	Bnz
+源	Enz
+复	Bv
+合	Ev
+化	Bn
+肥	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≥	Sw
+3	Bm
+5	Mm
+.	Mm
+0	Em
+ 	Sw
+
+3	Bm
+0	Mm
+.	Mm
+6	Mm
+5	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+德	Bnz
+沃	Enz
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+德	Bns
+阳	Ens
+丰	Bnz
+源	Enz
+复	Bv
+合	Ev
+化	Bn
+肥	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+粒	Bn
+度	En
+（	Sw
+1	Bm
+.	Mm
+0	Mm
+0	Em
+ｍ	Sw
+ｍ	Sw
+-	Sw
+4	Bm
+.	Mm
+7	Mm
+5	Em
+ｍ	Sw
+ｍ	Sw
+）	Sw
+ 	Sw
+
+≥	Sw
+9	Bm
+0	Em
+ 	Sw
+
+0	Bm
+.	Mm
+7	Mm
+6	Mm
+5	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+德	Bnz
+沃	Enz
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+德	Bns
+阳	Ens
+丰	Bnz
+源	Enz
+复	Bv
+合	Ev
+化	Bn
+肥	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≥	Sw
+4	Bm
+.	Mm
+0	Em
+ 	Sw
+
+2	Bm
+.	Mm
+1	Mm
+6	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+德	Bnz
+沃	Enz
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+德	Bns
+阳	Ens
+丰	Bnz
+源	Enz
+复	Bv
+合	Ev
+化	Bn
+肥	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+氧	Bn
+化	Mn
+钾	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≥	Sw
+5	Bm
+.	Mm
+5	Em
+ 	Sw
+
+3	Bm
+.	Mm
+0	Mm
+6	Em
+ 	Sw
+
+6	Sw
+ 	Sw
+
+过	Bnz
+磷	Mnz
+酸	Mnz
+钙	Enz
+ 	Sw
+
+射	Bns
+洪	Mns
+县	Ens
+复	Ba
+兴	Ea
+镇	Sn
+清	Bnz
+华	Enz
+农	Bn
+资	En
+经	Bvn
+营	Evn
+门	Bn
+市	Mn
+部	En
+ 	Sw
+
+金	Bnr
+黄	Enr
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+万	Bnz
+福	Enz
+磷	Bn
+肥	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+磷	Sn
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≥	Sw
+1	Bm
+2	Mm
+.	Mm
+0	Em
+ 	Sw
+
+1	Bm
+1	Mm
+.	Mm
+7	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+金	Bnr
+黄	Enr
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+万	Bnz
+福	Enz
+磷	Bn
+肥	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+水	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≤	Sw
+1	Bm
+5	Mm
+.	Mm
+0	Em
+ 	Sw
+
+1	Bm
+5	Mm
+.	Mm
+7	Mm
+4	Em
+ 	Sw
+
+7	Sw
+ 	Sw
+
+过	Bnz
+磷	Mnz
+酸	Mnz
+钙	Enz
+ 	Sw
+
+何	Bnr
+喜	Enr
+ 	Sw
+
+金	Bnr
+黄	Enr
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+万	Bnz
+福	Enz
+磷	Bn
+肥	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+磷	Sn
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≧	Sw
+1	Bm
+2	Mm
+.	Mm
+0	Em
+ 	Sw
+
+0	Bm
+.	Mm
+1	Mm
+1	Mm
+5	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+水	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≤	Sw
+1	Bm
+5	Mm
+.	Mm
+0	Em
+ 	Sw
+
+1	Bm
+5	Mm
+.	Mm
+7	Mm
+6	Em
+ 	Sw
+
+8	Sw
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+射	Bvn
+洪	Evn
+农	Bn
+化	En
+科	Bn
+技	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+金	Bn
+家	En
+门	Bn
+市	Mn
+部	En
+ 	Sw
+
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+ 	Sw
+
+≧	Sw
+3	Bm
+1	Em
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+2	Mm
+7	Mm
+3	Mm
+6	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+ 	Sw
+
+≧	Sw
+4	Sw
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+0	Mm
+2	Mm
+1	Mm
+8	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+氧	Bn
+化	Mn
+钾	En
+ 	Sw
+
+≧	Sw
+4	Sw
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+0	Mm
+1	Mm
+9	Em
+ 	Sw
+
+9	Sw
+ 	Sw
+
+过	Bnz
+磷	Mnz
+酸	Mnz
+钙	Enz
+ 	Sw
+
+射	Bvn
+洪	Evn
+农	Bn
+化	En
+科	Bn
+技	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+金	Bn
+家	En
+门	Bn
+市	Mn
+部	En
+ 	Sw
+
+金	Bnr
+黄	Enr
++	Sw
+图	Bn
+形	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+万	Bnz
+福	Enz
+磷	Bn
+肥	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+磷	Sn
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≥	Sw
+1	Bm
+2	Em
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+1	Mm
+1	Mm
+5	Mm
+4	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+水	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≤	Sw
+1	Bm
+2	Em
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+1	Mm
+5	Mm
+5	Mm
+6	Em
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+过	Bnz
+磷	Mnz
+酸	Mnz
+钙	Enz
+ 	Sw
+
+文	Bnr
+太	Mnr
+林	Enr
+ 	Sw
+
+丰	Ba
+润	Ea
+佳	Sa
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+ 	Sw
+
+≥	Sw
+3	Bm
+5	Mm
+.	Mm
+0	Em
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+2	Mm
+7	Mm
+7	Mm
+2	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+ 	Sw
+
+≥	Sw
+6	Bm
+.	Mm
+5	Em
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+0	Mm
+1	Mm
+8	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+氧	Bn
+化	Mn
+钾	En
+ 	Sw
+
+≧	Sw
+4	Sw
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+0	Mm
+2	Mm
+3	Mm
+4	Em
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+ 	Sw
+
+射	Bvn
+洪	Evn
+川	Bnr
+中	Mnr
+邦	Enr
+力	Sn
+达	Sv
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+新	Bns
+溪	Ens
+街	Bn
+道	En
+门	Bn
+市	Mn
+部	En
+ 	Sw
+
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+广	Bns
+汉	Mns
+市	Ens
+万	Bnz
+福	Enz
+磷	Bn
+肥	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+ 	Sw
+
+≧	Sw
+1	Bm
+2	Mm
+.	Mm
+0	Em
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+1	Mm
+1	Mm
+7	Mm
+2	Em
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+水	Bn
+分	En
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+ 	Sw
+
+≤	Sw
+1	Bm
+5	Mm
+.	Mm
+0	Em
+%	Sw
+ 	Sw
+
+0	Bm
+.	Mm
+1	Mm
+5	Mm
+7	Mm
+5	Em
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+冯	Bnr
+云	Mnr
+强	Enr
+ 	Sw
+
+德	Bnz
+沃	Enz
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+德	Bns
+阳	Ens
+丰	Bnz
+源	Enz
+复	Bv
+合	Ev
+化	Bn
+肥	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+（	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
+)	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+1	Bm
+.	Mm
+8	Mm
+1	Em
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+冯	Bnr
+云	Mnr
+强	Enr
+ 	Sw
+
+丰	Bnr
+之	Mnr
+韵	Enr
+ 	Sw
+
+山	Bns
+东	Ens
+临	Bns
+沂	Ens
+中	Bns
+鲁	Mns
+大	Ens
+化	Bn
+肥	En
+业	Sn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+（	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
+)	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+7	Sw
+ 	Sw
+
+1	Bm
+.	Mm
+1	Mm
+1	Em
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+刘	Szg
+文	Bn
+义	En
+ 	Sw
+
+雨	Bnr
+帝	Enr
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+成	Bns
+丰	Ens
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+（	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
+)	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+8	Sw
+ 	Sw
+
+1	Bm
+.	Mm
+4	Mm
+8	Em
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+肥	Bn
+料	En
+ 	Sw
+
+刘	Bnr
+斌	Enr
+ 	Sw
+
+沃	Bnr
+岛	Enr
+ 	Sw
+
+遂	Bns
+宁	Mns
+市	Ens
+环	Bn
+球	En
+科	Bn
+研	En
+化	Bn
+学	En
+厂	Szg
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+（	Sw
+N	Seng
++	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
++	Sw
+K	Beng
+2	Eeng
+ 	Sw
+
+O	Sw
+）	Sw
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+；	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+（	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
+)	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+≥	Sw
+4	Bm
+0	Em
+；	Sw
+
+9	Sw
+ 	Sw
+
+3	Bm
+7	Em
+；	Sw
+
+5	Bm
+.	Mm
+8	Mm
+9	Em
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+刘	Bnr
+斌	Enr
+ 	Sw
+
+易	Bnr
+加	Mnr
+源	Enr
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+洪	Bnr
+禾	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+（	Sw
+N	Seng
++	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
++	Sw
+K	Beng
+2	Eeng
+ 	Sw
+
+O	Sw
+）	Sw
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+；	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+（	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
+)	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+；	Sw
+
+氮	Sn
+含	Bn
+量	En
+（	Sw
+以	Sp
+N	Seng
+计	Sn
+）	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+≥	Sw
+4	Bm
+0	Em
+；	Sw
+
+6	Sw
+；	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+3	Bm
+2	Mm
+.	Mm
+6	Em
+；	Sw
+
+1	Bm
+.	Mm
+8	Mm
+3	Em
+；	Sw
+
+2	Bm
+3	Mm
+.	Mm
+3	Mm
+6	Em
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+腐	Bn
+殖	Mn
+酸	En
+铵	Sn
+有	Bn
+机	Mn
+肥	En
+ 	Sw
+
+奉	Sv
+孝	Bns
+海	Ens
+ 	Sw
+
+吉	Bnr
+瑞	Enr
+ 	Sw
+
+西	Bns
+安	Ens
+佰	Sm
+旺	Sa
+农	Bn
+业	En
+生	Bl
+产	Ml
+资	Ml
+料	El
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+（	Sw
+N	Seng
++	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
++	Sw
+K	Beng
+2	Eeng
+ 	Sw
+
+O	Sw
+）	Sw
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+；	Sw
+
+酸	Bn
+碱	Mn
+度	En
+（	Sw
+P	Beng
+H	Eeng
+）	Sw
+；	Sw
+
+有	Bl
+机	Ml
+质	El
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+（	Sw
+以	Sp
+烘	Bv
+干	Ev
+基	Bn
+计	En
+）	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+≥	Sw
+2	Bm
+0	Em
+；	Sw
+
+5	Bm
+.	Mm
+5	Em
+~	Sw
+8	Bm
+.	Mm
+5	Em
+；	Sw
+
+≥	Sw
+3	Bm
+0	Em
+ 	Sw
+
+1	Bm
+6	Mm
+.	Mm
+2	Em
+；	Sw
+
+4	Bm
+.	Mm
+1	Mm
+8	Em
+；	Sw
+
+2	Bm
+4	Mm
+.	Mm
+1	Em
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+复	Bl
+合	Ml
+肥	Ml
+料	El
+ 	Sw
+
+邹	Snr
+建	Bnz
+华	Enz
+ 	Sw
+
+渝	Bns
+江	Ens
+ 	Sw
+
+重	Bns
+庆	Ens
+江	Bns
+北	Ens
+化	Bn
+肥	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+总	Sb
+养	Bn
+分	En
+（	Sw
+N	Seng
++	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
++	Sw
+K	Beng
+2	Eeng
+ 	Sw
+
+O	Sw
+）	Sw
+的	Suj
+质	Bn
+量	En
+分	Bn
+数	En
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+；	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+（	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
+)	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+；	Sw
+
+钾	Sn
+含	Bn
+量	En
+（	Sw
+以	Sp
+K	Beng
+2	Eeng
+ 	Sw
+
+O	Seng
+计	Sn
+）	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+≥	Sw
+4	Bm
+5	Em
+；	Sw
+
+1	Bm
+5	Em
+；	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+4	Bm
+2	Mm
+.	Mm
+5	Em
+；	Sw
+
+1	Bm
+3	Mm
+.	Mm
+5	Mm
+4	Em
+；	Sw
+
+1	Bm
+3	Mm
+.	Mm
+6	Mm
+6	Em
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+复	Bn
+混	Mn
+肥	En
+料	Sv
+ 	Sw
+
+邹	Snr
+建	Bnz
+华	Enz
+ 	Sw
+
+德	Bnz
+沃	Enz
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+德	Bns
+阳	Ens
+丰	Bnz
+源	Enz
+复	Bv
+合	Ev
+化	Bn
+肥	Mn
+厂	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+3	Sm
+月	Sm
+ 	Sw
+
+有	Ba
+效	Ea
+五	Bnz
+氧	Mnz
+化	Mnz
+二	Mnz
+磷	Enz
+（	Sw
+P	Beng
+2	Eeng
+ 	Sw
+
+O	Beng
+5	Eeng
+ 	Sw
+
+)	Sw
+/	Sw
+(	Sw
+%	Sw
+)	Sw
+ 	Sw
+
+5	Sw
+ 	Sw
+
+1	Bm
+.	Mm
+7	Mm
+1	Em
+
+

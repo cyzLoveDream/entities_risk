@@ -1,0 +1,2114 @@
+孝	Bns	B
+感	Mns	I
+市	Ens	I
+食	Sv	I
+药	Bnt	I
+监	Mnt	I
+局	Ent	E
+：	Sw	O
+1	Bm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+食	Bn	O
+品	En	O
+抽	Bv	O
+检	Ev	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+近	Bt	O
+日	Et	O
+发	Bv	O
+布	Ev	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+第	Sm	O
+9	Sm	O
+期	Sn	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+信	Bn	O
+息	En	O
+公	Bn	O
+告	En	O
+。	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Bn	O
+份	En	O
+，	Sw	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+食	Bn	O
+品	En	O
+生	Bvn	O
+产	Evn	O
+环	Bn	O
+节	En	O
+共	Sn	O
+1	Bm	O
+6	Mm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	En	O
+1	Bm	O
+5	Mm	O
+0	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+8	Bm	O
+9	Mm	O
+.	Mm	O
+3	Em	O
+%	Sw	O
+；	Sw	O
+
+其	Br	O
+中	Er	O
+饮	Bn	O
+料	En	O
+(	Sw	O
+含	Sv	O
+桶	Bb	O
+装	Eb	O
+饮	Bn	O
+用	Mn	O
+水	En	O
+)	Sw	O
+2	Bm	O
+9	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	En	O
+1	Bm	O
+5	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+5	Bm	O
+1	Mm	O
+.	Mm	O
+7	Em	O
+%	Sw	O
+；	Sw	O
+
+酒	Bn	O
+类	En	O
+3	Bm	O
+4	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	En	O
+3	Bm	O
+4	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+；	Sw	O
+
+糕	Bn	O
+点	En	O
+2	Bm	O
+4	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	En	O
+批	Bd	O
+次	Ed	O
+2	Bm	O
+1	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+8	Bm	O
+7	Mm	O
+.	Mm	O
+5	Em	O
+%	Sw	O
+；	Sw	O
+
+大	Bm	O
+米	Em	O
+3	Bm	O
+3	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	En	O
+3	Bm	O
+3	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+；	Sw	O
+
+速	Bn	O
+冻	En	O
+食	Bn	O
+品	En	O
+9	Sw	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	En	O
+9	Sw	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+；	Sw	O
+
+方	Ba	O
+便	Ea	O
+食	Bn	O
+品	En	O
+1	Bm	O
+0	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	En	O
+1	Bm	O
+0	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+。	Sw	O
+
+食	Bn	O
+品	En	O
+抽	Bv	O
+检	Ev	O
+不	Sd	O
+合	Bn	O
+格	En	O
+
+序	Bn	O
+号	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+名	Bn	O
+称	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+地	Bn	O
+址	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	Mn	O
+名	Mn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	Mn	O
+地	Mn	O
+址	En	O
+
+食	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+商	Bn	O
+标	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+项	Bn	O
+目	En	O
+║	Sw	O
+检	Bvn	O
+验	Evn	O
+结	Bn	O
+果	En	O
+║	Sw	O
+标	Bn	O
+准	Mn	O
+值	En	O
+
+分	Bn	O
+类	En	O
+
+1	Sw	O
+
+湖	Bns	B
+北	Ens	I
+港	Sj	I
+荣	Sag	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+孝	Bns	O
+南	Mns	O
+区	Ens	O
+毛	Bnr	O
+陈	Mnr	O
+镇	Enr	O
+工	Bn	O
+业	Mn	O
+园	En	O
+（	Sw	O
+孝	Sng	O
+武	Bj	O
+大	Ej	O
+道	Sq	O
+1	Bm	O
+5	Mm	O
+3	Em	O
+号	Sm	O
+）	Sw	O
+
+湖	Bns	B
+北	Ens	I
+港	Sj	I
+荣	Sag	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+孝	Bns	O
+南	Mns	O
+区	Ens	O
+毛	Bnr	O
+陈	Mnr	O
+镇	Enr	O
+工	Bn	O
+业	Mn	O
+园	En	O
+（	Sw	O
+孝	Sng	O
+武	Bj	O
+大	Ej	O
+道	Sq	O
+1	Bm	O
+5	Mm	O
+3	Em	O
+号	Sm	O
+）	Sw	O
+
+港	Sj	O
+荣	Bnz	O
+蒸	Mnz	O
+椰	Mnz	O
+香	Enz	O
+蛋	Bn	O
+糕	En	O
+
+散	Bv	O
+装	Ev	O
+称	Bv	O
+重	Ev	O
+
+港	Sj	O
+荣	Sag	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+1	Bm	O
+1	Em	O
+日	Sm	O
+D	Beng	O
+1	Meng	O
+0	Meng	O
+3	Eeng	O
+
+金	Bn	O
+黄	Mn	O
+色	En	O
+葡	Bn	O
+萄	Mn	O
+球	Mn	O
+菌	En	O
+
+糕	Bn	O
+点	En	O
+
+2	Sw	O
+
+云	Bnr	B
+梦	Mnr	I
+县	Enr	I
+天	Bnz	I
+泉	Enz	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+厂	Szg	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+云	Bnr	O
+梦	Mnr	O
+县	Enr	O
+城	Bns	O
+关	Mns	O
+镇	Ens	O
+东	Bns	O
+垣	Ens	O
+路	Sn	O
+东	Bns	O
+城	Ens	O
+尚	Bnr	O
+园	Enr	O
+
+云	Bnr	B
+梦	Mnr	I
+县	Enr	I
+天	Bnz	I
+泉	Enz	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+厂	Szg	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+云	Bnr	O
+梦	Mnr	O
+县	Enr	O
+城	Bns	O
+关	Mns	O
+镇	Ens	O
+东	Bns	O
+垣	Ens	O
+路	Sn	O
+东	Bns	O
+城	Ens	O
+尚	Bnr	O
+园	Enr	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+7	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+天	Bnz	O
+泉	Enz	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+1	Bm	O
+2	Em	O
+日	Sm	O
+
+耗	Bn	O
+氧	Mn	O
+量	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+3	Sw	O
+
+湖	Bns	B
+北	Ens	I
+益	Bnr	I
+智	Enr	I
+泉	Sns	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+安	Bns	O
+陆	Mns	O
+市	Ens	O
+太	Bn	O
+白	En	O
+大	Bn	O
+道	En	O
+特	Sn	O
+1	Bm	O
+8	Mm	O
+9	Em	O
+号	Sm	O
+
+湖	Bns	B
+北	Ens	I
+益	Bnr	I
+智	Enr	I
+泉	Sns	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+安	Bns	O
+陆	Mns	O
+市	Ens	O
+太	Bn	O
+白	En	O
+大	Bn	O
+道	En	O
+特	Sn	O
+1	Bm	O
+8	Mm	O
+9	Em	O
+号	Sm	O
+
+包	Bv	O
+装	Ev	O
+饮	Bn	O
+用	Mn	O
+水	En	O
+
+1	Bm	O
+7	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+益	Bnr	O
+智	Enr	O
+泉	Sns	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+8	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+4	Sw	O
+
+安	Bns	B
+陆	Mns	I
+市	Ens	I
+安	Bnr	I
+洁	Enr	I
+饮	Bn	I
+料	En	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+安	Bns	O
+陆	Mns	O
+市	Ens	O
+府	Bns	O
+河	Ens	O
+大	Bn	O
+道	En	O
+1	Sm	O
+号	Sm	O
+
+安	Bns	B
+陆	Mns	I
+市	Ens	I
+安	Bnr	I
+洁	Enr	I
+饮	Bn	I
+料	En	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+安	Bns	O
+陆	Mns	O
+市	Ens	O
+府	Bns	O
+河	Ens	O
+大	Bn	O
+道	En	O
+1	Sm	O
+号	Sm	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+安	Bnr	O
+洁	Enr	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+1	Bm	O
+3	Em	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+5	Sw	O
+
+湖	Bns	B
+北	Ens	I
+卉	Sng	I
+谷	Sng	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+西	Bns	O
+江	Ens	O
+乡	Sn	O
+北	Bns	O
+河	Ens	O
+工	Bn	O
+业	Mn	O
+园	En	O
+B	Beng	O
+6	Eeng	O
+-	Sw	O
+3	Sm	O
+西	Bnr	O
+向	Enr	O
+
+湖	Bns	B
+北	Ens	I
+卉	Sng	I
+谷	Sng	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+西	Bns	O
+江	Ens	O
+乡	Sn	O
+北	Bns	O
+河	Ens	O
+工	Bn	O
+业	Mn	O
+园	En	O
+B	Beng	O
+6	Eeng	O
+-	Sw	O
+3	Sm	O
+西	Bnr	O
+向	Enr	O
+
+冰	Bn	O
+皮	En	O
+流	Bn	O
+心	En	O
+月	Bn	O
+饼	En	O
+酸	Bn	O
+奶	En	O
+味	Sn	O
+
+散	Bv	O
+装	Ev	O
+称	Bv	O
+重	Ev	O
+
+竹	Bn	O
+乐	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+1	Bm	O
+4	Em	O
+日	Sm	O
+
+菌	Bn	O
+落	En	O
+总	Bn	O
+数	En	O
+金	Bn	O
+黄	Mn	O
+色	En	O
+葡	Bn	O
+萄	Mn	O
+球	Mn	O
+菌	En	O
+
+糕	Bn	O
+点	En	O
+
+6	Sw	O
+
+湖	Bns	B
+北	Ens	I
+卉	Sng	I
+谷	Sng	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+西	Bns	O
+江	Ens	O
+乡	Sn	O
+北	Bns	O
+河	Ens	O
+工	Bn	O
+业	Mn	O
+园	En	O
+B	Beng	O
+6	Eeng	O
+-	Sw	O
+3	Sm	O
+西	Bnr	O
+向	Enr	O
+
+湖	Bns	B
+北	Ens	I
+卉	Sng	I
+谷	Sng	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+西	Bns	O
+江	Ens	O
+乡	Sn	O
+北	Bns	O
+河	Ens	O
+工	Bn	O
+业	Mn	O
+园	En	O
+B	Beng	O
+6	Eeng	O
+-	Sw	O
+3	Sm	O
+西	Bnr	O
+向	Enr	O
+
+冰	Bn	O
+皮	En	O
+流	Bn	O
+心	En	O
+月	Bn	O
+饼	En	O
+榴	Bn	O
+莲	En	O
+味	Sn	O
+
+散	Bv	O
+装	Ev	O
+称	Bv	O
+重	Ev	O
+
+竹	Bn	O
+乐	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+1	Bm	O
+4	Em	O
+日	Sm	O
+
+菌	Bn	O
+落	En	O
+总	Bn	O
+数	En	O
+
+糕	Bn	O
+点	En	O
+
+7	Sw	O
+
+孝	Bns	B
+昌	Mns	I
+县	Ens	I
+圣	Sj	I
+康	Sj	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+孝	Bns	O
+昌	Mns	O
+县	Ens	O
+民	Bn	O
+乐	En	O
+路	Sn	O
+1	Bm	O
+8	Em	O
+号	Sm	O
+
+孝	Bns	B
+昌	Mns	I
+县	Ens	I
+圣	Sj	I
+康	Sj	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+孝	Bns	O
+昌	Mns	O
+县	Ens	O
+民	Bn	O
+乐	En	O
+路	Sn	O
+1	Bm	O
+8	Em	O
+号	Sm	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+圣	Sj	O
+康	Sj	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+1	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+8	Sw	O
+
+孝	Bns	B
+昌	Mns	I
+县	Ens	I
+宏	Ba	I
+伟	Ea	I
+纯	Bn	I
+净	Mn	I
+水	En	I
+厂	Szg	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+孝	Bns	O
+昌	Mns	O
+县	Ens	O
+昌	Bnz	O
+盛	Enz	O
+街	Sn	O
+昌	Bnz	O
+盛	Enz	O
+小	Bn	O
+区	En	O
+1	Sm	O
+号	Sm	O
+楼	Sn	O
+
+孝	Bns	B
+昌	Mns	I
+县	Ens	I
+宏	Ba	I
+伟	Ea	I
+纯	Bn	I
+净	Mn	I
+水	En	I
+厂	Szg	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+孝	Bns	O
+昌	Mns	O
+县	Ens	O
+昌	Bnz	O
+盛	Enz	O
+街	Sn	O
+昌	Bnz	O
+盛	Enz	O
+小	Bn	O
+区	En	O
+1	Sm	O
+号	Sm	O
+楼	Sn	O
+
+优	Bn	O
+质	En	O
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+安	Bnr	O
+吉	Mnr	O
+尔	Enr	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+2	Bm	O
+9	Em	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+9	Sw	O
+
+孝	Bns	B
+昌	Mns	I
+县	Ens	I
+源	Bnz	I
+泉	Enz	I
+桶	Bb	I
+装	Mb	I
+水	Eb	I
+经	Bn	I
+营	Mn	I
+部	En	E
+
+孝	Bns	O
+昌	Mns	O
+县	Ens	O
+城	Bn	O
+区	En	O
+北	Bns	O
+京	Mns	O
+路	Ens	O
+3	Bm	O
+1	Mm	O
+1	Em	O
+号	Sm	O
+
+孝	Bns	B
+昌	Mns	I
+县	Ens	I
+源	Bnz	I
+泉	Enz	I
+桶	Bb	I
+装	Mb	I
+水	Eb	I
+经	Bn	I
+营	Mn	I
+部	En	E
+
+孝	Bns	O
+昌	Mns	O
+县	Ens	O
+城	Bn	O
+区	En	O
+北	Bns	O
+京	Mns	O
+路	Ens	O
+3	Bm	O
+1	Mm	O
+1	Em	O
+号	Sm	O
+
+源	Bnz	O
+泉	Enz	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+源	Bnz	O
+泉	Enz	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+7	Sm	O
+月	Sm	O
+2	Bm	O
+8	Em	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+0	Em	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+沪	Sj	I
+光	Sn	I
+饮	Bn	I
+料	En	I
+食	Bn	I
+品	Mn	I
+厂	En	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+分	Bn	O
+水	En	O
+解	Bn	O
+放	Mn	O
+街	En	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+沪	Sj	I
+光	Sn	I
+饮	Bn	I
+料	En	I
+食	Bn	I
+品	Mn	I
+厂	En	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+分	Bn	O
+水	En	O
+解	Bn	O
+放	Mn	O
+街	En	O
+
+沪	Sj	O
+光	Sn	O
+生	Bn	O
+态	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+3	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+1	Em	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+弘	Bnr	I
+扬	Enr	I
+纯	Bn	I
+净	Mn	I
+水	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+分	Bn	O
+水	En	O
+镇	Bns	O
+罗	Mns	O
+丰	Ens	O
+村	Sn	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+弘	Bnr	I
+扬	Enr	I
+纯	Bn	I
+净	Mn	I
+水	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+分	Bn	O
+水	En	O
+镇	Bns	O
+罗	Mns	O
+丰	Ens	O
+村	Sn	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+鑫	Snr	O
+美	Bns	O
+凌	Ens	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+1	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+,	Sw	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+2	Em	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+汉	Bnz	I
+正	Enz	I
+桶	Bb	I
+装	Eb	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+厂	Szg	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+经	Bn	O
+济	En	O
+开	Bn	O
+发	Mn	O
+区	En	O
+川	Bns	O
+东	Ens	O
+大	Bn	O
+道	En	O
+川	Bns	O
+东	Ens	O
+制	Bn	O
+管	Mn	O
+厂	En	O
+内	Sf	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+汉	Bnz	I
+正	Enz	I
+桶	Bb	I
+装	Eb	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+厂	Szg	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+经	Bn	O
+济	En	O
+开	Bn	O
+发	Mn	O
+区	En	O
+川	Bns	O
+东	Ens	O
+大	Bn	O
+道	En	O
+川	Bns	O
+东	Ens	O
+制	Bn	O
+管	Mn	O
+厂	En	O
+内	Sf	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+汉	Bnz	O
+正	Enz	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+3	Sm	O
+日	Sm	O
+
+电	Bn	O
+导	Mn	O
+率	En	O
+,	Sw	O
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+3	Em	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+脉	Bn	I
+泉	En	I
+纯	Ba	I
+净	Ea	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+厂	Szg	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+汈	Sy	O
+东	Sf	O
+街	Bn	O
+道	En	O
+办	Bn	O
+事	Mn	O
+处	En	O
+长	Bns	O
+兴	Ens	O
+铺	Bns	O
+村	Ens	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+脉	Bn	I
+泉	En	I
+纯	Ba	I
+净	Ea	I
+饮	Bn	I
+用	Mn	I
+水	En	I
+厂	Szg	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+汈	Sy	O
+东	Sf	O
+街	Bn	O
+道	En	O
+办	Bn	O
+事	Mn	O
+处	En	O
+长	Bns	O
+兴	Ens	O
+铺	Bns	O
+村	Ens	O
+
+久	Sa	O
+源	Sng	O
+饮	Bn	O
+用	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+久	Sa	O
+源	Sng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+3	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+4	Em	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+川	Bnz	I
+泉	Enz	I
+纯	Bn	I
+净	Mn	I
+水	En	I
+厂	Szg	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+里	Bns	O
+潭	Mns	O
+乡	Ens	O
+何	Bnr	O
+家	Mnr	O
+湾	Enr	O
+村	Szg	O
+四	Bm	O
+组	Em	O
+
+汉	Bns	B
+川	Mns	I
+市	Ens	I
+川	Bnz	I
+泉	Enz	I
+纯	Bn	I
+净	Mn	I
+水	En	I
+厂	Szg	E
+
+汉	Bns	O
+川	Mns	O
+市	Ens	O
+里	Bns	O
+潭	Mns	O
+乡	Ens	O
+何	Bnr	O
+家	Mnr	O
+湾	Enr	O
+村	Szg	O
+四	Bm	O
+组	Em	O
+
+川	Bnz	O
+泉	Enz	O
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+4	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+5	Em	O
+
+湖	Bns	B
+北	Ens	I
+鑫	Snr	I
+良	Sn	I
+食	Bn	I
+品	En	I
+集	Bn	I
+团	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+（	Sw	O
+分	Bv	O
+装	Ev	O
+）	Sw	O
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+联	Bns	O
+城	Ens	O
+工	Bn	O
+业	Mn	O
+园	En	O
+
+湖	Bns	B
+北	Ens	I
+鑫	Snr	I
+良	Sn	I
+食	Bn	I
+品	En	I
+集	Bn	I
+团	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+（	Sw	O
+分	Bv	O
+装	Ev	O
+）	Sw	O
+
+湖	Bns	O
+北	Mns	O
+省	Ens	O
+孝	Bns	O
+感	Mns	O
+市	Ens	O
+联	Bns	O
+城	Ens	O
+工	Bn	O
+业	Mn	O
+园	En	O
+
+青	Bn	O
+豆	En	O
+果	Bn	O
+子	En	O
+
+9	Bm	O
+0	Em	O
+克	Snr	O
+/	Sw	O
+袋	Sq	O
+
+甜	Ba	O
+甜	Ea	O
+良	Bn	O
+品	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+6	Sm	O
+月	Sm	O
+2	Bm	O
+0	Em	O
+日	Sm	O
+
+酸	Bn	O
+价	En	O
+
+炒	Bv	O
+货	Ev	O
+食	Bn	O
+品	En	O
+及	Sc	O
+坚	Bn	O
+果	En	O
+制	Bn	O
+品	En	O
+
+1	Bm	O
+6	Em	O
+
+应	Bns	O
+城	Mns	O
+市	Ens	O
+新	Bnz	O
+美	Mnz	O
+星	Enz	O
+饮	Bn	O
+用	Mn	O
+水	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+城	Bs	I
+北	Es	I
+办	Bn	I
+事	Mn	I
+处	En	I
+赵	Bnr	I
+畈	Enr	I
+村	Sn	E
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+城	Bs	I
+北	Es	I
+办	Bn	I
+事	Mn	I
+处	En	I
+赵	Bnr	I
+畈	Enr	I
+村	Sn	E
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+城	Bs	I
+北	Es	I
+办	Bn	I
+事	Mn	I
+处	En	I
+赵	Bnr	I
+畈	Enr	I
+村	Sn	E
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+7	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+新	Bnz	O
+美	Mnz	O
+星	Enz	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+8	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+7	Em	O
+
+应	Bns	O
+城	Mns	O
+市	Ens	O
+富	Snr	O
+源	Bnz	O
+泉	Enz	O
+饮	Bn	O
+用	Mn	O
+水	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+东	Sns	I
+马	Bns	I
+坊	Ens	I
+东	Bnr	I
+塔	Mnr	I
+村	Enr	I
+五	Bm	I
+组	Em	E
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+东	Sns	I
+马	Bns	I
+坊	Ens	I
+东	Bnr	I
+塔	Mnr	I
+村	Enr	I
+五	Bm	I
+组	Em	E
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+东	Sns	I
+马	Bns	I
+坊	Ens	I
+东	Bnr	I
+塔	Mnr	I
+村	Enr	I
+五	Bm	I
+组	Em	E
+
+优	Bn	O
+质	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+富	Snr	O
+源	Bnz	O
+泉	Enz	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+2	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+
+1	Bm	O
+8	Em	O
+
+应	Bns	O
+城	Mns	O
+市	Ens	O
+净	Sa	O
+康	Bnr	O
+泉	Enr	O
+饮	Bn	O
+用	Mn	O
+水	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+城	Bs	I
+北	Es	I
+办	Bn	I
+事	Mn	I
+处	En	I
+赵	Bnr	I
+畈	Enr	I
+村	Sn	E
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+城	Bs	I
+北	Es	I
+办	Bn	I
+事	Mn	I
+处	En	I
+赵	Bnr	I
+畈	Enr	I
+村	Sn	E
+
+应	Bns	B
+城	Mns	I
+市	Ens	I
+城	Bs	I
+北	Es	I
+办	Bn	I
+事	Mn	I
+处	En	I
+赵	Bnr	I
+畈	Enr	I
+村	Sn	E
+
+净	Sa	O
+康	Bnr	O
+泉	Enr	O
+活	Bn	O
+性	En	O
+水	Sn	O
+
+1	Bm	O
+8	Mm	O
+.	Mm	O
+9	Em	O
+L	Seng	O
+/	Sw	O
+桶	Szg	O
+
+净	Sa	O
+康	Bnr	O
+泉	Enr	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+8	Sm	O
+日	Sm	O
+
+铜	Bn	O
+绿	En	O
+假	Sn	O
+单	Bn	O
+胞	Mn	O
+菌	En	O
+
+饮	Bn	O
+用	En	O
+纯	Bn	O
+净	Mn	O
+水	En	O
+

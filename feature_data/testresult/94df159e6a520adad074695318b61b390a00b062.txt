@@ -1,0 +1,1949 @@
+宝	Bns	B
+鸡	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+抽	Bv	O
+检	Ev	O
+：	Sw	O
+1	Bm	O
+4	Em	O
+组	Sv	O
+小	Bn	O
+家	Mn	O
+电	En	O
+、	Sw	O
+2	Sm	O
+组	Sv	O
+插	Bn	O
+头	En	O
+插	Bn	O
+座	En	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+据	Sp	O
+宝	Bns	O
+鸡	Mns	O
+市	Ens	O
+工	Bnt	O
+商	Mnt	O
+行	Mnt	O
+政	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+官	Bn	O
+网	En	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+2	Sm	O
+日	Sm	O
+发	Bv	O
+布	Ev	O
+的	Suj	O
+《	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Bn	O
+度	En	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+小	Bn	O
+家	Mn	O
+电	En	O
+抽	Bv	O
+检	Ev	O
+结	Bn	O
+果	En	O
+公	Bv	O
+示	Ev	O
+》	Sw	O
+，	Sw	O
+抽	Bv	O
+检	Ev	O
+的	Suj	O
+2	Bm	O
+0	Em	O
+组	Sv	O
+样	Bn	O
+品	En	O
+中	Sf	O
+有	Sv	O
+1	Bm	O
+6	Em	O
+组	Sv	O
+样	Bn	O
+品	En	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+抽	Bv	O
+检	Ev	O
+不	Sd	O
+合	Bn	O
+格	En	O
+商	Bn	O
+品	En	O
+包	Bv	O
+括	Ev	O
+小	Bn	O
+家	Mn	O
+电	En	O
+1	Bm	O
+4	Em	O
+组	Sv	O
+、	Sw	O
+插	Bn	O
+头	En	O
+插	Bn	O
+座	En	O
+2	Sm	O
+组	Sv	O
+，	Sw	O
+“	Sw	O
+春	Stg	O
+發	Sv	O
+”	Sw	O
+移	Bn	O
+动	Mn	O
+式	En	O
+插	Bn	O
+座	En	O
+/	Sw	O
+电	Bn	O
+源	En	O
+转	Bl	O
+换	Ml	O
+器	El	O
+、	Sw	O
+“	Sw	O
+格	Sn	O
+莱	Bnrt	O
+德	Enrt	O
+”	Sw	O
+多	Bb	O
+功	Mb	O
+能	Eb	O
+电	Bn	O
+热	Mn	O
+水	Mn	O
+壶	En	O
+、	Sw	O
+“	Sw	O
+長	Bns	O
+順	Ens	O
+”	Sw	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+（	Sw	O
+未	Sd	O
+标	Bv	O
+注	Ev	O
+）	Sw	O
+、	Sw	O
+“	Sw	O
+黄	Bns	O
+浦	Mns	O
+江	Ens	O
+”	Sw	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+、	Sw	O
+“	Sw	O
+甜	Ba	O
+甜	Ea	O
+”	Sw	O
+1	Bm	O
+8	Mm	O
+0	Em	O
+迷	Bb	O
+你	Eb	O
+台	Sq	O
+夹	Sv	O
+扇	Sq	O
+、	Sw	O
+“	Sw	O
+超	Bn	O
+维	En	O
+”	Sw	O
+毛	Bn	O
+球	En	O
+修	Bv	O
+剪	Ev	O
+器	Sn	O
+、	Sw	O
+“	Sw	O
+長	Bns	O
+順	Ens	O
+”	Sw	O
+专	Bn	O
+业	Mn	O
+型	En	O
+美	Bnz	O
+发	Enz	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+、	Sw	O
+“	Sw	O
+劳	Bnr	O
+特	Enr	O
+”	Sw	O
+插	Sv	O
+线	Bn	O
+板	En	O
+（	Sw	O
+未	Sd	O
+标	Bv	O
+注	Ev	O
+）	Sw	O
+、	Sw	O
+“	Sw	O
+铉	Sg	O
+博	Snr	O
+”	Sw	O
+铉	Sg	O
+博	Snr	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+、	Sw	O
+“	Sw	O
+瑞	Bj	O
+展	Ej	O
+”	Sw	O
+迷	Bb	O
+你	Eb	O
+炫	Sv	O
+彩	Bn	O
+电	En	O
+煮	Sv	O
+锅	Sn	O
+、	Sw	O
+“	Sw	O
+名	Bn	O
+人	En	O
+”	Sw	O
+大	Bn	O
+功	Mn	O
+率	En	O
+专	Bn	O
+业	En	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+、	Sw	O
+“	Sw	O
+粤	Bn	O
+友	En	O
+”	Sw	O
+自	Bvn	O
+控	Evn	O
+式	Sk	O
+养	Bv	O
+生	Ev	O
+保	Bnr	O
+健	Enr	O
+壶	Sq	O
+、	Sw	O
+“	Sw	O
+红	Bnr	O
+双	Mnr	O
+喜	Enr	O
+”	Sw	O
+悬	Bn	O
+浮	Mn	O
+式	En	O
+電	Bn	O
+餅	En	O
+鐺	So	O
+、	Sw	O
+“	Sw	O
+中	Bnr	O
+炜	Enr	O
+”	Sw	O
+转	Bn	O
+页	Mn	O
+扇	En	O
+、	Sw	O
+“	Sw	O
+豪	Sag	O
+祺	Sg	O
+”	Sw	O
+卡	Bnz	O
+通	Enz	O
+猫	Sn	O
+转	Sv	O
+页	Sq	O
+扇	Sq	O
+、	Sw	O
+“	Sw	O
+强	Sa	O
+派	Sv	O
+”	Sw	O
+超	Bn	O
+声	Mn	O
+波	En	O
+加	Bn	O
+湿	Mn	O
+器	En	O
+等	Su	O
+标	Bn	O
+称	En	O
+商	Bn	O
+标	En	O
+商	Bn	O
+品	En	O
+榜	Bl	O
+上	Ml	O
+有	Ml	O
+名	El	O
+。	Sw	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+的	Suj	O
+项	Bn	O
+目	En	O
+主	Bb	O
+要	Eb	O
+有	Sv	O
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+输	Bv	O
+入	Ev	O
+功	Bn	O
+率	En	O
+和	Sc	O
+电	Bn	O
+流	En	O
+、	Sw	O
+结	Bn	O
+构	En	O
+、	Sw	O
+电	Bn	O
+源	En	O
+连	Bv	O
+接	Ev	O
+和	Sc	O
+外	Bf	O
+部	Ef	O
+软	Bn	O
+线	En	O
+、	Sw	O
+接	Bv	O
+地	Ev	O
+措	Bn	O
+施	En	O
+、	Sw	O
+尺	Bn	O
+寸	En	O
+的	Suj	O
+检	Bvn	O
+查	Evn	O
+、	Sw	O
+端	Bn	O
+子	En	O
+和	Sc	O
+端	Bn	O
+头	En	O
+。	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+小	Bn	O
+家	Mn	O
+电	En	O
+商	Bn	O
+品	En	O
+抽	Bv	O
+检	Ev	O
+结	Bn	O
+果	En	O
+汇	Bn	O
+总	En	O
+（	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+）	Sw	O
+
+序	Bn	O
+号	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+检	Ev	O
+人	Sn	O
+
+标	Bn	O
+称	En	O
+商	Bn	O
+标	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+或	Sc	O
+批	Bn	O
+号	En	O
+
+综	Bvn	O
+合	Evn	O
+判	Bv	O
+定	Ev	O
+（	Sw	O
+合	Bn	O
+格	En	O
+/	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+）	Sw	O
+
+主	Bb	O
+要	Eb	O
+不	Sd	O
+合	Bn	O
+格	En	O
+项	Bn	O
+目	En	O
+
+1	Bm	O
+.	Em	O
+
+移	Bn	O
+动	Mn	O
+式	En	O
+插	Bn	O
+座	En	O
+/	Sw	O
+电	Bn	O
+源	En	O
+转	Bl	O
+换	Ml	O
+器	El	O
+
+宝	Bns	O
+鸡	Mns	O
+市	Ens	O
+众	Sng	O
+鑫	Snr	O
+连	Bvn	O
+锁	Evn	O
+超	Bv	O
+市	Ev	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+春	Stg	O
+發	Sv	O
+
+浙	Bns	O
+江	Ens	O
+慈	Bns	O
+溪	Mns	O
+市	Ens	O
+观	Bns	O
+海	Ens	O
+卫	Bnr	O
+镇	Enr	O
+春	Bnr	O
+雷	Enr	O
+电	Bn	O
+子	En	O
+配	Bn	O
+件	Mn	O
+厂	En	O
+
+C	Beng	O
+F	Meng	O
+2	Meng	O
+0	Eeng	O
+-	Sw	O
+9	Bm	O
+0	Mm	O
+6	Em	O
+型	Sk	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+尺	Bn	O
+寸	En	O
+的	Suj	O
+检	Bvn	O
+查	Evn	O
+、	Sw	O
+端	Bn	O
+子	En	O
+和	Sc	O
+端	Bn	O
+头	En	O
+
+2	Bm	O
+.	Em	O
+
+多	Bb	O
+功	Mb	O
+能	Eb	O
+电	Bn	O
+热	Mn	O
+水	Mn	O
+壶	En	O
+
+宝	Bn	O
+鸡	En	O
+商	Bn	O
+场	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+家	Bj	O
+美	Mj	O
+佳	Ej	O
+扶	Bnr	O
+风	Enr	O
+新	Bns	O
+都	Ens	O
+汇	Bn	O
+店	En	O
+
+格	Sn	O
+莱	Bnrt	O
+德	Enrt	O
+
+江	Bns	O
+苏	Mns	O
+省	Ens	O
+格	Bnr	O
+来	Mnr	O
+德	Enr	O
+净	Bn	O
+水	En	O
+科	Bn	O
+技	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+W	Beng	O
+K	Meng	O
+F	Eeng	O
+-	Sw	O
+1	Bm	O
+1	Mm	O
+2	Em	O
+B	Beng	O
+L	Eeng	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+结	Bn	O
+构	En	O
+
+3	Bm	O
+.	Em	O
+
+电	Bn	O
+吹	Mn	O
+风	En	O
+
+（	Sw	O
+未	Sd	O
+标	Bv	O
+注	Ev	O
+）	Sw	O
+
+扶	Bnr	O
+风	Enr	O
+老	Bn	O
+实	Mn	O
+人	En	O
+购	Bn	O
+物	Mn	O
+广	Mn	O
+场	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+長	Bns	O
+順	Ens	O
+
+广	Bns	O
+东	Mns	O
+省	Ens	O
+揭	Bns	O
+阳	Ens	O
+榕	Bns	O
+城	Mns	O
+区	Ens	O
+榕	Sn	O
+东	Bnz	O
+盛	Enz	O
+裕	Snr	O
+五	Bn	O
+金	En	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+C	Beng	O
+S	Eeng	O
+-	Sw	O
+8	Bm	O
+3	Mm	O
+2	Mm	O
+3	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+输	Bv	O
+入	Ev	O
+功	Bn	O
+率	En	O
+和	Sc	O
+电	Bn	O
+流	En	O
+、	Sw	O
+电	Bn	O
+源	En	O
+连	Bv	O
+接	Ev	O
+和	Sc	O
+外	Bf	O
+部	Ef	O
+软	Bn	O
+线	En	O
+
+4	Bm	O
+.	Em	O
+
+电	Bn	O
+吹	Mn	O
+风	En	O
+
+扶	Bnr	O
+风	Enr	O
+老	Bn	O
+实	Mn	O
+人	En	O
+购	Bn	O
+物	Mn	O
+广	Mn	O
+场	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+黄	Bns	O
+浦	Mns	O
+江	Ens	O
+
+德	Bns	O
+清	Mns	O
+县	Ens	O
+新	Bns	O
+市	Ens	O
+双	Bnr	O
+建	Enr	O
+家	Bn	O
+用	Mn	O
+电	Mn	O
+器	En	O
+厂	Szg	O
+
+R	Beng	O
+C	Meng	O
+Y	Meng	O
+2	Meng	O
+2	Meng	O
+0	Eeng	O
+-	Sw	O
+8	Sw	O
+-	Sw	O
+6	Bm	O
+1	Mm	O
+0	Mm	O
+0	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+输	Bv	O
+入	Ev	O
+功	Bn	O
+率	En	O
+和	Sc	O
+电	Bn	O
+流	En	O
+
+5	Bm	O
+.	Em	O
+
+1	Bm	O
+8	Mm	O
+0	Em	O
+迷	Bb	O
+你	Eb	O
+台	Sq	O
+夹	Sv	O
+扇	Sq	O
+
+扶	Bns	O
+风	Mns	O
+县	Ens	O
+众	Sng	O
+鑫	Snr	O
+超	Bv	O
+市	Ev	O
+
+甜	Ba	O
+甜	Ea	O
+
+台	Bns	O
+州	Mns	O
+市	Ens	O
+微	Bn	O
+桑	En	O
+塑	Bn	O
+料	En	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+R	Beng	O
+X	Meng	O
+0	Meng	O
+1	Eeng	O
+-	Sw	O
+1	Bm	O
+8	Mm	O
+0	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+
+6	Bm	O
+.	Em	O
+
+毛	Bn	O
+球	En	O
+修	Bv	O
+剪	Ev	O
+器	Sn	O
+
+岐	Bns	O
+山	Ens	O
+隆	Bnr	O
+泰	Enr	O
+老	Bn	O
+实	Mn	O
+人	En	O
+购	Bn	O
+物	Mn	O
+广	Mn	O
+场	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+超	Bn	O
+维	En	O
+
+慈	Bns	O
+溪	Mns	O
+市	Ens	O
+周	Bnr	O
+巷	Mnr	O
+益	Enr	O
+超	Sv	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+C	Beng	O
+W	Eeng	O
+-	Sw	O
+2	Bm	O
+7	Mm	O
+8	Mm	O
+8	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+
+7	Bm	O
+.	Em	O
+
+专	Bn	O
+业	Mn	O
+型	En	O
+美	Bnz	O
+发	Enz	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+
+岐	Bns	O
+山	Ens	O
+隆	Bnr	O
+泰	Enr	O
+老	Bn	O
+实	Mn	O
+人	En	O
+购	Bn	O
+物	Mn	O
+广	Mn	O
+场	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+長	Bns	O
+順	Ens	O
+
+广	Bns	O
+东	Mns	O
+省	Ens	O
+揭	Bns	O
+阳	Ens	O
+榕	Bns	O
+城	Mns	O
+区	Ens	O
+榕	Sn	O
+东	Bnz	O
+盛	Enz	O
+裕	Snr	O
+五	Bn	O
+金	En	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+C	Beng	O
+S	Eeng	O
+-	Sw	O
+8	Bm	O
+3	Mm	O
+2	Mm	O
+8	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+输	Bv	O
+入	Ev	O
+功	Bn	O
+率	En	O
+和	Sc	O
+电	Bn	O
+流	En	O
+、	Sw	O
+电	Bn	O
+源	En	O
+连	Bv	O
+接	Ev	O
+和	Sc	O
+外	Bf	O
+部	Ef	O
+软	Bn	O
+线	En	O
+
+8	Bm	O
+.	Em	O
+
+插	Sv	O
+线	Bn	O
+板	En	O
+
+（	Sw	O
+未	Sd	O
+标	Bv	O
+注	Ev	O
+）	Sw	O
+
+岐	Bns	O
+山	Mns	O
+县	Ens	O
+西	Bn	O
+机	En	O
+商	Bn	O
+贸	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+劳	Bnr	O
+特	Enr	O
+
+余	Bnr	O
+姚	Enr	O
+劳	Bnr	O
+特	Enr	O
+电	Bn	O
+器	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+R	Beng	O
+T	Eeng	O
+-	Sw	O
+9	Bm	O
+0	Mm	O
+7	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+尺	Bn	O
+寸	En	O
+的	Suj	O
+检	Bvn	O
+查	Evn	O
+
+9	Bm	O
+.	Em	O
+
+铉	Sg	O
+博	Snr	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+
+岐	Bns	O
+山	Mns	O
+县	Ens	O
+西	Bn	O
+机	En	O
+商	Bn	O
+贸	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+铉	Sg	O
+博	Snr	O
+
+揭	Bns	O
+阳	Mns	O
+市	Ens	O
+铉	Sg	O
+博	Snr	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+X	Beng	O
+B	Eeng	O
+-	Sw	O
+8	Bm	O
+8	Mm	O
+7	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+输	Bv	O
+入	Ev	O
+功	Bn	O
+率	En	O
+和	Sc	O
+电	Bn	O
+流	En	O
+
+1	Bm	O
+0	Mm	O
+.	Em	O
+
+迷	Bb	O
+你	Eb	O
+炫	Sv	O
+彩	Bn	O
+电	En	O
+煮	Sv	O
+锅	Sn	O
+
+陇	Bns	O
+县	Ens	O
+新	Sa	O
+森	Ba	O
+美	Ea	O
+连	Bvn	O
+锁	Evn	O
+超	Bv	O
+市	Ev	O
+
+瑞	Bj	O
+展	Ej	O
+
+潮	Bns	O
+州	Mns	O
+市	Ens	O
+潮	Bns	O
+安	Ens	O
+区	Sn	O
+金	Bnr	O
+石	Enr	O
+镇	Bns	O
+森	Mns	O
+沃	Ens	O
+五	Bn	O
+金	Mn	O
+厂	En	O
+
+1	Bm	O
+8	Em	O
+c	Beng	O
+m	Eeng	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+电	Bn	O
+源	En	O
+连	Bv	O
+接	Ev	O
+和	Sc	O
+外	Bf	O
+部	Ef	O
+软	Bn	O
+线	En	O
+、	Sw	O
+接	Bv	O
+地	Ev	O
+措	Bn	O
+施	En	O
+
+1	Bm	O
+1	Mm	O
+.	Em	O
+
+大	Bn	O
+功	Mn	O
+率	En	O
+专	Bn	O
+业	En	O
+电	Bn	O
+吹	Mn	O
+风	En	O
+
+陇	Bns	O
+县	Ens	O
+新	Sa	O
+森	Ba	O
+美	Ea	O
+连	Bvn	O
+锁	Evn	O
+超	Bv	O
+市	Ev	O
+
+名	Bn	O
+人	En	O
+
+揭	Bns	O
+阳	Ens	O
+空	Sn	O
+港	Bn	O
+区	En	O
+名	Bn	O
+人	En	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+M	Beng	O
+R	Eeng	O
+-	Sw	O
+1	Bm	O
+7	Mm	O
+9	Mm	O
+3	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+输	Bv	O
+入	Ev	O
+功	Bn	O
+率	En	O
+和	Sc	O
+电	Bn	O
+流	En	O
+
+1	Bm	O
+2	Mm	O
+.	Em	O
+
+自	Bvn	O
+控	Evn	O
+式	Sk	O
+养	Bv	O
+生	Ev	O
+保	Bnr	O
+健	Enr	O
+壶	Sq	O
+
+陇	Bns	O
+县	Ens	O
+新	Sa	O
+森	Ba	O
+美	Ea	O
+连	Bvn	O
+锁	Evn	O
+超	Bv	O
+市	Ev	O
+
+粤	Bn	O
+友	En	O
+
+潮	Bns	O
+州	Mns	O
+市	Ens	O
+潮	Bns	O
+安	Ens	O
+区	Bn	O
+彩	En	O
+塘	Bns	O
+镇	Ens	O
+万	Sm	O
+同	Bn	O
+喜	En	O
+不	Bn	O
+锈	Mn	O
+钢	En	O
+制	Bn	O
+品	Mn	O
+厂	En	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+电	Bn	O
+源	En	O
+连	Bv	O
+接	Ev	O
+和	Sc	O
+外	Bf	O
+部	Ef	O
+软	Bn	O
+线	En	O
+、	Sw	O
+接	Bv	O
+地	Ev	O
+措	Bn	O
+施	En	O
+
+1	Bm	O
+3	Mm	O
+.	Em	O
+
+悬	Bn	O
+浮	Mn	O
+式	En	O
+電	Bn	O
+餅	En	O
+鐺	So	O
+
+陇	Bns	O
+县	Ens	O
+好	Bl	O
+又	Ml	O
+多	El	O
+购	Bn	O
+物	En	O
+超	Bv	O
+市	Ev	O
+
+红	Bnr	O
+双	Mnr	O
+喜	Enr	O
+
+永	Bns	O
+康	Mns	O
+市	Ens	O
+晨	Bn	O
+阳	En	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+C	Beng	O
+Y	Eeng	O
+-	Sw	O
+8	Bm	O
+0	Mm	O
+1	Mm	O
+8	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+接	Bv	O
+地	Ev	O
+措	Bn	O
+施	En	O
+
+1	Bm	O
+4	Mm	O
+.	Em	O
+
+转	Bn	O
+页	Mn	O
+扇	En	O
+
+宝	Bn	O
+鸡	En	O
+商	Bn	O
+场	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+家	Bj	O
+美	Mj	O
+佳	Ej	O
+千	Bns	O
+阳	Ens	O
+南	Bns	O
+关	Ens	O
+路	Bn	O
+店	En	O
+
+中	Bnr	O
+炜	Enr	O
+
+台	Bns	O
+州	Mns	O
+市	Ens	O
+椒	Bns	O
+江	Ens	O
+中	Bnr	O
+炜	Enr	O
+电	Bn	O
+风	Mn	O
+扇	En	O
+厂	Szg	O
+
+Z	Beng	O
+W	Meng	O
+O	Meng	O
+2	Eeng	O
+-	Sw	O
+1	Bm	O
+8	Mm	O
+8	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+结	Bn	O
+构	En	O
+
+1	Bm	O
+5	Mm	O
+.	Em	O
+
+卡	Bnz	O
+通	Enz	O
+猫	Sn	O
+转	Sv	O
+页	Sq	O
+扇	Sq	O
+
+宝	Bn	O
+鸡	En	O
+商	Bn	O
+场	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+家	Bj	O
+美	Mj	O
+佳	Ej	O
+千	Bns	O
+阳	Ens	O
+南	Bns	O
+关	Ens	O
+路	Bn	O
+店	En	O
+
+豪	Sag	O
+祺	Sg	O
+
+浙	Bns	O
+江	Mns	O
+省	Ens	O
+台	Bns	O
+州	Mns	O
+市	Ens	O
+路	Bns	O
+桥	Ens	O
+鑫	Snr	O
+辰	Sng	O
+电	Bn	O
+风	Mn	O
+扇	En	O
+厂	Szg	O
+
+H	Beng	O
+Q	Eeng	O
+-	Sw	O
+3	Bm	O
+0	Mm	O
+6	Em	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+标	Bn	O
+志	En	O
+和	Sc	O
+说	Bv	O
+明	Ev	O
+、	Sw	O
+结	Bn	O
+构	En	O
+
+1	Bm	O
+6	Mm	O
+.	Em	O
+
+超	Bn	O
+声	Mn	O
+波	En	O
+加	Bn	O
+湿	Mn	O
+器	En	O
+
+宝	Bn	O
+鸡	En	O
+商	Bn	O
+场	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+家	Bj	O
+美	Mj	O
+佳	Ej	O
+千	Bns	O
+阳	Ens	O
+南	Bns	O
+关	Ens	O
+路	Bn	O
+店	En	O
+
+强	Sa	O
+派	Sv	O
+
+中	Bns	O
+山	Mns	O
+市	Ens	O
+东	Bnr	O
+凤	Mnr	O
+镇	Enr	O
+强	Bn	O
+派	En	O
+电	Bn	O
+器	Mn	O
+厂	En	O
+
+S	Beng	O
+C	Meng	O
+K	Eeng	O
+-	Sw	O
+2	Sm	O
+A	Beng	O
+3	Meng	O
+8	Eeng	O
+-	Sw	O
+2	Sw	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+结	Bn	O
+构	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+小	Bn	O
+家	Mn	O
+电	En	O
+商	Bn	O
+品	En	O
+抽	Bv	O
+检	Ev	O
+结	Bn	O
+果	En	O
+汇	Bn	O
+总	En	O
+（	Sw	O
+合	Bn	O
+格	En	O
+）	Sw	O
+
+填	Bv	O
+报	Ev	O
+单	Bn	O
+位	En	O
+：	Sw	O
+远	Bns	O
+东	Ens	O
+正	Ba	O
+大	Ea	O
+检	Bvn	O
+验	Evn	O
+（	Sw	O
+重	Bns	O
+庆	Ens	O
+）	Sw	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+（	Sw	O
+印	Bn	O
+章	En	O
+）	Sw	O
+填	Bv	O
+报	Ev	O
+时	Bn	O
+间	En	O
+：	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+0	Bm	O
+7	Em	O
+月	Sm	O
+1	Bm	O
+7	Em	O
+日	Sm	O
+填	Bv	O
+报	Ev	O
+人	Sn	O
+：	Sw	O
+
+审	Bv	O
+核	Ev	O
+人	Sn	O
+：	Sw	O
+
+序	Bn	O
+号	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+检	Ev	O
+人	Sn	O
+
+标	Bn	O
+称	En	O
+商	Bn	O
+标	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+或	Sc	O
+批	Bn	O
+号	En	O
+
+综	Bvn	O
+合	Evn	O
+判	Bv	O
+定	Ev	O
+（	Sw	O
+合	Bn	O
+格	En	O
+/	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+）	Sw	O
+
+主	Bb	O
+要	Eb	O
+不	Sd	O
+合	Bn	O
+格	En	O
+项	Bn	O
+目	En	O
+
+1	Bm	O
+.	Em	O
+
+多	Bb	O
+功	Mb	O
+能	Eb	O
+电	Bn	O
+热	Mn	O
+锅	En	O
+
+宝	Bn	O
+鸡	En	O
+商	Bn	O
+场	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+家	Bj	O
+美	Mj	O
+佳	Ej	O
+经	Sn	O
+二	Bm	O
+路	Em	O
+店	Sn	O
+
+粤	Bn	O
+友	En	O
+
+山	Bns	O
+东	Ens	O
+多	Sm	O
+星	Sn	O
+电	Bn	O
+器	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+2	Bm	O
+.	Em	O
+
+电	Bn	O
+风	Mn	O
+扇	En	O
+
+西	Bns	O
+安	Mns	O
+市	Ens	O
+国	Bnz	O
+美	Enz	O
+电	Bn	O
+器	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+宝	Bn	O
+鸡	En	O
+分	Bn	O
+公	Mn	O
+司	En	O
+
+先	Bn	O
+锋	En	O
+
+宁	Bns	O
+波	Ens	O
+先	Bn	O
+锋	En	O
+电	Bn	O
+器	En	O
+制	Bv	O
+造	Ev	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+K	Beng	O
+Y	Meng	O
+T	Meng	O
+2	Meng	O
+5	Eeng	O
+-	Sw	O
+1	Bm	O
+7	Em	O
+A	Seng	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+3	Bm	O
+.	Em	O
+
+电	Bn	O
+热	Mn	O
+水	Mn	O
+壶	En	O
+
+宝	Bn	O
+鸡	En	O
+苏	Bns	O
+宁	Ens	O
+云	Bnt	O
+商	Ent	O
+商	Bn	O
+贸	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+美	Bnr	O
+的	Enr	O
+
+广	Bns	O
+东	Ens	O
+美	Bnr	O
+的	Enr	O
+生	Bvn	O
+活	Evn	O
+电	Bn	O
+器	En	O
+制	Bv	O
+造	Ev	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+M	Beng	O
+K	Eeng	O
+-	Sw	O
+H	Beng	O
+4	Meng	O
+1	Meng	O
+5	Meng	O
+E	Meng	O
+2	Eeng	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+4	Bm	O
+.	Em	O
+
+多	Bb	O
+功	Mb	O
+能	Eb	O
+电	Bn	O
+热	Mn	O
+器	En	O
+
+千	Bns	O
+阳	Mns	O
+县	Ens	O
+新	Bn	O
+客	En	O
+都	Sd	O
+商	Bns	O
+城	Ens	O
+
+美	Bnr	O
+的	Enr	O
+
+广	Bns	O
+东	Ens	O
+美	Bnr	O
+的	Enr	O
+生	Bvn	O
+活	Evn	O
+电	Bn	O
+器	En	O
+制	Bv	O
+造	Ev	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+M	Beng	O
+C	Eeng	O
+-	Sw	O
+D	Beng	O
+H	Meng	O
+N	Meng	O
+3	Meng	O
+2	Meng	O
+B	Eeng	O
+
+未	Sd	O
+标	Bv	O
+注	Ev	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+

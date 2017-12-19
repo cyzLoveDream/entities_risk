@@ -1,0 +1,405 @@
+上	Bns
+海	Ens
+长	Bns
+宁	Mns
+区	Ens
+市	Bn
+场	En
+监	Bn
+管	Mn
+局	En
+抽	Bv
+检	Ev
+煎	Bv
+炸	Ev
+用	Sp
+植	Bn
+物	Mn
+油	En
+4	Sw
+批	Bd
+次	Ed
+ 	Sw
+
+未	Sd
+发	Bv
+现	Ev
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+从	Sp
+上	Bns
+海	Mns
+市	Ens
+长	Bns
+宁	Mns
+区	Ens
+市	Bn
+场	En
+监	Bvn
+督	Evn
+管	Bn
+理	Mn
+局	En
+官	Bn
+网	En
+获	Bv
+悉	Ev
+，	Sw
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+7	Sm
+月	Sm
+，	Sw
+该	Br
+局	Er
+抽	Bv
+检	Ev
+食	Bn
+用	Mn
+油	En
+、	Sw
+油	Bn
+脂	En
+及	Bc
+其	Ec
+制	Bn
+品	En
+4	Sw
+批	Bd
+次	Ed
+,	Sw
+未	Sd
+发	Bv
+现	Ev
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+。	Sw
+
+ 	Sw
+
+本	Br
+次	Er
+抽	Bv
+检	Ev
+的	Suj
+食	Bn
+用	Mn
+油	En
+、	Sw
+油	Bn
+脂	En
+及	Bc
+其	Ec
+制	Bn
+品	En
+主	Bb
+要	Eb
+为	Sp
+餐	Bn
+饮	En
+服	Bvn
+务	Evn
+环	Bn
+节	En
+的	Suj
+煎	Bv
+炸	Ev
+用	Sp
+植	Bn
+物	Mn
+油	En
+。	Sw
+
+抽	Bv
+检	Ev
+依	Bp
+据	Ep
+是	Sv
+《	Sw
+食	Bn
+用	En
+植	Bn
+物	Mn
+油	En
+煎	Bv
+炸	Ev
+过	Bn
+程	En
+中	Sf
+的	Suj
+卫	Bn
+生	Mn
+标	Mn
+准	En
+》	Sw
+（	Sw
+G	Beng
+B	Eeng
+ 	Sw
+
+7	Bm
+1	Mm
+0	Mm
+2	Mm
+.	Mm
+1	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+3	Em
+）	Sw
+。	Sw
+
+抽	Bv
+检	Ev
+项	Bn
+目	En
+包	Bv
+括	Ev
+酸	Bn
+价	En
+、	Sw
+羰	Bn
+基	En
+价	Sn
+、	Sw
+极	Bn
+性	En
+组	Bn
+分	En
+等	Su
+3	Sm
+个	Sm
+指	Bn
+标	En
+。	Sw
+
+ 	Sw
+
+食	Bn
+用	Mn
+油	En
+、	Sw
+油	Bn
+脂	En
+及	Bc
+其	Ec
+制	Bn
+品	En
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+合	Bn
+格	En
+信	Bn
+息	En
+ 	Sw
+
+1	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+上	Bns
+海	Mns
+市	Ens
+长	Bns
+宁	Mns
+区	Ens
+汪	Bnr
+记	Enr
+小	Bn
+吃	Mn
+店	En
+ 	Sw
+
+煎	Bv
+炸	Ev
+油	Sn
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+7	Mm
+.	Mm
+1	Mm
+7	Em
+ 	Sw
+
+2	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+上	Bns
+海	Ens
+希	Bv
+成	Ev
+餐	Bn
+饮	En
+管	Bvn
+理	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+娄	Bns
+山	Ens
+华	Bnr
+德	Enr
+饭	Bn
+店	En
+ 	Sw
+
+煎	Bv
+炸	Ev
+用	Sp
+植	Bn
+物	Mn
+油	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+7	Mm
+.	Mm
+1	Mm
+2	Em
+ 	Sw
+
+3	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+上	Bns
+海	Ens
+菠	Bn
+康	En
+餐	Bn
+饮	En
+管	Bvn
+理	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+煎	Bv
+炸	Ev
+用	Sp
+植	Bn
+物	Mn
+油	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+7	Mm
+.	Mm
+1	Mm
+2	Em
+ 	Sw
+
+4	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+上	Bns
+海	Ens
+食	Bnz
+饱	Mnz
+乐	Enz
+餐	Bn
+饮	En
+管	Bvn
+理	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+水	Bn
+城	En
+南	Bns
+路	Ens
+店	Sn
+ 	Sw
+
+煎	Bv
+炸	Ev
+油	Sn
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+.	Mm
+7	Mm
+.	Mm
+1	Mm
+2	Em
+
+

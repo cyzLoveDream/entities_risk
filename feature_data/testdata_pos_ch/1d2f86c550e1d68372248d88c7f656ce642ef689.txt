@@ -1,0 +1,2325 @@
+保	Bns
+山	Mns
+市	Ens
+食	Sv
+药	Bnt
+监	Mnt
+局	Ent
+公	Bv
+布	Ev
+2	Bm
+0	Em
+批	Bd
+次	Ed
+抽	Bv
+检	Ev
+合	Bn
+格	En
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+样	Bn
+品	En
+信	Bn
+息	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+8	Sm
+月	Sm
+9	Sm
+日	Sm
+，	Sw
+保	Bns
+山	Mns
+市	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+官	Bn
+网	En
+发	Bv
+布	Ev
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+第	Sm
+4	Sm
+期	Sn
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+信	Bn
+息	En
+公	Bn
+告	En
+，	Sw
+公	Bv
+布	Ev
+抽	Bv
+检	Ev
+合	Bn
+格	En
+样	Bn
+品	En
+2	Bm
+0	Em
+批	Bd
+次	Ed
+。	Sw
+
+ 	Sw
+
+本	Bt
+期	Et
+公	Bv
+布	Ev
+的	Suj
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+产	Bn
+品	En
+为	Sp
+：	Sw
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+。	Sw
+
+抽	Bv
+检	Ev
+依	Bp
+据	Ep
+《	Sw
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+中	Sf
+有	Bn
+机	Mn
+磷	En
+、	Sw
+有	Bn
+机	Mn
+氯	En
+、	Sw
+拟	Sv
+除	Bn
+虫	Mn
+菊	En
+酯	Sng
+和	Sc
+氨	Bnz
+基	Mnz
+甲	Mnz
+酸	Mnz
+酯	Enz
+类	Sq
+农	Bn
+药	En
+多	Sm
+残	Bv
+留	Ev
+的	Suj
+测	Bv
+定	Ev
+》	Sw
+（	Sw
+N	Beng
+Y	Eeng
+/	Sw
+T	Sw
+ 	Sw
+
+7	Bm
+6	Mm
+1	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+8	Em
+）	Sw
+、	Sw
+《	Sw
+食	Bn
+品	En
+中	Sf
+有	Bn
+机	Mn
+氯	En
+农	Bn
+药	En
+多	Bl
+组	Ml
+分	El
+残	Bn
+留	Mn
+量	En
+的	Suj
+测	Bv
+定	Ev
+》	Sw
+（	Sw
+G	Beng
+B	Eeng
+/	Sw
+T	Sw
+ 	Sw
+
+5	Bm
+0	Mm
+0	Mm
+9	Mm
+.	Mm
+1	Mm
+9	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+8	Em
+）	Sw
+》	Sw
+、	Sw
+《	Sw
+植	Bn
+物	Mn
+性	En
+食	Bn
+品	En
+中	Sf
+有	Bn
+机	Mn
+磷	En
+和	Sc
+氨	Bnz
+基	Mnz
+甲	Mnz
+酸	Mnz
+酯	Enz
+类	Sq
+农	Bn
+药	En
+多	Bm
+种	Em
+残	Bv
+留	Ev
+的	Suj
+测	Bv
+定	Ev
+》	Sw
+（	Sw
+G	Beng
+B	Eeng
+/	Sw
+T	Sw
+ 	Sw
+
+5	Bm
+0	Mm
+0	Mm
+9	Mm
+.	Mm
+1	Mm
+4	Mm
+5	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+3	Em
+）	Sw
+、	Sw
+《	Sw
+水	Bn
+果	En
+和	Sc
+蔬	Bn
+菜	En
+中	Sns
+5	Bm
+0	Mm
+0	Em
+种	Sm
+农	Bn
+药	En
+及	Sc
+相	Bv
+关	Ev
+化	Bn
+学	Mn
+品	En
+残	Bn
+留	Mn
+量	En
+的	Suj
+测	Bv
+定	Ev
+ 	Sw
+
+气	Sn
+相	Bl
+色	Ml
+谱	El
+-	Sw
+质	Bn
+谱	Mn
+法	En
+》	Sw
+（	Sw
+G	Beng
+B	Eeng
+/	Sw
+T	Sw
+ 	Sw
+
+1	Bm
+9	Mm
+6	Mm
+4	Mm
+8	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+6	Em
+）	Sw
+、	Sw
+《	Sw
+水	Bn
+果	En
+和	Sc
+蔬	Bn
+菜	En
+中	Sns
+4	Bm
+5	Mm
+0	Em
+种	Sm
+农	Bn
+药	En
+及	Sc
+相	Bv
+关	Ev
+化	Bn
+学	Mn
+品	En
+残	Bn
+留	Mn
+量	En
+的	Suj
+测	Bv
+定	Ev
+ 	Sw
+
+液	Bn
+相	En
+色	Bn
+谱	En
+-	Sw
+串	Bns
+联	Ens
+质	Bn
+谱	Mn
+法	En
+》	Sw
+（	Sw
+G	Beng
+B	Eeng
+/	Sw
+T	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+7	Mm
+6	Mm
+9	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+8	Em
+）	Sw
+、	Sw
+《	Sw
+动	Bn
+物	En
+源	Bn
+性	En
+食	Bn
+品	En
+中	Sf
+四	Bl
+环	Ml
+素	El
+类	Bn
+售	Mn
+药	En
+残	Bv
+留	Ev
+检	Bvn
+验	Evn
+方	Bn
+法	En
+ 	Sw
+
+液	Bn
+相	En
+色	Bn
+谱	En
+质	Bn
+谱	En
+/	Sw
+质	Bn
+谱	Mn
+法	En
+和	Sc
+高	Ba
+效	Ea
+液	Bn
+相	En
+色	Bn
+谱	Mn
+法	En
+》	Sw
+（	Sw
+G	Beng
+B	Eeng
+/	Sw
+T	Sw
+ 	Sw
+
+2	Bm
+1	Mm
+3	Mm
+1	Mm
+7	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+7	Em
+）	Sw
+等	Su
+标	Bn
+准	En
+要	Bv
+求	Ev
+。	Sw
+
+抽	Bv
+检	Ev
+项	Bn
+目	En
+包	Bv
+括	Ev
+农	Bn
+药	En
+残	Bv
+留	Ev
+、	Sw
+兽	Bn
+药	En
+残	Bv
+留	Ev
+等	Su
+指	Bn
+标	En
+。	Sw
+
+ 	Sw
+
+附	Bn
+件	En
+：	Sw
+食	Bn
+品	En
+抽	Bv
+检	Ev
+合	Bn
+格	En
+—	Sw
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+7	Em
+ 	Sw
+
+（	Sw
+声	Bn
+明	En
+：	Sw
+以	Bf
+下	Ef
+信	Bn
+息	En
+仅	Bv
+指	Ev
+本	Br
+次	Er
+抽	Bv
+检	Ev
+标	Bn
+称	En
+的	Suj
+生	Bvn
+产	Evn
+企	Bn
+业	En
+相	Bv
+关	Ev
+产	Bn
+品	En
+的	Suj
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+和	Sc
+所	Bv
+检	Ev
+项	Bn
+目	En
+）	Sw
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	En
+所	Bb
+在	Eb
+省	Bn
+份	En
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+检	Bvn
+验	Evn
+机	Bn
+构	En
+ 	Sw
+
+检	Bvn
+验	Evn
+项	Bn
+目	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+2	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+莲	Bn
+花	Mn
+白	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+毒	Bn
+死	En
+蜱	Sg
+、	Sw
+对	Bnz
+硫	Mnz
+磷	Enz
+、	Sw
+克	Sm
+百	Bn
+威	En
+ 	Sw
+
+ 	Sw
+
+3	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+4	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+5	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+菠	Bn
+菜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+6	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+红	Bnr
+辣	Mnr
+椒	Enr
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+7	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+8	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+青	Sns
+辣	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+9	Sw
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+青	Sns
+辣	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+小	Bn
+米	En
+辣	Sn
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+西	Bns
+瓜	Ens
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+毒	Bn
+死	En
+蜱	Sg
+、	Sw
+氧	Sn
+乐	Bn
+果	En
+、	Sw
+克	Sm
+百	Bn
+威	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+白	Bn
+花	En
+菜	Sn
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+毒	Bn
+死	En
+蜱	Sg
+、	Sw
+敌	Bl
+敌	Ml
+畏	El
+、	Sw
+滴	Bi
+滴	Mi
+涕	Ei
+ 	Sw
+
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+白	Bn
+花	En
+菜	Sn
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+乐	Bn
+果	En
+、	Sw
+久	Sa
+效	Bn
+磷	En
+、	Sw
+六	Bm
+六	Mm
+六	Em
+ 	Sw
+
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+青	Sns
+辣	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+西	Bns
+瓜	Ens
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+毒	Bn
+死	En
+蜱	Sg
+、	Sw
+氧	Sn
+乐	Bn
+果	En
+、	Sw
+克	Sm
+百	Bn
+威	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+豇	Bn
+豆	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+必	Sd
+检	Sv
+项	Bn
+目	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+老	Sa
+品	Bn
+种	En
+黄	Bn
+瓜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+马	Bnz
+拉	Mnz
+硫	Mnz
+磷	Enz
+、	Sw
+七	Bnz
+氯	Enz
+、	Sw
+杀	Bn
+螟	En
+硫	Sn
+磷	Sn
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+\	Sw
+ 	Sw
+
+保	Bns
+山	Mns
+市	Ens
+ 	Sw
+
+隆	Bns
+阳	Mns
+区	Ens
+蔬	Bn
+菜	Mn
+水	Mn
+果	En
+综	Bvn
+合	Evn
+批	Bn
+发	Mn
+市	Mn
+场	En
+ 	Sw
+
+云	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+6	Em
+月	Sm
+1	Bm
+3	Em
+日	Sm
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+云	Bns
+南	Ens
+中	Bj
+检	Ej
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+技	Bn
+术	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+马	Bnz
+拉	Mnz
+硫	Mnz
+磷	Enz
+、	Sw
+七	Bnz
+氯	Enz
+、	Sw
+杀	Bn
+螟	En
+硫	Sn
+磷	Sn
+
+

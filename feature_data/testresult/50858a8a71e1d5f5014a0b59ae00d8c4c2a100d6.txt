@@ -1,0 +1,1321 @@
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+公	Bv	O
+布	Ev	O
+1	Bm	O
+5	Em	O
+批	Bd	O
+次	Ed	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	En	O
+商	Bnt	O
+品	Mnt	O
+信	Mnt	O
+息	Ent	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+7	Sm	O
+月	Sm	O
+1	Bm	O
+8	Em	O
+日	Sm	O
+，	Sw	O
+铜	Bns	O
+陵	Mns	O
+市	Ens	O
+工	Bnt	B
+商	Mnt	I
+行	Mnt	I
+政	Mnt	I
+管	Mnt	I
+理	Mnt	I
+局	Ent	E
+官	Bn	O
+网	En	O
+通	Bn	O
+报	En	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+第	Sm	O
+2	Sm	O
+季	Bn	O
+度	En	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+商	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+抽	Bv	O
+检	Ev	O
+情	Bn	O
+况	En	O
+，	Sw	O
+公	Bv	O
+布	Ev	O
+1	Bm	O
+5	Em	O
+批	Bd	O
+次	Ed	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	En	O
+商	Bnt	O
+品	Mnt	O
+信	Mnt	O
+息	Ent	O
+。	Sw	O
+
+据	Sp	O
+通	Bn	O
+报	En	O
+，	Sw	O
+为	Bp	O
+了	Ep	O
+加	Bv	O
+强	Ev	O
+产	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+的	Suj	O
+监	Bvn	O
+管	Evn	O
+，	Sw	O
+维	Bv	O
+护	Ev	O
+消	Bvn	O
+费	Evn	O
+安	Ban	O
+全	Ean	O
+，	Sw	O
+保	Bv	O
+护	Ev	O
+消	Bn	O
+费	Mn	O
+者	En	O
+合	Bn	O
+法	Mn	O
+权	Mn	O
+益	En	O
+，	Sw	O
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+于	Sp	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+第	Sm	O
+
+2	Sw	O
+
+季	Bn	O
+度	En	O
+，	Sw	O
+依	Bn	O
+法	En	O
+组	Bv	O
+织	Ev	O
+对	Sp	O
+市	Bn	O
+区	En	O
+专	Bn	O
+业	En	O
+市	Bn	O
+场	En	O
+、	Sw	O
+专	Bn	O
+卖	Mn	O
+店	En	O
+和	Sc	O
+集	Bv	O
+中	Ev	O
+经	Bn	O
+营	Mn	O
+场	Mn	O
+所	En	O
+等	Su	O
+区	Bn	O
+域	En	O
+范	Bn	O
+围	En	O
+的	Suj	O
+
+6	Sw	O
+
+户	Sq	O
+经	Bvn	O
+营	Evn	O
+单	Bn	O
+位	En	O
+销	Bvn	O
+售	Evn	O
+的	Suj	O
+
+1	Bm	O
+1	Em	O
+
+家	Sq	O
+生	Bn	O
+产	Mn	O
+厂	Mn	O
+家	En	O
+的	Suj	O
+内	Bn	O
+墙	En	O
+涂	Bn	O
+料	En	O
+、	Sw	O
+电	Bn	O
+线	Mn	O
+电	Mn	O
+缆	En	O
+和	Sc	O
+开	Bv	O
+关	Ev	O
+面	Bn	O
+板	En	O
+等	Su	O
+商	Bn	O
+品	En	O
+进	Bv	O
+行	Ev	O
+了	Sul	O
+质	Bn	O
+量	En	O
+抽	Bv	O
+查	Ev	O
+检	Bvn	O
+验	Evn	O
+。	Sw	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+第	Sm	O
+2	Sm	O
+季	Bn	O
+度	En	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+商	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+抽	Bv	O
+查	Ev	O
+检	Bvn	O
+验	Evn	O
+情	Bn	O
+况	En	O
+汇	Bn	O
+总	Mn	O
+表	En	O
+
+序	Bn	O
+号	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+查	Ev	O
+检	Bvn	O
+验	Evn	O
+经	Bn	O
+营	Mn	O
+者	En	O
+
+标	Bn	O
+称	En	O
+商	Bn	O
+标	En	O
+
+标	Bn	O
+称	En	O
+生	Bn	O
+产	Mn	O
+者	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+或	Sc	O
+批	Bn	O
+号	En	O
+
+综	Bvn	O
+合	Evn	O
+判	Bv	O
+定	Ev	O
+（	Sw	O
+合	Bn	O
+格	En	O
+/	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+）	Sw	O
+
+1	Sw	O
+
+内	Bn	O
+墙	En	O
+乳	Bn	O
+胶	Mn	O
+漆	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+铜	Sn	I
+官	Bn	I
+区	En	I
+全	Bn	I
+霞	En	I
+装	Bn	I
+饰	En	I
+材	Bn	I
+料	En	I
+经	Bvn	I
+营	Evn	I
+店	Sn	I
+（	Sw	I
+刘	Bnr	I
+全	Mnr	I
+霞	Enr	I
+）	Sw	E
+
+华	Bnz	O
+润	Enz	O
+漆	Sv	O
+
+威	Bnrt	O
+士	Mnrt	O
+伯	Enrt	O
+涂	Bn	O
+料	En	O
+（	Sw	O
+广	Bns	O
+东	Ens	O
+）	Sw	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+W	Beng	O
+Y	Meng	O
+2	Meng	O
+7	Meng	O
+8	Meng	O
+0	Eeng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+1	Bm	O
+1	Em	O
+/	Sw	O
+2	Bm	O
+5	Em	O
+
+合	Bn	O
+格	En	O
+
+2	Sw	O
+
+内	Bn	O
+墙	En	O
+乳	Bn	O
+胶	Mn	O
+漆	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+铜	Sn	I
+官	Bn	I
+区	En	I
+全	Bn	I
+霞	En	I
+装	Bn	I
+饰	En	I
+材	Bn	I
+料	En	I
+经	Bvn	I
+营	Evn	I
+店	Sn	I
+（	Sw	I
+刘	Bnr	I
+全	Mnr	I
+霞	Enr	I
+）	Sw	E
+
+华	Bnz	O
+润	Enz	O
+漆	Sv	O
+
+威	Bnrt	O
+士	Mnrt	O
+伯	Enrt	O
+涂	Bn	O
+料	En	O
+（	Sw	O
+广	Bns	O
+东	Ens	O
+）	Sw	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+W	Beng	O
+Y	Meng	O
+2	Meng	O
+5	Meng	O
+8	Meng	O
+0	Meng	O
+S	Eeng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+1	Bm	O
+2	Em	O
+/	Sw	O
+2	Bm	O
+8	Em	O
+
+合	Bn	O
+格	En	O
+
+3	Sw	O
+
+内	Bn	O
+墙	En	O
+乳	Bn	O
+胶	Mn	O
+漆	En	O
+
+铜	Bns	O
+陵	Mns	O
+市	Ens	O
+铜	Sn	O
+官	Bn	O
+区	En	O
+百	Bn	O
+益	En	O
+建	Bn	O
+材	En	O
+商	Bn	O
+行	En	O
+（	Sw	O
+洪	Snr	O
+东	Bns	O
+兴	Ens	O
+）	Sw	O
+
+立	Bnr	O
+邦	Enr	O
+
+立	Bnr	O
+邦	Enr	O
+涂	Bn	O
+料	En	O
+（	Sw	O
+中	Bns	O
+国	Ens	O
+）	Sw	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+1	Bm	O
+7	Em	O
+L	Seng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+2	Sw	O
+/	Sw	O
+2	Bm	O
+4	Em	O
+
+合	Bn	O
+格	En	O
+
+4	Sw	O
+
+内	Bn	O
+墙	En	O
+乳	Bn	O
+胶	Mn	O
+漆	En	O
+
+铜	Bns	O
+陵	Mns	O
+市	Ens	O
+铜	Sn	O
+官	Bn	O
+区	En	O
+百	Bn	O
+益	En	O
+建	Bn	O
+材	En	O
+商	Bn	O
+行	En	O
+（	Sw	O
+洪	Snr	O
+东	Bns	O
+兴	Ens	O
+）	Sw	O
+
+立	Bnr	O
+邦	Enr	O
+
+立	Bnr	O
+邦	Enr	O
+涂	Bn	O
+料	En	O
+（	Sw	O
+中	Bns	O
+国	Ens	O
+）	Sw	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+1	Bm	O
+8	Em	O
+L	Seng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+2	Sw	O
+/	Sw	O
+2	Bm	O
+7	Em	O
+
+合	Bn	O
+格	En	O
+
+5	Sw	O
+
+内	Bn	O
+墙	En	O
+乳	Bn	O
+胶	Mn	O
+漆	En	O
+
+铜	Bns	O
+陵	Mns	O
+市	Ens	O
+铜	Sn	O
+官	Bn	O
+区	En	O
+百	Bn	O
+益	En	O
+建	Bn	O
+材	En	O
+商	Bn	O
+行	En	O
+（	Sw	O
+洪	Snr	O
+东	Bns	O
+兴	Ens	O
+）	Sw	O
+
+中	Bns	O
+南	Ens	O
+
+上	Bns	O
+海	Ens	O
+中	Bns	O
+南	Ens	O
+建	Bn	O
+筑	Mn	O
+材	Mn	O
+料	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+2	Bm	O
+0	Em	O
+㎏	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+9	Sw	O
+/	Sw	O
+2	Bm	O
+8	Em	O
+
+合	Bn	O
+格	En	O
+
+6	Sw	O
+
+电	Bn	O
+线	Mn	O
+电	Mn	O
+缆	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+铜	Bns	I
+官	Mns	I
+区	Ens	I
+宁	Bns	I
+联	Ens	I
+五	Bn	I
+金	En	I
+经	Bn	I
+营	Mn	I
+部	En	E
+（	Sw	O
+耿	Bnrfg	O
+立	Mnrfg	O
+娟	Enrfg	O
+）	Sw	O
+
+津	Bnz	O
+达	Enz	O
+
+天	Bns	B
+津	Mns	I
+市	Ens	I
+正	Bn	I
+标	En	I
+津	Bnz	I
+达	Enz	I
+线	Bn	I
+缆	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+B	Beng	O
+V	Eeng	O
+
+2	Bm	O
+.	Mm	O
+5	Em	O
+m	Beng	O
+m	Eeng	O
+²	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+3	Sw	O
+/	Sw	O
+2	Bm	O
+5	Em	O
+
+合	Bn	O
+格	En	O
+
+7	Sw	O
+
+电	Bn	O
+线	Mn	O
+电	Mn	O
+缆	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+铜	Bns	I
+官	Mns	I
+区	Ens	I
+宁	Bns	I
+联	Ens	I
+五	Bn	I
+金	En	I
+经	Bn	I
+营	Mn	I
+部	En	E
+（	Sw	O
+耿	Bnrfg	O
+立	Mnrfg	O
+娟	Enrfg	O
+）	Sw	O
+
+津	Bnz	O
+达	Enz	O
+
+天	Bns	B
+津	Mns	I
+市	Ens	I
+正	Bn	I
+标	En	I
+津	Bnz	I
+达	Enz	I
+线	Bn	I
+缆	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+B	Beng	O
+V	Eeng	O
+
+6	Sm	O
+m	Beng	O
+m	Eeng	O
+²	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+3	Sw	O
+/	Sw	O
+2	Bm	O
+1	Em	O
+
+合	Bn	O
+格	En	O
+
+8	Sw	O
+
+电	Bn	O
+线	Mn	O
+电	Mn	O
+缆	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+铜	Bns	I
+官	Mns	I
+区	Ens	I
+宁	Bns	I
+联	Ens	I
+五	Bn	I
+金	En	I
+经	Bn	I
+营	Mn	I
+部	En	E
+（	Sw	O
+耿	Bnrfg	O
+立	Mnrfg	O
+娟	Enrfg	O
+）	Sw	O
+
+津	Bnz	O
+达	Enz	O
+
+天	Bns	B
+津	Mns	I
+市	Ens	I
+正	Bn	I
+标	En	I
+津	Bnz	I
+达	Enz	I
+线	Bn	I
+缆	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+B	Beng	O
+V	Eeng	O
+
+4	Sm	O
+m	Beng	O
+m	Eeng	O
+²	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+3	Sw	O
+/	Sw	O
+2	Bm	O
+4	Em	O
+
+合	Bn	O
+格	En	O
+
+9	Sw	O
+
+电	Bn	O
+线	Mn	O
+电	Mn	O
+缆	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+华	Bnz	I
+康	Enz	I
+物	Bn	I
+资	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+金	Bnz	O
+科	Enz	O
+
+广	Bns	O
+东	Ens	O
+金	Bnz	O
+科	Enz	O
+电	Bn	O
+缆	En	O
+实	Bn	O
+业	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+Z	Beng	O
+B	Eeng	O
+-	Sw	O
+B	Beng	O
+V	Eeng	O
+
+4	Bm	O
+5	Mm	O
+0	Em	O
+/	Sw	O
+7	Bm	O
+5	Mm	O
+0	Em	O
+V	Seng	O
+
+2	Bm	O
+.	Mm	O
+5	Em	O
+m	Beng	O
+m	Eeng	O
+²	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+9	Sw	O
+/	Sw	O
+1	Bm	O
+1	Em	O
+
+合	Bn	O
+格	En	O
+
+1	Bm	O
+0	Em	O
+
+电	Bn	O
+线	Mn	O
+电	Mn	O
+缆	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+华	Bnz	I
+康	Enz	I
+物	Bn	I
+资	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+金	Bnz	O
+科	Enz	O
+
+广	Bns	O
+东	Ens	O
+金	Bnz	O
+科	Enz	O
+电	Bn	O
+缆	En	O
+实	Bn	O
+业	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+Z	Beng	O
+B	Eeng	O
+-	Sw	O
+B	Beng	O
+V	Eeng	O
+
+4	Bm	O
+5	Mm	O
+0	Em	O
+/	Sw	O
+7	Bm	O
+5	Mm	O
+0	Em	O
+V	Seng	O
+
+1	Bm	O
+.	Mm	O
+5	Em	O
+m	Beng	O
+m	Eeng	O
+²	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+9	Sw	O
+/	Sw	O
+1	Bm	O
+6	Em	O
+
+合	Bn	O
+格	En	O
+
+1	Bm	O
+1	Em	O
+
+开	Bv	O
+关	Ev	O
+面	Bn	O
+板	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+鹏	Bnz	I
+程	Enz	I
+电	Bn	I
+力	En	I
+器	Bn	I
+材	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+一	Bm	O
+通	Em	O
+电	Bn	O
+器	En	O
+
+广	Bns	B
+州	Ens	I
+一	Bm	I
+通	Em	I
+奇	Bv	I
+胜	Ev	I
+电	Bn	I
+器	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+D	Beng	O
+1	Meng	O
+0	Meng	O
+1	Meng	O
+2	Eeng	O
+
+1	Bm	O
+0	Em	O
+A	Seng	O
+
+2	Bm	O
+5	Mm	O
+0	Em	O
+V	Seng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+5	Sw	O
+/	Sw	O
+2	Bm	O
+6	Em	O
+
+合	Bn	O
+格	En	O
+
+1	Bm	O
+2	Em	O
+
+开	Bv	O
+关	Ev	O
+面	Bn	O
+板	En	O
+
+铜	Bns	B
+陵	Mns	I
+市	Ens	I
+鹏	Bnz	I
+程	Enz	I
+电	Bn	I
+力	En	I
+器	Bn	I
+材	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+公	Bn	O
+牛	En	O
+
+宁	Bns	B
+波	Ens	I
+公	Bn	I
+牛	En	I
+电	Bn	I
+器	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+G	Beng	O
+0	Meng	O
+1	Meng	O
+K	Meng	O
+3	Meng	O
+1	Meng	O
+1	Meng	O
+Y	Eeng	O
+
+1	Bm	O
+0	Em	O
+A	Seng	O
+
+2	Bm	O
+5	Mm	O
+0	Em	O
+V	Seng	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+1	Bm	O
+3	Em	O
+
+开	Bv	O
+关	Ev	O
+面	Bn	O
+板	En	O
+
+铜	Bns	O
+陵	Mns	O
+市	Ens	O
+铜	Sn	O
+官	Bn	O
+区	En	O
+铜	Sn	O
+进	Sv	O
+电	Bn	O
+器	En	O
+经	Bn	O
+营	Mn	O
+部	En	O
+（	Sw	O
+倪	Bnr	O
+忠	Mnr	O
+文	Enr	O
+）	Sw	O
+
+正	Bnz	O
+泰	Enz	O
+电	Bn	O
+工	En	O
+
+浙	Bns	O
+江	Ens	O
+正	Bnz	O
+泰	Enz	O
+建	Bn	O
+筑	En	O
+电	Bn	O
+器	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+N	Beng	O
+E	Meng	O
+W	Meng	O
+7	Eeng	O
+-	Sw	O
+W	Beng	O
+0	Meng	O
+0	Meng	O
+1	Meng	O
+0	Meng	O
+0	Meng	O
+A	Eeng	O
+
+1	Bm	O
+0	Em	O
+A	Seng	O
+
+2	Bm	O
+5	Mm	O
+0	Em	O
+V	Seng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+5	Sw	O
+/	Sw	O
+2	Bm	O
+0	Em	O
+
+合	Bn	O
+格	En	O
+
+1	Bm	O
+4	Em	O
+
+开	Bv	O
+关	Ev	O
+面	Bn	O
+板	En	O
+
+铜	Bns	O
+陵	Mns	O
+市	Ens	O
+铜	Sn	O
+官	Bn	O
+区	En	O
+铜	Sn	O
+进	Sv	O
+电	Bn	O
+器	En	O
+经	Bn	O
+营	Mn	O
+部	En	O
+（	Sw	O
+倪	Bnr	O
+忠	Mnr	O
+文	Enr	O
+）	Sw	O
+
+正	Bnz	O
+泰	Enz	O
+电	Bn	O
+工	En	O
+
+浙	Bns	O
+江	Ens	O
+正	Bnz	O
+泰	Enz	O
+建	Bn	O
+筑	En	O
+电	Bn	O
+器	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+N	Beng	O
+E	Meng	O
+W	Meng	O
+7	Eeng	O
+-	Sw	O
+W	Beng	O
+1	Meng	O
+1	Meng	O
+1	Meng	O
+0	Meng	O
+0	Meng	O
+A	Eeng	O
+
+1	Bm	O
+0	Em	O
+A	Seng	O
+
+2	Bm	O
+5	Mm	O
+0	Em	O
+V	Seng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+2	Bm	O
+2	Em	O
+
+合	Bn	O
+格	En	O
+
+1	Bm	O
+5	Em	O
+
+开	Bv	O
+关	Ev	O
+面	Bn	O
+板	En	O
+
+铜	Bns	O
+陵	Mns	O
+市	Ens	O
+铜	Sn	O
+官	Bn	O
+区	En	O
+铜	Sn	O
+进	Sv	O
+电	Bn	O
+器	En	O
+经	Bn	O
+营	Mn	O
+部	En	O
+（	Sw	O
+倪	Bnr	O
+忠	Mnr	O
+文	Enr	O
+）	Sw	O
+
+正	Bnz	O
+泰	Enz	O
+电	Bn	O
+工	En	O
+
+浙	Bns	O
+江	Ens	O
+正	Bnz	O
+泰	Enz	O
+建	Bn	O
+筑	En	O
+电	Bn	O
+器	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+N	Beng	O
+E	Meng	O
+W	Meng	O
+7	Eeng	O
+-	Sw	O
+W	Beng	O
+4	Meng	O
+3	Meng	O
+9	Meng	O
+0	Meng	O
+0	Meng	O
+A	Eeng	O
+
+1	Bm	O
+0	Em	O
+A	Seng	O
+
+2	Bm	O
+5	Mm	O
+0	Em	O
+V	Seng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+2	Bm	O
+2	Em	O
+
+合	Bn	O
+格	En	O
+

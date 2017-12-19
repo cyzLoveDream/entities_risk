@@ -1,0 +1,3772 @@
+郴	Bns
+州	Mns
+市	Ens
+食	Sv
+药	Bnt
+监	Mnt
+局	Ent
+：	Sw
+1	Sw
+批	Bd
+次	Ed
+月	Bn
+饼	En
+抽	Bv
+检	Ev
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+为	Sp
+加	Bv
+强	Ev
+食	Bn
+品	En
+安	Bj
+全	Mj
+监	Mj
+管	Ej
+，	Sw
+保	Bv
+障	Ev
+公	Bn
+众	En
+饮	Bn
+食	En
+用	Bn
+药	En
+安	Ban
+全	Ean
+，	Sw
+根	Bp
+据	Ep
+有	Bvn
+关	Evn
+要	Bv
+求	Ev
+，	Sw
+郴	Bns
+州	Mns
+市	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+公	Bv
+布	Ev
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+月	Bn
+饼	En
+专	Bn
+项	En
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+结	Bn
+果	En
+。	Sw
+
+本	Br
+次	Er
+公	Bv
+示	Ev
+月	Bn
+饼	En
+抽	Bv
+检	Ev
+结	Bn
+果	En
+4	Bm
+4	Em
+批	Bd
+次	Ed
+，	Sw
+其	Br
+中	Er
+合	Bn
+格	En
+4	Bm
+3	Em
+批	Bd
+次	Ed
+,	Sw
+不	Sd
+合	Bn
+格	En
+1	Sw
+批	Bd
+次	Ed
+。	Sw
+
+ 	Sw
+
+食	Bn
+品	En
+抽	Bv
+检	Ev
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+抽	Bv
+检	Ev
+时	Bn
+间	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+样	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+商	Bn
+标	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+ 	Sw
+
+生	Bvn
+产	Evn
+批	Bn
+号	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+抽	Bv
+样	Ev
+单	Bn
+位	En
+ 	Sw
+
+检	Bvn
+验	Evn
+结	Bn
+果	En
+ 	Sw
+
+1	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+0	Bm
+9	Em
+-	Sw
+0	Bm
+8	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+苏	Bn
+式	En
+月	Bn
+饼	En
+（	Sw
+黑	Bn
+芝	Mn
+麻	En
+味	Sn
+）	Sw
+ 	Sw
+
+阳	Bnr
+光	Enr
+熊	Snr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+7	Mm
+1	Mm
+6	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+荆	Bns
+州	Mns
+市	Ens
+鑫	Snr
+德	Bns
+利	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+食	Bn
+品	En
+抽	Bv
+检	Ev
+合	Bn
+格	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+样	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+商	Bn
+标	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+ 	Sw
+
+生	Bvn
+产	Evn
+批	Bn
+号	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+检	Bvn
+验	Evn
+结	Bn
+果	En
+ 	Sw
+
+1	Sw
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+和	Bnr
+昌	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+和	Bnr
+昌	Enr
+月	Bn
+饼	En
+（	Sw
+莲	Bn
+蓉	En
+）	Sw
+ 	Sw
+
+和	Bnr
+昌	Enr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+8	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+8	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+湖	Bns
+南	Mns
+省	Ens
+郴	Bns
+州	Mns
+市	Ens
+和	Bnr
+昌	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Sw
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+和	Bnr
+昌	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+和	Bnr
+昌	Enr
+月	Bn
+饼	En
+（	Sw
+黑	Bn
+豆	En
+沙	Snr
+蛋	Bn
+黄	En
+）	Sw
+ 	Sw
+
+和	Bnr
+昌	Enr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+8	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+8	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+湖	Bns
+南	Mns
+省	Ens
+郴	Bns
+州	Mns
+市	Ens
+和	Bnr
+昌	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Sw
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+和	Bnr
+昌	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+和	Bnr
+昌	Enr
+月	Bn
+饼	En
+（	Sw
+豆	Bn
+蓉	En
+）	Sw
+ 	Sw
+
+和	Bnr
+昌	Enr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+8	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+8	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+湖	Bns
+南	Mns
+省	Ens
+郴	Bns
+州	Mns
+市	Ens
+和	Bnr
+昌	Enr
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Sw
+ 	Sw
+
+深	Bns
+圳	Ens
+沃	Bnr
+尔	Mnr
+玛	Enr
+百	Bn
+货	En
+零	Bvn
+售	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+郴	Bns
+州	Ens
+五	Bnrt
+岭	Enrt
+广	Bn
+场	En
+分	Bn
+店	En
+ 	Sw
+
+蛋	Bn
+黄	En
+黑	Bn
+芝	Mn
+麻	En
+咸	Sns
+月	Bn
+饼	En
+ 	Sw
+
+蓝	Bnr
+妮	Enr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+福	Bns
+建	Mns
+省	Ens
+诏	Bns
+安	Ens
+四	Bns
+海	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Sw
+ 	Sw
+
+深	Bns
+圳	Ens
+沃	Bnr
+尔	Mnr
+玛	Enr
+百	Bn
+货	En
+零	Bvn
+售	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+郴	Bns
+州	Ens
+五	Bnrt
+岭	Enrt
+广	Bn
+场	En
+分	Bn
+店	En
+ 	Sw
+
+广	Bb
+式	Eb
+红	Sn
+豆	Bn
+沙	Mn
+月	Mn
+饼	En
+ 	Sw
+
+甜	Ba
+蜜	Ea
+情	Sn
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+7	Mm
+1	Mm
+4	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+福	Bns
+建	Mns
+省	Ens
+诏	Bns
+安	Ens
+四	Bns
+海	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Sw
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+生	Bn
+源	En
+商	Bn
+业	En
+连	Bvn
+锁	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+苏	Bns
+园	Ens
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+五	Bnz
+仁	Enz
+月	Bn
+饼	En
+ 	Sw
+
+日	Bns
+威	Ens
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+8	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+中	Bns
+山	Mns
+市	Ens
+日	Bns
+威	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Sw
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+生	Bn
+源	En
+商	Bn
+业	En
+连	Bvn
+锁	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+苏	Bns
+园	Ens
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+双	Bb
+黄	Eb
+纯	Bb
+红	Eb
+莲	Bn
+蓉	En
+月	Bn
+饼	En
+（	Sw
+广	Bb
+式	Eb
+蛋	Bn
+黄	En
+类	Sq
+）	Sw
+ 	Sw
+
+荣	Bnr
+诚	Enr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+0	Em
+ 	Sw
+
+1	Bm
+8	Mm
+7	Mm
+.	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+广	Bns
+东	Ens
+荣	Bnr
+诚	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+8	Sw
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+肉	Bn
+松	En
+老	Bns
+苏	Ens
+月	Sm
+(	Sw
+苏	Bn
+式	En
+月	Bn
+饼	En
+)	Sw
+ 	Sw
+
+金	Bnz
+苹	Mnz
+果	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+6	Em
+ 	Sw
+
+3	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+包	Sv
+ 	Sw
+
+武	Bns
+汉	Mns
+市	Ens
+金	Bnr
+鼎	Mnr
+轩	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+9	Sw
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+百	Bn
+果	En
+老	Bns
+苏	Ens
+月	Sm
+(	Sw
+苏	Bn
+式	En
+月	Bn
+饼	En
+)	Sw
+ 	Sw
+
+金	Bnz
+苹	Mnz
+果	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+5	Em
+ 	Sw
+
+3	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+包	Sv
+ 	Sw
+
+武	Bns
+汉	Mns
+市	Ens
+金	Bnr
+鼎	Mnr
+轩	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+黑	Bn
+芝	Mn
+麻	En
+老	Bns
+苏	Ens
+月	Sm
+(	Sw
+苏	Bn
+式	En
+月	Bn
+饼	En
+)	Sw
+ 	Sw
+
+金	Bnz
+苹	Mnz
+果	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+5	Em
+ 	Sw
+
+3	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+包	Sv
+ 	Sw
+
+武	Bns
+汉	Mns
+市	Ens
+金	Bnr
+鼎	Mnr
+轩	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+五	Bnz
+仁	Enz
+月	Bn
+饼	En
+（	Sw
+广	Bb
+式	Eb
+果	Bnr
+仁	Enr
+类	Sq
+）	Sw
+ 	Sw
+
+荣	Bnr
+诚	Enr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+8	Em
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+广	Bns
+东	Ens
+荣	Bnr
+诚	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+泉	Bns
+山	Ens
+百	Bnz
+信	Enz
+生	Bvn
+活	Evn
+超	Bv
+市	Ev
+ 	Sw
+
+潮	Bn
+式	En
+蛋	Bn
+黄	En
+乌	Snr
+豆	Bn
+沙	Mn
+月	Mn
+饼	En
+（	Sw
+潮	Bn
+式	En
+酥	Bn
+皮	En
+类	Sq
+）	Sw
+ 	Sw
+
+潮	Bns
+汕	Ens
+老	Bn
+家	En
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+0	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+广	Bns
+东	Ens
+荣	Bnr
+诚	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+深	Bns
+圳	Ens
+沃	Bnr
+尔	Mnr
+玛	Enr
+百	Bn
+货	En
+零	Bvn
+售	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+郴	Bns
+州	Ens
+五	Bnrt
+岭	Enrt
+广	Bn
+场	En
+分	Bn
+店	En
+ 	Sw
+
+蛋	Bn
+黄	En
+红	Sa
+豆	Bn
+沙	Mn
+月	Mn
+饼	En
+ 	Sw
+
+日	Bns
+威	Ens
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+5	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+中	Bns
+山	Mns
+市	Ens
+日	Bns
+威	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+深	Bns
+圳	Ens
+沃	Bnr
+尔	Mnr
+玛	Enr
+百	Bn
+货	En
+零	Bvn
+售	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+郴	Bns
+州	Ens
+五	Bnrt
+岭	Enrt
+广	Bn
+场	En
+分	Bn
+店	En
+ 	Sw
+
+粒	Bn
+粒	En
+软	Bn
+心	En
+菠	Bn
+萝	En
+月	Bn
+饼	En
+ 	Sw
+
+一	Sm
+知	Sv
+万	Sm
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+7	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+中	Bns
+山	Mns
+市	Ens
+一	Sm
+知	Sv
+万	Sm
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+新	Sa
+前	Bv
+进	Ev
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+深	Bns
+圳	Ens
+沃	Bnr
+尔	Mnr
+玛	Enr
+百	Bn
+货	En
+零	Bvn
+售	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+郴	Bns
+州	Ens
+五	Bnrt
+岭	Enrt
+广	Bn
+场	En
+分	Bn
+店	En
+ 	Sw
+
+蛋	Bn
+黄	En
+紫	Bn
+薯	En
+味	Sn
+月	Bn
+饼	En
+ 	Sw
+
+乐	Bnr
+琪	Enr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+6	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+东	Bns
+莞	Mns
+市	Ens
+东	Bn
+益	En
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+深	Bns
+圳	Ens
+沃	Bnr
+尔	Mnr
+玛	Enr
+百	Bn
+货	En
+零	Bvn
+售	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+郴	Bns
+州	Ens
+五	Bnrt
+岭	Enrt
+广	Bn
+场	En
+分	Bn
+店	En
+ 	Sw
+
+椒	Bn
+盐	En
+味	Sn
+月	Bn
+饼	En
+ 	Sw
+
+津	Sj
+之	Su
+源	Sng
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+湖	Bns
+南	Ens
+津	Sj
+之	Su
+源	Sng
+食	Bn
+品	En
+科	Bn
+技	Mn
+股	Mn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+江	Bns
+南	Ens
+苏	Bn
+式	En
+月	Bn
+饼	En
+（	Sw
+桂	Bnr
+花	Enr
+味	Sn
+）	Sw
+ 	Sw
+
+阳	Bnr
+光	Enr
+熊	Snr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+0	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+荆	Bns
+州	Mns
+市	Ens
+鑫	Snr
+德	Bns
+利	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+苏	Bn
+式	En
+月	Bn
+饼	En
+（	Sw
+桂	Bnr
+花	Enr
+味	Sn
+）	Sw
+ 	Sw
+
+阳	Bnr
+光	Enr
+熊	Snr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+1	Em
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+荆	Bns
+州	Mns
+市	Ens
+鑫	Snr
+德	Bns
+利	Ens
+食	Bn
+品	Mn
+厂	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+蛋	Bn
+黄	En
+月	Bn
+饼	En
+ 	Sw
+
+聚	Bnz
+宝	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+1	Em
+ 	Sw
+
+称	Bv
+重	Ev
+ 	Sw
+
+祁	Bns
+东	Mns
+县	Ens
+一	Bm
+点	Em
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+蛋	Bn
+黄	En
+莲	Bn
+蓉	En
+月	Bn
+饼	En
+ 	Sw
+
+一	Sm
+知	Sv
+万	Sm
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+称	Bv
+重	Ev
+ 	Sw
+
+中	Bns
+山	Mns
+市	Ens
+一	Sm
+知	Sv
+万	Sm
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+新	Sa
+前	Bv
+进	Ev
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+流	Bn
+心	En
+蛋	Bn
+黄	En
+莲	Bn
+蓉	En
+月	Bn
+饼	En
+ 	Sw
+
+一	Sm
+知	Sv
+万	Sm
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+称	Bv
+重	Ev
+ 	Sw
+
+中	Bns
+山	Mns
+市	Ens
+一	Sm
+知	Sv
+万	Sm
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+新	Sa
+前	Bv
+进	Ev
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+蛋	Bn
+黄	En
+红	Bn
+枣	En
+蓉	Sj
+月	Bn
+饼	En
+ 	Sw
+
+一	Sm
+知	Sv
+万	Sm
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+称	Bv
+重	Ev
+ 	Sw
+
+中	Bns
+山	Mns
+市	Ens
+一	Sm
+知	Sv
+万	Sm
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+新	Sa
+前	Bv
+进	Ev
+分	Bn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+月	Bn
+饼	En
+（	Sw
+广	Bb
+式	Eb
+月	Bn
+饼	En
+蓉	Sj
+沙	Bn
+类	En
+）	Sw
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+B	Seng
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+台	Bns
+山	Mns
+市	Ens
+奇	Bnz
+香	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+月	Bn
+饼	En
+（	Sw
+广	Bb
+式	Eb
+月	Bn
+饼	En
+蛋	Bn
+黄	En
+类	Sq
+）	Sw
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+B	Seng
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+台	Bns
+山	Mns
+市	Ens
+奇	Bnz
+香	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+月	Bn
+饼	En
+（	Sw
+广	Bb
+式	Eb
+月	Bn
+饼	En
+果	Bn
+蔬	En
+类	Sq
+）	Sw
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+4	Em
+A	Seng
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+台	Bns
+山	Mns
+市	Ens
+奇	Bnz
+香	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+月	Bn
+饼	En
+（	Sw
+广	Bb
+式	Eb
+月	Bn
+饼	En
+蛋	Bn
+黄	En
+类	Sq
+）	Sw
+ 	Sw
+
+侨	Bnz
+香	Mnz
+村	Enz
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+A	Seng
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+台	Bns
+山	Mns
+市	Ens
+奇	Bnz
+香	Enz
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+蛋	Bn
+黄	En
+纯	Ba
+白	Ea
+莲	Bn
+蓉	En
+月	Bn
+饼	En
+（	Sw
+广	Bb
+式	Eb
+蛋	Bn
+黄	En
+类	Sq
+）	Sw
+ 	Sw
+
+荣	Bnr
+诚	Enr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+0	Em
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+广	Bns
+东	Ens
+荣	Bnr
+诚	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+纯	Ba
+白	Ea
+莲	Bn
+蓉	En
+月	Bn
+饼	En
+（	Sw
+广	Bnr
+式	Mnr
+蓉	Enr
+沙	Bn
+类	En
+）	Sw
+ 	Sw
+
+荣	Bnr
+诚	Enr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+0	Em
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+广	Bns
+东	Ens
+荣	Bnr
+诚	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+黄	Sa
+公	Bn
+平	En
+超	Bv
+市	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+叁	Sm
+店	Sn
+ 	Sw
+
+纯	Bb
+红	Eb
+莲	Bn
+蓉	En
+月	Bn
+饼	En
+（	Sw
+广	Bnr
+式	Mnr
+蓉	Enr
+沙	Bn
+类	En
+）	Sw
+ 	Sw
+
+荣	Bnr
+诚	Enr
+ 	Sw
+
+-	Sw
+-	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+0	Em
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+广	Bns
+东	Ens
+荣	Bnr
+诚	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+纯	Bd
+正	Ed
+白	Bnr
+莲	Enr
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+1	Mm
+0	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+1	Mm
+0	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+苏	Bn
+式	En
+蛋	Bn
+黄	En
+莲	Bn
+蓉	En
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+9	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+9	Em
+ 	Sw
+
+8	Bm
+0	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+香	Bn
+葱	En
+肉	Bn
+松	En
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+豆	Bn
+沙	En
+素	Sn
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+1	Mm
+0	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+1	Mm
+0	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+火	Bn
+腿	En
+伍	Bnr
+仁	Enr
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+蛋	Bn
+黄	En
+白	Bnr
+莲	Enr
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+7	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+7	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+香	Bnr
+甜	Enr
+玉	Bnr
+米	Enr
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+香	Bn
+芋	En
+蓉	Sj
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+4	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+郴	Bns
+州	Mns
+市	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+月	Bn
+饼	En
+（	Sw
+哈	Bnr
+密	Mnr
+瓜	Enr
+水	Bn
+果	En
+月	Bn
+饼	En
+）	Sw
+ 	Sw
+
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+9	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+0	Mm
+9	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+美	Bns
+丽	Ens
+年	Bj
+华	Ej
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+香	Bz
+辣	Ez
+牛	Bn
+肉	En
+月	Bn
+饼	En
+ 	Sw
+
+L	Sw
+'	Sw
+S	Beng
+E	Meng
+N	Meng
+N	Meng
+A	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+0	Em
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+精	Bn
+品	En
+枣	Bn
+泥	En
+月	Bn
+饼	En
+ 	Sw
+
+L	Sw
+'	Sw
+S	Beng
+E	Meng
+N	Meng
+N	Meng
+A	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+1	Em
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+经	Bn
+典	En
+红	Sa
+豆	Bn
+沙	Mn
+月	Mn
+饼	En
+ 	Sw
+
+L	Sw
+'	Sw
+S	Beng
+E	Meng
+N	Meng
+N	Meng
+A	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+2	Em
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+白	Bnr
+莲	Enr
+蓉	Sj
+月	Bn
+饼	En
+ 	Sw
+
+L	Sw
+'	Sw
+S	Beng
+E	Meng
+N	Meng
+N	Meng
+A	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+1	Mm
+2	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+9	Mm
+1	Mm
+2	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+3	Em
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+蓝	Bn
+莓	En
+冰	Bn
+沙	En
+月	Bn
+饼	En
+ 	Sw
+
+L	Sw
+'	Sw
+S	Beng
+E	Meng
+N	Meng
+N	Meng
+A	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+2	Mm
+6	Em
+ 	Sw
+
+1	Bm
+2	Mm
+5	Em
+g	Seng
+/	Sw
+个	Sq
+ 	Sw
+
+郴	Bns
+州	Ens
+圣	Bnr
+安	Mnr
+娜	Enr
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+合	Bn
+格	En
+
+

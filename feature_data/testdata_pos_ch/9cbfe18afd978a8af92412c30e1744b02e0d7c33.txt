@@ -1,0 +1,183 @@
+1	Bm
+0	Em
+批	Bd
+次	Ed
+食	Bn
+品	En
+抽	Bv
+检	Ev
+不	Sd
+合	Bn
+格	En
+_	Sw
+《	Sw
+中	Bns
+山	Ens
+日	Bn
+报	En
+》	Sw
+数	Bn
+字	En
+报	Sn
+_	Sw
+中	Bns
+山	Ens
+日	Bn
+报	En
+报	Bn
+业	En
+集	Bn
+团	En
+。	Sw
+
+A	Beng
+1	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+头	Bn
+版	En
+ 	Sw
+
+A	Beng
+2	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+要	Bn
+闻	En
+ 	Sw
+
+A	Beng
+3	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+新	Bn
+闻	En
+ 	Sw
+
+A	Beng
+4	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+社	Bn
+会	En
+ 	Sw
+
+A	Beng
+5	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+论	Bn
+丛	En
+ 	Sw
+
+A	Beng
+6	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+视	Bn
+觉	En
+ 	Sw
+
+A	Beng
+7	Eeng
+版	Sn
+ 	Sw
+
+公	Bn
+益	En
+周	Bn
+刊	En
+-	Sw
+头	Bn
+版	En
+ 	Sw
+
+A	Beng
+8	Eeng
+版	Sn
+ 	Sw
+
+公	Bn
+益	En
+周	Bn
+刊	En
+-	Sw
+资	Bn
+讯	En
+ 	Sw
+
+A	Beng
+9	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+教	Bvn
+育	Evn
+ 	Sw
+
+A	Beng
+1	Meng
+0	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+时	Bn
+事	En
+ 	Sw
+
+A	Beng
+1	Meng
+1	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+体	Bvn
+育	Evn
+ 	Sw
+
+A	Beng
+1	Meng
+2	Eeng
+版	Sn
+ 	Sw
+
+新	Bn
+闻	En
+-	Sw
+娱	Bvn
+乐	Evn
+
+

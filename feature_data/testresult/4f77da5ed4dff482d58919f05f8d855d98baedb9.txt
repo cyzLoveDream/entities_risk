@@ -1,0 +1,1135 @@
+眉	Bns	O
+山	Mns	O
+市	Ens	O
+质	Bj	O
+监	Mj	O
+局	Ej	O
+抽	Bv	O
+检	Ev	O
+1	Bm	O
+6	Em	O
+批	Bd	O
+次	Ed	O
+水	Bn	O
+泥	En	O
+、	Sw	O
+钢	Bn	O
+筋	En	O
+混	Bn	O
+凝	Mn	O
+土	En	O
+排	Bn	O
+水	Mn	O
+管	En	O
+
+全	Bn	O
+部	En	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+2	Sm	O
+季	Bn	O
+度	En	O
+，	Sw	O
+眉	Bns	O
+山	Mns	O
+市	Ens	O
+质	Bnt	O
+量	Mnt	O
+技	Mnt	O
+术	Mnt	O
+监	Mnt	O
+督	Mnt	O
+局	Ent	O
+按	Bp	O
+照	Ep	O
+市	Bn	O
+级	En	O
+产	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+监	Bvn	O
+督	Evn	O
+检	Bvn	O
+验	Evn	O
+任	Bn	O
+务	En	O
+计	Bn	O
+划	En	O
+组	Bv	O
+织	Ev	O
+对	Sp	O
+水	Bn	O
+泥	En	O
+、	Sw	O
+钢	Bn	O
+筋	En	O
+混	Bn	O
+凝	Mn	O
+土	En	O
+排	Bn	O
+水	Mn	O
+管	En	O
+等	Su	O
+产	Bn	O
+品	En	O
+进	Bv	O
+行	Ev	O
+了	Sul	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+。	Sw	O
+
+2	Sw	O
+季	Bn	O
+度	En	O
+共	Sd	O
+下	Bv	O
+达	Ev	O
+工	Bn	O
+业	En	O
+产	Bn	O
+品	En	O
+监	Bvn	O
+督	Evn	O
+检	Bvn	O
+验	Evn	O
+任	Bn	O
+务	En	O
+7	Bm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+产	Bn	O
+品	En	O
+，	Sw	O
+因	Sp	O
+烧	Bn	O
+结	Mn	O
+砖	En	O
+执	Bv	O
+行	Ev	O
+二	Bmq	O
+季	Mmq	O
+度	Emq	O
+省	Bb	O
+级	Eb	O
+专	Bn	O
+项	En	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+，	Sw	O
+市	Bn	O
+级	En	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+实	Bn	O
+际	En	O
+抽	Bv	O
+检	Ev	O
+1	Bm	O
+6	Em	O
+批	Bd	O
+次	Ed	O
+产	Bn	O
+品	En	O
+。	Sw	O
+
+其	Br	O
+中	Er	O
+，	Sw	O
+水	Bn	O
+泥	En	O
+1	Bm	O
+3	Em	O
+批	Bd	O
+次	Ed	O
+、	Sw	O
+钢	Bn	O
+筋	En	O
+混	Bn	O
+凝	Mn	O
+土	En	O
+排	Bn	O
+水	Mn	O
+管	En	O
+3	Sw	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+
+5	Sw	O
+批	Bd	O
+次	Ed	O
+产	Bn	O
+品	En	O
+因	Sp	O
+企	Bn	O
+业	En	O
+停	Bv	O
+产	Ev	O
+等	Su	O
+原	Bn	O
+因	En	O
+未	Sd	O
+抽	Bv	O
+检	Ev	O
+。	Sw	O
+
+经	Sn	O
+检	Bvn	O
+验	Evn	O
+，	Sw	O
+1	Bm	O
+6	Em	O
+批	Bd	O
+次	Ed	O
+产	Bn	O
+品	En	O
+均	Sd	O
+合	Bn	O
+格	En	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+为	Sp	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+。	Sw	O
+
+抽	Bv	O
+查	Ev	O
+结	Bn	O
+果	En	O
+汇	Bn	O
+总	Mn	O
+表	En	O
+
+序	Bn	O
+号	En	O
+
+产	Bn	O
+品	Mn	O
+名	Mn	O
+称	En	O
+
+企	Bn	O
+业	En	O
+名	Bn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+
+检	Bvn	O
+验	Evn	O
+结	Bn	O
+论	En	O
+
+1	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+眉	Bns	O
+山	Ens	O
+峨	Bns	O
+兴	Ens	O
+水	Bn	O
+泥	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+2	Em	O
+
+符	Bv	O
+合	Ev	O
+
+2	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+眉	Bns	O
+山	Mns	O
+市	Ens	O
+东	Bns	O
+坡	Mns	O
+区	Ens	O
+峨	Bns	O
+洲	Ens	O
+水	Bn	O
+泥	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+8	Em	O
+
+符	Bv	O
+合	Ev	O
+
+3	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+眉	Bns	O
+山	Mns	O
+市	Ens	O
+峨	Bns	O
+红	Ens	O
+建	Bn	O
+材	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+8	Em	O
+
+符	Bv	O
+合	Ev	O
+
+4	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+四	Bns	O
+川	Ens	O
+峨	Bns	O
+盾	Ens	O
+建	Bn	O
+材	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+1	Em	O
+
+符	Bv	O
+合	Ev	O
+
+5	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+四	Bns	O
+川	Ens	O
+眉	Bns	O
+山	Ens	O
+水	Bn	O
+泥	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+2	Em	O
+
+符	Bv	O
+合	Ev	O
+
+6	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+眉	Bns	O
+山	Mns	O
+市	Ens	O
+东	Bns	O
+坡	Mns	O
+区	Ens	O
+保	Sv	O
+成	Sn	O
+建	Bn	O
+材	Mn	O
+厂	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+3	Em	O
+
+符	Bv	O
+合	Ev	O
+
+7	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+眉	Bns	O
+山	Mns	O
+市	Ens	O
+华	Bns	O
+庆	Ens	O
+建	Bn	O
+材	En	O
+科	Bn	O
+技	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+9	Em	O
+
+符	Bv	O
+合	Ev	O
+
+8	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+四	Bns	O
+川	Ens	O
+建	Bnr	O
+宏	Enr	O
+建	Bn	O
+材	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+8	Em	O
+
+符	Bv	O
+合	Ev	O
+
+9	Sw	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+眉	Bns	O
+山	Ens	O
+五	Sm	O
+湖	Sns	O
+建	Bn	O
+材	En	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+5	Em	O
+
+符	Bv	O
+合	Ev	O
+
+1	Bm	O
+0	Em	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+仁	Bnr	B
+寿	Mnr	I
+县	Enr	I
+汪	Bnr	I
+洋	Enr	I
+建	Bnz	I
+宝	Enz	I
+水	Bn	I
+泥	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+7	Em	O
+
+符	Bv	O
+合	Ev	O
+
+1	Bm	O
+1	Em	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+仁	Bnr	B
+寿	Mnr	I
+县	Enr	I
+人	Bn	I
+民	En	I
+特	Bn	I
+种	Mn	I
+水	Mn	I
+泥	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+6	Em	O
+
+符	Bv	O
+合	Ev	O
+
+1	Bm	O
+2	Em	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+仁	Bnr	B
+寿	Mnr	I
+县	Enr	I
+永	Bnz	I
+基	Enz	I
+建	Bn	I
+材	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+2	Em	O
+
+符	Bv	O
+合	Ev	O
+
+1	Bm	O
+3	Em	O
+
+通	Bv	O
+用	Ev	O
+硅	Bnz	O
+酸	Mnz	O
+盐	Enz	O
+水	Bn	O
+泥	En	O
+
+四	Bns	B
+川	Ens	I
+洪	Bnr	I
+雅	Enr	I
+西	Bns	I
+南	Ens	I
+水	Bn	I
+泥	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+（	Sw	O
+P	Seng	O
+.	Sm	O
+C	Beng	O
+3	Meng	O
+2	Eeng	O
+.	Bm	O
+5	Em	O
+R	Seng	O
+）	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+9	Em	O
+
+符	Bv	O
+合	Ev	O
+
+1	Bm	O
+4	Em	O
+
+混	Bn	O
+凝	Mn	O
+土	En	O
+和	Sc	O
+钢	Bn	O
+筋	En	O
+混	Bn	O
+凝	Mn	O
+土	En	O
+排	Bn	O
+水	Mn	O
+管	En	O
+
+四	Bns	O
+川	Ens	O
+好	Sa	O
+运	Bvn	O
+通	Evn	O
+建	Bn	O
+材	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+R	Beng	O
+C	Meng	O
+P	Eeng	O
+Ⅱ	Sw	O
+5	Bm	O
+0	Mm	O
+0	Em	O
+x	Beng	O
+2	Meng	O
+5	Meng	O
+0	Meng	O
+0	Meng	O
+G	Meng	O
+B	Eeng	O
+/	Sw	O
+T	Beng	O
+1	Meng	O
+1	Meng	O
+8	Meng	O
+3	Meng	O
+6	Eeng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+0	Em	O
+
+符	Bv	O
+合	Ev	O
+
+1	Bm	O
+5	Em	O
+
+混	Bn	O
+凝	Mn	O
+土	En	O
+和	Sc	O
+钢	Bn	O
+筋	En	O
+混	Bn	O
+凝	Mn	O
+土	En	O
+排	Bn	O
+水	Mn	O
+管	En	O
+
+眉	Bns	B
+山	Mns	I
+市	Ens	I
+彭	Snr	I
+山	Bns	I
+区	Ens	I
+容	Bnr	I
+祥	Enr	I
+水	Bn	I
+泥	Mn	I
+制	Mn	I
+品	En	I
+厂	Szg	E
+
+R	Beng	O
+C	Meng	O
+P	Eeng	O
+Ⅱ	Sw	O
+4	Bm	O
+0	Mm	O
+0	Em	O
+x	Beng	O
+2	Meng	O
+0	Meng	O
+0	Meng	O
+0	Meng	O
+G	Meng	O
+B	Eeng	O
+/	Sw	O
+T	Beng	O
+1	Meng	O
+1	Meng	O
+8	Meng	O
+3	Meng	O
+6	Eeng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+3	Mm	O
+.	Mm	O
+2	Mm	O
+0	Em	O
+
+符	Bv	O
+合	Ev	O
+
+1	Bm	O
+6	Em	O
+
+混	Bn	O
+凝	Mn	O
+土	En	O
+和	Sc	O
+钢	Bn	O
+筋	En	O
+混	Bn	O
+凝	Mn	O
+土	En	O
+排	Bn	O
+水	Mn	O
+管	En	O
+
+青	Bns	B
+神	Mns	I
+县	Ens	I
+鸿	Bnz	I
+坤	Enz	I
+预	Bn	I
+制	Mn	I
+构	Mn	I
+件	En	I
+厂	Szg	E
+
+R	Beng	O
+C	Meng	O
+P	Eeng	O
+Ⅱ	Sw	O
+5	Bm	O
+0	Mm	O
+0	Em	O
+x	Beng	O
+2	Meng	O
+0	Meng	O
+0	Meng	O
+0	Meng	O
+G	Meng	O
+B	Eeng	O
+/	Sw	O
+T	Beng	O
+1	Meng	O
+1	Meng	O
+8	Meng	O
+3	Meng	O
+6	Eeng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Mm	O
+.	Mm	O
+4	Mm	O
+.	Mm	O
+1	Mm	O
+1	Em	O
+
+符	Bv	O
+合	Ev	O
+

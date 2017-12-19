@@ -1,0 +1,1599 @@
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Sv	O
+药	Bnt	O
+监	Mnt	O
+局	Ent	O
+抽	Bv	O
+检	Ev	O
+1	Bm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+淀	Bn	O
+粉	En	O
+制	Bn	O
+品	En	O
+样	Bn	O
+品	En	O
+
+全	Bn	O
+部	En	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+1	Bm	O
+7	Em	O
+日	Sm	O
+，	Sw	O
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+官	Bn	O
+网	En	O
+通	Bn	O
+告	En	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Bn	O
+度	En	O
+十	Bm	O
+八	Em	O
+批	Bd	O
+次	Ed	O
+淀	Bn	O
+粉	En	O
+制	Bn	O
+品	En	O
+抽	Bv	O
+检	Ev	O
+情	Bn	O
+况	En	O
+，	Sw	O
+抽	Bv	O
+检	Ev	O
+了	Sul	O
+十	Bm	O
+八	Em	O
+批	Bd	O
+次	Ed	O
+淀	Bn	O
+粉	En	O
+制	Bn	O
+品	En	O
+，	Sw	O
+经	Sn	O
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	Mn	O
+药	Mn	O
+品	En	O
+检	Bvn	O
+验	Evn	O
+检	Bvn	O
+测	Evn	O
+中	Bn	O
+心	En	O
+检	Bvn	O
+验	Evn	O
+，	Sw	O
+十	Bm	O
+八	Em	O
+批	Bd	O
+次	Ed	O
+淀	Bn	O
+粉	En	O
+制	Bn	O
+品	En	O
+检	Bvn	O
+验	Evn	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+此	Br	O
+次	Er	O
+抽	Bv	O
+检	Ev	O
+的	Suj	O
+淀	Bn	O
+粉	En	O
+制	Bn	O
+品	En	O
+主	Bb	O
+要	Eb	O
+是	Sv	O
+粉	Bn	O
+条	En	O
+，	Sw	O
+共	Sd	O
+抽	Bv	O
+检	Ev	O
+粉	Bn	O
+条	En	O
+1	Bm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+依	Bp	O
+据	Ep	O
+：	Sw	O
+G	Beng	O
+B	Eeng	O
+
+5	Bm	O
+0	Mm	O
+0	Mm	O
+9	Mm	O
+.	Mm	O
+3	Mm	O
+4	Em	O
+-	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+、	Sw	O
+G	Beng	O
+B	Eeng	O
+
+5	Bm	O
+0	Mm	O
+0	Mm	O
+9	Mm	O
+.	Mm	O
+1	Mm	O
+2	Em	O
+-	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+0	Em	O
+、	Sw	O
+G	Beng	O
+B	Eeng	O
+
+5	Bm	O
+0	Mm	O
+0	Mm	O
+9	Mm	O
+.	Mm	O
+1	Mm	O
+2	Mm	O
+3	Em	O
+-	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+4	Em	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+项	Bn	O
+目	En	O
+：	Sw	O
+二	Bnz	O
+氧	Mnz	O
+化	Mnz	O
+硫	Enz	O
+、	Sw	O
+铅	Sn	O
+、	Sw	O
+铬	Sn	O
+。	Sw	O
+
+产	Bn	O
+品	En	O
+合	Bn	O
+格	En	O
+信	Bn	O
+息	En	O
+
+（	Sw	O
+声	Bn	O
+明	En	O
+：	Sw	O
+以	Bf	O
+下	Ef	O
+信	Bn	O
+息	En	O
+仅	Bv	O
+指	Ev	O
+本	Br	O
+次	Er	O
+抽	Bv	O
+检	Ev	O
+标	Bn	O
+称	En	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+相	Bv	O
+关	Ev	O
+产	Bn	O
+品	En	O
+的	Suj	O
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+和	Sc	O
+所	Bv	O
+检	Ev	O
+项	Bn	O
+目	En	O
+）	Sw	O
+
+序	Bn	O
+号	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+名	Bn	O
+称	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+地	Bn	O
+址	En	O
+
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	Mn	O
+名	Mn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	En	O
+所	Bn	O
+在	Mn	O
+地	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+型	Bn	O
+号	En	O
+规	Bn	O
+格	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+
+1	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+来	Sv	I
+富	Sa	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+来	Sv	I
+富	Sa	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+来	Sv	O
+富	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+2	Bm	O
+5	Em	O
+
+2	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+来	Sv	I
+富	Sa	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+来	Sv	I
+富	Sa	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+手	Sn	O
+擀	Sv	O
+粉	Sn	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+2	Bm	O
+7	Em	O
+
+3	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+维	Bj	I
+军	Ej	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+维	Bj	I
+军	Ej	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+细	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+2	Bm	O
+7	Em	O
+
+4	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+维	Bj	I
+军	Ej	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+维	Bj	I
+军	Ej	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+宽	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+2	Bm	O
+7	Em	O
+
+5	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+小	Bnr	I
+姚	Enr	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+小	Bnr	I
+姚	Enr	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+细	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+6	Em	O
+
+6	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+苗	Bn	I
+家	En	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+苗	Bn	I
+家	En	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+宽	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+7	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+苗	Bn	I
+家	En	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+苗	Bn	I
+家	En	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+细	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+8	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+明	Bnr	I
+旺	Enr	I
+粉	Bn	I
+条	En	I
+加	Bvn	I
+工	Evn	I
+店	Sn	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+明	Bnr	I
+旺	Enr	I
+粉	Bn	I
+条	En	I
+加	Bvn	I
+工	Evn	I
+店	Sn	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+细	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+9	Sw	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+明	Bnr	I
+旺	Enr	I
+粉	Bn	I
+条	En	I
+加	Bvn	I
+工	Evn	I
+店	Sn	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+明	Bnr	I
+旺	Enr	I
+粉	Bn	I
+条	En	I
+加	Bvn	I
+工	Evn	I
+店	Sn	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+粗	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+1	Bm	O
+0	Em	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+福	Bnr	I
+旺	Enr	I
+面	Bn	I
+食	En	I
+粉	Bn	I
+条	En	I
+加	Bnt	I
+工	Mnt	I
+厂	Ent	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+福	Bnr	I
+旺	Enr	I
+面	Bn	I
+食	En	I
+粉	Bn	I
+条	En	I
+加	Bnt	I
+工	Mnt	I
+厂	Ent	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+细	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+1	Bm	O
+1	Em	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+福	Bnr	I
+旺	Enr	I
+面	Bn	I
+食	En	I
+粉	Bn	I
+条	En	I
+加	Bnt	I
+工	Mnt	I
+厂	Ent	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+福	Bnr	I
+旺	Enr	I
+面	Bn	I
+食	En	I
+粉	Bn	I
+条	En	I
+加	Bnt	I
+工	Mnt	I
+厂	Ent	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+宽	Sa	O
+粉	Sn	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+1	Bm	O
+2	Em	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+金	Bn	I
+丝	En	I
+银	Bn	I
+线	En	I
+粉	Bn	I
+条	En	I
+作	Bn	I
+坊	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+金	Bn	I
+丝	En	I
+银	Bn	I
+线	En	I
+粉	Bn	I
+条	En	I
+作	Bn	I
+坊	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+手	Sn	O
+擀	Sv	O
+粉	Sn	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+1	Bm	O
+3	Em	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+金	Bn	I
+丝	En	I
+银	Bn	I
+线	En	I
+粉	Bn	I
+条	En	I
+作	Bn	I
+坊	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+金	Bn	I
+丝	En	I
+银	Bn	I
+线	En	I
+粉	Bn	I
+条	En	I
+作	Bn	I
+坊	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+细	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+1	Bm	O
+4	Em	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+小	Bn	I
+田	En	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+小	Bn	I
+田	En	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+手	Sn	O
+擀	Sv	O
+粉	Sn	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+1	Bm	O
+5	Em	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+小	Bn	I
+田	En	I
+粉	Bn	I
+业	En	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+小	Bn	I
+田	En	I
+粉	Bn	I
+业	En	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+宽	Sa	O
+粉	Sn	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+7	Em	O
+
+1	Bm	O
+6	Em	O
+
+海	Bns	B
+南	Mns	I
+区	Ens	I
+拉	Bnr	I
+僧	Mnr	I
+仲	Enr	I
+贾	Bnr	I
+生	Mnr	I
+权	Enr	I
+手	Bn	I
+工	En	I
+粉	Bn	I
+条	En	I
+店	Sn	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+南	Mns	O
+区	Ens	O
+白	Bnr	O
+云	Enr	O
+南	Bns	O
+路	Ens	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+南	Mns	I
+区	Ens	I
+拉	Bnr	I
+僧	Mnr	I
+仲	Enr	I
+贾	Bnr	I
+生	Mnr	I
+权	Enr	I
+手	Bn	I
+工	En	I
+粉	Bn	I
+条	En	I
+店	Sn	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+细	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+9	Em	O
+
+1	Bm	O
+7	Em	O
+
+海	Bns	B
+南	Mns	I
+区	Ens	I
+拉	Bnr	I
+僧	Mnr	I
+仲	Enr	I
+贾	Bnr	I
+生	Mnr	I
+权	Enr	I
+手	Bn	I
+工	En	I
+粉	Bn	I
+条	En	I
+店	Sn	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+南	Mns	O
+区	Ens	O
+白	Bnr	O
+云	Enr	O
+南	Bns	O
+路	Ens	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+南	Mns	I
+区	Ens	I
+拉	Bnr	I
+僧	Mnr	I
+仲	Enr	I
+贾	Bnr	I
+生	Mnr	I
+权	Enr	I
+手	Bn	I
+工	En	I
+粉	Bn	I
+条	En	I
+店	Sn	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+粗	Sa	O
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+1	Bm	O
+9	Em	O
+
+1	Bm	O
+8	Em	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+建	Bnr	I
+永	Enr	I
+粉	Bn	I
+面	En	I
+加	Bnt	I
+工	Mnt	I
+厂	Ent	E
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+金	Bnr	O
+裕	Enr	O
+市	Bn	O
+场	En	O
+
+乌	Bns	O
+海	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+
+海	Bns	B
+勃	Mns	I
+湾	Mns	I
+区	Ens	I
+建	Bnr	I
+永	Enr	I
+粉	Bn	I
+面	En	I
+加	Bnt	I
+工	Mnt	I
+厂	Ent	E
+
+海	Bns	O
+勃	Mns	O
+湾	Mns	O
+区	Ens	O
+
+粉	Bn	O
+条	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+7	Sw	O
+/	Sw	O
+2	Bm	O
+3	Em	O
+

@@ -1,0 +1,2479 @@
+芜	Bns
+湖	Mns
+市	Ens
+食	Sv
+药	Bnt
+监	Mnt
+局	Ent
+抽	Bv
+检	Ev
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+3	Bm
+9	Em
+批	Bd
+次	Ed
+样	Bn
+品	En
+ 	Sw
+
+全	Bn
+部	En
+合	Bn
+格	En
+。	Sw
+
+第	Sm
+2	Bm
+3	Em
+期	Sn
+食	Bn
+品	En
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+合	Bn
+格	En
+信	Bn
+息	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	En
+所	Bb
+在	Eb
+市	Sn
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+芜	Bns
+湖	Mns
+市	Ens
+弋	Bns
+江	Mns
+区	Ens
+上	Bns
+海	Ens
+奥	Bnr
+新	Enr
+芜	Bns
+湖	Ens
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+沙	Bnr
+虾	Enr
+（	Sw
+海	Bn
+水	En
+虾	Sn
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+7	Mm
+2	Mm
+6	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+芜	Bns
+湖	Mns
+市	Ens
+弋	Bns
+江	Mns
+区	Ens
+上	Bns
+海	Ens
+奥	Bnr
+新	Enr
+芜	Bns
+湖	Ens
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+青	Bn
+蟹	En
+（	Sw
+海	Bn
+水	En
+蟹	Sng
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+7	Mm
+2	Mm
+6	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+芜	Bns
+湖	Mns
+市	Ens
+弋	Bns
+江	Mns
+区	Ens
+上	Bns
+海	Ens
+奥	Bnr
+新	Enr
+芜	Bns
+湖	Ens
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+皮	Bnr
+皮	Mnr
+虾	Enr
+（	Sw
+海	Bn
+水	En
+虾	Sn
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+7	Mm
+2	Mm
+6	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+4	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+芜	Bns
+湖	Mns
+市	Ens
+弋	Bns
+江	Mns
+区	Ens
+上	Bns
+海	Ens
+奥	Bnr
+新	Enr
+芜	Bns
+湖	Ens
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+梭	Bn
+子	Mn
+蟹	En
+（	Sw
+海	Bn
+水	En
+蟹	Sng
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+7	Mm
+2	Mm
+6	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+5	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+鸠	Bnr
+江	Mnr
+区	Enr
+果	Bc
+果	Ec
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+商	En
+行	Szg
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+蔬	Bn
+菜	En
+ 	Sw
+
+6	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+鸠	Bnr
+江	Mnr
+区	Enr
+果	Bc
+果	Ec
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+商	En
+行	Szg
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+花	Bn
+菜	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+蔬	Bn
+菜	En
+ 	Sw
+
+7	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+周	Bnr
+伟	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+蔬	Bn
+菜	En
+ 	Sw
+
+8	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+鸠	Bnr
+江	Mnr
+区	Enr
+双	Bnz
+林	Enz
+鲜	Bn
+菇	En
+行	Szg
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+金	Bn
+针	Mn
+菇	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+蔬	Bn
+菜	En
+ 	Sw
+
+9	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+鸠	Bnr
+江	Mnr
+区	Enr
+双	Bnz
+林	Enz
+鲜	Bn
+菇	En
+行	Szg
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+香	Bn
+菇	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+蔬	Bn
+菜	En
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+鸠	Bnr
+江	Mnr
+区	Enr
+双	Bnz
+林	Enz
+鲜	Bn
+菇	En
+行	Szg
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+蟹	Sng
+味	Sng
+菇	Sng
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+蔬	Bn
+菜	En
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+鸠	Bnr
+江	Mnr
+区	Enr
+毛	Bn
+子	En
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+蔬	Bn
+菜	En
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+齐	Bnr
+干	Mnr
+干	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+猪	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+徐	Bnr
+有	Mnr
+文	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+猪	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+王	Bnr
+芳	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+猪	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+汤	Sn
+海	Bnr
+燕	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+猪	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+孙	Bnr
+文	Mnr
+俊	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸡	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+孙	Bnr
+文	Mnr
+俊	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸭	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+奚	Bnr
+家	Mnr
+双	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸡	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+奚	Bnr
+家	Mnr
+双	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸭	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+胡	Bnr
+才	Mnr
+君	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鲫	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+刘	Bnr
+式	Mnr
+伟	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+扁	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+食	Bn
+府	En
+饭	Bn
+店	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+味	Bn
+意	En
+正	Bz
+浓	Ez
+酒	Bn
+店	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+小	Bnr
+龙	Mnr
+虾	Enr
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+经	Bn
+济	En
+技	Bn
+术	Mn
+开	Mn
+发	Mn
+区	En
+味	Bn
+意	En
+正	Bz
+浓	Ez
+酒	Bn
+店	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+黑	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+镜	Bns
+湖	Mns
+区	Ens
+横	Bns
+山	Ens
+小	Bnr
+康	Enr
+清	Ba
+真	Ea
+牛	Bn
+肉	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+牛	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+镜	Bns
+湖	Mns
+区	Ens
+牛	Bnr
+香	Mnr
+源	Enr
+食	Bn
+品	Mn
+店	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+牛	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+镜	Bns
+湖	Mns
+区	Ens
+柱	Sn
+玉	Sn
+鲜	Bn
+肉	En
+店	Sn
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+猪	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+刘	Bnr
+世	Mnr
+河	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+牛	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+镜	Bns
+湖	Mns
+区	Ens
+先	Bn
+仁	En
+家	Bn
+禽	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸡	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+镜	Bns
+湖	Mns
+区	Ens
+先	Bn
+仁	En
+家	Bn
+禽	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸭	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+茆	Snr
+振	Bnr
+秀	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+牛	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+李	Bnr
+林	Mnr
+兰	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+牛	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+查	Bnr
+光	Mnr
+梅	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸭	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+查	Bnr
+光	Mnr
+梅	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸡	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+杨	Bnr
+有	Mnr
+凤	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸡	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+畜	Bn
+禽	Mn
+肉	En
+及	Bc
+其	Ec
+副	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+个	Bn
+体	En
+工	Bn
+商	Mn
+户	En
+：	Sw
+杨	Bnr
+有	Mnr
+凤	Enr
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+鸭	Bn
+肉	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+弋	Bns
+江	Mns
+区	Ens
+老	Bn
+孙	En
+水	Bn
+产	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+虾	Sn
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+弋	Bns
+江	Mns
+区	Ens
+老	Bn
+孙	En
+水	Bn
+产	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+扁	Bn
+鱼	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+芜	Bns
+湖	Mns
+市	Ens
+宏	Bn
+益	En
+水	Bn
+产	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+芜	Bns
+湖	Ens
+ 	Sw
+
+虾	Sn
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+0	Mm
+3	Em
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+水	Bn
+产	Mn
+品	En
+
+

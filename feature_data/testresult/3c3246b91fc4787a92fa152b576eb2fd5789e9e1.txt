@@ -1,0 +1,3145 @@
+合	Bns	B
+肥	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+通	Bn	O
+报	En	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+上	Bt	O
+半	Mt	O
+年	Et	O
+汽	Bn	O
+柴	Mn	O
+油	En	O
+产	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+抽	Bv	O
+检	Ev	O
+情	Bn	O
+况	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+7	Sm	O
+月	Sm	O
+7	Sm	O
+日	Sm	O
+，	Sw	O
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+工	Bnt	O
+商	Mnt	O
+行	Mnt	O
+政	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+官	Bn	O
+网	En	O
+通	Bn	O
+报	En	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+上	Bt	O
+半	Mt	O
+年	Et	O
+汽	Bn	O
+柴	Mn	O
+油	En	O
+产	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+抽	Bv	O
+查	Ev	O
+检	Bvn	O
+验	Evn	O
+情	Bn	O
+况	En	O
+。	Sw	O
+
+此	Br	O
+次	Er	O
+抽	Bv	O
+查	Ev	O
+对	Bn	O
+象	En	O
+为	Sp	O
+合	Bn	O
+肥	En	O
+市	Bn	O
+辖	Mn	O
+区	En	O
+内	Sn	O
+1	Bm	O
+9	Em	O
+座	Sq	O
+社	Bn	O
+会	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+、	Sw	O
+4	Sm	O
+座	Sq	O
+中	Bj	O
+石	Mj	O
+化	Ej	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+、	Sw	O
+4	Sm	O
+座	Sq	O
+中	Sf	O
+石	Bn	O
+油	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+，	Sw	O
+也	Sd	O
+是	Sv	O
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+汽	Bn	O
+柴	Mn	O
+油	En	O
+供	Bvn	O
+应	Evn	O
+的	Suj	O
+主	Bn	O
+渠	Mn	O
+道	En	O
+。	Sw	O
+
+抽	Bv	O
+查	Ev	O
+结	Bn	O
+果	Mn	O
+表	Mn	O
+明	En	O
+，	Sw	O
+汽	Bn	O
+柴	Mn	O
+油	En	O
+经	Bvn	O
+销	Evn	O
+企	Bn	O
+业	En	O
+严	Sa	O
+把	Sp	O
+产	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+关	Sv	O
+，	Sw	O
+供	Bvn	O
+应	Evn	O
+的	Suj	O
+汽	Bn	O
+柴	Mn	O
+油	En	O
+质	Bn	O
+量	En	O
+较	Sd	O
+好	Sa	O
+，	Sw	O
+所	Sc	O
+检	Bvn	O
+测	Evn	O
+指	Bn	O
+标	En	O
+均	Sd	O
+达	Bv	O
+标	Ev	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+抽	Bv	O
+查	Ev	O
+中	Sf	O
+部	Bn	O
+分	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+销	Bvn	O
+售	Evn	O
+的	Suj	O
+汽	Bn	O
+油	En	O
+硫	Bn	O
+含	Mn	O
+量	En	O
+已	Bd	O
+经	Ed	O
+控	Bv	O
+制	Ev	O
+在	Sp	O
+1	Bm	O
+0	Em	O
+p	Beng	O
+p	Meng	O
+m	Eeng	O
+以	Bf	O
+内	Ef	O
+，	Sw	O
+表	Bv	O
+明	Ev	O
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+已	Sd	O
+逐	Bd	O
+步	Ed	O
+在	Sp	O
+实	Bv	O
+现	Ev	O
+国	Sn	O
+Ⅴ	Sw	O
+汽	Bn	O
+油	En	O
+的	Suj	O
+油	Bn	O
+品	En	O
+转	Bn	O
+型	En	O
+升	Bvn	O
+级	Evn	O
+。	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+工	Bnt	O
+商	Mnt	O
+行	Mnt	O
+政	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+提	Bv	O
+醒	Ev	O
+，	Sw	O
+消	Bn	O
+费	Mn	O
+者	En	O
+应	Sv	O
+尽	Bd	O
+量	Ed	O
+去	Sv	O
+大	Bb	O
+型	Eb	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+加	Bv	O
+油	Ev	O
+，	Sw	O
+确	Bv	O
+保	Ev	O
+质	Bn	O
+量	En	O
+可	Bv	O
+靠	Ev	O
+，	Sw	O
+性	Bn	O
+能	En	O
+稳	Ba	O
+定	Ea	O
+。	Sw	O
+
+合	Bns	B
+肥	Mns	I
+市	Ens	I
+工	Bnt	I
+商	Mnt	I
+行	Mnt	I
+政	Mnt	I
+管	Mnt	I
+理	Mnt	I
+局	Ent	E
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+上	Bt	O
+半	Mt	O
+年	Et	O
+汽	Bn	O
+柴	Mn	O
+油	En	O
+抽	Bv	O
+查	Ev	O
+汇	Bn	O
+总	Mn	O
+表	En	O
+
+序	Bn	O
+号	En	O
+
+检	Bvn	O
+验	Evn	O
+报	Bn	O
+告	En	O
+编	Bn	O
+号	En	O
+
+产	Bn	O
+品	Mn	O
+名	Mn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+受	Bv	O
+检	Ev	O
+单	Bn	O
+位	En	O
+
+检	Bvn	O
+验	Evn	O
+结	Bn	O
+论	En	O
+
+1	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+5	Meng	O
+9	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+亳	Bns	O
+州	Ens	O
+路	Bns	O
+桥	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+0	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+亳	Bns	O
+州	Ens	O
+路	Bns	O
+桥	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+1	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+亳	Bns	O
+州	Ens	O
+路	Bns	O
+桥	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+2	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+汽	Bn	O
+车	En	O
+客	Bn	O
+运	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+三	Bm	O
+角	Em	O
+线	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+3	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+汽	Bn	O
+车	En	O
+客	Bn	O
+运	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+三	Bm	O
+角	Em	O
+线	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+6	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+4	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+汽	Bn	O
+车	En	O
+客	Bn	O
+运	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+三	Bm	O
+角	Em	O
+线	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+7	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+5	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+中	Bj	O
+化	Ej	O
+石	Bn	O
+油	En	O
+安	Bns	O
+徽	Ens	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+北	Bt	O
+一	Et	O
+环	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+8	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+6	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+中	Bj	O
+化	Ej	O
+石	Bn	O
+油	En	O
+安	Bns	O
+徽	Ens	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+北	Bt	O
+一	Et	O
+环	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+9	Sw	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+7	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+8	Em	O
+#	Sw	O
+
+中	Bj	O
+化	Ej	O
+石	Bn	O
+油	En	O
+安	Bns	O
+徽	Ens	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+北	Bt	O
+一	Et	O
+环	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+0	Em	O
+
+Y	Beng	O
+0	Meng	O
+4	Meng	O
+4	Meng	O
+0	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+金	Bnz	O
+三	Mnz	O
+角	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+第	Bm	O
+一	Mm	O
+分	Em	O
+站	Sv	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+1	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+6	Meng	O
+9	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+金	Bnz	O
+三	Mnz	O
+角	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+第	Bm	O
+一	Mm	O
+分	Em	O
+站	Sv	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+2	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+0	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+安	Bns	O
+徽	Mns	O
+省	Ens	O
+合	Bn	O
+肥	En	O
+汽	Bn	O
+车	En	O
+客	Bn	O
+运	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+长	Sa	O
+客	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+3	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+1	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+安	Bns	O
+徽	Mns	O
+省	Ens	O
+合	Bn	O
+肥	En	O
+汽	Bn	O
+车	En	O
+客	Bn	O
+运	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+长	Sa	O
+客	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+4	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+2	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+长	Bns	O
+丰	Mns	O
+县	Ens	O
+三	Bm	O
+十	Em	O
+头	Sn	O
+飞	Bn	O
+乐	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+5	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+3	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+长	Bns	O
+丰	Mns	O
+县	Ens	O
+三	Bm	O
+十	Em	O
+头	Sn	O
+飞	Bn	O
+乐	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+6	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+4	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+金	Bnz	O
+三	Mnz	O
+角	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+第	Bm	O
+二	Em	O
+分	Bn	O
+站	En	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+7	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+5	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+金	Bnz	O
+三	Mnz	O
+角	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+第	Bm	O
+二	Em	O
+分	Bn	O
+站	En	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+8	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+6	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+合	Bns	O
+肥	Mns	O
+市	Ens	O
+金	Bnz	O
+三	Mnz	O
+角	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+第	Bm	O
+二	Em	O
+分	Bn	O
+站	En	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+1	Bm	O
+9	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+7	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+安	Bns	B
+徽	Ens	I
+企	Bn	I
+期	En	I
+投	Bvn	I
+资	Evn	I
+管	Bvn	I
+理	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+合	Bn	I
+肥	En	I
+安	Bnr	I
+中	Enr	I
+全	Bn	I
+椒	En	I
+路	Sn	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+0	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+8	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+安	Bns	B
+徽	Ens	I
+企	Bn	I
+期	En	I
+投	Bvn	I
+资	Evn	I
+管	Bvn	I
+理	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+合	Bn	I
+肥	En	I
+安	Bnr	I
+中	Enr	I
+全	Bn	I
+椒	En	I
+路	Sn	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+1	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+7	Meng	O
+9	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+安	Bns	B
+徽	Ens	I
+企	Bn	I
+期	En	I
+投	Bvn	I
+资	Evn	I
+管	Bvn	I
+理	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+合	Bn	I
+肥	En	I
+安	Bnr	I
+中	Enr	I
+全	Bn	I
+椒	En	I
+路	Sn	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+2	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+0	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+裕	Bnz	O
+丰	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+3	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+1	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+裕	Bnz	O
+丰	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+4	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+2	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+裕	Bnz	O
+丰	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+5	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+3	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+肥	Bns	O
+东	Mns	O
+县	Ens	O
+龙	Bnr	O
+岗	Enr	O
+力	Sn	O
+达	Sv	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+6	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+4	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+肥	Bns	O
+东	Mns	O
+县	Ens	O
+龙	Bnr	O
+岗	Enr	O
+力	Sn	O
+达	Sv	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+7	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+5	Eeng	O
+
+普	Bnz	O
+通	Enz	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+肥	Bns	O
+东	Mns	O
+县	Ens	O
+龙	Bnr	O
+岗	Enr	O
+力	Sn	O
+达	Sv	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+8	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+6	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+钢	Bnt	O
+铁	Mnt	O
+集	Mnt	O
+团	Ent	O
+汽	Bn	O
+车	En	O
+运	Bvn	O
+输	Evn	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+合	Ba	O
+裕	Ea	O
+路	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+2	Bm	O
+9	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+7	Eeng	O
+
+普	Bnz	O
+通	Enz	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+钢	Bnt	O
+铁	Mnt	O
+集	Mnt	O
+团	Ent	O
+汽	Bn	O
+车	En	O
+运	Bvn	O
+输	Evn	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+合	Ba	O
+裕	Ea	O
+路	Sn	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+0	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+8	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+安	Bns	B
+徽	Ens	I
+企	Bn	I
+期	En	I
+投	Bvn	I
+资	Evn	I
+管	Bvn	I
+理	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+合	Bn	I
+肥	En	I
+安	Bnz	I
+中	Mnz	I
+合	Mnz	I
+裕	Mnz	I
+路	Enz	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+1	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+8	Meng	O
+9	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+安	Bns	B
+徽	Ens	I
+企	Bn	I
+期	En	I
+投	Bvn	I
+资	Evn	I
+管	Bvn	I
+理	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+合	Bn	I
+肥	En	I
+安	Bnz	I
+中	Mnz	I
+合	Mnz	I
+裕	Mnz	I
+路	Enz	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+2	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+0	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bns	B
+肥	Mns	I
+市	Ens	I
+凯	Bnr	I
+林	Enr	I
+工	Bj	I
+贸	Ej	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+马	Bns	I
+鞍	Mns	I
+山	Ens	I
+南	Bns	I
+路	Ens	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+3	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+1	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+1	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+合	Bns	B
+肥	Mns	I
+市	Ens	I
+凯	Bnr	I
+林	Enr	I
+工	Bj	I
+贸	Ej	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+马	Bns	I
+鞍	Mns	I
+山	Ens	I
+南	Bns	I
+路	Ens	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+4	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+2	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+安	Bns	O
+徽	Ens	O
+川	Sj	O
+能	Sv	O
+石	Bj	O
+化	Ej	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+5	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+3	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+安	Bns	O
+徽	Ens	O
+川	Sj	O
+能	Sv	O
+石	Bj	O
+化	Ej	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+6	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+4	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+瑞	Bns	O
+峰	Ens	O
+华	Bnz	O
+能	Enz	O
+贸	Bvn	O
+易	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+交	Bn	O
+通	En	O
+油	Bn	O
+气	En	O
+合	Bv	O
+建	Ev	O
+站	Sv	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+7	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+5	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+瑞	Bns	O
+峰	Ens	O
+华	Bnz	O
+能	Enz	O
+贸	Bvn	O
+易	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+交	Bn	O
+通	En	O
+油	Bn	O
+气	En	O
+合	Bv	O
+建	Ev	O
+站	Sv	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+8	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+6	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+合	Bn	B
+肥	En	I
+常	Bnr	I
+青	Enr	I
+商	Bn	I
+贸	En	I
+服	Bvn	I
+务	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+常	Bnr	I
+青	Enr	I
+石	Bn	I
+燃	En	I
+分	Bn	I
+公	Mn	I
+司	En	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+3	Bm	O
+9	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+7	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+合	Bn	B
+肥	En	I
+常	Bnr	I
+青	Enr	I
+商	Bn	I
+贸	En	I
+服	Bvn	I
+务	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+常	Bnr	I
+青	Enr	I
+石	Bn	I
+燃	En	I
+分	Bn	I
+公	Mn	I
+司	En	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+0	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+8	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+中	Bn	O
+铁	En	O
+四	Bj	O
+局	Ej	O
+集	Bn	O
+团	En	O
+物	Bn	O
+资	En	O
+工	Bj	O
+贸	Ej	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+1	Em	O
+
+Y	Beng	O
+0	Meng	O
+1	Meng	O
+9	Meng	O
+9	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+中	Bn	O
+铁	En	O
+四	Bj	O
+局	Ej	O
+集	Bn	O
+团	En	O
+物	Bn	O
+资	En	O
+工	Bj	O
+贸	Ej	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+2	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+0	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+安	Bns	B
+徽	Ens	I
+企	Bn	I
+期	En	I
+投	Bvn	I
+资	Evn	I
+管	Bvn	I
+理	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+合	Bn	I
+肥	En	I
+安	Bnr	I
+中	Enr	I
+屯	Bns	I
+溪	Mns	I
+路	Ens	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+3	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+1	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+金	Bnz	O
+利	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+4	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+2	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+8	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+金	Bnz	O
+利	Enz	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+5	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+3	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+桐	Bns	O
+城	Ens	O
+南	Bns	O
+路	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+6	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+4	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+桐	Bns	O
+城	Ens	O
+南	Bns	O
+路	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+7	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+5	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+潜	Bn	O
+口	En	O
+路	Sn	O
+加	Bv	O
+油	Ev	O
+加	Bv	O
+气	Ev	O
+充	Bv	O
+电	Ev	O
+合	Bv	O
+建	Ev	O
+站	Sv	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+8	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+6	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+潜	Bn	O
+口	En	O
+路	Sn	O
+加	Bv	O
+油	Ev	O
+加	Bv	O
+气	Ev	O
+充	Bv	O
+电	Ev	O
+合	Bv	O
+建	Ev	O
+站	Sv	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+4	Bm	O
+9	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+7	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+繁	Ba	O
+华	Ea	O
+大	Bn	O
+道	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+0	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+8	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bj	O
+化	Ej	O
+销	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+繁	Ba	O
+华	Ea	O
+大	Bn	O
+道	En	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+1	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+0	Meng	O
+9	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+合	Bn	O
+肥	En	O
+公	Bn	O
+交	En	O
+集	Bn	O
+团	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+双	Bnr	O
+谊	Enr	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+2	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+0	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bn	O
+油	En	O
+天	Bn	O
+然	Mn	O
+气	En	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+销	Bvn	O
+售	Evn	O
+分	Bn	O
+公	Mn	O
+司	En	O
+南	Sns	O
+天	Sq	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+3	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+1	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+1	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bn	O
+油	En	O
+天	Bn	O
+然	Mn	O
+气	En	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+销	Bvn	O
+售	Evn	O
+分	Bn	O
+公	Mn	O
+司	En	O
+南	Sns	O
+天	Sq	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+4	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+2	Eeng	O
+
+车	Bn	O
+用	Mn	O
+汽	Mn	O
+油	En	O
+
+9	Bm	O
+8	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bn	O
+油	En	O
+天	Bn	O
+然	Mn	O
+气	En	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+销	Bvn	O
+售	Evn	O
+分	Bn	O
+公	Mn	O
+司	En	O
+南	Sns	O
+天	Sq	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+5	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+3	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+中	Bns	B
+国	Ens	I
+石	Bn	I
+油	En	I
+天	Bn	I
+然	Mn	I
+气	En	I
+股	Bn	I
+份	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+安	Bns	I
+徽	Ens	I
+合	Bn	I
+肥	En	I
+销	Bvn	I
+售	Evn	I
+分	Bn	I
+公	Mn	I
+司	En	I
+金	Bnr	I
+凌	Enr	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+6	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+4	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+中	Bns	B
+国	Ens	I
+石	Bn	I
+油	En	I
+天	Bn	I
+然	Mn	I
+气	En	I
+股	Bn	I
+份	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+安	Bns	I
+徽	Ens	I
+合	Bn	I
+肥	En	I
+销	Bvn	I
+售	Evn	I
+分	Bn	I
+公	Mn	I
+司	En	I
+金	Bnr	I
+凌	Enr	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+7	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+5	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+中	Bns	B
+国	Ens	I
+石	Bn	I
+油	En	I
+天	Bn	I
+然	Mn	I
+气	En	I
+股	Bn	I
+份	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+安	Bns	I
+徽	Ens	I
+合	Bn	I
+肥	En	I
+销	Bvn	I
+售	Evn	I
+分	Bn	I
+公	Mn	I
+司	En	I
+富	Bnz	I
+安	Enz	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+8	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+6	Eeng	O
+
+车	Bn	O
+用	En	O
+柴	Bn	O
+油	En	O
+
+0	Sm	O
+#	Sw	O
+
+中	Bns	B
+国	Ens	I
+石	Bn	I
+油	En	I
+天	Bn	I
+然	Mn	I
+气	En	I
+股	Bn	I
+份	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+安	Bns	I
+徽	Ens	I
+合	Bn	I
+肥	En	I
+销	Bvn	I
+售	Evn	I
+分	Bn	I
+公	Mn	I
+司	En	I
+富	Bnz	I
+安	Enz	I
+加	Bnt	I
+油	Mnt	I
+站	Ent	E
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+5	Bm	O
+9	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+7	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+0	Eeng	O
+）	Sw	O
+
+9	Bm	O
+2	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bn	O
+油	En	O
+天	Bn	O
+然	Mn	O
+气	En	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+销	Bvn	O
+售	Evn	O
+分	Bn	O
+公	Mn	O
+司	En	O
+铜	Bns	O
+陵	Ens	O
+北	Bns	O
+路	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+
+6	Bm	O
+0	Em	O
+
+Y	Beng	O
+0	Meng	O
+2	Meng	O
+1	Meng	O
+8	Eeng	O
+
+车	Bn	O
+用	En	O
+乙	Bnz	O
+醇	Mnz	O
+汽	Mnz	O
+油	Enz	O
+（	Sw	O
+E	Beng	O
+1	Meng	O
+1	Eeng	O
+）	Sw	O
+
+9	Bm	O
+5	Em	O
+#	Sw	O
+
+中	Bns	O
+国	Ens	O
+石	Bn	O
+油	En	O
+天	Bn	O
+然	Mn	O
+气	En	O
+股	Bn	O
+份	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+安	Bns	O
+徽	Ens	O
+合	Bn	O
+肥	En	O
+销	Bvn	O
+售	Evn	O
+分	Bn	O
+公	Mn	O
+司	En	O
+铜	Bns	O
+陵	Ens	O
+北	Bns	O
+路	Ens	O
+加	Bnt	O
+油	Mnt	O
+站	Ent	O
+
+所	Su	O
+检	Svn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+

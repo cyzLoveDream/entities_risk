@@ -1,0 +1,2404 @@
+肥	Bn	O
+料	En	O
+抽	Bv	O
+检	Ev	O
+结	Bn	O
+果	En	O
+，	Sw	O
+合	Bn	O
+格	En	O
+、	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+全	Bn	O
+都	En	O
+公	Bv	O
+布	Ev	O
+（	Sw	O
+附	Sv	O
+详	Bad	O
+细	Ead	O
+名	Bn	O
+单	En	O
+）	Sw	O
+。	Sw	O
+
+一	Bmq	O
+季	Mmq	O
+度	Emq	O
+,	Sw	O
+
+锦	Bns	O
+州	Mns	O
+市	Ens	O
+质	Bnt	O
+量	Mnt	O
+技	Mnt	O
+术	Mnt	O
+监	Mnt	O
+督	Mnt	O
+局	Ent	O
+对	Sp	O
+本	Bn	O
+市	En	O
+生	Bvn	O
+产	Evn	O
+的	Suj	O
+化	Bn	O
+肥	En	O
+产	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+进	Bv	O
+行	Ev	O
+了	Sul	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+共	Sd	O
+抽	Bv	O
+查	Ev	O
+2	Bm	O
+2	Em	O
+家	Sm	O
+化	Bn	O
+肥	En	O
+产	Bn	O
+品	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+生	Bvn	O
+产	Evn	O
+的	Suj	O
+4	Bm	O
+0	Em	O
+批	Bd	O
+次	Ed	O
+产	Bn	O
+品	En	O
+，	Sw	O
+经	Sn	O
+检	Bvn	O
+验	Evn	O
+，	Sw	O
+2	Sm	O
+家	Sm	O
+企	Bn	O
+业	En	O
+生	Bvn	O
+产	Evn	O
+的	Suj	O
+2	Sm	O
+批	Bd	O
+次	Ed	O
+产	Bn	O
+品	En	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+依	Bp	O
+据	Ep	O
+G	Beng	O
+B	Meng	O
+1	Meng	O
+5	Meng	O
+0	Meng	O
+6	Meng	O
+3	Eeng	O
+-	Sw	O
+2	Bm	O
+0	Mm	O
+0	Mm	O
+9	Em	O
+《	Sw	O
+复	Bn	O
+混	Mn	O
+肥	En	O
+料	Sv	O
+》	Sw	O
+、	Sw	O
+
+G	Beng	O
+B	Meng	O
+2	Meng	O
+1	Meng	O
+6	Meng	O
+3	Meng	O
+3	Eeng	O
+-	Sw	O
+2	Bm	O
+0	Mm	O
+0	Mm	O
+8	Em	O
+《	Sw	O
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+B	Beng	O
+B	Eeng	O
+肥	Sn	O
+）	Sw	O
+》	Sw	O
+、	Sw	O
+G	Beng	O
+B	Meng	O
+1	Meng	O
+8	Meng	O
+3	Meng	O
+8	Meng	O
+2	Eeng	O
+-	Sw	O
+2	Bm	O
+0	Mm	O
+0	Mm	O
+1	Em	O
+《	Sw	O
+肥	Bn	O
+料	En	O
+标	Bn	O
+识	En	O
+、	Sw	O
+内	Bn	O
+容	En	O
+和	Sc	O
+要	Bv	O
+求	Ev	O
+》	Sw	O
+等	Su	O
+国	Bn	O
+家	Mn	O
+标	Mn	O
+准	En	O
+及	Sc	O
+相	Bv	O
+关	Ev	O
+要	Bv	O
+求	Ev	O
+，	Sw	O
+对	Sp	O
+产	Bn	O
+品	En	O
+的	Suj	O
+总	Bn	O
+氮	En	O
+、	Sw	O
+有	Ba	O
+效	Ea	O
+五	Bnz	O
+氧	Mnz	O
+化	Mnz	O
+二	Mnz	O
+磷	Enz	O
+、	Sw	O
+钾	Sn	O
+、	Sw	O
+总	Sb	O
+养	Bn	O
+分	En	O
+、	Sw	O
+水	Bn	O
+溶	Mn	O
+性	En	O
+磷	Sn	O
+占	Sv	O
+有	Ba	O
+效	Ea	O
+磷	Sn	O
+百	Bn	O
+分	Mn	O
+率	En	O
+、	Sw	O
+氯	Bn	O
+离	Mn	O
+子	En	O
+、	Sw	O
+粒	Bn	O
+度	En	O
+、	Sw	O
+缓	Bv	O
+释	Ev	O
+养	Sv	O
+分	Bn	O
+量	En	O
+、	Sw	O
+包	Bv	O
+装	Ev	O
+标	Bn	O
+识	En	O
+等	Su	O
+项	Bn	O
+目	En	O
+进	Bv	O
+行	Ev	O
+了	Sul	O
+检	Bvn	O
+验	Evn	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+抽	Bv	O
+查	Ev	O
+发	Bv	O
+现	Ev	O
+的	Suj	O
+质	Bn	O
+量	En	O
+问	Bn	O
+题	En	O
+是	Sv	O
+氯	Bn	O
+离	Mn	O
+子	En	O
+质	Bn	O
+量	En	O
+分	Bn	O
+数	En	O
+、	Sw	O
+总	Sb	O
+养	Bn	O
+分	En	O
+、	Sw	O
+钾	Sn	O
+质	Bn	O
+量	En	O
+分	Bn	O
+数	En	O
+等	Su	O
+项	Bn	O
+目	En	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+按	Bp	O
+照	Ep	O
+有	Bvn	O
+关	Evn	O
+法	Bn	O
+律	Mn	O
+法	Mn	O
+规	En	O
+的	Suj	O
+规	Bn	O
+定	En	O
+，	Sw	O
+市	Sn	O
+质	Bj	O
+监	Mj	O
+局	Ej	O
+对	Sp	O
+不	Sv	O
+合	Bn	O
+格	En	O
+企	Bn	O
+业	En	O
+开	Bv	O
+展	Ev	O
+了	Sul	O
+后	Bn	O
+处	Mn	O
+理	En	O
+工	Bvn	O
+作	Evn	O
+，	Sw	O
+目	Bt	O
+前	Et	O
+都	Sd	O
+已	Sd	O
+完	Bv	O
+成	Ev	O
+了	Sul	O
+整	Bv	O
+改	Ev	O
+复	Bv	O
+检	Ev	O
+工	Bvn	O
+作	Evn	O
+。	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+锦	Bns	O
+州	Mns	O
+市	Ens	O
+化	Bn	O
+肥	En	O
+产	Bn	O
+品	Mn	O
+质	Mn	O
+量	En	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+结	Bn	O
+果	En	O
+汇	Bn	O
+总	Mn	O
+表	En	O
+
+序	Bn	O
+号	En	O
+
+企	Bn	O
+业	En	O
+名	Bn	O
+称	En	O
+
+产	Bn	O
+品	En	O
+详	Bad	O
+细	Ead	O
+名	Bn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+
+抽	Bv	O
+查	Ev	O
+结	Bn	O
+果	En	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+项	Bn	O
+目	En	O
+
+1	Sw	O
+
+辽	Bns	O
+宁	Ens	O
+大	Bns	O
+洋	Ens	O
+农	Bn	O
+业	En	O
+科	Bn	O
+技	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+1	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Sw	O
+
+北	Bns	B
+镇	Ens	I
+市	Sn	I
+玉	Bnz	I
+华	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+复	Bn	O
+混	Mn	O
+肥	En	O
+料	Sv	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+1	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Sw	O
+
+北	Bns	B
+镇	Ens	I
+市	Sn	I
+玉	Bnz	I
+华	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+稳	Bn	O
+定	Mn	O
+性	En	O
+复	Bn	O
+混	Mn	O
+肥	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+4	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+4	Sw	O
+
+北	Bns	B
+镇	Ens	I
+市	Sn	I
+锦	Bnz	I
+华	Enz	I
+生	Bn	I
+物	Mn	I
+化	Mn	I
+工	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+含	Sv	O
+腐	Bn	O
+植	Mn	O
+酸	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+
+5	Sm	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+6	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+5	Sw	O
+
+北	Bns	B
+镇	Ens	I
+市	Sn	I
+锦	Bnz	I
+华	Enz	I
+生	Bn	I
+物	Mn	I
+化	Mn	I
+工	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+含	Sv	O
+腐	Bn	O
+植	Mn	O
+酸	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+
+5	Sm	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+1	Sw	O
+-	Sw	O
+2	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+6	Sw	O
+
+辽	Bns	B
+宁	Ens	I
+新	Sa	I
+盛	Bn	I
+源	En	I
+肥	Bn	I
+业	En	I
+科	Bn	I
+技	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+1	Sw	O
+-	Sw	O
+1	Bm	O
+3	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+7	Sw	O
+
+锦	Bns	B
+州	Ens	I
+加	Bns	I
+拿	Mns	I
+芬	Ens	I
+化	Bn	I
+肥	En	I
+有	Bl	I
+限	Ml	I
+责	Ml	I
+任	El	I
+公	Bn	I
+司	En	E
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+-	Sw	O
+1	Bm	O
+2	Em	O
+-	Sw	O
+3	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+8	Sw	O
+
+锦	Bns	B
+州	Ens	I
+加	Bns	I
+拿	Mns	I
+芬	Ens	I
+化	Bn	I
+肥	En	I
+有	Bl	I
+限	Ml	I
+责	Ml	I
+任	El	I
+公	Bn	I
+司	En	E
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+7	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+9	Sw	O
+
+辽	Bns	O
+宁	Ens	O
+西	Bns	O
+洋	Ens	O
+特	Bn	O
+肥	En	O
+有	Ba	O
+限	Ea	O
+先	Sd	O
+责	Bn	O
+任	En	O
+公	Bn	O
+司	En	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+7	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+0	Em	O
+
+辽	Bns	O
+宁	Ens	O
+西	Bns	O
+洋	Ens	O
+特	Bn	O
+肥	En	O
+有	Ba	O
+限	Ea	O
+先	Sd	O
+责	Bn	O
+任	En	O
+公	Bn	O
+司	En	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+7	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+1	Em	O
+
+锦	Bns	B
+州	Ens	I
+恒	Bnz	I
+野	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+3	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+2	Em	O
+
+锦	Bns	B
+州	Ens	I
+恒	Bnz	I
+野	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+1	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+3	Em	O
+
+辽	Bns	B
+宁	Ens	I
+芦	Bn	I
+田	En	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+脲	Bnz	O
+醛	Enz	O
+缓	Bv	O
+释	Ev	O
+复	Bn	O
+混	Mn	O
+肥	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+不	Sd	O
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+氯	Bn	O
+离	Mn	O
+子	En	O
+质	Bn	O
+量	En	O
+分	Bn	O
+数	En	O
+
+1	Bm	O
+4	Em	O
+
+辽	Bns	B
+宁	Ens	I
+芦	Bn	I
+田	En	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+7	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+5	Em	O
+
+锦	Bns	B
+州	Ens	I
+鑫	Snr	I
+苗	Bn	I
+肥	En	I
+业	Sn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+6	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+6	Em	O
+
+锦	Bns	B
+州	Ens	I
+鑫	Snr	I
+苗	Bn	I
+肥	En	I
+业	Sn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+7	Em	O
+
+不	Sd	O
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+总	Sb	O
+养	Bn	O
+分	En	O
+、	Sw	O
+钾	Sn	O
+质	Bn	O
+量	En	O
+分	Bn	O
+数	En	O
+
+1	Bm	O
+7	Em	O
+
+辽	Bns	B
+宁	Ens	I
+庆	Bns	I
+洋	Ens	I
+化	Bn	I
+肥	En	I
+生	Bvn	I
+产	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+1	Sw	O
+-	Sw	O
+2	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+8	Em	O
+
+辽	Bns	B
+宁	Ens	I
+庆	Bns	I
+洋	Ens	I
+化	Bn	I
+肥	En	I
+生	Bvn	I
+产	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+有	Bn	O
+机	En	O
+-	Sw	O
+无	Bn	O
+机	En	O
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+1	Sw	O
+-	Sw	O
+2	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+1	Bm	O
+9	Em	O
+
+辽	Bns	B
+宁	Ens	I
+中	Bnz	I
+农	Enz	I
+化	Bn	I
+肥	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+控	Bv	O
+释	Ev	O
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+0	Em	O
+
+辽	Bns	B
+宁	Ens	I
+翠	Bnr	I
+龙	Enr	I
+肥	Bn	I
+业	En	I
+集	Bn	I
+团	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+控	Bv	O
+释	Ev	O
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+0	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+1	Em	O
+
+辽	Bns	B
+宁	Ens	I
+翠	Bnr	I
+龙	Enr	I
+肥	Bn	I
+业	En	I
+集	Bn	I
+团	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+控	Bv	O
+释	Ev	O
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+2	Em	O
+
+辽	Bns	B
+宁	Ens	I
+凯	Bnz	I
+丰	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+3	Em	O
+
+辽	Bns	B
+宁	Ens	I
+凯	Bnz	I
+丰	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+4	Em	O
+
+辽	Bns	B
+宁	Ens	I
+盛	Bnr	I
+世	Enr	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+复	Bn	O
+混	Mn	O
+肥	En	O
+料	Sv	O
+（	Sw	O
+低	Sa	O
+氯	Sn	O
+）	Sw	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+1	Sw	O
+-	Sw	O
+8	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+5	Em	O
+
+辽	Bns	B
+宁	Ens	I
+隆	Bnr	I
+翔	Enr	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+6	Em	O
+
+辽	Bns	B
+宁	Ens	I
+隆	Bnr	I
+翔	Enr	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+6	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+7	Em	O
+
+辽	Bns	B
+宁	Ens	I
+霖	Snr	I
+森	Snr	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+5	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+8	Em	O
+
+辽	Bns	B
+宁	Ens	I
+霖	Snr	I
+森	Snr	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+5	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+2	Bm	O
+9	Em	O
+
+辽	Bns	B
+宁	Ens	I
+荣	Bnr	I
+越	Enr	I
+农	Bn	I
+业	En	I
+科	Bn	I
+技	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+1	Sw	O
+-	Sw	O
+1	Bm	O
+3	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+0	Em	O
+
+辽	Bns	B
+宁	Ens	I
+荣	Bnr	I
+越	Enr	I
+农	Bn	I
+业	En	I
+科	Bn	I
+技	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+1	Sw	O
+-	Sw	O
+2	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+1	Em	O
+
+辽	Bns	B
+宁	Ens	I
+晶	Snr	I
+超	Sv	I
+肥	Bn	I
+业	En	I
+发	Bvn	I
+展	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+8	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+2	Em	O
+
+辽	Bns	B
+宁	Ens	I
+晶	Snr	I
+超	Sv	I
+肥	Bn	I
+业	En	I
+发	Bvn	I
+展	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+1	Bm	O
+0	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+3	Em	O
+
+辽	Bns	O
+宁	Ens	O
+大	Bn	O
+地	En	O
+丰	Bnz	O
+肥	Mnz	O
+业	Enz	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+6	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+4	Em	O
+
+辽	Bns	O
+宁	Ens	O
+大	Bn	O
+地	En	O
+丰	Bnz	O
+肥	Mnz	O
+业	Enz	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+6	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+5	Em	O
+
+辽	Bns	B
+宁	Ens	I
+东	Bnr	I
+萌	Enr	I
+肥	Bn	I
+业	En	I
+科	Bn	I
+技	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Sn	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+6	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+6	Em	O
+
+辽	Bns	B
+宁	Ens	I
+东	Bnr	I
+萌	Enr	I
+肥	Bn	I
+业	En	I
+科	Bn	I
+技	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Sn	O
+
+3	Bm	O
+5	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+5	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+7	Em	O
+
+辽	Bns	B
+宁	Ens	I
+隆	Bnr	I
+翔	Enr	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+8	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+8	Em	O
+
+辽	Bns	B
+宁	Ens	I
+凯	Bnz	I
+丰	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+
+4	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+3	Sw	O
+-	Sw	O
+2	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+3	Bm	O
+9	Em	O
+
+凌	Bns	B
+海	Mns	I
+市	Ens	I
+永	Bnz	I
+丰	Enz	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+掺	Bv	O
+混	Ev	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+含	Bn	O
+氯	En	O
+）	Sw	O
+
+5	Bm	O
+0	Em	O
+k	Beng	O
+g	Eeng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+2	Sw	O
+-	Sw	O
+2	Bm	O
+8	Em	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+4	Bm	O
+0	Em	O
+
+锦	Bns	B
+州	Mns	I
+市	Ens	I
+宏	Ba	I
+兴	Ea	I
+生	Bl	I
+物	Ml	I
+肥	Ml	I
+料	El	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+有	Bn	O
+机	Mn	O
+肥	En	O
+
+/	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+3	Sw	O
+-	Sw	O
+1	Sw	O
+
+符	Bv	O
+合	Ev	O
+本	Br	O
+次	Er	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+查	Ev	O
+要	Bv	O
+求	Ev	O
+
+来	Bn	O
+源	En	O
+：	Sw	O
+锦	Bns	O
+州	Mns	O
+市	Ens	O
+人	Bnt	O
+民	Mnt	O
+政	Mnt	O
+府	Ent	O
+门	Bn	O
+户	Mn	O
+网	Mn	O
+站	En	O
+

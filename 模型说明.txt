@@ -1,0 +1,58 @@
+crf_learn -f 1 -c 1.0 train.emd.txt train_people
+processed 2999561 tokens with 29927 phrases; found: 46729 phrases; correct: 17860.
+accuracy:  86.23%; precision:  38.22%; recall:  59.68%; FB1:  46.60
+                 : precision:  38.22%; recall:  59.68%; FB1:  46.60  46729
+                 : precision:  38.22%; recall:  59.68%; FB1:  46.60  46729
+crf_learn -f 1 -c 0.8 train.emd.txt train_people_0.8
+processed 2999561 tokens with 29927 phrases; found: 46574 phrases; correct: 17850.
+accuracy:  86.28%; precision:  38.33%; recall:  59.65%; FB1:  46.67
+                 : precision:  38.33%; recall:  59.65%; FB1:  46.67  46574
+                 : precision:  38.33%; recall:  59.65%; FB1:  46.67  46574
+
+crf_learn -f 4 -c 3 traintoken.txt traintoken_tag128
+processed 2990380 tokens with 30025 phrases; found: 30291 phrases; correct: 29267.
+accuracy:  99.38%; precision:  96.62%; recall:  97.48%; FB1:  97.05
+                 : precision:  96.62%; recall:  97.48%; FB1:  97.05  30291
+                 : precision:  96.62%; recall:  97.48%; FB1:  97.05  30291
+
+crf_learn -f 1 -c 0.5 teample traintokens_pos.txt train_tag_0.5
+processed 2990380 tokens with 30025 phrases; found: 30286 phrases; correct: 29020.
+accuracy:  99.27%; precision:  95.82%; recall:  96.65%; FB1:  96.23
+                 : precision:  95.82%; recall:  96.65%; FB1:  96.23  30286
+                 : precision:  95.82%; recall:  96.65%; FB1:  96.23  30286
+
+crf_learn -f 1 -c 0.5 template train.emd.txt train_people_0.5
+processed 2999561 tokens with 29927 phrases; found: 46342 phrases; correct: 17758.
+accuracy:  86.33%; precision:  38.32%; recall:  59.34%; FB1:  46.57
+                 : precision:  38.32%; recall:  59.34%; FB1:  46.57  46342
+                 : precision:  38.32%; recall:  59.34%; FB1:  46.57  46342
+
+crf_learn -f 1 -c 1.2 teample traintokens_pos.txt train_tag_1.2
+processed 2990380 tokens with 30025 phrases; found: 30243 phrases; correct: 29252.
+accuracy:  99.39%; precision:  96.72%; recall:  97.43%; FB1:  97.07
+                 : precision:  96.72%; recall:  97.43%; FB1:  97.07  30243
+                 : precision:  96.72%; recall:  97.43%; FB1:  97.07  30243
+
+crf_learn -f 1 -c 1.2 template train.emd.txt train_people_1.2 
+processed 2999561 tokens with 29927 phrases; found: 46691 phrases; correct: 17827.
+accuracy:  86.26%; precision:  38.18%; recall:  59.57%; FB1:  46.53
+                 : precision:  38.18%; recall:  59.57%; FB1:  46.53  46691
+                 : precision:  38.18%; recall:  59.57%; FB1:  46.53  46691
+
+crf_learn -f 1 -c 2.0 teample traintokens_pos.txt train_tag_2.0
+processed 2990380 tokens with 30025 phrases; found: 30311 phrases; correct: 29337.
+accuracy:  99.42%; precision:  96.79%; recall:  97.71%; FB1:  97.25
+                 : precision:  96.79%; recall:  97.71%; FB1:  97.25  30311
+                 : precision:  96.79%; recall:  97.71%; FB1:  97.25  30311
+
+crf_learn -f 1 -c 4.0 teample traintokens_pos.txt train_tag_4.0
+processed 2990380 tokens with 30025 phrases; found: 30284 phrases; correct: 29273.
+accuracy:  99.39%; precision:  96.66%; recall:  97.50%; FB1:  97.08
+                 : precision:  96.66%; recall:  97.50%; FB1:  97.08  30284
+                 : precision:  96.66%; recall:  97.50%; FB1:  97.08  30284
+
+crf_learn -f 1 -c 2.0 teample traintokens_pos_new.txt train_tag_new_2.0
+processed 3000968 tokens with 30058 phrases; found: 30360 phrases; correct: 29372.
+accuracy:  99.42%; precision:  96.75%; recall:  97.72%; FB1:  97.23
+                 : precision:  96.75%; recall:  97.72%; FB1:  97.23  30360
+                 : precision:  96.75%; recall:  97.72%; FB1:  97.23  30360

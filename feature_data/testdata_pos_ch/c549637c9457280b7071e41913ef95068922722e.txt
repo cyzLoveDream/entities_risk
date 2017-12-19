@@ -1,0 +1,5346 @@
+甘	Bns
+肃	Mns
+省	Ens
+工	Bj
+商	Mj
+局	Ej
+公	Bv
+布	Ev
+服	Bn
+装	Mn
+类	En
+商	Bn
+品	En
+抽	Bv
+检	Ev
+结	Bn
+果	En
+ 	Sw
+
+5	Bm
+4	Em
+批	Bd
+次	Ed
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+为	Bp
+了	Ep
+维	Bv
+护	Ev
+市	Bn
+场	Mn
+经	Mn
+济	En
+秩	Bn
+序	En
+，	Sw
+保	Bv
+护	Ev
+消	Bn
+费	Mn
+者	En
+合	Bn
+法	Mn
+权	Mn
+益	En
+，	Sw
+加	Bv
+强	Ev
+流	Bl
+通	Ml
+领	Ml
+域	El
+商	Bn
+品	Mn
+质	Mn
+量	En
+监	Bvn
+管	Evn
+，	Sw
+甘	Bns
+肃	Mns
+省	Ens
+工	Bj
+商	Mj
+局	Ej
+依	Bp
+照	Ep
+有	Bvn
+关	Evn
+法	Bn
+律	Mn
+法	Mn
+规	En
+组	Bv
+织	Ev
+对	Sp
+省	Bs
+内	Es
+市	Bn
+场	En
+上	Sf
+销	Bvn
+售	Evn
+的	Suj
+西	Bn
+服	En
+、	Sw
+内	Bn
+衣	En
+、	Sw
+睡	Bn
+衣	En
+等	Su
+3	Sm
+类	Sq
+商	Bn
+品	En
+进	Bv
+行	Ev
+了	Sul
+抽	Bv
+检	Ev
+。	Sw
+
+ 	Sw
+
+抽	Bv
+检	Ev
+结	Bn
+果	Mn
+显	Mn
+示	En
+，	Sw
+5	Bm
+4	Em
+批	Bd
+次	Ed
+商	Bn
+品	En
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+质	Bn
+量	En
+问	Bn
+题	En
+主	Bb
+要	Eb
+表	Bv
+现	Ev
+在	Sp
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+、	Sw
+色	Sng
+牢	Bd
+度	Ed
+等	Su
+项	Bn
+目	En
+不	Sd
+符	Bn
+合	Mn
+标	Mn
+准	En
+要	Bv
+求	Ev
+。	Sw
+
+工	Bn
+商	Mn
+部	Mn
+门	En
+将	Sd
+按	Bp
+照	Ep
+有	Bvn
+关	Evn
+法	Bn
+律	Mn
+法	Mn
+规	En
+对	Sp
+本	Br
+次	Er
+抽	Bv
+检	Ev
+中	Sf
+销	Bvn
+售	Evn
+不	Sd
+合	Bn
+格	En
+商	Bn
+品	En
+的	Suj
+经	Bvn
+销	Evn
+单	Bn
+位	En
+进	Bv
+行	Ev
+处	Bv
+理	Ev
+，	Sw
+公	Bv
+示	Ev
+的	Suj
+不	Sa
+合	Bn
+格	En
+商	Bn
+品	Mn
+生	Mn
+产	En
+企	Bn
+业	En
+和	Sc
+有	Bvn
+关	Evn
+经	Bvn
+销	Evn
+单	Bn
+位	En
+应	Sv
+按	Bp
+照	Ep
+相	Bv
+关	Ev
+法	Bn
+律	Mn
+法	Mn
+规	En
+的	Suj
+要	Bv
+求	Ev
+主	Bb
+动	Eb
+采	Bv
+取	Ev
+召	Bv
+回	Ev
+、	Sw
+下	Bv
+架	Ev
+、	Sw
+退	Bv
+市	Ev
+等	Su
+措	Bn
+施	En
+。	Sw
+
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+商	Bn
+品	En
+名	Bn
+单	En
+ 	Sw
+
+西	Bn
+服	En
+类	Sq
+不	Sd
+合	Bn
+格	En
+商	Bn
+品	En
+名	Bn
+单	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+商	Bn
+品	Mn
+名	Mn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+商	Bn
+标	En
+ 	Sw
+
+被	Sp
+抽	Bv
+查	Ev
+检	Bvn
+验	Evn
+单	Bn
+位	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+项	Bn
+目	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+草	Bn
+霸	En
+ 	Sw
+
+兰	Bns
+州	Ens
+华	Bnr
+为	Enr
+尔	Snr
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+温	Bns
+州	Mns
+市	Ens
+大	Bn
+宇	En
+制	Bn
+衣	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+8	Bm
+8	Em
+A	Seng
+ 	Sw
+
+4	Bm
+6	Em
+A	Seng
+ 	Sw
+
+5	Bm
+6	Mm
+0	Mm
+2	Mm
+6	Em
+-	Sw
+2	Sw
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+、	Sw
+耐	Bnz
+酸	Enz
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+、	Sw
+耐	Bn
+碱	En
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+ 	Sw
+
+2	Sw
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+草	Bn
+霸	En
+ 	Sw
+
+兰	Bns
+州	Ens
+华	Bnr
+为	Enr
+尔	Snr
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+温	Bns
+州	Mns
+市	Ens
+大	Bn
+宇	En
+制	Bn
+衣	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+9	Bm
+6	Em
+B	Seng
+ 	Sw
+
+4	Bm
+8	Em
+B	Seng
+ 	Sw
+
+7	Bm
+7	Mm
+1	Mm
+2	Mm
+5	Em
+-	Sw
+6	Sw
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+3	Sw
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+草	Bn
+霸	En
+ 	Sw
+
+兰	Bns
+州	Ens
+华	Bnr
+为	Enr
+尔	Snr
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+温	Bns
+州	Mns
+市	Ens
+大	Bn
+宇	En
+制	Bn
+衣	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+4	Bm
+4	Em
+B	Seng
+ 	Sw
+
+1	Bm
+6	Mm
+5	Em
+/	Sw
+8	Bm
+8	Em
+B	Seng
+ 	Sw
+
+5	Bm
+6	Mm
+0	Mm
+2	Mm
+6	Em
+-	Sw
+3	Sw
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+4	Sw
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+G	Beng
+o	Meng
+l	Meng
+d	Eeng
+ 	Sw
+
+C	Beng
+o	Meng
+n	Meng
+c	Meng
+h	Eeng
+®	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+海	Bn
+螺	En
+王	Snr
+商	Bn
+贸	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+上	Bns
+海	Ens
+海	Bn
+螺	En
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+8	Bm
+0	Em
+A	Seng
+ 	Sw
+
+1	Bm
+8	Mm
+2	Mm
+2	Em
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+5	Sw
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+海	Bn
+螺	En
+服	Bn
+饰	En
+ 	Sw
+
+甘	Bns
+肃	Ens
+海	Bn
+螺	En
+王	Snr
+商	Bn
+贸	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+上	Bns
+海	Ens
+海	Bn
+螺	En
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+8	Bm
+2	Em
+A	Seng
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+H	Beng
+K	Meng
+5	Meng
+8	Meng
+3	Meng
+1	Meng
+0	Meng
+6	Eeng
+ 	Sw
+
+耐	Sv
+干	Sv
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+、	Sw
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+ 	Sw
+
+6	Sw
+ 	Sw
+
+休	Bv
+闲	Mv
+服	Ev
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+城	Bns
+关	Mns
+区	Ens
+瑞	Bnrt
+德	Enrt
+摩	Bnz
+尔	Enz
+世	Bn
+星	En
+龙	Bnr
+腾	Enr
+服	Bn
+装	Mn
+店	En
+ 	Sw
+
+江	Bns
+苏	Ens
+虎	Bnz
+豹	Enz
+集	Bn
+团	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+7	Bm
+4	Em
+ 	Sw
+
+4	Bm
+6	Em
+ 	Sw
+
+6	Bm
+6	Mm
+7	Mm
+7	Em
+兰	Snr
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+7	Sw
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+X	Beng
+U	Meng
+E	Meng
+B	Meng
+A	Meng
+O	Eeng
+雪	Bnz
+豹	Enz
+®	Sw
+ 	Sw
+
+兰	Bns
+州	Ens
+王	Bnr
+府	Mnr
+井	Enr
+百	Bn
+货	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+盐	Bns
+城	Ens
+亚	Bnr
+恒	Enr
+时	Bn
+装	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+8	Bm
+6	Em
+A	Seng
+ 	Sw
+
+1	Bm
+7	Mm
+1	Mm
+1	Mm
+6	Mm
+2	Mm
+0	Mm
+1	Em
+-	Sw
+1	Bm
+8	Em
+#	Sw
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+8	Sw
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+X	Beng
+U	Meng
+E	Meng
+B	Meng
+A	Meng
+O	Eeng
+雪	Bnz
+豹	Enz
+®	Sw
+ 	Sw
+
+兰	Bns
+州	Ens
+王	Bnr
+府	Mnr
+井	Enr
+百	Bn
+货	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+盐	Bns
+城	Ens
+亚	Bnr
+恒	Enr
+时	Bn
+装	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+9	Bm
+0	Em
+B	Seng
+ 	Sw
+
+1	Bm
+7	Mm
+1	Mm
+1	Mm
+6	Mm
+2	Mm
+8	Mm
+9	Em
+-	Sw
+1	Sm
+#	Sw
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+9	Sw
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+城	Bns
+关	Mns
+区	Ens
+瑞	Bnrt
+德	Enrt
+摩	Bnz
+尔	Enz
+世	Bn
+星	En
+龙	Bnr
+腾	Enr
+服	Bn
+装	Mn
+店	En
+ 	Sw
+
+江	Bns
+苏	Ens
+虎	Bnz
+豹	Enz
+集	Bn
+团	En
+荣	Bn
+誉	Mn
+出	Mn
+品	En
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+9	Bm
+4	Em
+B	Seng
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+2	Bm
+6	Mm
+2	Mm
+5	Em
+-	Sw
+1	Sm
+#	Sw
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+休	Bv
+闲	Mv
+服	Ev
+/	Sw
+单	Bn
+西	En
+ 	Sw
+
+虎	Bnz
+豹	Enz
+ 	Sw
+
+城	Bns
+关	Mns
+区	Ens
+瑞	Bnrt
+德	Enrt
+摩	Bnz
+尔	Enz
+世	Bn
+星	En
+龙	Bnr
+腾	Enr
+服	Bn
+装	Mn
+店	En
+ 	Sw
+
+江	Bns
+苏	Ens
+虎	Bnz
+豹	Enz
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+7	Bm
+4	Em
+ 	Sw
+
+4	Bm
+6	Em
+ 	Sw
+
+6	Bm
+0	Mm
+2	Mm
+0	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+男	Sn
+西	Bn
+服	En
+ 	Sw
+
+威	Bnr
+圣	Mnr
+顿	Enr
+ 	Sw
+
+兰	Bns
+州	Ens
+西	Bn
+单	Mn
+商	Mn
+场	En
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+北	Bns
+京	Ens
+威	Bnr
+圣	Mnr
+顿	Enr
+服	Bvn
+装	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+5	Bm
+4	Em
+ 	Sw
+
+1	Bm
+8	Mm
+5	Em
+/	Sw
+8	Bm
+9	Em
+A	Seng
+ 	Sw
+
+1	Bm
+7	Mm
+1	Mm
+0	Mm
+1	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+便	Sd
+西	Sf
+ 	Sw
+
+R	Beng
+o	Meng
+u	Meng
+s	Meng
+e	Eeng
+®	Sw
+洛	Bns
+兹	Ens
+ 	Sw
+
+兰	Bns
+州	Ens
+民	Bnz
+百	Enz
+（	Sw
+集	Bn
+团	En
+）	Sw
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+浙	Bns
+江	Ens
+洛	Bns
+兹	Ens
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+8	Bm
+8	Em
+A	Seng
+ 	Sw
+
+L	Sw
+ 	Sw
+
+F	Beng
+J	Meng
+M	Meng
+8	Meng
+8	Meng
+6	Meng
+8	Meng
+2	Meng
+0	Eeng
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+西	Sf
+便	Sd
+ 	Sw
+
+R	Beng
+S	Eeng
+ 	Sw
+
+R	Beng
+I	Meng
+V	Meng
+E	Meng
+R	Eeng
+ 	Sw
+
+S	Beng
+T	Meng
+O	Meng
+N	Meng
+E	Eeng
+ 	Sw
+
+甘	Bns
+肃	Ens
+丽	Bnr
+晶	Enr
+商	Bn
+贸	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+生	Bvn
+产	Evn
+企	Bn
+业	En
+：	Sw
+浙	Bns
+江	Ens
+华	Bnr
+鼎	Enr
+品	Bn
+牌	En
+管	Bvn
+理	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+经	Bn
+销	Mn
+商	En
+：	Sw
+华	Bnr
+鼎	Enr
+菲	Bnrt
+妮	Enrt
+迪	Snr
+国	Bnz
+际	Mnz
+时	Mnz
+装	Enz
+零	Bvn
+售	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+9	Bm
+2	Em
+A	Seng
+ 	Sw
+
+L	Sw
+ 	Sw
+
+O	Beng
+X	Meng
+1	Meng
+7	Meng
+1	Meng
+1	Meng
+6	Meng
+1	Meng
+2	Meng
+4	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+G	Beng
+X	Meng
+G	Eeng
+ 	Sw
+
+甘	Bns
+肃	Ens
+丽	Bnr
+晶	Enr
+商	Bn
+贸	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+宁	Bns
+波	Ens
+中	Bj
+哲	Ej
+慕	Bnr
+尚	Enr
+控	Bv
+股	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+5	Em
+/	Sw
+1	Bm
+0	Mm
+4	Em
+A	Seng
+ 	Sw
+
+X	Beng
+X	Meng
+L	Eeng
+ 	Sw
+
+4	Bm
+1	Mm
+1	Mm
+1	Mm
+3	Mm
+8	Mm
+1	Mm
+9	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+通	Bp
+过	Ep
+商	Bn
+品	En
+标	Bn
+称	En
+的	Suj
+企	Bn
+业	En
+地	Bn
+址	En
+及	Sc
+联	Bl
+系	Ml
+方	Ml
+式	El
+无	Bn
+法	En
+与	Sp
+标	Bn
+称	En
+企	Bn
+业	En
+取	Bn
+得	Mn
+联	Mn
+系	En
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+西	Bns
+峰	Mns
+区	Ens
+段	Bnr
+红	Enr
+服	Bn
+装	Mn
+店	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+温	Bns
+州	Ens
+俊	Snr
+驰	Svg
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+深	Bns
+圳	Mns
+市	Ens
+皇	Bn
+家	En
+鹿	Bnr
+王	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+监	Bvn
+制	Evn
+）	Sw
+ 	Sw
+
+1	Bm
+9	Mm
+0	Em
+/	Sw
+1	Bm
+0	Mm
+0	Em
+ 	Sw
+
+5	Bm
+4	Em
+Y	Seng
+ 	Sw
+
+6	Bm
+7	Mm
+0	Mm
+6	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+P	Beng
+A	Meng
+L	Meng
+S	Meng
+E	Meng
+N	Meng
+R	Eeng
+ 	Sw
+
+派	Bnrt
+尔	Enrt
+森	Sn
+ 	Sw
+
+西	Bns
+安	Ens
+民	Bn
+生	En
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+庆	Bns
+阳	Ens
+新	Bnz
+天	Mnz
+地	Enz
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+江	Bns
+苏	Ens
+东	Bs
+方	Es
+金	Bnr
+狐	Mnr
+狸	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+上	Bns
+海	Ens
+康	Bnr
+伯	Mnr
+圣	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+7	Bm
+8	Em
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+9	Bm
+2	Em
+A	Seng
+ 	Sw
+
+5	Bm
+0	Em
+ 	Sw
+
+7	Bm
+2	Mm
+5	Mm
+8	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+P	Beng
+A	Meng
+L	Meng
+S	Meng
+E	Meng
+N	Meng
+R	Eeng
+ 	Sw
+
+派	Bnrt
+尔	Enrt
+森	Sn
+ 	Sw
+
+西	Bns
+安	Ens
+民	Bn
+生	En
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+庆	Bns
+阳	Ens
+新	Bnz
+天	Mnz
+地	Enz
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+江	Bns
+苏	Ens
+东	Bs
+方	Es
+金	Bnr
+狐	Mnr
+狸	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+上	Bns
+海	Ens
+康	Bnr
+伯	Mnr
+圣	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+4	Bm
+6	Em
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+8	Bm
+4	Em
+A	Seng
+ 	Sw
+
+7	Bm
+5	Mm
+3	Mm
+7	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+休	Bv
+闲	Mv
+服	Ev
+ 	Sw
+
+H	Beng
+A	Meng
+W	Meng
+E	Meng
+B	Meng
+A	Eeng
+ 	Sw
+
+西	Bns
+峰	Mns
+区	Ens
+格	Sn
+兰	Bnr
+陵	Mnr
+王	Enr
+服	Bn
+饰	Mn
+店	En
+ 	Sw
+
+江	Bns
+苏	Ens
+豪	Bnrt
+威	Mnrt
+堡	Enrt
+服	Bn
+饰	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+5	Bm
+4	Em
+ 	Sw
+
+8	Bm
+2	Em
+/	Sw
+1	Bm
+9	Mm
+0	Em
+ 	Sw
+
+9	Bm
+8	Mm
+5	Mm
+2	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+F	Beng
+a	Meng
+z	Meng
+e	Meng
+y	Meng
+a	Eeng
+®	Sw
+ 	Sw
+
+西	Bns
+峰	Mns
+区	Ens
+恒	Snr
+俊	Snr
+服	Bn
+装	Mn
+店	En
+ 	Sw
+
+上	Bns
+海	Ens
+彩	Bn
+羊	En
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+商	Bn
+标	En
+持	Bn
+有	Mn
+人	En
+：	Sw
+恒	Snr
+ 	Sw
+
+源	Sng
+ 	Sw
+
+祥	Snr
+（	Sw
+集	Bn
+团	En
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+5	Em
+/	Sw
+1	Bm
+0	Mm
+8	Em
+C	Seng
+ 	Sw
+
+5	Bm
+2	Em
+C	Seng
+ 	Sw
+
+9	Bm
+2	Mm
+6	Mm
+1	Mm
+4	Mm
+1	Em
+/	Sw
+1	Sm
+D	Seng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+F	Beng
+E	Meng
+N	Meng
+W	Meng
+I	Meng
+C	Meng
+L	Meng
+K	Eeng
+ 	Sw
+
+西	Bns
+安	Ens
+民	Bn
+生	En
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+庆	Bns
+阳	Ens
+新	Bnz
+天	Mnz
+地	Enz
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+浙	Bns
+江	Mns
+省	Ens
+瑞	Bns
+安	Mns
+市	Ens
+富	Bnr
+祥	Enr
+制	Bn
+衣	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+意	Bns
+大	Mns
+利	Ens
+芬	Szg
+维	Bnrt
+克	Enrt
+阿	Bnr
+玛	Mnr
+尼	Enr
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+5	Em
+/	Sw
+9	Bm
+6	Em
+A	Seng
+ 	Sw
+
+5	Bm
+2	Em
+ 	Sw
+
+7	Bm
+2	Mm
+6	Mm
+1	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+西	Bn
+裤	En
+ 	Sw
+
+龙	Bnr
+达	Mnr
+飞	Enr
+ 	Sw
+
+天	Bns
+水	Mns
+市	Ens
+金	Snr
+都	Sd
+商	Bns
+城	Ens
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+江	Bns
+苏	Ens
+龙	Bnr
+达	Mnr
+飞	Enr
+投	Bvn
+资	Evn
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+5	Em
+/	Sw
+8	Bm
+3	Em
+A	Seng
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+K	Beng
+2	Meng
+9	Meng
+2	Meng
+1	Meng
+4	Eeng
+ 	Sw
+
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+西	Bn
+服	En
+/	Sw
+休	Bv
+闲	Ev
+西	Bn
+装	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+石	Bns
+狮	Mns
+市	Ens
+凯	Bnr
+旋	Enr
+纺	Bn
+织	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+9	Bm
+6	Em
+A	Seng
+ 	Sw
+
+L	Sw
+ 	Sw
+
+8	Bm
+6	Mm
+0	Mm
+0	Mm
+5	Em
+-	Sw
+酒	Bn
+红	En
+ 	Sw
+
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+通	Bp
+过	Ep
+商	Bn
+品	En
+标	Bn
+称	En
+的	Suj
+企	Bn
+业	En
+地	Bn
+址	En
+及	Sc
+联	Bl
+系	Ml
+方	Ml
+式	El
+无	Bn
+法	En
+与	Sp
+标	Bn
+称	En
+企	Bn
+业	En
+取	Bn
+得	Mn
+联	Mn
+系	En
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+西	Bn
+服	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+北	Bns
+京	Ens
+永	Bnr
+贵	Mnr
+龙	Enr
+仕	Sn
+服	Bvn
+装	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+广	Bns
+州	Ens
+杉	Bnz
+杉	Enz
+服	Bn
+饰	En
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+授	Bv
+权	Ev
+ 	Sw
+
+7	Bm
+2	Em
+B	Seng
+ 	Sw
+
+8	Bm
+6	Mm
+6	Mm
+8	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+、	Sw
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+通	Bp
+过	Ep
+商	Bn
+品	En
+标	Bn
+称	En
+的	Suj
+企	Bn
+业	En
+地	Bn
+址	En
+及	Sc
+联	Bl
+系	Ml
+方	Ml
+式	El
+无	Bn
+法	En
+与	Sp
+标	Bn
+称	En
+企	Bn
+业	En
+取	Bn
+得	Mn
+联	Mn
+系	En
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+商	Bn
+务	En
+男	Bn
+裤	En
+ 	Sw
+
+华	Bnr
+仕	Mnr
+利	Enr
+H	Beng
+U	Meng
+A	Meng
+S	Meng
+H	Meng
+I	Meng
+L	Meng
+I	Eeng
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+石	Bns
+狮	Mns
+市	Ens
+华	Bnr
+仕	Mnr
+利	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+9	Bm
+0	Mm
+6	Em
+-	Sw
+2	Bm
+4	Mm
+0	Em
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+耐	Snz
+水	Bn
+色	En
+牢	Bd
+度	Ed
+、	Sw
+耐	Bnz
+酸	Enz
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+、	Sw
+耐	Bn
+碱	En
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+、	Sw
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+通	Bp
+过	Ep
+商	Bn
+品	En
+标	Bn
+称	En
+的	Suj
+企	Bn
+业	En
+地	Bn
+址	En
+及	Sc
+联	Bl
+系	Ml
+方	Ml
+式	El
+无	Bn
+法	En
+与	Sp
+标	Bn
+称	En
+企	Bn
+业	En
+取	Bn
+得	Mn
+联	Mn
+系	En
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+西	Bn
+裤	En
+\	Sw
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+商	Bn
+标	En
+持	Bn
+有	Mn
+人	En
+：	Sw
+大	Bnr
+红	Mnr
+鹰	Enr
+（	Sw
+中	Bns
+国	Ens
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+授	Bv
+权	Ev
+中	Bns
+国	Ens
+总	Bn
+代	Mn
+理	En
+：	Sw
+江	Bns
+苏	Ens
+搏	Bv
+翔	Ev
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+授	Bv
+权	Ev
+制	Bn
+造	Mn
+商	En
+：	Sw
+广	Bns
+东	Ens
+汕	Bns
+尾	Mns
+市	Ens
+海	Sn
+丰	Ba
+盛	Ea
+达	Sv
+服	Bn
+装	Mn
+厂	En
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+8	Bm
+1	Mm
+7	Mm
+1	Mm
+9	Em
+-	Sw
+2	Sw
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+、	Sw
+p	Beng
+H	Eeng
+值	Sn
+、	Sw
+耐	Sv
+干	Sv
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+西	Bn
+裤	En
+\	Sw
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+搏	Bv
+翔	Ev
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+商	Bn
+标	En
+持	Bn
+有	Mn
+人	En
+：	Sw
+大	Bnr
+红	Mnr
+鹰	Enr
+（	Sw
+中	Bns
+国	Ens
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+授	Bv
+权	Ev
+中	Bns
+国	Ens
+总	Bn
+代	Mn
+理	En
+：	Sw
+江	Bns
+苏	Ens
+搏	Bv
+翔	Ev
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+授	Bv
+权	Ev
+制	Bn
+造	Mn
+商	En
+：	Sw
+广	Bns
+东	Ens
+汕	Bns
+尾	Mns
+市	Ens
+海	Sn
+丰	Ba
+盛	Ea
+达	Sv
+服	Bn
+装	Mn
+厂	En
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+7	Bm
+0	Mm
+8	Em
+-	Sw
+8	Bm
+5	Em
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+商	Bn
+务	En
+西	Bn
+服	En
+/	Sw
+男	Sn
+西	Bn
+服	En
+ 	Sw
+
+琴	Bnrt
+曼	Enrt
+®	Sw
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+琴	Bnrt
+曼	Enrt
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+1	Bm
+0	Mm
+0	Em
+ 	Sw
+
+1	Bm
+6	Mm
+5	Mm
+5	Em
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+商	Bn
+务	En
+男	Bn
+装	En
+/	Sw
+男	Sn
+西	Bn
+服	En
+ 	Sw
+
+琴	Bnrt
+曼	Enrt
+®	Sw
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+琴	Bnrt
+曼	Enrt
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+B	Seng
+ 	Sw
+
+8	Bm
+0	Mm
+7	Mm
+7	Em
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+西	Bn
+装	En
+/	Sw
+休	Bv
+闲	Ev
+西	Bn
+服	En
+ 	Sw
+
+四	Bns
+海	Ens
+龙	Sn
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+石	Bns
+狮	Mns
+市	Ens
+四	Bns
+海	Ens
+龙	Sn
+服	Bn
+饰	En
+发	Bvn
+展	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+X	Beng
+L	Eeng
+ 	Sw
+
+Z	Beng
+L	Meng
+5	Meng
+2	Meng
+J	Meng
+2	Meng
+1	Meng
+2	Meng
+5	Eeng
+/	Sw
+X	Beng
+Z	Meng
+2	Meng
+1	Meng
+2	Meng
+5	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+大	Bn
+衣	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+北	Bns
+京	Ens
+庄	Bnr
+仕	Mnr
+杰	Enr
+服	Bvn
+装	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+X	Beng
+X	Meng
+L	Eeng
+ 	Sw
+
+1	Bm
+8	Mm
+5	Em
+/	Sw
+1	Bm
+0	Mm
+0	Em
+A	Seng
+ 	Sw
+
+1	Bm
+6	Em
+Y	Beng
+0	Meng
+7	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+、	Sw
+覆	Sv
+粘	Bn
+合	Mn
+衬	En
+部	Bn
+位	En
+剥	Bv
+离	Ev
+强	Bn
+力	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+西	Bn
+服	En
+/	Sw
+休	Bv
+闲	Ev
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+商	Bn
+标	En
+持	Bn
+有	Mn
+人	En
+：	Sw
+王	Bn
+牌	En
+车	Szg
+（	Sw
+法	Bns
+国	Ens
+）	Sw
+时	Bn
+装	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+中	Bns
+国	Ens
+总	Bn
+代	Mn
+理	En
+：	Sw
+王	Bn
+牌	En
+车	Szg
+服	Bn
+饰	En
+（	Sw
+深	Bns
+圳	Ens
+）	Sw
+游	Bnr
+仙	Mnr
+诗	Enr
+ 	Sw
+
+号	Bn
+型	En
+：	Sw
+1	Bm
+0	Mm
+4	Em
+/	Sw
+4	Bm
+8	Em
+ 	Sw
+
+规	Bn
+格	En
+：	Sw
+7	Bm
+6	Em
+/	Sw
+1	Bm
+7	Mm
+5	Em
+ 	Sw
+
+8	Bm
+8	Mm
+0	Mm
+5	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+通	Bp
+过	Ep
+商	Bn
+品	En
+标	Bn
+称	En
+的	Suj
+企	Bn
+业	En
+地	Bn
+址	En
+及	Sc
+联	Bl
+系	Ml
+方	Ml
+式	El
+无	Bn
+法	En
+与	Sp
+标	Bn
+称	En
+企	Bn
+业	En
+取	Bn
+得	Mn
+联	Mn
+系	En
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+福	Bns
+建	Ens
+晋	Bns
+江	Ens
+华	Bnr
+雄	Enr
+制	Bn
+衣	En
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+7	Bm
+0	Mm
+7	Em
+-	Sw
+8	Sw
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+上	Bns
+海	Ens
+杜	Bnr
+森	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+上	Bns
+海	Ens
+狄	Bnr
+莱	Enr
+波	Bns
+尔	Ens
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+8	Bm
+6	Em
+A	Seng
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+F	Beng
+D	Meng
+6	Meng
+9	Meng
+2	Eeng
+-	Sw
+0	Bm
+1	Em
+ 	Sw
+
+耐	Snz
+水	Bn
+色	En
+牢	Bd
+度	Ed
+、	Sw
+耐	Bnz
+酸	Enz
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+、	Sw
+耐	Bn
+碱	En
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+休	Bv
+闲	Ev
+西	Bn
+服	En
+ 	Sw
+
+P	Beng
+R	Meng
+I	Meng
+D	Meng
+E	Eeng
+ 	Sw
+
+M	Beng
+A	Meng
+N	Eeng
+ 	Sw
+
+骄	Bn
+子	En
+®	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+江	Bns
+苏	Ens
+骄	Bn
+子	En
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+骄	Bn
+子	En
+（	Sw
+中	Bns
+国	Ens
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+5	Em
+/	Sw
+1	Bm
+0	Mm
+0	Em
+ 	Sw
+
+5	Bm
+2	Em
+ 	Sw
+
+K	Beng
+Y	Meng
+1	Meng
+6	Meng
+9	Meng
+1	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+西	Bn
+服	En
+/	Sw
+韩	Bnt
+版	Ent
+西	Bn
+服	En
+ 	Sw
+
+X	Beng
+I	Meng
+D	Meng
+E	Meng
+B	Meng
+O	Eeng
+ 	Sw
+
+喜	Bv
+登	Ev
+博	Sn
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+江	Bns
+苏	Ens
+喜	Bv
+登	Ev
+博	Sn
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+4	Bm
+8	Em
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+7	Bm
+6	Em
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+L	Sw
+ 	Sw
+
+5	Bm
+1	Mm
+9	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+喜	Bv
+登	Ev
+博	Sn
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+江	Bns
+苏	Ens
+喜	Bv
+登	Ev
+博	Sn
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+9	Bm
+4	Em
+B	Seng
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+3	Bm
+3	Mm
+2	Mm
+3	Em
+#	Sw
+ 	Sw
+
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+欧	Bn
+版	En
+休	Bn
+闲	Mn
+裤	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+温	Bns
+州	Ens
+威	Bnrt
+士	Mnrt
+兰	Enrt
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+5	Bm
+1	Mm
+8	Mm
+0	Mm
+2	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+商	Bn
+品	Mn
+名	Mn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+商	Bn
+标	En
+ 	Sw
+
+被	Sp
+抽	Bv
+查	Ev
+检	Bvn
+验	Evn
+单	Bn
+位	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+项	Bn
+目	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+天	Sq
+丝	Bn
+棉	En
+抑	Bv
+菌	Ev
+钛	Sn
+棉	Sng
+塑	Bn
+形	En
+美	Bn
+体	En
+裤	Sn
+ 	Sw
+
+夏	Bnr
+娃	Enr
+之	Su
+秀	Sag
+®	Sw
+ 	Sw
+
+兰	Bns
+州	Ens
+西	Bn
+单	Mn
+商	Mn
+场	En
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+汕	Bns
+头	Mns
+市	Ens
+夏	Bnr
+娃	Enr
+之	Su
+秀	Sag
+内	Bn
+衣	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+深	Bns
+圳	Mns
+市	Ens
+夏	Bnr
+娃	Enr
+之	Su
+秀	Sag
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+监	Bvn
+制	Evn
+）	Sw
+ 	Sw
+
+均	Bn
+码	En
+ 	Sw
+
+6	Bm
+7	Mm
+0	Mm
+2	Em
+ 	Sw
+
+耐	Bn
+碱	En
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+ 	Sw
+
+2	Sw
+ 	Sw
+
+针	Bn
+织	En
+内	Bn
+衣	En
+ 	Sw
+
+迪	Bnrt
+普	Mnrt
+菲	Mnrt
+琳	Enrt
+ 	Sw
+
+兰	Bns
+州	Ens
+国	Bnr
+芳	Mnr
+百	Enr
+货	Sn
+购	Bn
+物	Mn
+广	Mn
+场	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+北	Bns
+京	Ens
+华	Bns
+夏	Ens
+榕	Bn
+树	En
+服	Bvn
+装	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+ 	Sw
+
+X	Beng
+L	Eeng
+ 	Sw
+
+M	Beng
+1	Meng
+7	Meng
+5	Meng
+5	Meng
+1	Eeng
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+3	Sw
+ 	Sw
+
+内	Bn
+衣	En
+ 	Sw
+
+佳	Bn
+妮	En
+拉	Bnrt
+丝	Enrt
+®	Sw
+ 	Sw
+
+西	Bns
+安	Ens
+民	Bn
+生	En
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+庆	Bns
+阳	Ens
+新	Bnz
+天	Mnz
+地	Enz
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+许	Bnr
+贝	Mnr
+儿	Enr
+国	Bn
+际	Mn
+服	Mn
+饰	En
+（	Sw
+香	Bns
+港	Ens
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+运	Bvn
+营	Evn
+中	Bn
+心	En
+：	Sw
+义	Bns
+乌	Mns
+市	Ens
+许	Bnr
+贝	Mnr
+儿	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+7	Bm
+5	Em
+B	Seng
+/	Sw
+8	Bm
+0	Em
+B	Seng
+ 	Sw
+
+3	Bm
+6	Em
+/	Sw
+7	Bm
+5	Em
+ 	Sw
+
+3	Bm
+6	Em
+/	Sw
+8	Bm
+0	Em
+ 	Sw
+
+2	Bm
+2	Mm
+9	Em
+/	Sw
+2	Bm
+4	Mm
+3	Mm
+9	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+4	Sw
+ 	Sw
+
+文	Bn
+胸	En
+ 	Sw
+
+鸿	Snr
+姿	Bn
+情	En
+ 	Sw
+
+西	Bns
+安	Ens
+民	Bn
+生	En
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+庆	Bns
+阳	Ens
+新	Bnz
+天	Mnz
+地	Enz
+购	Bn
+物	Mn
+广	Mn
+场	En
+ 	Sw
+
+汕	Bns
+头	Mns
+市	Ens
+潮	Bns
+阳	Mns
+区	Ens
+鸿	Snr
+展	Bv
+发	Ev
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+8	Bm
+0	Em
+C	Seng
+，	Sw
+8	Bm
+5	Em
+C	Seng
+，	Sw
+9	Bm
+0	Em
+C	Seng
+ 	Sw
+
+H	Beng
+A	Meng
+8	Meng
+1	Meng
+0	Meng
+9	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+5	Sw
+ 	Sw
+
+保	Bv
+暖	Ev
+衬	Bn
+衫	En
+ 	Sw
+
+F	Beng
+A	Meng
+R	Meng
+E	Meng
+A	Meng
+S	Meng
+T	Eeng
+®	Sw
+ 	Sw
+
+远	Bns
+东	Ens
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+上	Sf
+海	Bn
+运	En
+东	Sns
+服	Bn
+饰	En
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+6	Mm
+5	Em
+/	Sw
+8	Bm
+4	Em
+A	Seng
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+羊	Bn
+毛	En
+羊	Bn
+绒	En
+Y	Beng
+D	Eeng
+-	Sw
+D	Beng
+2	Meng
+1	Meng
+2	Meng
+2	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+通	Bp
+过	Ep
+商	Bn
+品	En
+标	Bn
+称	En
+的	Suj
+企	Bn
+业	En
+地	Bn
+址	En
+及	Sc
+联	Bl
+系	Ml
+方	Ml
+式	El
+无	Bn
+法	En
+与	Sp
+标	Bn
+称	En
+企	Bn
+业	En
+取	Bn
+得	Mn
+联	Mn
+系	En
+ 	Sw
+
+6	Sw
+ 	Sw
+
+保	Bv
+暖	Ev
+衬	Bn
+衫	En
+ 	Sw
+
+F	Beng
+A	Meng
+R	Meng
+E	Meng
+A	Meng
+S	Meng
+T	Eeng
+®	Sw
+ 	Sw
+
+远	Bns
+东	Ens
+ 	Sw
+
+甘	Bns
+谷	Mns
+县	Ens
+大	Bn
+红	Mn
+门	En
+服	Bvn
+装	Evn
+商	Bns
+城	Ens
+ 	Sw
+
+上	Bns
+海	Ens
+远	Bns
+东	Ens
+服	Bn
+饰	En
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+上	Sf
+海	Bn
+运	En
+东	Sns
+服	Bn
+饰	En
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+9	Bm
+6	Em
+A	Seng
+ 	Sw
+
+4	Bm
+1	Em
+ 	Sw
+
+Y	Beng
+D	Meng
+1	Meng
+8	Eeng
+-	Sw
+1	Bm
+2	Mm
+0	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+通	Bp
+过	Ep
+商	Bn
+品	En
+标	Bn
+称	En
+的	Suj
+企	Bn
+业	En
+地	Bn
+址	En
+及	Sc
+联	Bl
+系	Ml
+方	Ml
+式	El
+无	Bn
+法	En
+与	Sp
+标	Bn
+称	En
+企	Bn
+业	En
+取	Bn
+得	Mn
+联	Mn
+系	En
+ 	Sw
+
+7	Sw
+ 	Sw
+
+内	Bn
+衣	En
+ 	Sw
+
+珍	Ba
+彩	Ea
+ 	Sw
+
+甘	Bns
+肃	Mns
+省	Ens
+甘	Bns
+谷	Mns
+县	Ens
+六	Bm
+峰	Em
+建	Bn
+筑	En
+公	Bn
+司	En
+六	Bm
+峰	Em
+商	Bn
+厦	En
+ 	Sw
+
+浙	Bns
+江	Ens
+雅	Bnr
+客	Enr
+之	Su
+家	Sq
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+1	Bm
+0	Mm
+0	Em
+A	Seng
+（	Sw
+X	Beng
+L	Eeng
+）	Sw
+ 	Sw
+
+Z	Beng
+6	Meng
+6	Meng
+0	Meng
+2	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+8	Sw
+ 	Sw
+
+男	Bn
+色	En
+拉	Bnrt
+姆	Enrt
+提	Bv
+花	Ev
+v	Seng
+领	Bn
+套	En
+ 	Sw
+
+L	Beng
+I	Meng
+A	Meng
+Z	Meng
+U	Meng
+A	Eeng
+亮	Bn
+莊	En
+®	Sw
+ 	Sw
+
+甘	Bns
+肃	Mns
+省	Ens
+甘	Bns
+谷	Mns
+县	Ens
+六	Bm
+峰	Em
+建	Bn
+筑	En
+公	Bn
+司	En
+六	Bm
+峰	Em
+商	Bn
+厦	En
+ 	Sw
+
+汕	Bns
+头	Mns
+市	Ens
+潮	Bns
+南	Mns
+区	Ens
+峡	Bns
+山	Ens
+高	Sa
+姿	Sn
+针	Bn
+织	En
+内	Bn
+衣	Mn
+厂	En
+/	Sw
+亮	Bn
+莊	En
+国	Bn
+际	En
+（	Sw
+香	Bns
+港	Ens
+）	Sw
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+监	Bvn
+制	Evn
+ 	Sw
+
+X	Beng
+L	Eeng
+(	Sw
+1	Bm
+7	Mm
+5	Em
+/	Sw
+1	Bm
+0	Mm
+0	Em
+)	Sw
+ 	Sw
+
+6	Bm
+7	Mm
+3	Mm
+1	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+9	Sw
+ 	Sw
+
+内	Bn
+衣	En
+/	Sw
+女	Sb
+高	Bn
+领	En
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Mns
+省	Ens
+甘	Bns
+谷	Mns
+县	Ens
+六	Bm
+峰	Em
+建	Bn
+筑	En
+公	Bn
+司	En
+六	Bm
+峰	Em
+商	Bn
+厦	En
+ 	Sw
+
+青	Bns
+岛	Ens
+红	Bnr
+诺	Enr
+制	Bn
+衣	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+红	Bnr
+诺	Enr
+国	Bn
+际	Mn
+服	Mn
+饰	En
+集	Bn
+团	En
+（	Sw
+香	Bns
+港	Ens
+）	Sw
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+L	Sw
+ 	Sw
+
+1	Bm
+6	Mm
+0	Em
+/	Sw
+9	Bm
+0	Em
+ 	Sw
+
+0	Bm
+7	Mm
+0	Mm
+6	Em
+ 	Sw
+
+耐	Snz
+水	Bn
+色	En
+牢	Bd
+度	Ed
+、	Sw
+耐	Bnz
+酸	Enz
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+、	Sw
+耐	Bn
+碱	En
+汗	Bn
+渍	En
+色	Sng
+牢	Bd
+度	Ed
+、	Sw
+耐	Snz
+皂	Bv
+洗	Ev
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+衬	Bn
+衫	En
+/	Sw
+休	Bv
+开	Ev
+保	Bv
+暖	Ev
+ 	Sw
+
+犸	Sw
+球	Sn
+保	Bnrt
+罗	Enrt
+ 	Sw
+
+甘	Bns
+肃	Mns
+省	Ens
+甘	Bns
+谷	Mns
+县	Ens
+六	Bm
+峰	Em
+建	Bn
+筑	En
+公	Bn
+司	En
+六	Bm
+峰	Em
+商	Bn
+厦	En
+ 	Sw
+
+制	Bn
+造	Mn
+商	En
+：	Sw
+浙	Bns
+江	Mns
+省	Ens
+义	Bns
+乌	Mns
+市	Ens
+雅	Bnr
+尚	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+/	Sw
+美	Bns
+国	Ens
+保	Bnrt
+罗	Enrt
+威	Bnrt
+尔	Enrt
+集	Bn
+团	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+授	Bv
+权	Ev
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+9	Bm
+6	Em
+ 	Sw
+
+4	Bm
+1	Em
+ 	Sw
+
+X	Beng
+L	Eeng
+ 	Sw
+
+6	Bm
+6	Mm
+3	Mm
+9	Mm
+8	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+无	Bl
+痕	Ml
+腿	Ml
+缝	El
+蚕	Bn
+丝	En
+裤	Sn
+/	Sw
+针	Bn
+织	En
+内	Bn
+衣	En
+ 	Sw
+
+C	Beng
+H	Meng
+I	Meng
+S	Meng
+E	Eeng
+驰	Svg
+色	Sng
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+浙	Bns
+江	Ens
+东	Bns
+阳	Mns
+市	Ens
+紫	Bnr
+晶	Enr
+依	Sd
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Sm
+X	Beng
+L	Eeng
+ 	Sw
+
+6	Bm
+5	Mm
+1	Mm
+2	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+倍	Sm
+暖	Bn
+尚	En
+魅	Sn
+内	Bn
+衣	En
+ 	Sw
+
+彩	Sng
+奇	Sag
+诗	Sn
+®	Sw
+ 	Sw
+
+甘	Bns
+肃	Ens
+彬	Bi
+彬	Ei
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+汕	Bns
+头	Mns
+市	Ens
+好	Sa
+的	Suj
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+X	Beng
+X	Meng
+L	Eeng
+ 	Sw
+
+1	Bm
+7	Mm
+5	Em
+/	Sw
+1	Bm
+0	Mm
+0	Em
+ 	Sw
+
+8	Bm
+8	Mm
+0	Mm
+3	Mm
+5	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+商	Bn
+品	Mn
+名	Mn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+商	Bn
+标	En
+ 	Sw
+
+被	Sp
+抽	Bv
+查	Ev
+检	Bvn
+验	Evn
+单	Bn
+位	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+项	Bn
+目	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+家	Bnr
+居	Mnr
+服	Enr
+ 	Sw
+
+新	Bnr
+凤	Mnr
+舞	Enr
+®	Sw
+ 	Sw
+
+兰	Bns
+州	Ens
+欣	Ba
+大	Ea
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+深	Bns
+圳	Ens
+凤	Bnr
+舞	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+8	Bm
+2	Em
+B	Seng
+ 	Sw
+
+X	Beng
+L	Eeng
+;	Sw
+
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+9	Bm
+2	Em
+B	Seng
+ 	Sw
+
+X	Beng
+L	Eeng
+ 	Sw
+
+W	Beng
+1	Meng
+2	Meng
+1	Meng
+1	Meng
+0	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+2	Sw
+ 	Sw
+
+家	Bnr
+居	Mnr
+服	Enr
+ 	Sw
+
+新	Bnr
+凤	Mnr
+舞	Enr
+ 	Sw
+
+兰	Bns
+州	Ens
+欣	Ba
+大	Ea
+百	Bn
+货	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+深	Bns
+圳	Ens
+凤	Bnr
+舞	Enr
+服	Bn
+饰	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+6	Mm
+5	Em
+/	Sw
+8	Bm
+8	Em
+B	Seng
+ 	Sw
+
+L	Sw
+ 	Sw
+
+W	Beng
+1	Meng
+2	Meng
+0	Meng
+1	Meng
+9	Eeng
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+3	Sw
+ 	Sw
+
+美	Bn
+标	En
+家	Bnr
+居	Mnr
+服	Enr
+ 	Sw
+
+美	Bn
+标	En
+®	Sw
+ 	Sw
+
+兰	Bns
+州	Ens
+国	Bnr
+芳	Mnr
+百	Enr
+货	Sn
+购	Bn
+物	Mn
+广	Mn
+场	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+广	Bns
+东	Ens
+美	Bn
+标	En
+服	Bn
+饰	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+9	Bm
+6	Em
+B	Seng
+ 	Sw
+
+1	Bm
+8	Mm
+0	Em
+/	Sw
+8	Bm
+8	Em
+B	Seng
+ 	Sw
+
+X	Beng
+X	Meng
+L	Eeng
+ 	Sw
+
+5	Bm
+1	Mm
+2	Mm
+9	Mm
+2	Em
+ 	Sw
+
+耐	Ba
+湿	Ea
+摩	Bvn
+擦	Evn
+色	Sng
+牢	Bd
+度	Ed
+ 	Sw
+
+ 	Sw
+
+4	Sw
+ 	Sw
+
+睡	Bn
+衣	En
+ 	Sw
+
+半	Bt
+日	Et
+閑	Szg
+®	Sw
+ 	Sw
+
+西	Bns
+峰	Mns
+区	Ens
+刘	Snr
+淑	Bn
+萍	En
+内	Bn
+衣	Mn
+店	En
+ 	Sw
+
+汕	Bns
+头	Mns
+市	Ens
+半	Bi
+日	Mi
+闲	Ei
+服	Bn
+饰	En
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+1	Bm
+5	Mm
+5	Em
+/	Sw
+7	Bm
+6	Em
+A	Seng
+ 	Sw
+
+2	Bm
+4	Mm
+0	Mm
+5	Mm
+2	Em
+ 	Sw
+
+纤	Bn
+维	En
+含	Bn
+量	En
+ 	Sw
+
+ 	Sw
+
+5	Sw
+ 	Sw
+
+韩	Bns
+国	Ens
+绒	Bn
+女	En
+套	Sn
+ 	Sw
+
+（	Sw
+图	Bn
+片	En
+商	Bn
+标	En
+）	Sw
+ 	Sw
+
+甘	Bns
+肃	Mns
+省	Ens
+甘	Bns
+谷	Mns
+县	Ens
+六	Bm
+峰	Em
+建	Bn
+筑	En
+公	Bn
+司	En
+六	Bm
+峰	Em
+商	Bn
+厦	En
+ 	Sw
+
+佐	Bns
+威	Ens
+制	Bn
+衣	Mn
+厂	En
+ 	Sw
+
+X	Beng
+L	Eeng
+ 	Sw
+
+1	Bm
+7	Mm
+0	Em
+/	Sw
+9	Bm
+2	Em
+B	Seng
+ 	Sw
+
+6	Bm
+4	Mm
+6	Mm
+3	Mm
+8	Em
+ 	Sw
+
+产	Bn
+品	En
+使	Bv
+用	Ev
+说	Bv
+明	Ev
+、	Sw
+纤	Bn
+维	En
+含	Bn
+量	En
+
+

@@ -1,0 +1,8985 @@
+农	Bn
+资	En
+打	Bv
+假	Ev
+夏	Bt
+季	Et
+百	Bm
+日	Em
+行	Bvn
+动	Evn
+农	Bn
+药	En
+抽	Bv
+检	Ev
+结	Bn
+果	En
+公	Bv
+示	Ev
+。	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+抽	Bv
+样	Ev
+类	Bn
+别	En
+ 	Sw
+
+农	Bn
+药	En
+名	Bn
+称	En
+ 	Sw
+
+含	Bn
+量	En
+及	Sc
+剂	Bn
+型	En
+ 	Sw
+
+施	Bv
+用	Ev
+作	Bn
+物	En
+ 	Sw
+
+标	Bv
+注	Ev
+登	Bnz
+记	Mnz
+证	Enz
+号	Sm
+ 	Sw
+
+制	Bn
+剂	En
+类	Bn
+别	En
+ 	Sw
+
+被	Sp
+抽	Bv
+查	Ev
+单	Bn
+位	En
+所	Bb
+在	Eb
+省	Sn
+ 	Sw
+
+被	Sp
+抽	Bv
+查	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bn
+产	Mn
+厂	Mn
+家	En
+所	Bb
+在	Eb
+省	Sn
+ 	Sw
+
+标	Bn
+称	En
+生	Bn
+产	Mn
+厂	Mn
+家	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+或	Sc
+批	Bn
+号	En
+ 	Sw
+
+检	Bvn
+测	Evn
+结	Bn
+果	En
+ 	Sw
+
+1	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Sn
+氨	Bn
+基	En
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+苯	Bnz
+甲	Mnz
+酸	Enz
+盐	Sn
+ 	Sw
+
+5	Bm
+.	Mm
+7	Em
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+柑	Bn
+橘	En
+树	Sv
+、	Sw
+棉	Bn
+花	En
+、	Sw
+苹	Bn
+果	En
+、	Sw
+水	Bn
+稻	En
+、	Sw
+小	Bn
+麦	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+7	Meng
+6	Meng
+0	Meng
+9	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+盛	Bnr
+禾	Enr
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+青	Bns
+岛	Ens
+凯	Bnr
+源	Mnr
+祥	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+9	Mm
+0	Mm
+3	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+草	Bn
+甘	Mn
+膦	En
+异	Szg
+丙	Bnz
+胺	Enz
+盐	Sn
+ 	Sw
+
+3	Bm
+0	Em
+%	Sw
+水	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+7	Meng
+0	Meng
+3	Meng
+8	Meng
+3	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+盛	Bnr
+禾	Enr
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+乐	Bns
+山	Mns
+市	Ens
+富	Bnz
+华	Enz
+通	Bnr
+达	Enr
+农	Bn
+药	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+0	Bm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+春	Bnr
+雷	Enr
+霉	Bn
+素	En
+ 	Sw
+
+2	Sw
+%	Sw
+水	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+1	Meng
+1	Meng
+3	Meng
+6	Meng
+8	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+盛	Bnr
+禾	Enr
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+海	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+海	Bns
+南	Ens
+博	Bn
+士	En
+威	Sns
+农	Bn
+用	En
+化	Bn
+学	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+1	Mm
+0	Mm
+4	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+戊	Smg
+唑	Sw
+醇	Sag
+ 	Sw
+
+4	Bm
+3	Mm
+0	Em
+克	Snr
+/	Sw
+升	Szg
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+、	Sw
+苹	Bn
+果	En
+、	Sw
+烟	Bn
+草	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+1	Meng
+8	Meng
+9	Meng
+6	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+盛	Bnr
+禾	Enr
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+辉	Bnz
+丰	Enz
+农	Bn
+化	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+5	Mm
+1	Mm
+2	Mm
+0	Mm
+3	Mm
+1	Mm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+丁	Snr
+醚	Sn
+·	Sw
+噻	Bn
+虫	Mn
+啉	En
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+柑	Bn
+橘	En
+树	Sv
+、	Sw
+棉	Bn
+花	En
+、	Sw
+苹	Bn
+果	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+2	Meng
+4	Meng
+9	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+济	Bns
+川	Ens
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+浙	Bns
+江	Mns
+省	Ens
+ 	Sw
+
+浙	Bns
+江	Ens
+威	Bnrt
+尔	Enrt
+达	Sv
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+8	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+百	Bn
+菌	En
+清	Sa
+ 	Sw
+
+7	Bm
+5	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+果	Bn
+树	En
+、	Sw
+花	Bn
+生	En
+、	Sw
+水	Bn
+稻	En
+、	Sw
+麦	Bn
+类	En
+、	Sw
+油	Bn
+菜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+6	Meng
+4	Meng
+1	Meng
+3	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+济	Bns
+川	Ens
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+上	Bns
+海	Mns
+市	Ens
+ 	Sw
+
+上	Bns
+海	Ens
+悅	Bnz
+联	Enz
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+2	Mm
+0	Mm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+啶	Sw
+虫	Sn
+·	Sw
+哒	So
+螨	Sg
+灵	Sa
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+微	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+2	Meng
+4	Meng
+8	Meng
+4	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+济	Bns
+川	Ens
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+福	Bns
+建	Mns
+省	Ens
+ 	Sw
+
+福	Bns
+建	Ens
+新	Bnz
+农	Enz
+大	Sa
+正	Sd
+生	Bl
+物	Ml
+工	Ml
+程	El
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+0	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+8	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+敌	Bn
+草	En
+快	Sa
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+水	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+0	Meng
+4	Meng
+7	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+济	Bns
+川	Ens
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+汤	Sn
+普	Ba
+乐	Ea
+作	Bn
+物	Mn
+科	Mn
+学	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+4	Em
+/	Sw
+1	Bm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+9	Sw
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+毒	Bn
+死	En
+蜱	Sg
+ 	Sw
+
+4	Bm
+5	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+茶	Bn
+树	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+0	Meng
+6	Meng
+8	Meng
+8	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+济	Bns
+川	Ens
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+浙	Bns
+江	Mns
+省	Ens
+ 	Sw
+
+浙	Bns
+江	Ens
+威	Bnrt
+尔	Enrt
+达	Sv
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+7	Mm
+1	Mm
+7	Mm
+4	Mm
+0	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+氟	Bnz
+环	Mnz
+唑	Enz
+ 	Sw
+
+1	Bm
+2	Mm
+.	Mm
+5	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+苹	Bn
+果	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+1	Meng
+1	Meng
+1	Meng
+5	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+亿	Sm
+农	Sn
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+辉	Bnz
+丰	Enz
+农	Bn
+化	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+1	Mm
+0	Mm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Bnz
+维	Enz
+·	Sw
+氯	Bnz
+氰	Enz
+ 	Sw
+
+3	Bm
+.	Mm
+2	Em
+%	Sw
+微	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+黄	Bn
+瓜	En
+、	Sw
+苦	Bn
+瓜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+6	Meng
+0	Meng
+5	Meng
+1	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+亿	Sm
+农	Sn
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+海	Sn
+利	Bnr
+尔	Enr
+药	Bn
+业	En
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+6	Mm
+0	Mm
+1	Mm
+2	Em
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+ 	Sw
+
+5	Sw
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+水	Bn
+稻	En
+、	Sw
+西	Bns
+瓜	Ens
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+1	Meng
+0	Meng
+5	Meng
+6	Meng
+9	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+亿	Sm
+农	Sn
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+北	Mns
+省	Ens
+ 	Sw
+
+河	Bns
+北	Ens
+博	Bnr
+嘉	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+8	Mm
+1	Mm
+9	Mm
+0	Mm
+0	Mm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Sn
+氨	Bn
+基	En
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+苯	Bnz
+甲	Mnz
+酸	Enz
+盐	Sn
+ 	Sw
+
+3	Sw
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+1	Meng
+0	Meng
+3	Meng
+7	Meng
+2	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+亿	Sm
+农	Sn
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+海	Sn
+利	Bnr
+尔	Enr
+药	Bn
+业	En
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+草	Bn
+铵	En
+膦	Sg
+ 	Sw
+
+2	Bm
+0	Mm
+0	Em
+克	Snr
+/	Sw
+升	Szg
+水	Bn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+1	Meng
+1	Meng
+6	Meng
+7	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+亿	Sm
+农	Sn
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+好	Bl
+收	Ml
+成	El
+韦	Bnr
+恩	Enr
+农	Bn
+化	En
+股	Bn
+份	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+8	Mm
+0	Mm
+8	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+苏	Bnr
+云	Mnr
+金	Enr
+杆	Bn
+菌	En
+ 	Sw
+
+8	Bm
+0	Mm
+0	Mm
+0	Em
+I	Beng
+U	Eeng
+微	Bv
+升	Ev
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+茶	Bn
+园	En
+、	Sw
+ 	Sw
+
+甘	Bn
+蔗	En
+地	Suv
+、	Sw
+柑	Bvn
+橘	Mvn
+园	Evn
+果	Bn
+园	En
+、	Sw
+剑	Bn
+麻	En
+园	Szg
+、	Sw
+林	Bn
+地	En
+、	Sw
+桑	Bnr
+园	Enr
+、	Sw
+ 	Sw
+
+橡	Bn
+胶	Mn
+园	En
+ 	Sw
+
+P	Beng
+D	Meng
+0	Meng
+9	Meng
+0	Meng
+1	Meng
+0	Meng
+6	Eeng
+-	Sw
+3	Sw
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+大	Bnr
+鹏	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+北	Mns
+省	Ens
+ 	Sw
+
+河	Bns
+北	Ens
+阔	Ba
+达	Ea
+生	Bn
+物	Mn
+制	Mn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+8	Mm
+1	Mm
+9	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+草	Bn
+甘	Mn
+膦	En
+铵	Bn
+盐	En
+ 	Sw
+
+水	Bn
+剂	En
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+、	Sw
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+8	Meng
+2	Meng
+1	Meng
+9	Meng
+6	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+大	Bnr
+鹏	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+ 	Sw
+
+四	Bns
+川	Ens
+先	Bn
+易	En
+达	Sv
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+3	Mm
+0	Mm
+5	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+噁	Syg
+霉	Sv
+灵	Sa
+ 	Sw
+
+3	Bm
+0	Em
+%	Sw
+水	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+0	Meng
+0	Meng
+7	Meng
+4	Meng
+5	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+大	Bnr
+鹏	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+ 	Sw
+
+四	Bns
+川	Ens
+国	Bn
+光	En
+农	Bn
+化	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+4	Mm
+2	Mm
+4	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Sn
+氨	Bn
+基	En
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+苯	Bnz
+甲	Mnz
+酸	Enz
+盐	Sn
+ 	Sw
+
+1	Sw
+%	Sw
+微	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+茶	Bn
+树	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+0	Meng
+4	Meng
+0	Meng
+1	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+大	Bnr
+鹏	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+恒	Bnz
+丰	Enz
+化	Bn
+学	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+1	Bm
+7	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+吡	Bn
+虫	Mn
+啉	En
+ 	Sw
+
+1	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+4	Meng
+0	Meng
+3	Meng
+3	Meng
+0	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+大	Bnr
+鹏	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+扬	Bnz
+农	Enz
+化	Bnt
+工	Mnt
+集	Mnt
+团	Ent
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+3	Mm
+0	Mm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+烯	Sw
+啶	Sw
+·	Sw
+吡	Bn
+蚜	En
+酮	Sg
+ 	Sw
+
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+1	Meng
+0	Meng
+3	Meng
+9	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+先	Bn
+锋	En
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+ 	Sw
+
+北	Bns
+京	Ens
+燕	Bnz
+化	Enz
+永	Bns
+乐	Ens
+生	Bn
+物	En
+科	Bn
+技	Mn
+股	Mn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+6	Mm
+4	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+五	Bnz
+氟	Enz
+·	Sw
+双	Bnz
+氰	Mnz
+氟	Enz
+ 	Sw
+
+1	Bm
+4	Em
+%	Sw
+可	Sv
+分	Bv
+散	Ev
+油	Sn
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+非	Bl
+耕	Ml
+地	El
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+7	Meng
+0	Meng
+0	Meng
+6	Meng
+6	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+先	Bn
+锋	En
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+ 	Sw
+
+北	Bns
+京	Ens
+燕	Bnz
+化	Enz
+永	Bns
+乐	Ens
+生	Bn
+物	En
+科	Bn
+技	Mn
+股	Mn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+4	Mm
+2	Mm
+9	Em
+A	Seng
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+噻	Bn
+呋	En
+·	Sw
+己	Sr
+唑	Sw
+醇	Sag
+ 	Sw
+
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+2	Meng
+6	Meng
+4	Meng
+8	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+先	Bn
+锋	En
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+ 	Sw
+
+北	Bns
+京	Ens
+燕	Bnz
+化	Enz
+永	Bns
+乐	Ens
+生	Bn
+物	En
+科	Bn
+技	Mn
+股	Mn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+4	Mm
+1	Mm
+4	Em
+A	Seng
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+2	Sm
+甲	Sn
+·	Sw
+灭	Sv
+草	Bn
+松	En
+ 	Sw
+
+4	Bm
+6	Em
+%	Sw
+水	Bn
+剂	En
+ 	Sw
+
+苹	Bn
+果	Mn
+树	En
+、	Sw
+水	Bn
+稻	En
+、	Sw
+香	Bn
+蕉	En
+树	Sv
+、	Sw
+小	Bn
+麦	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+1	Meng
+9	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+英	Bnz
+莱	Mnz
+达	Enz
+农	Bn
+资	En
+连	Bvn
+锁	Evn
+经	Bvn
+营	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+安	Bns
+徽	Ens
+美	Bn
+程	En
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+1	Meng
+9	Meng
+7	Eeng
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Sn
+氨	Bn
+基	En
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+苯	Bnz
+甲	Mnz
+酸	Enz
+盐	Sn
+ 	Sw
+
+5	Sw
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+0	Meng
+0	Meng
+4	Meng
+8	Meng
+7	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+英	Bnz
+莱	Mnz
+达	Enz
+农	Bn
+资	En
+连	Bvn
+锁	Evn
+经	Bvn
+营	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+惠	Bnr
+民	Enr
+中	Bns
+联	Ens
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+4	Mm
+2	Mm
+5	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+苯	Bn
+甲	En
+·	Sw
+嘧	Bn
+菌	En
+酯	Sng
+ 	Sw
+
+3	Bm
+0	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+1	Meng
+8	Meng
+0	Meng
+3	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+英	Bnz
+莱	Mnz
+达	Enz
+农	Bn
+资	En
+连	Bvn
+锁	Evn
+经	Bvn
+营	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+惠	Bnr
+民	Enr
+中	Bns
+联	Ens
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+/	Sw
+0	Bm
+6	Em
+/	Sw
+0	Bm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+三	Bnz
+环	Enz
+唑	Sw
+ 	Sw
+
+7	Bm
+5	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+非	Bl
+耕	Ml
+地	El
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+8	Meng
+0	Meng
+2	Meng
+1	Meng
+1	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+金	Bnz
+丰	Enz
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+浙	Bns
+江	Mns
+省	Ens
+ 	Sw
+
+浙	Bns
+江	Ens
+锐	Ba
+特	Ea
+化	Bn
+工	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+5	Mm
+1	Mm
+9	Em
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+氰	Bnz
+氟	Mnz
+草	Mnz
+酯	Enz
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+可	Sv
+分	Bv
+散	Ev
+油	Sn
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+白	Bn
+菜	En
+、	Sw
+萝	Bn
+卜	En
+、	Sw
+水	Bn
+稻	En
+等	Su
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+5	Meng
+7	Meng
+3	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+金	Bnz
+丰	Enz
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+安	Bns
+徽	Ens
+众	Bn
+邦	En
+生	Bl
+物	Ml
+工	Ml
+程	El
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+有	Bn
+效	Mn
+期	En
+至	Sp
+2	Bm
+0	Mm
+1	Mm
+9	Mm
+0	Mm
+4	Mm
+2	Mm
+0	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Bnz
+维	Enz
+·	Sw
+虫	Sn
+螨	Sg
+晴	Sv
+ 	Sw
+
+1	Bm
+2	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+柑	Bvn
+橘	Mvn
+园	Evn
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+0	Meng
+0	Meng
+3	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+金	Bnz
+丰	Enz
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+正	Bn
+邦	En
+生	Bn
+物	Mn
+化	Mn
+工	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+/	Sw
+0	Bm
+1	Em
+/	Sw
+1	Bm
+0	Mm
+1	Mm
+1	Em
+/	Sw
+2	Bm
+7	Em
+/	Sw
+1	Bm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Sn
+氨	Bn
+基	En
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+苯	Bnz
+甲	Mnz
+酸	Enz
+盐	Sn
+ 	Sw
+
+5	Sw
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+1	Meng
+0	Meng
+9	Meng
+5	Meng
+6	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+植	Bnr
+之	Mnr
+宝	Enr
+农	Bn
+技	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+通	Bns
+州	Ens
+正	Ba
+大	Ea
+农	Bn
+药	En
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+2	Mm
+2	Mm
+6	Em
+ 	Sw
+
+0	Bm
+2	Mm
+2	Mm
+8	Mm
+1	Mm
+0	Mm
+1	Mm
+9	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+肟	Sg
+菌	Sn
+·	Sw
+戊	Smg
+唑	Sw
+醇	Sag
+ 	Sw
+
+7	Bm
+5	Em
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+1	Meng
+8	Meng
+9	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+植	Bnr
+之	Mnr
+宝	Enr
+农	Bn
+技	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+南	Bns
+京	Ens
+泰	Bnr
+禾	Enr
+化	Bn
+工	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+5	Mm
+2	Mm
+0	Mm
+0	Mm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+苯	Bn
+甲	En
+·	Sw
+丙	Bnz
+环	Mnz
+唑	Enz
+ 	Sw
+
+3	Bm
+0	Mm
+0	Em
+克	Snr
+/	Sw
+升	Szg
+乳	Bn
+油	En
+ 	Sw
+
+水	Bn
+稻	En
+、	Sw
+香	Bn
+蕉	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+1	Meng
+0	Meng
+8	Meng
+4	Meng
+3	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+植	Bnr
+之	Mnr
+宝	Enr
+农	Bn
+技	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+广	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+广	Bns
+东	Ens
+茂	Ba
+名	Ea
+绿	Sa
+银	Sn
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+烯	Sw
+啶	Sw
+虫	Sn
+胺	Sn
+ 	Sw
+
+6	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+0	Meng
+6	Meng
+7	Meng
+4	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+植	Bnr
+之	Mnr
+宝	Enr
+农	Bn
+技	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+丰	Bns
+山	Ens
+集	Bnz
+团	Mnz
+股	Mnz
+份	Enz
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+5	Mm
+1	Mm
+4	Mm
+0	Mm
+1	Em
+ 	Sw
+
+0	Bm
+5	Mm
+1	Mm
+0	Mm
+0	Mm
+1	Mm
+0	Mm
+6	Mm
+8	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+吡	Bn
+嘧	En
+·	Sw
+丙	Bnz
+草	Mnz
+胺	Enz
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+水	Bnr
+稻	Mnr
+田	Enr
+（	Sw
+直	Bvn
+播	Evn
+）	Sw
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+0	Meng
+7	Meng
+8	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+植	Bnr
+之	Mnr
+宝	Enr
+农	Bn
+技	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+浙	Bns
+江	Mns
+省	Ens
+ 	Sw
+
+浙	Bns
+江	Ens
+天	Bnz
+丰	Enz
+生	Bl
+物	Ml
+科	Ml
+学	El
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+0	Mm
+0	Mm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+ 	Sw
+
+3	Bm
+.	Mm
+2	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+0	Meng
+0	Meng
+5	Meng
+6	Meng
+2	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+前	Sf
+宏	Sn
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+安	Bns
+徽	Ens
+长	Bns
+城	Ens
+生	Bvn
+化	Evn
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+0	Bm
+8	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+稻	Sng
+瘟	Bn
+灵	En
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+8	Meng
+0	Meng
+2	Meng
+1	Meng
+5	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+前	Sf
+宏	Sn
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+川	Bns
+东	Ens
+农	Bn
+药	En
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+/	Sw
+0	Bm
+7	Em
+/	Sw
+2	Bm
+0	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+草	Bn
+甘	Mn
+膦	En
+异	Szg
+丙	Bnz
+胺	Enz
+盐	Sn
+ 	Sw
+
+4	Bm
+1	Em
+%	Sw
+水	Bn
+剂	En
+ 	Sw
+
+苹	Bn
+果	Mn
+园	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+1	Meng
+6	Meng
+3	Meng
+0	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+前	Sf
+宏	Sn
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+上	Bns
+海	Mns
+市	Ens
+ 	Sw
+
+上	Bns
+海	Ens
+沪	Bj
+联	Ej
+生	Bn
+物	En
+药	Bn
+业	En
+（	Sw
+夏	Bnr
+邑	Enr
+）	Sw
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+1	Bm
+9	Em
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+烯	Sw
+酰	Sw
+吗	Bn
+啉	En
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+葡	Bn
+萄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+2	Meng
+4	Meng
+9	Meng
+2	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bn
+园	En
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+剑	Bn
+牌	En
+农	Bn
+化	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+5	Mm
+0	Mm
+0	Mm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+五	Sm
+硝	Sn
+·	Sw
+多	Bn
+菌	Mn
+灵	En
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+西	Bns
+瓜	Ens
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+2	Meng
+0	Meng
+2	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bn
+园	En
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+中	Sf
+迅	Sad
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+1	Mm
+2	Mm
+0	Mm
+8	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+阿	Bnr
+维	Enr
+·	Sw
+哒	So
+螨	Sg
+灵	Sa
+ 	Sw
+
+1	Bm
+0	Em
+%	Sw
+水	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+柑	Bn
+橘	En
+树	Sv
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+8	Meng
+9	Meng
+2	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bn
+园	En
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+中	Sf
+迅	Sad
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+4	Mm
+0	Mm
+8	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+高	Ba
+效	Ea
+氯	Bnz
+氟	Mnz
+氰	Enz
+菊	Bn
+酯	En
+ 	Sw
+
+5	Sw
+%	Sw
+微	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+小	Bn
+白	Mn
+菜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+0	Meng
+5	Meng
+7	Meng
+8	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+天	Bnz
+农	Enz
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+上	Bns
+海	Mns
+市	Ens
+ 	Sw
+
+上	Bns
+海	Ens
+沪	Bj
+联	Ej
+生	Bn
+物	En
+药	Bn
+业	En
+（	Sw
+夏	Bnr
+邑	Enr
+）	Sw
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+有	Bn
+效	Mn
+期	En
+至	Sp
+2	Bm
+0	Mm
+1	Mm
+9	Mm
+0	Mm
+1	Mm
+0	Mm
+4	Em
+A	Beng
+3	Meng
+4	Eeng
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+联	Bnz
+菊	Enz
+·	Sw
+丁	Snr
+醚	Sn
+脲	Sg
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+茶	Bn
+树	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+3	Meng
+3	Meng
+4	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+天	Bnz
+农	Enz
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+福	Bns
+建	Mns
+省	Ens
+ 	Sw
+
+福	Bns
+建	Ens
+新	Bnz
+农	Enz
+大	Sa
+正	Sd
+生	Bl
+物	Ml
+工	Ml
+程	El
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+0	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+肟	Sg
+菌	Sn
+·	Sw
+戊	Smg
+唑	Sw
+醇	Sag
+ 	Sw
+
+3	Bm
+6	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+7	Meng
+0	Meng
+2	Meng
+5	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+天	Bnz
+农	Enz
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+西	Ens
+运	Bn
+城	En
+绿	Bnr
+康	Enr
+实	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+5	Em
+/	Sw
+1	Bm
+6	Em
+/	Sw
+0	Bm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+敌	Bn
+草	En
+快	Sa
+ 	Sw
+
+2	Bm
+0	Mm
+0	Em
+克	Snr
+/	Sw
+升	Szg
+水	Bn
+剂	En
+ 	Sw
+
+非	Bl
+耕	Ml
+地	El
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+7	Meng
+7	Meng
+6	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+天	Bnz
+农	Enz
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+圣	Sj
+鹏	Snr
+科	Bn
+技	Mn
+股	Mn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+高	Sa
+氯	Sn
+·	Sw
+吡	Bn
+虫	Mn
+啉	En
+ 	Sw
+
+3	Sw
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+7	Meng
+0	Meng
+2	Meng
+8	Meng
+3	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+丰	Bnr
+之	Mnr
+田	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+青	Bns
+岛	Ens
+农	Bn
+冠	En
+农	Bn
+药	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+1	Bm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+苯	Bn
+甲	En
+·	Sw
+多	Sm
+抗	Sv
+ 	Sw
+
+1	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+小	Bn
+麦	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+7	Meng
+0	Meng
+4	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+丰	Bnr
+之	Mnr
+田	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+绩	Bns
+溪	Ens
+农	Bnz
+华	Enz
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+年	Sm
+1	Sm
+月	Sm
+2	Sm
+日	Sm
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+辛	Bnz
+硫	Enz
+·	Sw
+三	Bnz
+唑	Enz
+磷	Sn
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+0	Meng
+0	Meng
+1	Meng
+4	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+丰	Bnr
+之	Mnr
+田	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+施	Bnr
+普	Mnr
+润	Enr
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+0	Bm
+8	Em
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+7	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+吗	Sy
+胍	Sg
+·	Sw
+乙	Bn
+酸	En
+铜	Sn
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+7	Meng
+9	Meng
+5	Meng
+5	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+丰	Bnr
+之	Mnr
+田	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+黑	Bns
+龙	Mns
+江	Mns
+省	Ens
+ 	Sw
+
+齐	Bnr
+齐	Mnr
+哈	Mnr
+尔	Enr
+华	Bnz
+丰	Enz
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+0	Bm
+2	Em
+月	Sm
+0	Bm
+8	Em
+日	Sm
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+8	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+草	Bn
+铵	En
+膦	Sg
+ 	Sw
+
+1	Bm
+0	Em
+%	Sw
+水	Bn
+剂	En
+ 	Sw
+
+非	Bl
+耕	Ml
+地	El
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+5	Meng
+1	Meng
+1	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+丰	Bnr
+之	Mnr
+田	Enr
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+北	Mns
+省	Ens
+ 	Sw
+
+河	Bns
+北	Ens
+国	Bnz
+美	Enz
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+5	Em
+/	Sw
+1	Bm
+2	Em
+/	Sw
+A	Beng
+D	Eeng
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+4	Bm
+9	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+乙	Bnz
+铝	Enz
+·	Sw
+锰	Sn
+锌	Sn
+ 	Sw
+
+5	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+2	Meng
+8	Meng
+3	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+强	Sa
+农	Sn
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+兰	Sj
+月	Sm
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+2	Sm
+月	Sm
+2	Bm
+0	Em
+日	Sm
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+高	Sa
+氯	Sn
+·	Sw
+甲	Bnz
+维	Mnz
+盐	Enz
+ 	Sw
+
+4	Bm
+.	Mm
+2	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+2	Meng
+5	Meng
+1	Meng
+4	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+强	Sa
+农	Sn
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+富	Bnr
+邦	Enr
+农	Bn
+业	En
+科	Bnt
+技	Mnt
+开	Mnt
+发	Ent
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+3	Em
+/	Sw
+2	Bm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Bnz
+硫	Enz
+·	Sw
+福	Bns
+美	Ens
+双	Sn
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+西	Bns
+瓜	Ens
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+8	Meng
+5	Meng
+9	Meng
+4	Meng
+8	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+强	Sa
+农	Sn
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+兰	Sj
+月	Sm
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+5	Mm
+0	Mm
+8	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+氰	Bnz
+氟	Mnz
+草	Mnz
+酯	Enz
+ 	Sw
+
+1	Bm
+5	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+直	Bvn
+播	Evn
+水	Bn
+稻	En
+(	Sw
+南	Bf
+方	Ef
+)	Sw
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+0	Meng
+7	Meng
+6	Meng
+1	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+科	Bns
+丰	Ens
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+湖	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+湖	Bns
+南	Ens
+农	Szg
+大	Bns
+海	Ens
+特	Sd
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+1	Mm
+0	Mm
+6	Mm
+0	Mm
+4	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+稻	Sng
+瘟	Bn
+灵	En
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+0	Meng
+7	Meng
+9	Meng
+4	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+科	Bns
+丰	Ens
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+巴	Bnrt
+姆	Enrt
+博	Snr
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+/	Sw
+0	Bm
+6	Em
+/	Sw
+0	Bm
+8	Em
+/	Sw
+2	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Bnz
+维	Mnz
+盐	Enz
+·	Sw
+氯	Bnz
+氰	Enz
+ 	Sw
+
+3	Bm
+.	Mm
+2	Em
+%	Sw
+微	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+1	Meng
+7	Meng
+9	Meng
+2	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+科	Bns
+丰	Ens
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+青	Bns
+岛	Ens
+东	Bn
+生	En
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+3	Em
+/	Sw
+0	Bm
+8	Em
+ 	Sw
+
+0	Bm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+阿	Bnr
+维	Enr
+·	Sw
+螺	Sng
+螨	Sg
+酯	Sng
+ 	Sw
+
+2	Bm
+2	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+柑	Bn
+橘	En
+树	Sv
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+2	Meng
+6	Meng
+9	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+科	Bns
+丰	Ens
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+上	Bns
+海	Mns
+市	Ens
+ 	Sw
+
+上	Bns
+海	Ens
+沪	Bj
+联	Ej
+生	Bn
+物	En
+药	Bn
+业	En
+（	Sw
+夏	Bnr
+邑	Enr
+）	Sw
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+M	Beng
+F	Meng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+7	Meng
+0	Meng
+2	Meng
+2	Meng
+0	Meng
+S	Meng
+0	Meng
+3	Meng
+M	Eeng
+ 	Sw
+
+L	Beng
+O	Meng
+T	Eeng
+：	Sw
+E	Beng
+X	Meng
+Y	Meng
+0	Meng
+3	Meng
+1	Meng
+1	Meng
+0	Meng
+0	Meng
+1	Meng
+8	Meng
+0	Eeng
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+嘧	Bn
+菌	En
+酯	Sng
+ 	Sw
+
+2	Bm
+5	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+0	Meng
+2	Meng
+1	Meng
+7	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+保	Bnz
+农	Enz
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+欧	Bns
+美	Ens
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+I	Beng
+0	Meng
+0	Meng
+4	Meng
+9	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+2	Mm
+1	Mm
+6	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+7	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+稻	Sng
+瘟	Bn
+灵	En
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+8	Meng
+0	Meng
+2	Meng
+1	Meng
+5	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+剑	Bnt
+红	Ent
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+ 	Sw
+
+四	Bns
+川	Mns
+省	Ens
+川	Bns
+东	Ens
+农	Bn
+药	En
+化	Bn
+工	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+有	Bn
+效	Mn
+期	En
+至	Sp
+2	Bm
+0	Mm
+1	Mm
+9	Em
+/	Sw
+0	Bm
+5	Em
+/	Sw
+1	Bm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+8	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+甲	Bnz
+氰	Enz
+菊	Bn
+酯	En
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+柑	Bn
+橘	En
+树	Sv
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+1	Meng
+0	Meng
+2	Meng
+8	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+剑	Bnt
+红	Ent
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+南	Bns
+京	Ens
+红	Bnr
+太	Mnr
+阳	Enr
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+有	Bn
+效	Mn
+期	En
+至	Sp
+2	Bm
+0	Mm
+1	Mm
+9	Em
+/	Sw
+0	Bm
+5	Em
+/	Sw
+0	Bm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+5	Bm
+9	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+苄	Sw
+·	Sw
+五	Bnz
+氟	Enz
+·	Sw
+氰	Bnz
+氟	Enz
+ 	Sw
+
+2	Bm
+1	Em
+%	Sw
+可	Sv
+分	Bv
+散	Ev
+油	Sn
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+水	Bnr
+稻	Mnr
+田	Enr
+(	Sw
+直	Bvn
+播	Evn
+)	Sw
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+7	Meng
+0	Meng
+0	Meng
+4	Meng
+6	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+剑	Bnt
+红	Ent
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+湖	Bns
+南	Mns
+省	Ens
+ 	Sw
+
+湖	Bns
+南	Ens
+农	Szg
+大	Bns
+海	Ens
+特	Sd
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+6	Mm
+0	Mm
+1	Em
+R	Seng
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+敌	Bn
+草	En
+快	Sa
+ 	Sw
+
+2	Bm
+0	Mm
+0	Em
+克	Snr
+/	Sw
+升	Szg
+水	Bn
+剂	En
+ 	Sw
+
+非	Bl
+耕	Ml
+地	El
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+2	Meng
+4	Meng
+3	Meng
+7	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+丰	Bnz
+农	Enz
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+河	Bns
+北	Mns
+省	Ens
+ 	Sw
+
+河	Bns
+北	Ens
+神	Bnz
+华	Enz
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+4	Em
+/	Sw
+0	Bm
+9	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+ 	Sw
+
+5	Sw
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+0	Meng
+2	Meng
+1	Meng
+8	Meng
+8	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+丰	Bnz
+农	Enz
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+威	Snr
+敌	Sng
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+2	Em
+-	Sw
+1	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+6	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+咪	Bnz
+鲜	Enz
+·	Sw
+稻	Sng
+瘟	Bn
+灵	En
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+水	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+0	Meng
+2	Meng
+2	Meng
+5	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+丰	Bnz
+农	Enz
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+吉	Bns
+林	Mns
+省	Ens
+ 	Sw
+
+吉	Bns
+林	Mns
+省	Ens
+长	Bns
+春	Ens
+市	Bn
+长	En
+双	Sn
+农	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+M	Beng
+F	Meng
+D	Eeng
+：	Sw
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+5	Em
+/	Sw
+2	Bm
+4	Em
+/	Sw
+0	Bm
+5	Mm
+0	Mm
+9	Em
+A	Seng
+ 	Sw
+
+E	Beng
+X	Meng
+P	Meng
+2	Meng
+0	Meng
+1	Meng
+9	Eeng
+/	Sw
+0	Bm
+5	Em
+/	Sw
+2	Bm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+高	Ba
+效	Ea
+氯	Bnz
+氰	Enz
+菊	Bn
+酯	En
+ 	Sw
+
+4	Bm
+.	Mm
+5	Em
+%	Sw
+微	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+1	Meng
+1	Meng
+0	Meng
+3	Meng
+0	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+丰	Bnz
+农	Enz
+农	Bn
+业	En
+技	Bn
+术	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+安	Bns
+徽	Ens
+丰	Ba
+乐	Ea
+农	Bn
+化	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+/	Sw
+0	Bm
+6	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+0	Bm
+5	Mm
+1	Mm
+5	Em
+A	Seng
+ 	Sw
+
+F	Beng
+D	Eeng
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+丙	Bnz
+森	Enz
+锌	Sn
+ 	Sw
+
+7	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+0	Meng
+8	Meng
+2	Meng
+4	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+旺	Sa
+禾	Sng
+富	Bnz
+农	Enz
+农	Bn
+用	Mn
+物	Mn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+青	Bns
+岛	Ens
+中	Sf
+达	Sv
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+3	Em
+/	Sw
+0	Bm
+4	Em
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+阿	Bnz
+维	Mnz
+菌	Mnz
+素	Enz
+ 	Sw
+
+1	Bm
+.	Mm
+8	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+菜	Bn
+豆	En
+、	Sw
+柑	Bn
+橘	En
+树	Sv
+、	Sw
+黄	Bn
+瓜	En
+、	Sw
+十	Bnz
+字	Mnz
+花	Mnz
+科	Enz
+蔬	Bn
+菜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+8	Meng
+5	Meng
+4	Meng
+7	Meng
+7	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+旺	Sa
+禾	Sng
+富	Bnz
+农	Enz
+农	Bn
+用	Mn
+物	Mn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+济	Bns
+南	Ens
+中	Bns
+科	Ens
+绿	Bn
+色	En
+生	Bl
+物	Ml
+工	Ml
+程	El
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+4	Mm
+1	Mm
+0	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+稻	Bn
+瘟	En
+酰	Bn
+胺	En
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+3	Meng
+1	Meng
+4	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+旺	Sa
+禾	Sng
+富	Bnz
+农	Enz
+农	Bn
+用	Mn
+物	Mn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+京	Bns
+博	Ens
+农	Bn
+化	En
+科	Bn
+技	Mn
+股	Mn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+M	Beng
+F	Meng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+7	Eeng
+/	Sw
+0	Bm
+4	Em
+/	Sw
+2	Bm
+7	Em
+ 	Sw
+
+L	Beng
+D	Meng
+T	Eeng
+:	Sw
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+4	Mm
+2	Mm
+7	Mm
+8	Mm
+0	Mm
+7	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+7	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+苄	Sw
+嘧	Sw
+·	Sw
+丙	Bnz
+草	Mnz
+胺	Enz
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+水	Bnr
+稻	Mnr
+田	Enr
+(	Sw
+直	Bvn
+播	Evn
+)	Sw
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+2	Meng
+0	Meng
+3	Meng
+4	Meng
+4	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+旺	Sa
+禾	Sng
+富	Bnz
+农	Enz
+农	Bn
+用	Mn
+物	Mn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+美	Bns
+化	Ens
+农	Bn
+化	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+5	Em
+ 	Sw
+
+0	Bm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+6	Bm
+8	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+烯	Sw
+啶	Sw
+·	Sw
+吡	Bn
+蚜	En
+酮	Sg
+ 	Sw
+
+8	Bm
+0	Em
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+0	Meng
+9	Meng
+1	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Ens
+旺	Sa
+禾	Sng
+富	Bnz
+农	Enz
+农	Bn
+用	Mn
+物	Mn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+上	Bns
+海	Mns
+市	Ens
+ 	Sw
+
+上	Bns
+海	Ens
+沪	Bj
+联	Ej
+生	Bn
+物	En
+药	Bn
+业	En
+（	Sw
+夏	Bnr
+邑	Enr
+）	Sw
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+8	Mm
+2	Mm
+0	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+6	Bm
+9	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+吗	Sy
+胍	Sg
+·	Sw
+乙	Bn
+酸	En
+铜	Sn
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+番	Bn
+茄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+7	Meng
+8	Meng
+1	Meng
+5	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+林	Bnr
+达	Enr
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+广	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+广	Bns
+东	Ens
+中	Sf
+迅	Sad
+农	Bn
+科	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+1	Mm
+0	Mm
+1	Mm
+3	Mm
+0	Mm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+噁	Syg
+霉	Sv
+·	Sw
+福	Bns
+美	Ens
+双	Sn
+ 	Sw
+
+8	Bm
+0	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+棉	Bn
+花	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+2	Meng
+1	Meng
+9	Meng
+8	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+林	Bnr
+达	Enr
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+ 	Sw
+
+天	Bns
+津	Mns
+市	Ens
+绿	Bnr
+亨	Enr
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+5	Em
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+烯	Sw
+酰	Sw
+·	Sw
+嘧	Bn
+菌	En
+酯	Sng
+ 	Sw
+
+7	Bm
+0	Em
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+0	Meng
+0	Meng
+7	Meng
+0	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+林	Bnr
+达	Enr
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+陕	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+陕	Bns
+西	Ens
+先	Bn
+农	En
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+1	Em
+/	Sw
+0	Bm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+虫	Bn
+螨	Mn
+睛	En
+ 	Sw
+
+2	Bm
+4	Mm
+0	Em
+克	Snr
+/	Sw
+升	Szg
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+8	Meng
+7	Meng
+7	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+年	Sm
+丰	Sa
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+广	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+广	Bns
+西	Ens
+田	Bnr
+园	Enr
+生	Bvn
+化	Evn
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+有	Bn
+效	Mn
+期	En
+至	Sp
+2	Bm
+0	Mm
+1	Mm
+9	Mm
+0	Mm
+2	Mm
+1	Mm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+氰	Bnz
+氟	Mnz
+草	Mnz
+酯	Enz
+ 	Sw
+
+3	Bm
+0	Em
+%	Sw
+散	Bn
+油	En
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+水	Bnr
+稻	Mnr
+田	Enr
+(	Sw
+直	Bvn
+播	Evn
+)	Sw
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+3	Meng
+6	Meng
+2	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+年	Sm
+丰	Sa
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+安	Bns
+徽	Ens
+沙	Bnr
+隆	Mnr
+达	Enr
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+4	Em
+/	Sw
+1	Bm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+烯	Sw
+啶	Sw
+·	Sw
+吡	Bn
+蚜	En
+酮	Sg
+ 	Sw
+
+8	Bm
+0	Em
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+1	Meng
+0	Meng
+3	Meng
+9	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+年	Sm
+丰	Sa
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+北	Bns
+京	Mns
+市	Ens
+ 	Sw
+
+北	Bns
+京	Ens
+燕	Bnz
+化	Enz
+永	Bns
+乐	Ens
+生	Bn
+物	En
+科	Bn
+技	Mn
+股	Mn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+有	Bn
+效	Mn
+期	En
+至	Sp
+2	Bm
+0	Mm
+1	Mm
+8	Mm
+0	Mm
+3	Mm
+0	Mm
+9	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+嘧	Bn
+菌	En
+·	Sw
+代	Bnr
+森	Enr
+联	Sv
+ 	Sw
+
+6	Bm
+0	Em
+%	Sw
+水	Sn
+分	Bv
+散	Ev
+粒	Bn
+剂	En
+ 	Sw
+
+葡	Bn
+萄	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+0	Meng
+1	Meng
+8	Meng
+1	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+年	Sm
+丰	Sa
+农	Bn
+资	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+江	Bns
+苏	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+苏	Ens
+明	Bnr
+德	Enr
+立	Sv
+达	Sv
+作	Bn
+物	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+2	Mm
+2	Mm
+9	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+吡	Bn
+蚜	En
+·	Sw
+噻	Bn
+虫	Mn
+啉	En
+ 	Sw
+
+2	Bm
+5	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+水	Bn
+稻	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+5	Meng
+2	Meng
+3	Meng
+3	Meng
+0	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bn
+色	En
+田	Bnr
+园	Enr
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+欧	Bns
+美	Ens
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+8	Mm
+2	Mm
+4	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+7	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+烯	Sw
+酰	Sw
+·	Sw
+异	Bn
+菌	En
+脲	Sg
+ 	Sw
+
+4	Bm
+0	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+葡	Bn
+萄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+2	Meng
+4	Meng
+8	Meng
+8	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bn
+色	En
+田	Bnr
+园	Enr
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+广	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+深	Bns
+圳	Ens
+诺	Bnz
+普	Mnz
+信	Enz
+农	Bn
+化	En
+股	Bn
+份	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+2	Mm
+2	Mm
+6	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+8	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+阿	Bnr
+维	Enr
+·	Sw
+螺	Sng
+螨	Sg
+酯	Sng
+ 	Sw
+
+2	Bm
+2	Em
+%	Sw
+悬	Bn
+浮	Mn
+剂	En
+ 	Sw
+
+柑	Bn
+橘	En
+树	Sv
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+0	Meng
+3	Meng
+4	Meng
+1	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bn
+色	En
+田	Bnr
+园	Enr
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+众	Sng
+和	Sc
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+8	Mm
+1	Mm
+0	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+7	Bm
+9	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+吡	Bn
+嘧	En
+·	Sw
+苯	Sn
+噻	Bn
+酰	En
+ 	Sw
+
+6	Bm
+8	Em
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+移	Bv
+栽	Ev
+水	Bnr
+稻	Mnr
+田	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+4	Meng
+0	Meng
+9	Meng
+7	Meng
+7	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bn
+色	En
+田	Bnr
+园	Enr
+农	Bn
+资	En
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+江	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+江	Bns
+西	Ens
+众	Sng
+和	Sc
+化	Bn
+工	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+0	Mm
+4	Mm
+0	Mm
+7	Mm
+0	Mm
+1	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+8	Bm
+0	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+春	Bnr
+雷	Enr
+·	Sw
+中	Sf
+生	Svn
+ 	Sw
+
+5	Sw
+%	Sw
+可	Bn
+湿	Mn
+性	En
+粉	Bn
+剂	En
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+L	Beng
+S	Meng
+2	Meng
+0	Meng
+1	Meng
+6	Meng
+0	Meng
+2	Meng
+3	Meng
+0	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bnr
+之	Mnr
+丰	Enr
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+陕	Bns
+西	Mns
+省	Ens
+ 	Sw
+
+陕	Bns
+西	Ens
+标	Bn
+正	En
+作	Bn
+物	Mn
+科	Mn
+学	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+8	Bm
+1	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+高	Sa
+氯	Sn
+·	Sw
+马	Sn
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+乳	Bn
+油	En
+ 	Sw
+
+茶	Bn
+树	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+2	Meng
+1	Meng
+5	Meng
+9	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+绿	Bnr
+之	Mnr
+丰	Enr
+农	Bn
+资	En
+经	Bn
+营	Mn
+部	En
+ 	Sw
+
+高	Bnr
+安	Enr
+金	Bnz
+农	Enz
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+2	Em
+/	Sw
+1	Bm
+7	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+8	Bm
+2	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+硅	Bnz
+唑	Enz
+·	Sw
+咪	Bnz
+鲜	Mnz
+胺	Enz
+ 	Sw
+
+3	Bm
+0	Em
+%	Sw
+水	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+葡	Bn
+萄	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+1	Meng
+2	Meng
+3	Meng
+5	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+宏	Ba
+强	Ea
+农	Bn
+技	En
+推	Bv
+广	Ev
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+济	Bns
+南	Ens
+科	Bns
+海	Ens
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+/	Sw
+0	Bm
+7	Em
+/	Sw
+2	Bm
+7	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+8	Bm
+3	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+草	Bn
+铵	En
+膦	Sg
+ 	Sw
+
+2	Bm
+0	Mm
+0	Em
+克	Snr
+/	Sw
+升	Szg
+水	Bn
+剂	En
+ 	Sw
+
+非	Bl
+耕	Ml
+地	El
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+1	Meng
+1	Meng
+4	Meng
+1	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+宏	Ba
+强	Ea
+农	Bn
+技	En
+推	Bv
+广	Ev
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+贵	Bn
+合	En
+生	Bn
+物	Mn
+科	Mn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Mm
+1	Mm
+1	Mm
+0	Mm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+8	Bm
+4	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+溴	Bnz
+氰	Mnz
+菊	Mnz
+酯	Enz
+ 	Sw
+
+2	Bm
+5	Em
+克	Snr
+/	Sw
+升	Szg
+乳	Bn
+油	En
+ 	Sw
+
+十	Bnz
+字	Mnz
+花	Mnz
+科	Enz
+蔬	Bn
+菜	En
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+9	Meng
+2	Meng
+3	Meng
+6	Meng
+3	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+宏	Ba
+强	Ea
+农	Bn
+技	En
+推	Bv
+广	Ev
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+邹	Bnr
+平	Enr
+农	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+3	Mm
+3	Em
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+8	Bm
+5	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+高	Sa
+氯	Sn
+·	Sw
+甲	Bnz
+维	Mnz
+盐	Enz
+ 	Sw
+
+5	Sw
+%	Sw
+微	Sn
+乳	Bn
+剂	En
+ 	Sw
+
+甘	Bnr
+蓝	Enr
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+1	Meng
+3	Meng
+1	Meng
+6	Meng
+7	Meng
+0	Eeng
+ 	Sw
+
+混	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+宏	Ba
+强	Ea
+农	Bn
+技	En
+推	Bv
+广	Ev
+服	Bn
+务	Mn
+部	En
+ 	Sw
+
+山	Bns
+东	Mns
+省	Ens
+ 	Sw
+
+山	Bns
+东	Ens
+邹	Bnr
+平	Enr
+农	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+有	Bn
+效	Mn
+期	En
+至	Sp
+2	Bm
+0	Mm
+1	Mm
+9	Mm
+0	Mm
+1	Mm
+0	Mm
+7	Mm
+5	Em
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+8	Bm
+6	Em
+ 	Sw
+
+例	Bv
+行	Ev
+抽	Bv
+查	Ev
+ 	Sw
+
+啶	Sw
+虫	Sn
+脒	Sg
+ 	Sw
+
+2	Bm
+0	Em
+%	Sw
+可	Bv
+溶	Ev
+粉	Bn
+剂	En
+ 	Sw
+
+柑	Bn
+橘	En
+树	Sv
+ 	Sw
+
+P	Beng
+D	Meng
+2	Meng
+0	Meng
+0	Meng
+8	Meng
+4	Meng
+5	Meng
+4	Meng
+4	Eeng
+ 	Sw
+
+单	Bn
+剂	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+四	Bm
+方	Em
+农	Bn
+资	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+河	Bns
+北	Mns
+省	Ens
+ 	Sw
+
+河	Bns
+北	Ens
+卓	Bnr
+诚	Enr
+化	Bn
+工	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+0	Bm
+3	Em
+/	Sw
+1	Bm
+2	Em
+ 	Sw
+
+合	Bn
+格	En
+
+

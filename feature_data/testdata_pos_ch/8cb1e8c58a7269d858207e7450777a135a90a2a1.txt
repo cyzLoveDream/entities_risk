@@ -1,0 +1,4443 @@
+襄	Bns
+阳	Ens
+市	Bn
+食	En
+安	Bv
+办	Ev
+抽	Bv
+检	Ev
+4	Bm
+0	Em
+批	Bd
+次	Ed
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+全	Bn
+部	En
+合	Bn
+格	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+根	Bp
+据	Ep
+《	Sw
+中	Bns
+华	Mns
+人	Mns
+民	Mns
+共	Mns
+和	Mns
+国	Ens
+食	Bn
+品	En
+安	Bnr
+全	Mnr
+法	Enr
+》	Sw
+及	Bc
+其	Ec
+实	Bv
+施	Ev
+条	Bn
+例	En
+等	Su
+规	Bn
+定	En
+，	Sw
+襄	Bns
+阳	Ens
+市	Bn
+食	En
+安	Bv
+办	Ev
+近	Bt
+期	Et
+组	Bv
+织	Ev
+抽	Bv
+检	Ev
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+4	Bm
+0	Em
+批	Bd
+次	Ed
+样	Bn
+品	En
+，	Sw
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+项	Bn
+目	En
+合	Bn
+格	En
+样	Bn
+品	En
+4	Bm
+0	Em
+批	Bd
+次	Ed
+，	Sw
+不	Sd
+合	Bn
+格	En
+样	Bn
+品	En
+0	Sw
+批	Bd
+次	Ed
+。	Sw
+
+ 	Sw
+
+食	Bn
+品	En
+抽	Bv
+检	Ev
+合	Bn
+格	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+实	Bv
+施	Ev
+单	Bn
+位	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+地	Mn
+址	En
+ 	Sw
+
+样	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+商	Bn
+标	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+检	Bvn
+测	Evn
+项	Bn
+目	En
+ 	Sw
+
+检	Bvn
+验	Evn
+机	Bn
+构	En
+ 	Sw
+
+1	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+辣	Bn
+椒	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+花	Bn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+香	Bn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+4	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+平	Bn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+5	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+杏	Bv
+鲍	Mv
+菇	Ev
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+6	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+香	Bn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+7	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+平	Bn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+8	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+空	Bn
+心	Mn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+9	Sw
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+苹	Bn
+果	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+苦	Bn
+瓜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+苹	Bn
+果	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+金	Bn
+针	Mn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+葡	Bn
+萄	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+芹	Bn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+白	Bn
+萝	Mn
+卜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+胡	Bnr
+萝	Mnr
+卜	Enr
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+空	Bn
+心	Mn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+苦	Bn
+瓜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+辣	Bn
+椒	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+襄	Bns
+樊	Ens
+鑫	Snr
+顺	Bt
+天	Et
+农	Bn
+业	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+樊	Mns
+市	Ens
+大	Bns
+庆	Ens
+东	Bns
+路	Ens
+7	Sm
+号	Sm
+ 	Sw
+
+花	Bn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+芹	Bn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+白	Bn
+萝	Mn
+卜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+胡	Bnr
+萝	Mnr
+卜	Enr
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+襄	Bns
+阳	Ens
+硕	Ba
+健	Ea
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+大	Bn
+白	Mn
+菜	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+4	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+圣	Bn
+女	En
+果	Sng
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+白	Bnr
+桃	Enr
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+葡	Bn
+萄	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+苹	Bn
+果	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+樊	Bns
+城	Mns
+区	Ens
+丰	Bv
+收	Ev
+果	Bn
+园	En
+水	Bn
+果	En
+超	Bv
+市	Ev
+ 	Sw
+
+樊	Bns
+城	Mns
+区	Ens
+陈	Bnr
+营	Enr
+路	Sn
+门	Bn
+面	En
+ 	Sw
+
+梨	Sn
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+湖	Bns
+北	Ens
+李	Bnr
+行	Enr
+农	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+襄	Bns
+州	Ens
+区	Sn
+ 	Sw
+
+茶	Bn
+树	Mn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+金	Bn
+针	Mn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+茶	Bn
+树	Mn
+菇	En
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+雨	Bnr
+田	Enr
+蔬	Bn
+菜	En
+合	Bl
+作	Ml
+社	El
+ 	Sw
+
+老	Bns
+河	Mns
+口	Mns
+市	Ens
+ 	Sw
+
+杏	Bv
+鲍	Mv
+菇	Ev
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+5	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+白	Bnr
+桃	Enr
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+ 	Sw
+
+4	Bm
+0	Em
+ 	Sw
+
+农	Bn
+业	En
+委	Bn
+员	Mn
+会	En
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+樊	Bns
+城	Ens
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+干	Bn
+果	En
+水	Bn
+果	Mn
+店	En
+ 	Sw
+
+新	Bnz
+华	Enz
+乐	Bn
+园	En
+巷	Sng
+7	Sm
+号	Sm
+ 	Sw
+
+圣	Bn
+女	En
+果	Sng
+ 	Sw
+
+1	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+无	Sv
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+8	Mm
+1	Mm
+6	Em
+ 	Sw
+
+随	Bd
+机	Ed
+抽	Bv
+检	Ev
+5	Sw
+-	Sw
+1	Bm
+0	Em
+个	Sm
+项	Bn
+目	En
+ 	Sw
+
+襄	Bns
+阳	Ens
+市	Sn
+农	Bn
+产	Mn
+品	En
+质	Bn
+量	En
+安	Ban
+全	Ean
+检	Bvn
+验	Evn
+检	Bvn
+测	Evn
+中	Bn
+心	En
+
+

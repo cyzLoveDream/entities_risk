@@ -1,0 +1,719 @@
+许	Bns	B
+昌	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+抽	Bv	O
+检	Ev	O
+1	Bm	O
+0	Em	O
+批	Bd	O
+次	Ed	O
+商	Bn	O
+品	En	O
+煤	Sn	O
+
+3	Sw	O
+批	Bd	O
+次	Ed	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+为	Bp	O
+了	Ep	O
+贯	Bv	O
+彻	Ev	O
+《	Sw	O
+大	Bi	O
+气	Mi	O
+污	Mi	O
+染	Ei	O
+防	Bn	O
+治	Mn	O
+法	En	O
+》	Sw	O
+，	Sw	O
+确	Bv	O
+保	Ev	O
+空	Bn	O
+气	Mn	O
+质	Mn	O
+量	En	O
+达	Bv	O
+标	Ev	O
+，	Sw	O
+按	Bp	O
+照	Ep	O
+省	Bn	O
+局	En	O
+、	Sw	O
+市	Bn	O
+委	En	O
+市	Bn	O
+政	Mn	O
+府	En	O
+、	Sw	O
+市	Sn	O
+大	Bn	O
+气	En	O
+办	Sv	O
+要	Bv	O
+求	Ev	O
+，	Sw	O
+3	Sm	O
+月	Sm	O
+，	Sw	O
+许	Bns	B
+昌	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+委	Bn	O
+托	En	O
+许	Bns	B
+昌	Mns	I
+市	Ens	I
+质	Bn	I
+量	En	I
+技	Bn	I
+术	En	I
+监	Bvn	I
+督	Evn	I
+检	Bvn	I
+验	Evn	I
+测	Bnz	I
+试	Mnz	I
+中	Mnz	I
+心	Enz	E
+对	Sp	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+销	Bvn	O
+售	Evn	O
+的	Suj	O
+商	Bn	O
+品	En	O
+煤	Sn	O
+质	Bn	O
+量	En	O
+进	Bv	O
+行	Ev	O
+了	Sul	O
+抽	Bv	O
+样	Ev	O
+检	Bvn	O
+验	Evn	O
+。	Sw	O
+
+此	Br	O
+次	Er	O
+共	Sd	O
+抽	Bv	O
+检	Ev	O
+1	Bm	O
+0	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+经	Bj	O
+检	Mj	O
+测	Ej	O
+，	Sw	O
+3	Sm	O
+个	Sm	O
+批	Bd	O
+次	Ed	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+产	Bn	O
+品	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+和	Sc	O
+有	Bvn	O
+关	Evn	O
+经	Bvn	O
+销	Evn	O
+单	Bn	O
+位	En	O
+，	Sw	O
+应	Sv	O
+按	Bp	O
+照	Ep	O
+相	Bv	O
+关	Ev	O
+法	Bn	O
+律	Mn	O
+法	Mn	O
+规	En	O
+的	Suj	O
+要	Bv	O
+求	Ev	O
+，	Sw	O
+主	Bb	O
+动	Eb	O
+采	Bnr	O
+取	Mnr	O
+措	Mnr	O
+施	Enr	O
+下	Bv	O
+架	Ev	O
+不	Sd	O
+合	Bn	O
+格	En	O
+商	Bn	O
+品	En	O
+，	Sw	O
+保	Bv	O
+护	Ev	O
+消	Bn	O
+费	Mn	O
+者	En	O
+的	Suj	O
+合	Bn	O
+法	Mn	O
+权	Mn	O
+益	En	O
+。	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+（	Sw	O
+3	Sm	O
+月	Sm	O
+）	Sw	O
+商	Bn	O
+品	En	O
+煤	Sn	O
+抽	Bv	O
+检	Ev	O
+汇	Bn	O
+总	Mn	O
+表	En	O
+
+序	Bn	O
+号	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+检	Ev	O
+人	Sn	O
+
+标	Bn	O
+称	En	O
+商	Bn	O
+标	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+/	Sw	O
+货	Bn	O
+号	En	O
+
+综	Bvn	O
+合	Evn	O
+判	Bv	O
+定	Ev	O
+（	Sw	O
+合	Bn	O
+格	En	O
+/	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+）	Sw	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+项	Sn	O
+
+1	Sw	O
+
+煤	Sn	O
+
+张	Bnr	O
+书	Mnr	O
+见	Enr	O
+（	Sw	O
+长	Bns	O
+葛	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+新	Sa	O
+密	Sa	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+全	Bnz	O
+硫	Enz	O
+（	Sw	O
+S	Beng	O
+t	Eeng	O
+,	Sw	O
+d	Sw	O
+）	Sw	O
+
+2	Sw	O
+
+煤	Sn	O
+
+高	Bn	O
+铁	En	O
+成	Sn	O
+（	Sw	O
+长	Bns	O
+葛	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+新	Bns	O
+密	Ens	O
+王	Bnr	O
+村	Enr	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+3	Sw	O
+
+煤	Sn	O
+
+张	Bnr	O
+根	Mnr	O
+建	Enr	O
+（	Sw	O
+长	Bns	O
+葛	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+山	Bns	O
+西	Ens	O
+晋	Bns	O
+城	Ens	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+4	Sw	O
+
+煤	Sn	O
+
+卢	Bnr	O
+海	Mnr	O
+庭	Enr	O
+（	Sw	O
+长	Bns	O
+葛	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+新	Sa	O
+密	Sa	O
+宏	Bnz	O
+达	Enz	O
+煤	Bn	O
+矿	En	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+5	Sw	O
+
+煤	Sn	O
+
+长	Bns	O
+葛	Mns	O
+市	Ens	O
+为	Bv	O
+民	Ev	O
+煤	Bn	O
+球	En	O
+厂	Szg	O
+（	Sw	O
+长	Bns	O
+葛	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+山	Bns	O
+西	Ens	O
+大	Sa	O
+赵	Bnr	O
+庄	Enr	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+全	Bnz	O
+硫	Enz	O
+（	Sw	O
+S	Beng	O
+t	Eeng	O
+,	Sw	O
+d	Sw	O
+）	Sw	O
+
+6	Sw	O
+
+煤	Sn	O
+
+长	Bns	O
+葛	Mns	O
+市	Ens	O
+鸿	Bn	O
+运	En	O
+煤	Bn	O
+球	En	O
+厂	Szg	O
+（	Sw	O
+长	Bns	O
+葛	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+新	Bnr	B
+密	Mnr	I
+永	Mnr	I
+祥	Enr	I
+煤	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+
+灰	Bn	O
+分	En	O
+（	Sw	O
+A	Beng	O
+d	Eeng	O
+）	Sw	O
+
+7	Sw	O
+
+煤	Sn	O
+
+河	Bns	O
+南	Ens	O
+神	Bn	O
+火	En	O
+兴	Bns	O
+隆	Ens	O
+矿	Bn	O
+业	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+（	Sw	O
+许	Bns	O
+昌	Mns	O
+县	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+河	Bns	O
+南	Ens	O
+神	Bn	O
+火	En	O
+兴	Bns	O
+隆	Ens	O
+矿	Bn	O
+业	En	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+8	Sw	O
+
+煤	Sn	O
+
+河	Bns	B
+南	Ens	I
+天	Bq	I
+元	Eq	I
+煤	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+（	Sw	O
+许	Bns	O
+昌	Mns	O
+县	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+平	Bnz	O
+禹	Enz	O
+一	Sm	O
+矿	Sn	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+9	Sw	O
+
+煤	Sn	O
+
+陈	Bnrfg	O
+淼	Enrfg	O
+（	Sw	O
+许	Bns	O
+昌	Mns	O
+县	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+陕	Bns	O
+西	Ens	O
+神	Bn	O
+木	En	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+
+1	Bm	O
+0	Em	O
+
+煤	Sn	O
+
+司	Bnr	O
+景	Mnr	O
+怀	Enr	O
+（	Sw	O
+许	Bns	O
+昌	Mns	O
+县	Ens	O
+）	Sw	O
+
+/	Sw	O
+
+标	Bv	O
+注	Ev	O
+的	Suj	O
+生	Bvn	O
+产	Evn	O
+单	Bn	O
+位	En	O
+：	Sw	O
+山	Bns	O
+西	Ens	O
+高	Bnr	O
+平	Enr	O
+
+混	Bn	O
+煤	En	O
+
+/	Sw	O
+
+合	Bn	O
+格	En	O
+
+/	Sw	O
+

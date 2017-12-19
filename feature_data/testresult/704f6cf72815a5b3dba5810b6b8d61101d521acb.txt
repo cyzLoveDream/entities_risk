@@ -1,0 +1,442 @@
+芜	Bns	B
+湖	Mns	I
+市	Ens	I
+食	Sv	I
+药	Bnt	I
+监	Mnt	I
+局	Ent	E
+抽	Bv	O
+检	Ev	O
+水	Bn	O
+产	En	O
+制	Bn	O
+品	En	O
+4	Sw	O
+批	Bd	O
+次	Ed	O
+样	Bn	O
+品	En	O
+
+全	Bn	O
+部	En	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+第	Sm	O
+1	Bm	O
+4	Em	O
+期	Sn	O
+食	Bn	O
+品	En	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	En	O
+信	Bn	O
+息	En	O
+
+序	Bn	O
+号	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+名	Bn	O
+称	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+地	Bn	O
+址	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	Mn	O
+名	Mn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	En	O
+所	Bb	O
+在	Eb	O
+市	Sn	O
+
+食	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+
+分	Bn	O
+类	En	O
+
+任	Bn	O
+务	En	O
+来	Bn	O
+源	En	O
+/	Sw	O
+项	Bn	O
+目	Mn	O
+名	Mn	O
+称	En	O
+
+备	Bv	O
+注	Ev	O
+
+1	Sw	O
+
+滨	Bns	B
+海	Ens	I
+成	Bv	I
+中	Ev	I
+食	Bn	I
+品	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+江	Bns	O
+苏	Mns	O
+省	Ens	O
+滨	Bns	O
+海	Mns	O
+县	Ens	O
+天	Bn	O
+场	En	O
+镇	Sv	O
+民	Bb	O
+营	Eb	O
+创	Bn	O
+业	Mn	O
+园	En	O
+
+江	Bns	O
+苏	Ens	O
+乐	Bnr	O
+天	Enr	O
+玛	Bnrt	O
+特	Enrt	O
+商	Bn	O
+业	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+芜	Bns	O
+湖	Ens	O
+中	Bn	O
+央	En	O
+城	Bn	O
+店	En	O
+
+芜	Bns	O
+湖	Ens	O
+
+精	Bn	O
+品	En	O
+盐	Bn	O
+渍	En	O
+海	Bn	O
+蜇	En	O
+丝	Sm	O
+
+5	Bm	O
+0	Mm	O
+0	Em	O
+g	Seng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+-	Sw	O
+0	Bm	O
+8	Em	O
+-	Sw	O
+0	Bm	O
+1	Em	O
+
+水	Bn	O
+产	En	O
+制	Bn	O
+品	En	O
+
+芜	Bns	O
+湖	Ens	O
+/	Sw	O
+省	Sn	O
+抽	Sv	O
+
+2	Sw	O
+
+上	Bns	O
+海	Ens	O
+新	Sa	O
+橡	Bn	O
+舟	En	O
+实	Bn	O
+业	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+上	Bns	O
+海	Mns	O
+市	Ens	O
+金	Bns	O
+山	Mns	O
+区	Ens	O
+亭	Sng	O
+林	Bnr	O
+镇	Enr	O
+松	Bnr	O
+隐	Enr	O
+康	Bnr	O
+发	Mnr	O
+璐	Enr	O
+1	Bm	O
+0	Mm	O
+5	Em	O
+号	Sm	O
+
+芜	Bns	B
+湖	Ens	I
+大	Bnz	I
+润	Mnz	I
+发	Enz	I
+商	Bn	I
+贸	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+芜	Bns	O
+湖	Ens	O
+
+鲜	Sa	O
+烤	Sv	O
+海	Bn	O
+鱼	En	O
+
+5	Bm	O
+5	Em	O
+g	Seng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+-	Sw	O
+1	Bm	O
+0	Em	O
+-	Sw	O
+2	Bm	O
+0	Em	O
+
+水	Bn	O
+产	En	O
+制	Bn	O
+品	En	O
+
+芜	Bns	O
+湖	Ens	O
+/	Sw	O
+省	Sn	O
+抽	Sv	O
+
+3	Sw	O
+
+上	Bns	O
+海	Ens	O
+新	Sa	O
+橡	Bn	O
+舟	En	O
+实	Bn	O
+业	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+上	Bns	O
+海	Mns	O
+市	Ens	O
+金	Bns	O
+山	Mns	O
+区	Ens	O
+亭	Sng	O
+林	Bnr	O
+镇	Enr	O
+松	Bnr	O
+隐	Enr	O
+康	Bnr	O
+发	Mnr	O
+璐	Enr	O
+1	Bm	O
+0	Mm	O
+5	Em	O
+号	Sm	O
+
+芜	Bns	B
+湖	Ens	I
+大	Bnz	I
+润	Mnz	I
+发	Enz	I
+商	Bn	I
+贸	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+芜	Bns	O
+湖	Ens	O
+
+网	Sn	O
+烤	Sv	O
+鱿	Bn	O
+鱼	En	O
+
+1	Bm	O
+0	Mm	O
+5	Em	O
+g	Seng	O
+/	Sw	O
+袋	Sq	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+-	Sw	O
+0	Bm	O
+6	Em	O
+-	Sw	O
+2	Bm	O
+5	Em	O
+
+水	Bn	O
+产	En	O
+制	Bn	O
+品	En	O
+
+芜	Bns	O
+湖	Ens	O
+/	Sw	O
+省	Sn	O
+抽	Sv	O
+
+4	Sw	O
+
+安	Bns	O
+徽	Ens	O
+卫	Bnr	O
+食	Mnr	O
+园	Enr	O
+肉	Bn	O
+类	En	O
+食	Bn	O
+品	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+安	Bns	O
+徽	Mns	O
+省	Ens	O
+蚌	Bns	O
+埠	Mns	O
+市	Ens	O
+淮	Sj	O
+上	Bns	O
+区	Ens	O
+双	Bn	O
+墩	En	O
+路	Sn	O
+2	Bm	O
+6	Mm	O
+6	Mm	O
+9	Em	O
+号	Sm	O
+
+芜	Bns	B
+湖	Ens	I
+大	Bnz	I
+润	Mnz	I
+发	Enz	I
+商	Bn	I
+贸	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+芜	Bns	O
+湖	Ens	O
+
+青	Bn	O
+鱼	En	O
+干	Sv	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+6	Em	O
+-	Sw	O
+1	Bm	O
+0	Em	O
+-	Sw	O
+2	Bm	O
+3	Em	O
+
+水	Bn	O
+产	En	O
+制	Bn	O
+品	En	O
+
+芜	Bns	O
+湖	Ens	O
+/	Sw	O
+省	Sn	O
+抽	Sv	O
+

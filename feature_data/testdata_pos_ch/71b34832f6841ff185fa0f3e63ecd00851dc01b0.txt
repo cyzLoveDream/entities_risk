@@ -1,0 +1,1092 @@
+蚌	Bns
+埠	Mns
+市	Ens
+食	Sv
+药	Bnt
+监	Mnt
+局	Ent
+公	Bv
+布	Ev
+1	Bm
+1	Em
+批	Bd
+次	Ed
+抽	Bv
+检	Ev
+合	Bn
+格	En
+餐	Bn
+饮	En
+食	Bn
+品	En
+样	Bn
+品	En
+信	Bn
+息	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+7	Sm
+月	Sm
+4	Sm
+日	Sm
+，	Sw
+蚌	Bns
+埠	Mns
+市	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+官	Bn
+网	En
+发	Bv
+布	Ev
+《	Sw
+餐	Bn
+饮	En
+环	Bn
+节	En
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+信	Bn
+息	En
+公	Bv
+示	Ev
+(	Sw
+总	Sn
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+第	Bm
+九	Mm
+期	Em
+)	Sw
+》	Sw
+，	Sw
+1	Bm
+1	Em
+批	Bd
+次	Ed
+样	Bn
+品	En
+抽	Bv
+检	Ev
+合	Bn
+格	En
+。	Sw
+
+ 	Sw
+
+本	Br
+次	Er
+抽	Bv
+检	Ev
+的	Suj
+样	Bn
+品	En
+均	Sd
+为	Sp
+餐	Bn
+饮	En
+环	Bn
+节	En
+销	Bvn
+售	Evn
+使	Bv
+用	Ev
+的	Suj
+食	Bn
+品	En
+，	Sw
+为	Sp
+查	Bv
+找	Ev
+食	Bn
+品	En
+中	Sf
+可	Bv
+能	Ev
+违	Bvn
+法	Evn
+添	Bv
+加	Ev
+及	Sc
+滥	Bv
+用	Ev
+的	Suj
+食	Bn
+品	En
+添	Bn
+加	Mn
+剂	En
+开	Bv
+展	Ev
+此	Br
+次	Er
+抽	Bv
+检	Ev
+。	Sw
+
+ 	Sw
+
+检	Bvn
+验	Evn
+依	Bp
+据	Ep
+G	Beng
+B	Eeng
+ 	Sw
+
+2	Bm
+7	Mm
+6	Mm
+0	Em
+-	Sw
+2	Bm
+0	Mm
+1	Mm
+4	Em
+《	Sw
+食	Bl
+品	Ml
+安	Ml
+全	El
+国	Bn
+家	Mn
+标	Mn
+准	En
+ 	Sw
+
+食	Bn
+品	En
+添	Bn
+加	Mn
+剂	En
+使	Bv
+用	Ev
+标	Bn
+准	En
+》	Sw
+、	Sw
+G	Beng
+B	Eeng
+/	Sw
+T	Sw
+ 	Sw
+
+5	Bm
+0	Mm
+0	Mm
+9	Mm
+.	Mm
+3	Mm
+5	Em
+-	Sw
+2	Bm
+0	Mm
+0	Mm
+3	Em
+标	Bn
+准	En
+及	Sc
+产	Bn
+品	En
+明	Bv
+示	Ev
+标	Bn
+准	En
+和	Sc
+指	Bn
+标	En
+的	Suj
+要	Bv
+求	Ev
+。	Sw
+
+ 	Sw
+
+抽	Bv
+检	Ev
+检	Bvn
+验	Evn
+项	Bn
+目	En
+包	Bv
+括	Ev
+胭	Bn
+脂	Mn
+红	En
+、	Sw
+苋	Bn
+菜	En
+红	Sa
+、	Sw
+诱	Bv
+惑	Ev
+红	Sa
+、	Sw
+柠	Bn
+檬	Mn
+黄	En
+、	Sw
+日	Bz
+落	Mz
+黄	Ez
+共	Sd
+五	Bm
+项	Em
+。	Sw
+
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+餐	Bn
+饮	En
+环	Bn
+节	En
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+信	Bn
+息	En
+公	Bv
+示	Ev
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	En
+所	Bb
+在	Eb
+市	Sn
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+重	Bns
+庆	Ens
+德	Bns
+庄	Ens
+农	Bn
+产	Mn
+品	En
+开	Bv
+发	Ev
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+禹	Bns
+会	Mns
+区	Ens
+德	Bns
+庄	Ens
+火	Bn
+锅	En
+朝	Bns
+阳	Mns
+路	Ens
+店	Sn
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+德	Bns
+庄	Ens
+十	Bm
+年	Em
+火	Bn
+锅	En
+底	Bn
+料	En
+ 	Sw
+
+5	Sm
+k	Beng
+g	Eeng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+2	Em
+-	Sw
+3	Bm
+0	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+2	Sw
+ 	Sw
+
+重	Bns
+庆	Ens
+德	Bns
+康	Ens
+食	Bn
+品	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+光	Bn
+头	En
+佬	Sng
+商	Bn
+贸	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+光	Bn
+头	En
+佬	Sng
+火	Bn
+锅	En
+底	Bn
+料	En
+ 	Sw
+
+5	Bm
+0	Mm
+0	Em
+g	Seng
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+6	Em
+-	Sw
+1	Bm
+2	Em
+-	Sw
+3	Bm
+0	Em
+（	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+）	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+3	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+山	Bns
+城	Ens
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+辣	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+3	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+n	Beng
+u	Meng
+l	Meng
+l	Eeng
+ 	Sw
+
+4	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+山	Bns
+城	Ens
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+花	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+3	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+5	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+龙	Bn
+子	En
+湖	Bns
+区	Ens
+丹	Bns
+丹	Ens
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+火	Bn
+锅	En
+底	Bn
+料	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+3	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+餐	Bn
+饮	En
+食	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+6	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+蚌	Sns
+山	Bns
+区	Ens
+辣	Bn
+妹	Mn
+子	En
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+辣	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+3	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+7	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+蚌	Sns
+山	Bns
+区	Ens
+辣	Bn
+妹	Mn
+子	En
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+花	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+3	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+8	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+蚌	Sns
+山	Bns
+区	Ens
+红	Bn
+兵	En
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+火	Bn
+锅	En
+底	Bn
+料	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+3	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+餐	Bn
+饮	En
+食	Bn
+品	En
+ 	Sw
+
+ 	Sw
+
+9	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+蚌	Sns
+山	Bns
+区	Ens
+红	Bn
+兵	En
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+花	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+3	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+龙	Bn
+子	En
+湖	Bns
+区	Ens
+三	Bm
+号	Em
+码	Bn
+头	En
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+花	Bn
+椒	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+4	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+调	Bn
+味	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+蚌	Bns
+埠	Mns
+市	Ens
+龙	Bn
+子	En
+湖	Bns
+区	Ens
+三	Bm
+号	Em
+码	Bn
+头	En
+火	Bn
+锅	Mn
+店	En
+ 	Sw
+
+安	Bns
+徽	Mns
+省	Ens
+蚌	Bns
+埠	Mns
+市	Ens
+ 	Sw
+
+火	Bn
+锅	En
+底	Bn
+料	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+-	Sw
+1	Sw
+-	Sw
+4	Sw
+(	Sw
+购	Bv
+进	Ev
+日	Bt
+期	Et
+)	Sw
+ 	Sw
+
+餐	Bn
+饮	En
+食	Bn
+品	En
+
+

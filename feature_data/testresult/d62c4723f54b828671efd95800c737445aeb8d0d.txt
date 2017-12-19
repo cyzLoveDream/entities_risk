@@ -1,0 +1,1083 @@
+贵	Bns	B
+州	Mns	I
+省	Ens	I
+食	Bn	I
+品	En	I
+药	Bnt	I
+品	Mnt	I
+监	Mnt	I
+督	Mnt	I
+管	Mnt	I
+理	Mnt	I
+局	Ent	E
+关	Bp	O
+于	Ep	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+情	Bn	O
+况	En	O
+分	Bvn	O
+析	Evn	O
+的	Suj	O
+通	Bn	O
+告	En	O
+。	Sw	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+8	Sm	O
+月	Sm	O
+，	Sw	O
+全	Bn	O
+省	En	O
+共	Sd	O
+完	Bv	O
+成	Ev	O
+并	Sc	O
+公	Bv	O
+布	Ev	O
+5	Bm	O
+2	Mm	O
+0	Mm	O
+9	Em	O
+批	Bd	O
+次	Ed	O
+食	Bn	O
+品	En	O
+及	Sc	O
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+样	Bn	O
+品	En	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+结	Bn	O
+果	En	O
+，	Sw	O
+检	Bvn	O
+验	Evn	O
+项	Bn	O
+目	En	O
+合	Bn	O
+格	En	O
+的	Suj	O
+样	Bn	O
+品	En	O
+5	Bm	O
+1	Mm	O
+6	Mm	O
+5	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+样	Bn	O
+品	En	O
+4	Bm	O
+4	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+样	Bn	O
+品	En	O
+总	Bn	O
+体	En	O
+合	Bn	O
+格	Mn	O
+率	En	O
+为	Sp	O
+9	Bm	O
+9	Mm	O
+.	Mm	O
+1	Mm	O
+6	Em	O
+%	Sw	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+不	Sd	O
+合	Bn	O
+格	En	O
+的	Suj	O
+4	Bm	O
+4	Em	O
+批	Bd	O
+次	Ed	O
+样	Bn	O
+品	En	O
+中	Sf	O
+，	Sw	O
+不	Sd	O
+合	Bn	O
+格	En	O
+指	Bn	O
+标	En	O
+有	Sv	O
+4	Bm	O
+7	Em	O
+项	Sn	O
+。	Sw	O
+
+其	Br	O
+中	Er	O
+：	Sw	O
+农	Szg	O
+兽	Bn	O
+药	En	O
+残	Bv	O
+留	Ev	O
+问	Bn	O
+题	En	O
+占	Sv	O
+8	Bm	O
+.	Mm	O
+5	Mm	O
+1	Em	O
+%	Sw	O
+；	Sw	O
+
+非	Sh	O
+食	Bn	O
+用	En	O
+物	Bn	O
+质	En	O
+问	Bn	O
+题	En	O
+占	Sv	O
+2	Bm	O
+.	Mm	O
+1	Mm	O
+3	Em	O
+%	Sw	O
+；	Sw	O
+
+超	Bn	O
+范	Mn	O
+围	En	O
+、	Sw	O
+超	Sv	O
+限	Bn	O
+量	En	O
+使	Bv	O
+用	Ev	O
+食	Bn	O
+品	En	O
+添	Bn	O
+加	Mn	O
+剂	En	O
+问	Bn	O
+题	En	O
+占	Sv	O
+1	Bm	O
+7	Mm	O
+.	Mm	O
+0	Mm	O
+2	Em	O
+%	Sw	O
+；	Sw	O
+
+重	Bn	O
+金	Mn	O
+属	En	O
+等	Su	O
+元	Bn	O
+素	En	O
+污	Bn	O
+染	Mn	O
+物	En	O
+问	Bn	O
+题	En	O
+占	Sv	O
+1	Bm	O
+7	Mm	O
+.	Mm	O
+0	Mm	O
+2	Em	O
+%	Sw	O
+；	Sw	O
+
+其	Br	O
+他	Er	O
+污	Bn	O
+染	Mn	O
+物	En	O
+问	Bn	O
+题	En	O
+占	Sv	O
+4	Bm	O
+.	Mm	O
+2	Mm	O
+6	Em	O
+%	Sw	O
+；	Sw	O
+
+微	Bl	O
+生	Ml	O
+物	El	O
+污	Bvn	O
+染	Evn	O
+问	Bn	O
+题	En	O
+占	Sv	O
+3	Bm	O
+1	Mm	O
+.	Mm	O
+9	Mm	O
+1	Em	O
+%	Sw	O
+；	Sw	O
+
+品	Bn	O
+质	En	O
+指	Bn	O
+标	En	O
+不	Sd	O
+合	Bn	O
+格	En	O
+问	Bn	O
+题	En	O
+占	Sv	O
+1	Bm	O
+9	Mm	O
+.	Mm	O
+1	Mm	O
+5	Em	O
+%	Sw	O
+。	Sw	O
+
+各	Br	O
+类	Er	O
+食	Bn	O
+品	En	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+结	Bn	O
+果	En	O
+公	Bv	O
+布	Ev	O
+情	Bn	O
+况	En	O
+见	Sv	O
+附	Bn	O
+件	En	O
+。	Sw	O
+
+备	Bv	O
+注	Ev	O
+：	Sw	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	Mn	O
+率	En	O
+与	Sp	O
+测	Bvn	O
+算	Evn	O
+基	Bn	O
+数	En	O
+、	Sw	O
+抽	Bv	O
+样	Ev	O
+样	Bn	O
+本	Mn	O
+量	En	O
+直	Bad	O
+接	Ead	O
+相	Bv	O
+关	Ev	O
+，	Sw	O
+某	Sr	O
+批	Bd	O
+次	Ed	O
+或	Sc	O
+某	Sr	O
+阶	Bn	O
+段	En	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	Mn	O
+率	En	O
+不	Bv	O
+能	Ev	O
+直	Bad	O
+接	Ead	O
+判	Bv	O
+定	Ev	O
+该	Br	O
+类	Er	O
+产	Bn	O
+品	En	O
+的	Suj	O
+总	Bn	O
+体	En	O
+质	Bn	O
+量	En	O
+状	Bn	O
+况	En	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+信	Bn	O
+息	En	O
+需	Bv	O
+在	Ev	O
+抽	Bv	O
+样	Ev	O
+、	Sw	O
+检	Bvn	O
+测	Evn	O
+、	Sw	O
+出	Bv	O
+具	Ev	O
+法	Bn	O
+定	En	O
+检	Bvn	O
+验	Evn	O
+报	Bn	O
+告	En	O
+，	Sw	O
+复	Bv	O
+检	Ev	O
+期	Sq	O
+已	Sd	O
+达	Sv	O
+法	Bn	O
+定	Mn	O
+时	Mn	O
+限	En	O
+，	Sw	O
+并	Sc	O
+按	Bl	O
+程	Ml	O
+序	El	O
+审	Bv	O
+定	Ev	O
+后	Sf	O
+公	Bv	O
+布	Ev	O
+，	Sw	O
+因	Bc	O
+此	Ec	O
+附	Bn	O
+件	En	O
+中	Sf	O
+合	Bn	O
+格	Mn	O
+率	En	O
+为	Sp	O
+本	Bt	O
+月	Et	O
+已	Sd	O
+公	Bv	O
+布	Ev	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	Mn	O
+率	En	O
+，	Sw	O
+不	Sd	O
+代	Bn	O
+表	En	O
+本	Bt	O
+月	Et	O
+实	Bn	O
+际	En	O
+完	Bv	O
+成	Ev	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	Mn	O
+率	En	O
+。	Sw	O
+
+1	Sw	O
+
+粮	Bn	O
+食	En	O
+加	Bn	O
+工	Mn	O
+品	En	O
+
+2	Bm	O
+6	Mm	O
+7	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Sw	O
+
+食	Bn	O
+用	Mn	O
+油	En	O
+、	Sw	O
+油	Bn	O
+脂	En	O
+及	Bc	O
+其	Ec	O
+制	Bn	O
+品	En	O
+
+1	Bm	O
+3	Mm	O
+5	Em	O
+
+2	Sw	O
+
+9	Bm	O
+8	Mm	O
+.	Mm	O
+5	Mm	O
+2	Em	O
+%	Sw	O
+
+3	Sw	O
+
+调	Bn	O
+味	Mn	O
+品	En	O
+
+2	Bm	O
+6	Mm	O
+5	Em	O
+
+5	Sw	O
+
+9	Bm	O
+8	Mm	O
+.	Mm	O
+1	Mm	O
+1	Em	O
+%	Sw	O
+
+4	Sw	O
+
+肉	Bn	O
+制	Mn	O
+品	En	O
+
+2	Bm	O
+3	Mm	O
+8	Em	O
+
+1	Sw	O
+
+9	Bm	O
+9	Mm	O
+.	Mm	O
+5	Mm	O
+8	Em	O
+%	Sw	O
+
+5	Sw	O
+
+乳	Bn	O
+制	Mn	O
+品	En	O
+
+9	Bm	O
+0	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+6	Sw	O
+
+饮	Bn	O
+料	En	O
+
+3	Bm	O
+8	Mm	O
+3	Em	O
+
+1	Bm	O
+1	Em	O
+
+9	Bm	O
+7	Mm	O
+.	Mm	O
+1	Mm	O
+3	Em	O
+%	Sw	O
+
+7	Sw	O
+
+方	Ba	O
+便	Ea	O
+食	Bn	O
+品	En	O
+
+4	Sw	O
+
+1	Sw	O
+
+7	Bm	O
+5	Em	O
+%	Sw	O
+
+8	Sw	O
+
+饼	Bn	O
+干	En	O
+
+1	Bm	O
+1	Em	O
+
+1	Sw	O
+
+9	Bm	O
+0	Mm	O
+.	Mm	O
+9	Mm	O
+1	Em	O
+%	Sw	O
+
+9	Sw	O
+
+罐	Bn	O
+头	En	O
+
+3	Sw	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+1	Bm	O
+0	Em	O
+
+冷	Bv	O
+冻	Ev	O
+饮	Bn	O
+品	En	O
+
+8	Sw	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+1	Bm	O
+1	Em	O
+
+速	Bn	O
+冻	En	O
+食	Bn	O
+品	En	O
+
+5	Sw	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+1	Bm	O
+2	Em	O
+
+薯	Bn	O
+类	En	O
+和	Sc	O
+膨	Bl	O
+化	Ml	O
+食	Ml	O
+品	El	O
+
+8	Bm	O
+2	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+1	Bm	O
+3	Em	O
+
+糖	Bn	O
+果	En	O
+制	Bn	O
+品	En	O
+
+3	Bm	O
+0	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+1	Bm	O
+4	Em	O
+
+茶	Bn	O
+叶	En	O
+及	Sc	O
+相	Bv	O
+关	Ev	O
+制	Bn	O
+品	En	O
+
+1	Bm	O
+6	Mm	O
+3	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+1	Bm	O
+5	Em	O
+
+酒	Bn	O
+类	En	O
+
+2	Bm	O
+0	Mm	O
+3	Em	O
+
+6	Sw	O
+
+9	Bm	O
+7	Mm	O
+.	Mm	O
+0	Mm	O
+4	Em	O
+%	Sw	O
+
+1	Bm	O
+6	Em	O
+
+蔬	Bn	O
+菜	Mn	O
+制	Mn	O
+品	En	O
+
+1	Bm	O
+2	Mm	O
+9	Em	O
+
+7	Sw	O
+
+9	Bm	O
+4	Mm	O
+.	Mm	O
+5	Mm	O
+7	Em	O
+%	Sw	O
+
+1	Bm	O
+7	Em	O
+
+水	Bn	O
+果	En	O
+制	Bn	O
+品	En	O
+
+3	Bm	O
+1	Em	O
+
+3	Sw	O
+
+9	Bm	O
+0	Mm	O
+.	Mm	O
+3	Mm	O
+2	Em	O
+%	Sw	O
+
+1	Bm	O
+8	Em	O
+
+炒	Bv	O
+货	Ev	O
+食	Bn	O
+品	En	O
+及	Sc	O
+坚	Bn	O
+果	En	O
+制	Bn	O
+品	En	O
+
+4	Bm	O
+2	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+1	Bm	O
+9	Em	O
+
+蛋	Bn	O
+制	Mn	O
+品	En	O
+
+1	Bm	O
+4	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Bm	O
+0	Em	O
+
+可	Bv	O
+可	Ev	O
+及	Sc	O
+焙	Bv	O
+烤	Ev	O
+咖	Bn	O
+啡	En	O
+产	Bn	O
+品	En	O
+
+5	Sw	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Bm	O
+1	Em	O
+
+食	Bn	O
+糖	En	O
+
+1	Bm	O
+2	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Bm	O
+2	Em	O
+
+水	Bn	O
+产	En	O
+制	Bn	O
+品	En	O
+
+3	Sw	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Bm	O
+3	Em	O
+
+淀	Bn	O
+粉	En	O
+及	Sc	O
+淀	Bn	O
+粉	En	O
+制	Bn	O
+品	En	O
+
+6	Sw	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Bm	O
+4	Em	O
+
+糕	Bn	O
+点	En	O
+
+1	Bm	O
+8	Mm	O
+4	Em	O
+
+2	Sw	O
+
+9	Bm	O
+8	Mm	O
+.	Mm	O
+9	Mm	O
+1	Em	O
+%	Sw	O
+
+2	Bm	O
+5	Em	O
+
+豆	Bn	O
+制	Mn	O
+品	En	O
+
+5	Bm	O
+1	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Bm	O
+6	Em	O
+
+蜂	Bn	O
+产	Mn	O
+品	En	O
+
+5	Bm	O
+4	Em	O
+
+0	Sw	O
+
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+
+2	Bm	O
+7	Em	O
+
+保	Bn	O
+健	Mn	O
+食	Mn	O
+品	En	O
+
+0	Sw	O
+
+0	Sw	O
+
+/	Sw	O
+
+2	Bm	O
+8	Em	O
+
+特	Ba	O
+殊	Ea	O
+医	Bn	O
+学	En	O
+用	Bn	O
+途	En	O
+配	Bn	O
+方	En	O
+食	Bn	O
+品	En	O
+
+0	Sw	O
+
+0	Sw	O
+
+/	Sw	O
+
+2	Bm	O
+9	Em	O
+
+婴	Bn	O
+幼	Mn	O
+儿	En	O
+配	Bn	O
+方	En	O
+食	Bn	O
+品	En	O
+
+0	Sw	O
+
+0	Sw	O
+
+/	Sw	O
+
+3	Bm	O
+0	Em	O
+
+特	Ba	O
+殊	Ea	O
+膳	Bn	O
+食	En	O
+食	Bn	O
+品	En	O
+
+0	Sw	O
+
+0	Sw	O
+
+/	Sw	O
+
+3	Bm	O
+1	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+2	Bm	O
+0	Mm	O
+8	Em	O
+
+1	Sw	O
+
+9	Bm	O
+9	Mm	O
+.	Mm	O
+5	Mm	O
+2	Em	O
+%	Sw	O
+
+3	Bm	O
+2	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+5	Mm	O
+8	Mm	O
+3	Em	O
+
+4	Sw	O
+
+9	Bm	O
+9	Mm	O
+.	Mm	O
+8	Mm	O
+5	Em	O
+%	Sw	O
+
+3	Bm	O
+3	Em	O
+
+食	Bn	O
+品	En	O
+添	Bn	O
+加	Mn	O
+剂	En	O
+
+0	Sw	O
+
+0	Sw	O
+
+/	Sw	O
+
+3	Bm	O
+4	Em	O
+
+其	Br	O
+他	Er	O
+5	Sw	O
+（	Sw	O
+请	Sv	O
+在	Sp	O
+备	Bv	O
+注	Ev	O
+标	Bv	O
+注	Ev	O
+类	Bn	O
+别	En	O
+）	Sw	O
+
+0	Sw	O
+
+0	Sw	O
+
+/	Sw	O
+
+合	Bvn	O
+计	Evn	O
+
+合	Bvn	O
+计	Evn	O
+
+5	Bm	O
+2	Mm	O
+0	Mm	O
+9	Em	O
+
+4	Bm	O
+4	Em	O
+
+9	Bm	O
+9	Mm	O
+.	Mm	O
+1	Mm	O
+6	Em	O
+%	Sw	O
+

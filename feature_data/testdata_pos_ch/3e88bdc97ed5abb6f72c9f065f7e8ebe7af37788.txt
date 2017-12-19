@@ -1,0 +1,1589 @@
+宣	Bns
+城	Mns
+市	Ens
+食	Sv
+药	Bnt
+监	Mnt
+局	Ent
+抽	Bv
+检	Ev
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+1	Bm
+7	Em
+批	Bd
+次	Ed
+样	Bn
+品	En
+ 	Sw
+
+全	Bn
+部	En
+合	Bn
+格	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+8	Sm
+月	Sm
+1	Sm
+日	Sm
+，	Sw
+宣	Bns
+城	Mns
+市	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+官	Bn
+网	En
+公	Bv
+布	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+第	Sm
+1	Bm
+4	Em
+期	Sn
+食	Bl
+品	Ml
+安	Ml
+全	El
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+信	Bn
+息	En
+。	Sw
+
+本	Br
+次	Er
+抽	Bv
+检	Ev
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+1	Bm
+7	Em
+批	Bd
+次	Ed
+，	Sw
+全	Bn
+部	En
+合	Bn
+格	En
+。	Sw
+
+ 	Sw
+
+本	Br
+次	Er
+抽	Bv
+检	Ev
+的	Suj
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+主	Bb
+要	Eb
+包	Bv
+括	Ev
+蔬	Bn
+菜	En
+、	Sw
+淡	Bn
+水	Mn
+鱼	En
+等	Su
+。	Sw
+
+抽	Bv
+检	Ev
+依	Bp
+据	Ep
+G	Beng
+B	Meng
+2	Meng
+7	Meng
+6	Meng
+2	Eeng
+-	Sw
+2	Bm
+0	Mm
+1	Mm
+2	Em
+《	Sw
+食	Bl
+品	Ml
+安	Ml
+全	El
+国	Bn
+家	Mn
+标	Mn
+准	En
+ 	Sw
+
+食	Bn
+品	En
+中	Sf
+污	Bn
+染	Mn
+物	En
+限	Bn
+量	En
+》	Sw
+、	Sw
+G	Beng
+B	Eeng
+ 	Sw
+
+2	Bm
+7	Mm
+6	Mm
+3	Em
+-	Sw
+2	Bm
+0	Mm
+1	Mm
+4	Em
+《	Sw
+食	Bl
+品	Ml
+安	Ml
+全	El
+国	Bn
+家	Mn
+标	Mn
+准	En
+ 	Sw
+
+食	Bn
+品	En
+中	Sf
+农	Bn
+药	En
+最	Ba
+大	Ea
+残	Bv
+留	Ev
+限	Bn
+量	En
+》	Sw
+、	Sw
+农	Bnt
+业	Mnt
+部	Ent
+公	Bn
+告	En
+第	Sm
+5	Bm
+6	Mm
+0	Em
+号	Sm
+《	Sw
+兽	Bn
+药	En
+地	Bn
+方	En
+标	Bn
+准	En
+废	Bv
+止	Ev
+目	Bn
+录	En
+》	Sw
+、	Sw
+农	Bnt
+业	Mnt
+部	Ent
+公	Bn
+告	En
+第	Sm
+2	Bm
+3	Mm
+5	Em
+号	Sm
+《	Sw
+动	Bn
+物	Mn
+性	En
+食	Bn
+品	En
+中	Sf
+兽	Bn
+药	En
+最	Ba
+高	Ea
+残	Bv
+留	Ev
+限	Bn
+量	En
+》	Sw
+等	Su
+标	Bn
+准	En
+要	Bv
+求	Ev
+。	Sw
+
+抽	Bv
+检	Ev
+项	Bn
+目	En
+包	Bv
+括	Ev
+污	Bn
+染	Mn
+物	En
+、	Sw
+农	Bn
+药	En
+残	Bv
+留	Ev
+、	Sw
+兽	Bn
+药	En
+残	Bv
+留	Ev
+等	Su
+指	Bn
+标	En
+。	Sw
+
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+提	Bv
+示	Ev
+广	Ba
+大	Ea
+消	Bn
+费	Mn
+者	En
+，	Sw
+购	Bv
+买	Ev
+食	Bn
+品	En
+时	Sng
+要	Sv
+通	Bp
+过	Ep
+正	Ba
+规	Ea
+可	Bv
+靠	Ev
+渠	Bn
+道	En
+并	Sc
+保	Bv
+存	Ev
+相	Bv
+应	Ev
+购	Bn
+物	En
+凭	Bn
+证	En
+，	Sw
+要	Sv
+看	Bv
+清	Ev
+外	Bn
+包	Mn
+装	En
+上	Sf
+的	Suj
+相	Bv
+关	Ev
+标	Bn
+识	En
+，	Sw
+如	Sv
+生	Bn
+产	Mn
+日	Mn
+期	En
+、	Sw
+保	Bn
+质	Mn
+期	En
+、	Sw
+生	Bn
+产	Mn
+者	En
+名	Bn
+称	En
+和	Sc
+地	Bn
+址	En
+、	Sw
+成	Bn
+分	En
+或	Sc
+配	Bn
+料	Mn
+表	En
+等	Su
+信	Bn
+息	En
+；	Sw
+
+查	Bv
+看	Ev
+真	Bn
+空	Mn
+包	Mn
+装	En
+是	Bv
+否	Ev
+漏	Bn
+气	En
+涨	Bn
+袋	En
+、	Sw
+有	Bv
+没	Mv
+有	Ev
+变	Bn
+质	En
+；	Sw
+
+不	Bdf
+要	Edf
+购	Bv
+买	Ev
+无	Sv
+厂	Bn
+名	En
+、	Sw
+厂	Bn
+址	En
+、	Sw
+生	Bn
+产	Mn
+日	Mn
+期	En
+和	Sc
+保	Bn
+质	Mn
+期	En
+的	Suj
+产	Bn
+品	En
+，	Sw
+不	Bdf
+要	Edf
+购	Bv
+买	Ev
+超	Bv
+过	Ev
+保	Bn
+质	Mn
+期	En
+的	Suj
+产	Bn
+品	En
+。	Sw
+
+凡	Sd
+购	Bv
+买	Ev
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+应	Sv
+停	Bv
+止	Ev
+食	Bn
+用	En
+，	Sw
+及	Bc
+时	Ec
+与	Sp
+生	Bvn
+产	Evn
+企	Bn
+业	En
+或	Sc
+经	Bn
+销	Mn
+商	En
+联	Bn
+系	En
+。	Sw
+
+在	Sp
+市	Bn
+场	En
+上	Sf
+发	Bv
+现	Ev
+上	Bb
+述	Eb
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+请	Sv
+拨	Bv
+打	Ev
+1	Bm
+2	Mm
+3	Mm
+3	Mm
+1	Em
+热	Bn
+线	Mn
+电	Mn
+话	En
+进	Bv
+行	Ev
+投	Bv
+诉	Ev
+或	Sc
+举	Bv
+报	Ev
+。	Sw
+
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+监	Bvn
+督	Evn
+抽	Bv
+检	Ev
+产	Bn
+品	En
+合	Bn
+格	En
+信	Bn
+息	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+地	Bn
+址	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	Mn
+名	Mn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+样	Ev
+单	Bn
+位	En
+所	Bb
+在	Eb
+市	Sn
+ 	Sw
+
+食	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+ 	Sw
+
+分	Bn
+类	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+农	Bn
+副	Mn
+产	Mn
+品	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+（	Sw
+薛	Bnr
+敬	Mnr
+园	Enr
+）	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+黑	Bn
+鱼	En
+（	Sw
+淡	Bn
+水	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+2	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+农	Bn
+副	Mn
+产	Mn
+品	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+（	Sw
+薛	Bnr
+敬	Mnr
+园	Enr
+）	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+鳊	Bn
+鱼	En
+（	Sw
+淡	Bn
+水	En
+）	Sw
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+3	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+农	Bn
+副	Mn
+产	Mn
+品	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+（	Sw
+薛	Bnr
+敬	Mnr
+园	Enr
+）	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+鲫	Bn
+鱼	En
+（	Sw
+淡	Bn
+水	En
+）	Sw
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+4	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+农	Bn
+副	Mn
+产	Mn
+品	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+（	Sw
+薛	Bnr
+敬	Mnr
+园	Enr
+）	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+昂	Sv
+刺	Bv
+鱼	Ev
+（	Sw
+淡	Bn
+水	En
+）	Sw
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+5	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+农	Bn
+副	Mn
+产	Mn
+品	En
+批	Bn
+发	Mn
+市	Mn
+场	En
+（	Sw
+薛	Bnr
+敬	Mnr
+园	Enr
+）	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+鲢	Bn
+鱼	En
+（	Sw
+胖	Bn
+头	Mn
+鱼	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+6	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+黄	Bn
+瓜	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+7	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+花	Bn
+菜	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+8	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+土	Bn
+豆	En
+（	Sw
+马	Bn
+铃	Mn
+薯	En
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+9	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+上	Bns
+海	Ens
+青	Sns
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+西	Bnr
+红	Mnr
+柿	Enr
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+豇	Bn
+豆	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+青	Bns
+杭	Ens
+椒	Sng
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+韭	Bn
+菜	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+青	Bn
+椒	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+红	Bn
+椒	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+芹	Bn
+菜	En
+（	Sw
+香	Bnr
+芹	Enr
+）	Sw
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+ 	Sw
+
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+/	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+黄	Bnr
+氏	Enr
+蔬	Bn
+菜	En
+批	Bn
+发	Mn
+部	En
+ 	Sw
+
+宣	Bns
+城	Mns
+市	Ens
+ 	Sw
+
+长	Bn
+茄	Mn
+子	En
+ 	Sw
+
+散	Bv
+装	Ev
+称	Bv
+重	Ev
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+/	Sw
+6	Sw
+/	Sw
+7	Sw
+ 	Sw
+
+食	Bn
+用	En
+农	Bn
+产	Mn
+品	En
+
+

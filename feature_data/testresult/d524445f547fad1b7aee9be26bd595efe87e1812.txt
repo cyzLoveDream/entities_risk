@@ -1,0 +1,3679 @@
+吐	Bns	O
+鲁	Mns	O
+番	Mns	O
+市	Ens	O
+食	Sv	O
+药	Bnt	O
+监	Mnt	O
+局	Ent	O
+抽	Bv	O
+检	Ev	O
+4	Bm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+食	Bn	O
+品	En	O
+
+全	Bn	O
+部	En	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+根	Bp	O
+据	Ep	O
+《	Sw	O
+中	Bns	O
+华	Mns	O
+人	Mns	O
+民	Mns	O
+共	Mns	O
+和	Mns	O
+国	Ens	O
+食	Bn	O
+品	En	O
+安	Bnr	O
+全	Mnr	O
+法	Enr	O
+》	Sw	O
+和	Sc	O
+《	Sw	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+抽	Bv	O
+样	Ev	O
+检	Bvn	O
+验	Evn	O
+管	Bvn	O
+理	Evn	O
+办	Bn	O
+法	En	O
+》	Sw	O
+的	Suj	O
+规	Bn	O
+定	En	O
+，	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+6	Sm	O
+月	Sm	O
+吐	Bns	O
+鲁	Mns	O
+番	Mns	O
+市	Ens	O
+食	Bn	O
+品	En	O
+药	Bnt	O
+品	Mnt	O
+监	Mnt	O
+督	Mnt	O
+管	Mnt	O
+理	Mnt	O
+局	Ent	O
+对	Sp	O
+全	Bn	O
+市	En	O
+范	Bn	O
+围	En	O
+内	Sn	O
+生	Bvn	O
+产	Evn	O
+经	Bvn	O
+营	Evn	O
+的	Suj	O
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+、	Sw	O
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+等	Su	O
+2	Sm	O
+大	Bn	O
+类	En	O
+4	Bm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+食	Bn	O
+品	En	O
+进	Bv	O
+行	Ev	O
+了	Sul	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+。	Sw	O
+
+其	Br	O
+中	Er	O
+，	Sw	O
+食	Bn	O
+品	En	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	En	O
+的	Suj	O
+样	Bn	O
+品	En	O
+4	Bm	O
+8	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+合	Bn	O
+格	Mn	O
+率	En	O
+为	Sp	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+。	Sw	O
+
+合	Bn	O
+格	Mn	O
+率	En	O
+为	Sp	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+%	Sw	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+抽	Bv	O
+检	Ev	O
+的	Suj	O
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+包	Bv	O
+括	Ev	O
+生	Bl	O
+湿	El	O
+面	Bn	O
+制	Mn	O
+品	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+，	Sw	O
+酱	Sn	O
+卤	Bn	O
+肉	En	O
+、	Sw	O
+肉	Sn	O
+灌	Bn	O
+肠	En	O
+、	Sw	O
+其	Br	O
+他	Er	O
+熟	Bn	O
+肉	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+，	Sw	O
+肉	Bn	O
+冻	En	O
+、	Sw	O
+皮	Bn	O
+冻	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+，	Sw	O
+热	Bn	O
+加	Mn	O
+工	En	O
+糕	Bn	O
+点	En	O
+面	Bn	O
+包	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+，	Sw	O
+火	Bn	O
+锅	En	O
+调	Bv	O
+味	Mv	O
+料	Ev	O
+（	Sw	O
+底	Bn	O
+料	En	O
+、	Sw	O
+蘸	Sv	O
+料	Sn	O
+）	Sw	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+依	Bp	O
+据	Ep	O
+是	Sv	O
+G	Beng	O
+B	Meng	O
+2	Meng	O
+7	Meng	O
+6	Meng	O
+0	Eeng	O
+—	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+4	Em	O
+《	Sw	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+国	Bn	O
+家	Mn	O
+标	Mn	O
+准	En	O
+
+食	Bn	O
+品	En	O
+添	Bn	O
+加	Mn	O
+剂	En	O
+使	Bv	O
+用	Ev	O
+标	Bn	O
+准	En	O
+》	Sw	O
+、	Sw	O
+G	Beng	O
+B	Eeng	O
+
+2	Bm	O
+7	Mm	O
+6	Mm	O
+2	Em	O
+—	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+2	Em	O
+
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+国	Bn	O
+家	Mn	O
+标	Mn	O
+准	En	O
+
+食	Bn	O
+品	En	O
+中	Sf	O
+污	Bn	O
+染	Mn	O
+物	En	O
+限	Bn	O
+量	En	O
+》	Sw	O
+、	Sw	O
+《	Sw	O
+卫	Bnt	O
+生	Mnt	O
+部	Ent	O
+、	Sw	O
+国	Bn	O
+家	En	O
+食	Bn	O
+品	Mn	O
+药	Mn	O
+品	En	O
+监	Bn	O
+督	Mn	O
+管	Mn	O
+理	En	O
+总	Bn	O
+局	En	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+2	Em	O
+年	Sm	O
+第	Sm	O
+1	Bm	O
+0	Em	O
+号	Sm	O
+公	Bn	O
+告	En	O
+》	Sw	O
+、	Sw	O
+《	Sw	O
+食	Bn	O
+品	En	O
+整	Bm	O
+顿	Em	O
+办	Sv	O
+〔	Sw	O
+2	Bm	O
+0	Mm	O
+0	Mm	O
+8	Em	O
+〕	Sw	O
+3	Sm	O
+号	Sm	O
+》	Sw	O
+等	Su	O
+标	Bn	O
+准	En	O
+及	Sc	O
+产	Bn	O
+品	En	O
+明	Bv	O
+示	Ev	O
+标	Bn	O
+准	En	O
+和	Sc	O
+指	Bn	O
+标	En	O
+的	Suj	O
+要	Bv	O
+求	Ev	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+项	Bn	O
+目	En	O
+包	Bv	O
+括	Ev	O
+铬	Sn	O
+等	Su	O
+污	Bn	O
+染	Mn	O
+物	En	O
+，	Sw	O
+罂	Bn	O
+粟	Mn	O
+碱	En	O
+等	Su	O
+非	Sh	O
+食	Bn	O
+用	En	O
+物	Bn	O
+质	En	O
+，	Sw	O
+山	Bnz	O
+梨	Mnz	O
+酸	Enz	O
+等	Su	O
+食	Bn	O
+品	En	O
+添	Bn	O
+加	Mn	O
+剂	En	O
+等	Su	O
+1	Bm	O
+1	Em	O
+个	Sm	O
+指	Bn	O
+标	En	O
+。	Sw	O
+
+共	Sd	O
+抽	Bv	O
+检	Ev	O
+吐	Bns	O
+鲁	Mns	O
+番	Mns	O
+市	Ens	O
+行	Bn	O
+政	En	O
+范	Bn	O
+围	En	O
+内	Sn	O
+8	Sm	O
+家	Sm	O
+食	Bn	O
+品	En	O
+经	Bvn	O
+营	Evn	O
+单	Bn	O
+位	En	O
+的	Suj	O
+8	Sm	O
+批	Bd	O
+次	Ed	O
+食	Bn	O
+品	En	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+抽	Bv	O
+检	Ev	O
+的	Suj	O
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+包	Bv	O
+括	Ev	O
+畜	Bn	O
+禽	Mn	O
+肉	En	O
+及	Sc	O
+副	Bn	O
+产	Mn	O
+品	En	O
+、	Sw	O
+水	Bn	O
+产	Mn	O
+品	En	O
+、	Sw	O
+鲜	Bn	O
+蛋	En	O
+、	Sw	O
+蔬	Bn	O
+菜	Mn	O
+类	En	O
+、	Sw	O
+水	Bn	O
+果	En	O
+类	Sq	O
+、	Sw	O
+坚	Bn	O
+果	En	O
+与	Sp	O
+籽	Sng	O
+类	Bn	O
+食	Mn	O
+品	En	O
+和	Sc	O
+豆	Bn	O
+类	En	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+依	Bp	O
+据	Ep	O
+是	Sv	O
+抽	Bv	O
+检	Ev	O
+依	Bp	O
+据	Ep	O
+是	Sv	O
+G	Beng	O
+B	Eeng	O
+
+2	Bm	O
+7	Mm	O
+6	Mm	O
+1	Em	O
+—	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+1	Em	O
+《	Sw	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+国	Bn	O
+家	Mn	O
+标	Mn	O
+准	En	O
+
+食	Bn	O
+品	En	O
+中	Sf	O
+真	Bn	O
+菌	En	O
+毒	Bn	O
+素	En	O
+限	Bn	O
+量	En	O
+》	Sw	O
+、	Sw	O
+G	Beng	O
+B	Eeng	O
+
+2	Bm	O
+7	Mm	O
+6	Mm	O
+2	Em	O
+—	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+2	Em	O
+《	Sw	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+国	Bn	O
+家	Mn	O
+标	Mn	O
+准	En	O
+
+食	Bn	O
+品	En	O
+中	Sf	O
+污	Bn	O
+染	Mn	O
+物	En	O
+限	Bn	O
+量	En	O
+》	Sw	O
+、	Sw	O
+G	Beng	O
+B	Eeng	O
+
+2	Bm	O
+7	Mm	O
+6	Mm	O
+3	Em	O
+—	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+4	Em	O
+《	Sw	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+国	Bn	O
+家	Mn	O
+标	Mn	O
+准	En	O
+
+食	Bn	O
+品	En	O
+中	Sf	O
+农	Bn	O
+药	En	O
+最	Ba	O
+大	Ea	O
+残	Bn	O
+留	Mn	O
+量	En	O
+》	Sw	O
+、	Sw	O
+G	Beng	O
+B	Eeng	O
+
+5	Bm	O
+0	Mm	O
+0	Mm	O
+9	Mm	O
+.	Mm	O
+1	Mm	O
+2	Em	O
+—	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+0	Em	O
+《	Sw	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+国	Bn	O
+家	Mn	O
+标	Mn	O
+准	En	O
+
+食	Bn	O
+品	En	O
+中	Bnz	O
+铅	Enz	O
+的	Suj	O
+测	Bv	O
+定	Ev	O
+》	Sw	O
+等	Su	O
+标	Bn	O
+准	En	O
+及	Sc	O
+产	Bn	O
+品	En	O
+明	Bv	O
+示	Ev	O
+标	Bn	O
+准	En	O
+和	Sc	O
+指	Bn	O
+标	En	O
+的	Suj	O
+要	Bv	O
+求	Ev	O
+。	Sw	O
+
+抽	Bv	O
+检	Ev	O
+项	Bn	O
+目	En	O
+包	Bv	O
+括	Ev	O
+铅	Sn	O
+等	Su	O
+重	Bn	O
+金	Mn	O
+属	En	O
+，	Sw	O
+六	Bm	O
+六	Mm	O
+六	Em	O
+等	Su	O
+农	Bn	O
+药	En	O
+残	Bv	O
+留	Ev	O
+，	Sw	O
+硝	Bn	O
+基	En	O
+呋	Bn	O
+喃	En	O
+代	Bn	O
+谢	Mn	O
+物	En	O
+等	Su	O
+1	Bm	O
+0	Mm	O
+0	Em	O
+多	Bm	O
+个	Em	O
+指	Bn	O
+标	En	O
+。	Sw	O
+
+共	Sd	O
+抽	Bv	O
+检	Ev	O
+我	Br	O
+市	Er	O
+1	Bm	O
+1	Em	O
+家	Sm	O
+食	Bn	O
+品	En	O
+经	Bvn	O
+营	Evn	O
+单	Bn	O
+位	En	O
+的	Suj	O
+4	Bm	O
+0	Em	O
+批	Bd	O
+次	Ed	O
+产	Bn	O
+品	En	O
+。	Sw	O
+
+消	Bn	O
+费	Mn	O
+者	En	O
+如	Bc	O
+果	Ec	O
+在	Sp	O
+市	Bn	O
+场	En	O
+上	Sf	O
+发	Bv	O
+现	Ev	O
+不	Sd	O
+合	Bn	O
+格	En	O
+产	Bn	O
+品	En	O
+，	Sw	O
+请	Sv	O
+拨	Bv	O
+打	Ev	O
+1	Bm	O
+2	Mm	O
+3	Mm	O
+3	Mm	O
+1	Em	O
+投	Bv	O
+诉	Ev	O
+举	Bv	O
+报	Ev	O
+热	Bn	O
+线	En	O
+进	Bv	O
+行	Ev	O
+投	Bv	O
+诉	Ev	O
+或	Sc	O
+举	Bv	O
+报	Ev	O
+。	Sw	O
+
+产	Bn	O
+品	En	O
+合	Bn	O
+格	En	O
+信	Bn	O
+息	En	O
+（	Sw	O
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+）	Sw	O
+
+序	Bn	O
+号	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	Mn	O
+名	Mn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	En	O
+所	Bb	O
+在	Eb	O
+省	Bn	O
+份	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+
+分	Bn	O
+类	En	O
+
+1	Sw	O
+
+鄯	Bns	B
+善	Mns	I
+县	Ens	I
+城	Bns	I
+镇	Ens	I
+北	Bns	I
+大	Mns	I
+荒	Ens	I
+饺	Bn	I
+子	Mn	I
+馆	En	E
+
+新	Bns	O
+疆	Ens	O
+
+皮	Bn	O
+冻	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+5	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+2	Sw	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+艾	Bn	I
+力	En	I
+开	Bv	I
+木	Ev	I
+美	Bns	I
+食	Mns	I
+城	Ens	E
+
+新	Bns	O
+疆	Ens	O
+
+面	Bn	O
+条	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+8	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+3	Sw	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+奉	Sv	I
+姐	Sn	I
+冒	Sv	I
+菜	Bn	I
+馆	En	E
+
+新	Bns	O
+疆	Ens	O
+
+火	Bn	O
+锅	En	O
+底	Bn	O
+料	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+8	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+4	Sw	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+一	Bm	I
+頭	Em	I
+牛	Sn	I
+牛	Bn	I
+肉	Mn	I
+面	En	I
+馆	Sng	E
+
+新	Bns	O
+疆	Ens	O
+
+牛	Bn	O
+肉	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+8	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+5	Sw	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+淮	Bns	I
+香	Ens	I
+兄	Bn	I
+弟	En	I
+刀	Bn	I
+削	Mn	I
+面	En	I
+馆	Sng	E
+
+新	Bns	O
+疆	Ens	O
+
+卤	Sn	O
+大	Bn	O
+肉	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+8	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+6	Sw	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+淮	Bns	I
+香	Ens	I
+兄	Bn	I
+弟	En	I
+刀	Bn	I
+削	Mn	I
+面	En	I
+馆	Sng	E
+
+新	Bns	O
+疆	Ens	O
+
+面	Bn	O
+条	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+8	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+7	Sw	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+巴	Bnrt	I
+特	Enrt	I
+咖	Bn	I
+啡	En	I
+西	Bn	I
+餐	En	I
+西	Bnz	I
+饼	Mnz	I
+屋	Enz	E
+
+新	Bns	O
+疆	Ens	O
+
+虎	Bn	O
+皮	En	O
+蛋	Bn	O
+糕	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+8	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+8	Sw	O
+
+托	Bnrt	B
+克	Mnrt	I
+逊	Mnrt	I
+县	Enrt	I
+小	Bn	I
+席	En	I
+手	Bn	I
+工	En	I
+馍	Bn	I
+馍	En	I
+店	Sn	E
+
+新	Bns	O
+疆	Ens	O
+
+馒	Bn	O
+头	En	O
+（	Sw	O
+自	Bv	O
+制	Ev	O
+）	Sw	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+1	Bm	O
+2	Mm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+餐	Bn	O
+饮	En	O
+食	Bn	O
+品	En	O
+
+产	Bn	O
+品	En	O
+合	Bn	O
+格	En	O
+信	Bn	O
+息	En	O
+（	Sw	O
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+）	Sw	O
+
+窗	Bn	O
+体	En	O
+顶	Bf	O
+端	Ef	O
+序	Bn	O
+号	En	O
+窗	Bn	O
+体	En	O
+底	Bf	O
+端	Ef	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	Mn	O
+名	Mn	O
+称	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+
+分	Bn	O
+类	En	O
+
+备	Bv	O
+注	Ev	O
+
+1	Sw	O
+
+蒋	Snr	B
+婵	Bn	I
+娟	En	I
+蔬	Bn	I
+菜	En	I
+摊	Sv	E
+
+韭	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+婵	Bn	O
+娟	En	O
+
+2	Sw	O
+
+蒋	Snr	B
+婵	Bn	I
+娟	En	I
+蔬	Bn	I
+菜	En	I
+摊	Sv	E
+
+菠	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+婵	Bn	O
+娟	En	O
+
+3	Sw	O
+
+蒋	Snr	B
+婵	Bn	I
+娟	En	I
+蔬	Bn	I
+菜	En	I
+摊	Sv	E
+
+辣	Bn	O
+椒	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+蒋	Snr	O
+婵	Bn	O
+娟	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+
+4	Sw	O
+
+蒋	Snr	B
+婵	Bn	I
+娟	En	I
+蔬	Bn	I
+菜	En	I
+摊	Sv	E
+
+番	Bn	O
+茄	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+婵	Bn	O
+娟	En	O
+
+5	Sw	O
+
+蒋	Snr	B
+婵	Bn	I
+娟	En	I
+蔬	Bn	I
+菜	En	I
+摊	Sv	E
+
+豇	Bn	O
+豆	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+蒋	Snr	O
+婵	Bn	O
+娟	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+
+6	Sw	O
+
+卡	Bnr	B
+哈	Mnr	I
+尔	Enr	I
+·	Sw	I
+阿	Bns	I
+不	Mns	I
+都	Ens	I
+力	Bn	I
+木	En	I
+牛	Bn	I
+肉	En	I
+摊	Sv	E
+
+牛	Bn	O
+肉	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+好	Sa	O
+家	Bn	O
+乡	En	O
+屠	Bn	O
+宰	Mn	O
+场	En	O
+卡	Bnr	O
+哈	Mnr	O
+尔	Enr	O
+·	Sw	O
+阿	Bns	O
+不	Mns	O
+都	Ens	O
+力	Bn	O
+木	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+检	Bvn	O
+疫	Evn	O
+号	Sm	O
+：	Sw	O
+6	Bm	O
+5	Mm	O
+1	Mm	O
+6	Mm	O
+8	Mm	O
+0	Mm	O
+7	Mm	O
+2	Mm	O
+0	Mm	O
+7	Em	O
+
+7	Sw	O
+
+卡	Bnr	B
+哈	Mnr	I
+尔	Enr	I
+·	Sw	I
+阿	Bns	I
+不	Mns	I
+都	Ens	I
+力	Bn	I
+木	En	I
+牛	Bn	I
+肉	En	I
+摊	Sv	E
+
+牛	Bn	O
+肝	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+好	Sa	O
+家	Bn	O
+乡	En	O
+屠	Bn	O
+宰	Mn	O
+场	En	O
+卡	Bnr	O
+哈	Mnr	O
+尔	Enr	O
+·	Sw	O
+阿	Bns	O
+不	Mns	O
+都	Ens	O
+力	Bn	O
+木	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+检	Bvn	O
+疫	Evn	O
+号	Sm	O
+：	Sw	O
+6	Bm	O
+5	Mm	O
+1	Mm	O
+6	Mm	O
+8	Mm	O
+0	Mm	O
+7	Mm	O
+2	Mm	O
+0	Mm	O
+7	Em	O
+
+8	Sw	O
+
+沙	Snr	B
+塔	Bnrt	I
+尔	Enrt	I
+·	Sw	I
+祖	Snr	I
+农	Sn	I
+羊	Bn	I
+肉	En	I
+摊	Sv	E
+
+羊	Bn	O
+肉	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+新	Bns	O
+城	Ens	O
+屠	Bn	O
+宰	Mn	O
+场	En	O
+沙	Snr	O
+塔	Bnrt	O
+尔	Enrt	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+检	Bvn	O
+疫	Evn	O
+号	Sm	O
+：	Sw	O
+6	Bm	O
+5	Mm	O
+1	Mm	O
+6	Mm	O
+8	Mm	O
+0	Mm	O
+7	Mm	O
+2	Mm	O
+0	Mm	O
+0	Em	O
+
+9	Sw	O
+
+沙	Snr	B
+塔	Bnrt	I
+尔	Enrt	I
+·	Sw	I
+祖	Snr	I
+农	Sn	I
+羊	Bn	I
+肉	En	I
+摊	Sv	E
+
+羊	Bn	O
+肝	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+新	Bns	O
+城	Ens	O
+屠	Bn	O
+宰	Mn	O
+场	En	O
+沙	Snr	O
+塔	Bnrt	O
+尔	Enrt	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+检	Bvn	O
+疫	Evn	O
+号	Sm	O
+：	Sw	O
+6	Bm	O
+5	Mm	O
+1	Mm	O
+6	Mm	O
+8	Mm	O
+0	Mm	O
+7	Mm	O
+2	Mm	O
+0	Mm	O
+0	Em	O
+
+1	Bm	O
+0	Em	O
+
+阿	Bnrt	B
+布	Enrt	I
+都	Bnr	I
+吾	Mnr	I
+甫	Enr	I
+·	Sw	I
+阿	Bnr	I
+布	Enr	I
+都	Sd	I
+热	Bv	I
+合	Ev	I
+满	Sa	I
+羊	Bn	I
+肉	En	I
+摊	Sv	E
+
+羊	Bn	O
+肉	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+新	Bns	O
+城	Ens	O
+屠	Bn	O
+宰	Mn	O
+场	En	O
+吾	Bnrt	O
+甫	Mnrt	O
+尔	Enrt	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+检	Bvn	O
+疫	Evn	O
+号	Sm	O
+：	Sw	O
+6	Bm	O
+5	Mm	O
+1	Mm	O
+6	Mm	O
+8	Mm	O
+0	Mm	O
+7	Mm	O
+2	Mm	O
+0	Mm	O
+0	Em	O
+
+1	Bm	O
+1	Em	O
+
+阿	Bnrt	B
+布	Enrt	I
+都	Bnr	I
+吾	Mnr	I
+甫	Enr	I
+·	Sw	I
+阿	Bnr	I
+布	Enr	I
+都	Sd	I
+热	Bv	I
+合	Ev	I
+满	Sa	I
+羊	Bn	I
+肉	En	I
+摊	Sv	E
+
+羊	Bn	O
+肝	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+新	Bns	O
+城	Ens	O
+屠	Bn	O
+宰	Mn	O
+场	En	O
+吾	Bnrt	O
+甫	Mnrt	O
+尔	Enrt	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+检	Bvn	O
+疫	Evn	O
+号	Sm	O
+：	Sw	O
+6	Bm	O
+5	Mm	O
+1	Mm	O
+6	Mm	O
+8	Mm	O
+0	Mm	O
+7	Mm	O
+2	Mm	O
+0	Mm	O
+0	Em	O
+
+1	Bm	O
+2	Em	O
+
+蒋	Snr	B
+小	Bnr	I
+春	Enr	I
+菜	Bn	I
+店	En	E
+
+韭	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+小	Bnr	O
+春	Enr	O
+
+1	Bm	O
+3	Em	O
+
+蒋	Snr	B
+小	Bnr	I
+春	Enr	I
+菜	Bn	I
+店	En	E
+
+菠	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+小	Bnr	O
+春	Enr	O
+
+1	Bm	O
+4	Em	O
+
+蒋	Snr	B
+小	Bnr	I
+春	Enr	I
+菜	Bn	I
+店	En	E
+
+番	Bn	O
+茄	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+小	Bnr	O
+春	Enr	O
+
+1	Bm	O
+5	Em	O
+
+蒋	Snr	B
+小	Bnr	I
+春	Enr	I
+菜	Bn	I
+店	En	E
+
+芹	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+小	Bnr	O
+春	Enr	O
+
+1	Bm	O
+6	Em	O
+
+蒋	Snr	B
+小	Bnr	I
+春	Enr	I
+菜	Bn	I
+店	En	E
+
+辣	Bn	O
+椒	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+家	Sq	O
+确	Bv	O
+认	Ev	O
+蒋	Snr	O
+小	Bnr	O
+春	Enr	O
+
+1	Bm	O
+7	Em	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+程	Bnr	I
+荣	Mnr	I
+琴	Enr	I
+蔬	Bn	I
+菜	En	I
+批	Bn	I
+发	Mn	I
+店	En	E
+
+辣	Bn	O
+椒	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+1	Bm	O
+8	Em	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+程	Bnr	I
+荣	Mnr	I
+琴	Enr	I
+蔬	Bn	I
+菜	En	I
+批	Bn	I
+发	Mn	I
+店	En	E
+
+豇	Bn	O
+豆	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+1	Bm	O
+9	Em	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+程	Bnr	I
+荣	Mnr	I
+琴	Enr	I
+蔬	Bn	I
+菜	En	I
+批	Bn	I
+发	Mn	I
+店	En	E
+
+番	Bn	O
+茄	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+2	Bm	O
+0	Em	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+程	Bnr	I
+荣	Mnr	I
+琴	Enr	I
+蔬	Bn	I
+菜	En	I
+批	Bn	I
+发	Mn	I
+店	En	E
+
+油	Sn	O
+白	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+2	Bm	O
+1	Em	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+程	Bnr	I
+荣	Mnr	I
+琴	Enr	I
+蔬	Bn	I
+菜	En	I
+批	Bn	I
+发	Mn	I
+店	En	E
+
+鸡	Bn	O
+蛋	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+2	Bm	O
+2	Em	O
+
+王	Bnr	B
+仕	Mnr	I
+敏	Enr	I
+鱼	Sn	I
+摊	Sn	E
+
+草	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+新	Bns	O
+华	Mns	O
+联	Ens	O
+市	Bn	O
+场	En	O
+王	Bnr	O
+仕	Mnr	O
+敏	Enr	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+家	Sq	O
+确	Bv	O
+认	Ev	O
+
+2	Bm	O
+3	Em	O
+
+王	Bnr	B
+仕	Mnr	I
+敏	Enr	I
+鱼	Sn	I
+摊	Sn	E
+
+鲤	Bnz	O
+鱼	Enz	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+新	Bns	O
+华	Mns	O
+联	Ens	O
+市	Bn	O
+场	En	O
+王	Bnr	O
+仕	Mnr	O
+敏	Enr	O
+商	Bn	O
+户	En	O
+名	Bn	O
+称	En	O
+经	Bn	O
+商	En	O
+户	Sq	O
+确	Bv	O
+认	Ev	O
+
+2	Bm	O
+4	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+惠	Bv	I
+购	Ev	I
+超	Bv	I
+市	Ev	E
+
+鸡	Sn	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+乌	Bns	O
+鲁	Mns	O
+木	Mns	O
+齐	Ens	O
+电	Bn	O
+话	En	O
+：	Sw	O
+1	Bm	O
+8	Mm	O
+3	Mm	O
+9	Mm	O
+9	Mm	O
+3	Mm	O
+6	Mm	O
+6	Mm	O
+5	Mm	O
+5	Mm	O
+0	Em	O
+
+2	Bm	O
+5	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+惠	Bv	I
+购	Ev	I
+超	Bv	I
+市	Ev	E
+
+黄	Bn	O
+豆	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+崔	Bnr	O
+先	Mnr	O
+生	Enr	O
+1	Bm	O
+3	Mm	O
+9	Mm	O
+9	Mm	O
+9	Mm	O
+4	Mm	O
+6	Mm	O
+0	Mm	O
+6	Mm	O
+2	Mm	O
+9	Em	O
+
+2	Bm	O
+6	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+惠	Bv	I
+购	Ev	I
+超	Bv	I
+市	Ev	E
+
+绿	Bn	O
+豆	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+崔	Bnr	O
+先	Mnr	O
+生	Enr	O
+1	Bm	O
+3	Mm	O
+9	Mm	O
+9	Mm	O
+9	Mm	O
+4	Mm	O
+6	Mm	O
+0	Mm	O
+6	Mm	O
+2	Mm	O
+9	Em	O
+
+2	Bm	O
+7	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+惠	Bv	I
+购	Ev	I
+超	Bv	I
+市	Ev	E
+
+花	Bnr	O
+生	Mnr	O
+仁	Enr	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+崔	Bnr	O
+先	Mnr	O
+生	Enr	O
+1	Bm	O
+3	Mm	O
+9	Mm	O
+9	Mm	O
+9	Mm	O
+4	Mm	O
+6	Mm	O
+0	Mm	O
+6	Mm	O
+2	Mm	O
+9	Em	O
+
+2	Bm	O
+8	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+惠	Bv	I
+购	Ev	I
+超	Bv	I
+市	Ev	E
+
+核	Bn	O
+桃	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+2	Bm	O
+9	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+万	Bnz	I
+顺	Enz	I
+客	Bn	I
+隆	En	I
+超	Bv	I
+市	Ev	E
+
+番	Bn	O
+茄	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+0	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+万	Bnz	I
+顺	Enz	I
+客	Bn	I
+隆	En	I
+超	Bv	I
+市	Ev	E
+
+辣	Bn	O
+椒	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+1	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+万	Bnz	I
+顺	Enz	I
+客	Bn	I
+隆	En	I
+超	Bv	I
+市	Ev	E
+
+苹	Bn	O
+果	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+2	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+万	Bnz	I
+顺	Enz	I
+客	Bn	I
+隆	En	I
+超	Bv	I
+市	Ev	E
+
+梨	Sn	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+3	Em	O
+
+高	Bns	B
+昌	Mns	I
+区	Ens	I
+万	Bnz	I
+顺	Enz	I
+客	Bn	I
+隆	En	I
+超	Bv	I
+市	Ev	E
+
+桃	Sns	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+4	Em	O
+
+高	Bnr	B
+昌	Enr	I
+区	Sn	I
+米	Sq	I
+纳	Bnr	I
+瓦	Mnr	I
+尔	Enr	I
+商	Bn	I
+行	En	E
+
+芹	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+5	Em	O
+
+高	Bnr	B
+昌	Enr	I
+区	Sn	I
+米	Sq	I
+纳	Bnr	I
+瓦	Mnr	I
+尔	Enr	I
+商	Bn	I
+行	En	E
+
+辣	Bn	O
+椒	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+6	Em	O
+
+高	Bnr	B
+昌	Enr	I
+区	Sn	I
+米	Sq	I
+纳	Bnr	I
+瓦	Mnr	I
+尔	Enr	I
+商	Bn	I
+行	En	E
+
+豇	Bn	O
+豆	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+7	Em	O
+
+高	Bnr	B
+昌	Enr	I
+区	Sn	I
+米	Sq	I
+纳	Bnr	I
+瓦	Mnr	I
+尔	Enr	I
+商	Bn	I
+行	En	E
+
+油	Sn	O
+白	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+8	Em	O
+
+高	Bnr	B
+昌	Enr	I
+区	Sn	I
+米	Sq	I
+纳	Bnr	I
+瓦	Mnr	I
+尔	Enr	I
+商	Bn	I
+行	En	E
+
+菠	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+3	Bm	O
+9	Em	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+富	Bv	I
+成	Ev	I
+百	Bn	I
+货	En	I
+超	Bv	I
+市	Ev	E
+
+苹	Bn	O
+果	En	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+
+4	Bm	O
+0	Em	O
+
+吐	Bns	B
+鲁	Mns	I
+番	Mns	I
+市	Ens	I
+富	Bv	I
+成	Ev	I
+百	Bn	I
+货	En	I
+超	Bv	I
+市	Ev	E
+
+梨	Sn	O
+
+计	Bn	O
+量	En	O
+称	Bv	O
+重	Ev	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+/	Sw	O
+6	Sw	O
+/	Sw	O
+7	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+:	Sw	O
+0	Bm	O
+0	Em	O
+
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+
+进	Bv	O
+货	Ev	O
+地	Suv	O
+：	Sw	O
+东	Bns	O
+疆	Ens	O
+市	Bn	O
+场	En	O
+

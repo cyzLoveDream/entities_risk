@@ -1,0 +1,1334 @@
+聊	Bns	B
+城	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+公	Bv	O
+示	Ev	O
+上	Bt	O
+半	Mt	O
+年	Et	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+肥	Bn	O
+料	En	O
+质	Bn	O
+量	En	O
+抽	Bv	O
+检	Ev	O
+结	Bn	O
+果	En	O
+
+1	Bm	O
+7	Em	O
+批	Bd	O
+次	Ed	O
+不	Sd	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+聊	Bns	B
+城	Mns	I
+市	Ens	I
+工	Bj	I
+商	Mj	I
+局	Ej	E
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+上	Bt	O
+半	Mt	O
+年	Et	O
+流	Bl	O
+通	Ml	O
+领	Ml	O
+域	El	O
+肥	Bn	O
+料	En	O
+质	Bn	O
+量	En	O
+抽	Bv	O
+检	Ev	O
+不	Sd	O
+合	Bn	O
+格	En	O
+产	Bn	O
+品	En	O
+
+序	Bn	O
+号	En	O
+
+样	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+检	Ev	O
+经	Bn	O
+营	Mn	O
+者	En	O
+名	Bn	O
+称	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+名	Bn	O
+称	En	O
+
+商	Bn	O
+标	En	O
+
+不	Sd	O
+合	Bn	O
+格	En	O
+项	Sn	O
+
+1	Sw	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+
+聊	Bns	B
+城	Mns	I
+市	Ens	I
+东	Bns	I
+昌	Mns	I
+府	Mns	I
+区	Ens	I
+大	Bn	I
+众	En	I
+农	Bn	I
+资	En	I
+超	Bv	I
+市	Ev	E
+
+江	Bns	B
+苏	Ens	I
+华	Bns	I
+山	Ens	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+凯	Bnz	O
+泰	Enz	O
+
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+不	Sd	O
+合	Bn	O
+格	En	O
+
+2	Sw	O
+
+含	Sv	O
+腐	Bn	O
+植	Mn	O
+酸	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+
+（	Sw	O
+冲	Bn	O
+施	En	O
+型	Sk	O
+活	Bn	O
+力	En	O
+酶	Sn	O
+）	Sw	O
+
+聊	Bns	B
+城	Mns	I
+市	Ens	I
+东	Bns	I
+昌	Mns	I
+府	Mns	I
+区	Ens	I
+王	Snr	I
+风	Bn	I
+良	En	I
+农	Bn	I
+资	En	I
+经	Bn	I
+营	Mn	I
+部	En	E
+
+北	Bns	B
+京	Ens	I
+恒	Snr	I
+元	Bnz	I
+丰	Enz	I
+科	Bn	I
+技	En	I
+发	Bvn	I
+展	Evn	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+生	Bvn	O
+产	Evn	O
+基	Bn	O
+地	En	O
+：	Sw	O
+济	Bns	O
+源	Ens	O
+恒	Snr	O
+元	Bnz	O
+丰	Enz	O
+科	Bn	O
+技	En	O
+
+发	Bvn	O
+展	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+／	Sw	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+含	Bn	O
+量	En	O
+（	Sw	O
+N	Seng	O
++	Sw	O
+P	Beng	O
+2	Meng	O
+O	Meng	O
+5	Eeng	O
++	Sw	O
+K	Beng	O
+2	Meng	O
+O	Eeng	O
+）	Sw	O
+，	Sw	O
+g	Sw	O
+/	Sw	O
+L	Sw	O
+
+≥	Sw	O
+2	Bm	O
+0	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+1	Bm	O
+3	Em	O
+
+3	Sw	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+聊	Bns	B
+城	Mns	I
+市	Ens	I
+东	Bns	I
+昌	Mns	I
+府	Mns	I
+区	Ens	I
+王	Snr	I
+风	Bn	I
+良	En	I
+农	Bn	I
+资	En	I
+经	Bn	I
+营	Mn	I
+部	En	E
+
+史	Bnr	O
+丹	Mnr	O
+利	Enr	O
+化	Bn	O
+肥	En	O
+（	Sw	O
+平	Bns	O
+原	Ens	O
+）	Sw	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+史	Bnr	O
+丹	Mnr	O
+利	Enr	O
+
+有	Ba	O
+效	Ea	O
+磷	Sn	O
+（	Sw	O
+P	Beng	O
+2	Meng	O
+O	Meng	O
+5	Eeng	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+5	Bm	O
+.	Mm	O
+0	Em	O
+―	Sw	O
+1	Bm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+2	Bm	O
+.	Mm	O
+0	Em	O
+
+4	Sw	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+
+聊	Bns	B
+城	Mns	I
+市	Ens	I
+东	Bns	I
+昌	Mns	I
+府	Mns	I
+区	Ens	I
+大	Bn	I
+众	En	I
+农	Bn	I
+资	En	I
+超	Bv	I
+市	Ev	E
+
+青	Bns	B
+岛	Ens	I
+中	Bnz	I
+农	Enz	I
+恒	Bj	I
+大	Ej	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+中	Bnz	O
+农	Enz	O
+恒	Bnz	O
+大	Enz	O
+
+总	Sb	O
+氮	Sn	O
+（	Sw	O
+N	Sw	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+1	Bm	O
+5	Mm	O
+.	Mm	O
+0	Em	O
+―	Sw	O
+1	Bm	O
+.	Mm	O
+5	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+0	Bm	O
+.	Mm	O
+4	Em	O
+
+有	Ba	O
+效	Ea	O
+磷	Sn	O
+（	Sw	O
+P	Beng	O
+2	Meng	O
+O	Meng	O
+5	Eeng	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+5	Bm	O
+.	Mm	O
+0	Em	O
+―	Sw	O
+1	Bm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+0	Bm	O
+.	Mm	O
+2	Em	O
+
+氧	Bn	O
+化	Mn	O
+钾	En	O
+（	Sw	O
+K	Beng	O
+2	Meng	O
+O	Eeng	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+4	Bm	O
+0	Mm	O
+.	Mm	O
+0	Em	O
+―	Sw	O
+1	Bm	O
+.	Mm	O
+5	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+1	Bm	O
+.	Mm	O
+5	Em	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+含	Bn	O
+量	En	O
+（	Sw	O
+N	Seng	O
++	Sw	O
+P	Beng	O
+2	Meng	O
+O	Meng	O
+5	Eeng	O
++	Sw	O
+K	Beng	O
+2	Meng	O
+O	Eeng	O
+）	Sw	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+6	Bm	O
+0	Mm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+2	Bm	O
+.	Mm	O
+1	Em	O
+
+5	Sw	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+聊	Bns	B
+城	Mns	I
+市	Ens	I
+东	Bns	I
+昌	Mns	I
+府	Mns	I
+区	Ens	I
+国	Bnr	I
+忠	Enr	I
+农	Bn	I
+资	En	I
+门	Bn	I
+市	Mn	I
+部	En	E
+
+山	Bns	B
+东	Ens	I
+金	Snr	I
+沂	Bns	I
+蒙	Ens	I
+生	Bn	I
+态	En	I
+肥	Bn	I
+业	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+金	Snr	O
+沂	Bns	O
+蒙	Ens	O
+
+有	Ba	O
+效	Ea	O
+磷	Sn	O
+（	Sw	O
+P	Beng	O
+2	Meng	O
+O	Meng	O
+5	Eeng	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+2	Bm	O
+4	Mm	O
+.	Mm	O
+0	Em	O
+―	Sw	O
+1	Bm	O
+.	Mm	O
+5	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+1	Bm	O
+5	Mm	O
+.	Mm	O
+7	Em	O
+
+氯	Bn	O
+离	Mn	O
+子	En	O
+（	Sw	O
+C	Beng	O
+l	Eeng	O
+―	Sw	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≤	Sw	O
+3	Bm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+
+2	Bm	O
+9	Mm	O
+.	Mm	O
+8	Em	O
+
+6	Sw	O
+
+有	Bn	O
+机	En	O
+―	Sw	O
+无	Bn	O
+机	En	O
+复	Sv	O
+
+混	Sv	O
+肥	Bn	O
+料	En	O
+
+东	Bns	B
+阿	Mns	I
+县	Ens	I
+利	Bn	I
+群	En	I
+农	Bn	I
+资	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+青	Bns	O
+岛	Ens	O
+嘉	Bnz	O
+沃	Enz	O
+美	Bnz	O
+盛	Enz	O
+肥	Bn	O
+料	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+嘉	Bnz	O
+沃	Enz	O
+美	Bnz	O
+盛	Enz	O
+
+氧	Bn	O
+化	Mn	O
+钾	En	O
+（	Sw	O
+K	Beng	O
+2	Meng	O
+O	Eeng	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+3	Bm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+2	Bm	O
+.	Mm	O
+1	Em	O
+
+7	Sw	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+东	Bns	B
+阿	Mns	I
+县	Ens	I
+利	Bn	I
+群	En	I
+农	Bn	I
+资	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+肖	Bnrfg	I
+佑	Enrfg	I
+伟	Sa	I
+连	Bn	I
+锁	Mn	I
+店	En	E
+
+河	Bns	O
+南	Mns	O
+省	Ens	O
+昊	Bns	O
+利	Mns	O
+达	Ens	O
+化	Bn	O
+工	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+百	Bnz	O
+泉	Enz	O
+
+氯	Bn	O
+离	Mn	O
+子	En	O
+（	Sw	O
+C	Beng	O
+l	Eeng	O
+―	Sw	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≤	Sw	O
+1	Bm	O
+5	Mm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+1	Bm	O
+6	Mm	O
+.	Mm	O
+0	Em	O
+
+8	Sw	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+高	Bnr	B
+唐	Mnr	I
+县	Enr	I
+梁	Snr	I
+村	Bn	I
+镇	En	I
+炳	Sg	I
+农	Sng	I
+农	Bn	I
+资	En	I
+部	Sn	E
+
+河	Bns	O
+南	Ens	O
+鄂	Bns	O
+中	Ens	O
+肥	Bn	O
+业	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+鄂	Bnr	O
+中	Enr	O
+
+总	Sb	O
+氮	Sn	O
+（	Sw	O
+N	Sw	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≥	Sw	O
+1	Bm	O
+8	Mm	O
+.	Mm	O
+0	Em	O
+―	Sw	O
+1	Bm	O
+.	Mm	O
+5	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+1	Bm	O
+4	Mm	O
+.	Mm	O
+5	Em	O
+
+氯	Bn	O
+离	Mn	O
+子	En	O
+（	Sw	O
+C	Beng	O
+l	Eeng	O
+―	Sw	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≤	Sw	O
+1	Bm	O
+5	Mm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+2	Bm	O
+5	Mm	O
+.	Mm	O
+8	Em	O
+
+9	Sw	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+聊	Bns	B
+城	Ens	I
+开	Bn	I
+发	Mn	I
+区	En	I
+蒋	Bnr	I
+官	Mnr	I
+屯	Enr	I
+供	Bn	I
+销	Mn	I
+社	En	I
+恒	Bnz	I
+升	Enz	I
+农	Bn	I
+资	En	I
+服	Bn	I
+务	Mn	I
+站	En	E
+
+兴	Bv	O
+发	Ev	O
+昊	Bnz	O
+利	Mnz	O
+达	Enz	O
+肥	Bn	O
+业	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+百	Bnz	O
+泉	Enz	O
+
+氯	Bn	O
+离	Mn	O
+子	En	O
+（	Sw	O
+C	Beng	O
+l	Eeng	O
+―	Sw	O
+）	Sw	O
+含	Bn	O
+量	En	O
+，	Sw	O
+%	Sw	O
+
+≤	Sw	O
+3	Bm	O
+.	Mm	O
+0	Em	O
+
+实	Bn	O
+测	Mn	O
+值	En	O
+：	Sw	O
+1	Bm	O
+4	Mm	O
+.	Mm	O
+8	Em	O
+
+1	Bm	O
+0	Em	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+刘	Snr	O
+淑	Bn	O
+芹	En	O
+
+中	Bnz	O
+农	Enz	O
+中	Bnt	O
+际	Ent	O
+化	Bn	O
+肥	En	O
+（	Sw	O
+山	Bns	O
+东	Ens	O
+）	Sw	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+中	Bnz	O
+农	Enz	O
+农	Bn	O
+资	En	O
+
+总	Sb	O
+氮	Sn	O
+、	Sw	O
+钾	Sn	O
+总	Sb	O
+养	Bn	O
+分	En	O
+
+1	Bm	O
+1	Em	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+型	Sk	O
+）	Sw	O
+
+阳	Bns	B
+谷	Mns	I
+县	Ens	I
+郭	Bnr	I
+店	Mnr	I
+屯	Enr	I
+供	Bvn	I
+销	Evn	I
+合	Bl	I
+作	Ml	I
+社	El	I
+第	Bm	I
+二	Em	I
+生	Bl	I
+产	Ml	I
+资	Ml	I
+料	El	I
+部	Sn	E
+
+包	Bns	B
+头	Mns	I
+市	Ens	I
+沃	Bnr	I
+土	Enr	I
+农	Bn	I
+化	En	I
+有	Bl	I
+限	Ml	I
+责	Ml	I
+任	El	I
+公	Bn	I
+司	En	E
+
+/	Sw	O
+
+总	Sb	O
+氮	Sn	O
+、	Sw	O
+磷	Sn	O
+、	Sw	O
+钾	Sn	O
+、	Sw	O
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+、	Sw	O
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+
+1	Bm	O
+2	Em	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+莘	Bns	B
+县	Ens	I
+合	Bns	I
+昌	Ens	I
+瓜	Bn	I
+果	En	I
+蔬	Bn	I
+菜	En	I
+专	Bn	I
+业	En	I
+合	Bl	I
+作	Ml	I
+社	El	E
+
+河	Bns	O
+北	Ens	O
+冀	Bnr	O
+衡	Enr	O
+赛	Bnr	O
+瑞	Enr	O
+化	Bn	O
+工	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+衡	Bns	O
+水	Ens	O
+湖	Sns	O
+
+氯	Bn	O
+离	Mn	O
+子	En	O
+
+1	Bm	O
+3	Em	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+型	Sk	O
+）	Sw	O
+
+莘	Bns	B
+县	Ens	I
+合	Bns	I
+昌	Ens	I
+瓜	Bn	I
+果	En	I
+蔬	Bn	I
+菜	En	I
+专	Bn	I
+业	En	I
+合	Bl	I
+作	Ml	I
+社	El	E
+
+青	Bns	O
+岛	Ens	O
+双	Sn	O
+贝	Bnr	O
+尔	Enr	O
+肥	Bn	O
+料	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+（	Sw	O
+潍	Bns	O
+坊	Ens	O
+威	Bn	O
+力	En	O
+施	Snr	O
+农	Bn	O
+化	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+生	Bvn	O
+产	Evn	O
+）	Sw	O
+
+/	Sw	O
+
+磷	Sn	O
+、	Sw	O
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+、	Sw	O
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+
+1	Bm	O
+4	Em	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+莘	Bns	O
+县	Ens	O
+燕	Bns	O
+店	Ens	O
+供	Bvn	O
+销	Evn	O
+合	Bl	O
+作	Ml	O
+社	El	O
+第	Bm	O
+四	Em	O
+生	Bvn	O
+资	Evn	O
+专	Bb	O
+营	Eb	O
+部	Sn	O
+
+青	Bns	O
+岛	Ens	O
+丰	Bv	O
+收	Ev	O
+大	Bn	O
+地	En	O
+化	Bn	O
+肥	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+丰	Bv	O
+收	Ev	O
+大	Bn	O
+地	En	O
+
+有	Ba	O
+效	Ea	O
+磷	Sn	O
+、	Sw	O
+钾	Sn	O
+、	Sw	O
+总	Sb	O
+养	Bn	O
+分	En	O
+、	Sw	O
+氯	Bn	O
+离	Mn	O
+子	En	O
+
+1	Bm	O
+5	Em	O
+
+复	Bl	O
+合	Ml	O
+肥	Ml	O
+料	El	O
+
+莘	Bns	O
+县	Ens	O
+燕	Bns	O
+店	Ens	O
+供	Bvn	O
+销	Evn	O
+合	Bl	O
+作	Ml	O
+社	El	O
+第	Bm	O
+四	Em	O
+生	Bvn	O
+资	Evn	O
+专	Bb	O
+营	Eb	O
+部	Sn	O
+
+美	Bns	O
+国	Ens	O
+巴	Bnrt	O
+菲	Mnrt	O
+特	Enrt	O
+国	Bn	O
+际	En	O
+化	Bnt	O
+工	Mnt	O
+集	Mnt	O
+团	Ent	O
+
+吉	Bnr	O
+祥	Enr	O
+满	Bv	O
+仓	Ev	O
+
+有	Ba	O
+效	Ea	O
+磷	Sn	O
+、	Sw	O
+钾	Sn	O
+、	Sw	O
+总	Sb	O
+养	Bn	O
+分	En	O
+
+1	Bm	O
+6	Em	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+型	Sk	O
+）	Sw	O
+
+魏	Bnr	O
+增	Mnr	O
+举	Enr	O
+
+山	Bns	O
+东	Ens	O
+景	Bnr	O
+阳	Mnr	O
+岗	Enr	O
+化	Bn	O
+肥	En	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+
+鲁	Bnr	O
+信	Enr	O
+
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+
+1	Bm	O
+7	Em	O
+
+大	Bn	O
+量	En	O
+元	Bn	O
+素	En	O
+水	Bnr	O
+溶	Enr	O
+肥	Bn	O
+料	En	O
+（	Sw	O
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+型	Sk	O
+）	Sw	O
+
+莘	Bns	B
+县	Ens	I
+乜	Snr	I
+三	Bnz	I
+强	Enz	I
+蔬	Bn	I
+菜	En	I
+专	Bn	I
+业	En	I
+合	Bl	I
+作	Ml	I
+社	El	E
+
+以	Bns	B
+色	Mns	I
+列	Ens	I
+凯	Bnrt	I
+拉	Enrt	I
+多	Sm	I
+作	Bn	I
+物	En	I
+营	Bn	I
+养	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+青	Bns	I
+岛	Ens	I
+凯	Bnrt	I
+拉	Enrt	I
+多	Sm	I
+生	Bn	I
+物	En	I
+技	Bn	I
+术	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+/	Sw	O
+
+微	Bn	O
+量	Mn	O
+元	Mn	O
+素	En	O
+

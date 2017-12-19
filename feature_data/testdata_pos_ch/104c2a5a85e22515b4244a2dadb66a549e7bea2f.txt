@@ -1,0 +1,825 @@
+许	Bns
+昌	Mns
+市	Ens
+工	Bj
+商	Mj
+局	Ej
+抽	Bv
+检	Ev
+1	Bm
+0	Em
+批	Bd
+次	Ed
+商	Bn
+品	En
+煤	Sn
+ 	Sw
+
+3	Sw
+批	Bd
+次	Ed
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+为	Bp
+了	Ep
+贯	Bv
+彻	Ev
+《	Sw
+大	Bi
+气	Mi
+污	Mi
+染	Ei
+防	Bn
+治	Mn
+法	En
+》	Sw
+，	Sw
+确	Bv
+保	Ev
+空	Bn
+气	Mn
+质	Mn
+量	En
+达	Bv
+标	Ev
+，	Sw
+按	Bp
+照	Ep
+省	Bn
+局	En
+、	Sw
+市	Bn
+委	En
+市	Bn
+政	Mn
+府	En
+、	Sw
+市	Sn
+大	Bn
+气	En
+办	Sv
+要	Bv
+求	Ev
+，	Sw
+3	Sm
+月	Sm
+，	Sw
+许	Bns
+昌	Mns
+市	Ens
+工	Bj
+商	Mj
+局	Ej
+委	Bn
+托	En
+许	Bns
+昌	Mns
+市	Ens
+质	Bn
+量	En
+技	Bn
+术	En
+监	Bvn
+督	Evn
+检	Bvn
+验	Evn
+测	Bnz
+试	Mnz
+中	Mnz
+心	Enz
+对	Sp
+流	Bl
+通	Ml
+领	Ml
+域	El
+销	Bvn
+售	Evn
+的	Suj
+商	Bn
+品	En
+煤	Sn
+质	Bn
+量	En
+进	Bv
+行	Ev
+了	Sul
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+。	Sw
+
+此	Br
+次	Er
+共	Sd
+抽	Bv
+检	Ev
+1	Bm
+0	Em
+批	Bd
+次	Ed
+，	Sw
+经	Bj
+检	Mj
+测	Ej
+，	Sw
+3	Sm
+个	Sm
+批	Bd
+次	Ed
+不	Sd
+合	Bn
+格	En
+。	Sw
+
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+产	Bn
+品	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+和	Sc
+有	Bvn
+关	Evn
+经	Bvn
+销	Evn
+单	Bn
+位	En
+，	Sw
+应	Sv
+按	Bp
+照	Ep
+相	Bv
+关	Ev
+法	Bn
+律	Mn
+法	Mn
+规	En
+的	Suj
+要	Bv
+求	Ev
+，	Sw
+主	Bb
+动	Eb
+采	Bnr
+取	Mnr
+措	Mnr
+施	Enr
+下	Bv
+架	Ev
+不	Sd
+合	Bn
+格	En
+商	Bn
+品	En
+，	Sw
+保	Bv
+护	Ev
+消	Bn
+费	Mn
+者	En
+的	Suj
+合	Bn
+法	Mn
+权	Mn
+益	En
+。	Sw
+
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+（	Sw
+3	Sm
+月	Sm
+）	Sw
+商	Bn
+品	En
+煤	Sn
+抽	Bv
+检	Ev
+汇	Bn
+总	Mn
+表	En
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+样	Bn
+品	En
+名	Bn
+称	En
+ 	Sw
+
+被	Sp
+抽	Bv
+检	Ev
+人	Sn
+ 	Sw
+
+标	Bn
+称	En
+商	Bn
+标	En
+ 	Sw
+
+标	Bn
+称	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+ 	Sw
+
+规	Bn
+格	Mn
+型	Mn
+号	En
+ 	Sw
+
+生	Bn
+产	Mn
+日	Mn
+期	En
+/	Sw
+批	Bn
+号	En
+/	Sw
+货	Bn
+号	En
+ 	Sw
+
+综	Bvn
+合	Evn
+判	Bv
+定	Ev
+（	Sw
+合	Bn
+格	En
+/	Sw
+不	Sd
+合	Bn
+格	En
+）	Sw
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+项	Sn
+ 	Sw
+
+1	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+张	Bnr
+书	Mnr
+见	Enr
+（	Sw
+长	Bns
+葛	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+新	Sa
+密	Sa
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+全	Bnz
+硫	Enz
+（	Sw
+S	Beng
+t	Eeng
+,	Sw
+d	Sw
+）	Sw
+ 	Sw
+
+2	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+高	Bn
+铁	En
+成	Sn
+（	Sw
+长	Bns
+葛	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+新	Bns
+密	Ens
+王	Bnr
+村	Enr
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+3	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+张	Bnr
+根	Mnr
+建	Enr
+（	Sw
+长	Bns
+葛	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+山	Bns
+西	Ens
+晋	Bns
+城	Ens
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+4	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+卢	Bnr
+海	Mnr
+庭	Enr
+（	Sw
+长	Bns
+葛	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+新	Sa
+密	Sa
+宏	Bnz
+达	Enz
+煤	Bn
+矿	En
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+5	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+长	Bns
+葛	Mns
+市	Ens
+为	Bv
+民	Ev
+煤	Bn
+球	En
+厂	Szg
+（	Sw
+长	Bns
+葛	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+山	Bns
+西	Ens
+大	Sa
+赵	Bnr
+庄	Enr
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+全	Bnz
+硫	Enz
+（	Sw
+S	Beng
+t	Eeng
+,	Sw
+d	Sw
+）	Sw
+ 	Sw
+
+6	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+长	Bns
+葛	Mns
+市	Ens
+鸿	Bn
+运	En
+煤	Bn
+球	En
+厂	Szg
+（	Sw
+长	Bns
+葛	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+新	Bnr
+密	Mnr
+永	Mnr
+祥	Enr
+煤	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+不	Sd
+合	Bn
+格	En
+ 	Sw
+
+灰	Bn
+分	En
+（	Sw
+A	Beng
+d	Eeng
+）	Sw
+ 	Sw
+
+7	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+神	Bn
+火	En
+兴	Bns
+隆	Ens
+矿	Bn
+业	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+（	Sw
+许	Bns
+昌	Mns
+县	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+河	Bns
+南	Ens
+神	Bn
+火	En
+兴	Bns
+隆	Ens
+矿	Bn
+业	En
+有	Bl
+限	Ml
+责	Ml
+任	El
+公	Bn
+司	En
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+8	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+河	Bns
+南	Ens
+天	Bq
+元	Eq
+煤	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+（	Sw
+许	Bns
+昌	Mns
+县	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+平	Bnz
+禹	Enz
+一	Sm
+矿	Sn
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+9	Sw
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+陈	Bnrfg
+淼	Enrfg
+（	Sw
+许	Bns
+昌	Mns
+县	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+陕	Bns
+西	Ens
+神	Bn
+木	En
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+煤	Sn
+ 	Sw
+
+司	Bnr
+景	Mnr
+怀	Enr
+（	Sw
+许	Bns
+昌	Mns
+县	Ens
+）	Sw
+ 	Sw
+
+/	Sw
+ 	Sw
+
+标	Bv
+注	Ev
+的	Suj
+生	Bvn
+产	Evn
+单	Bn
+位	En
+：	Sw
+山	Bns
+西	Ens
+高	Bnr
+平	Enr
+ 	Sw
+
+混	Bn
+煤	En
+ 	Sw
+
+/	Sw
+ 	Sw
+
+合	Bn
+格	En
+ 	Sw
+
+/	Sw
+
+

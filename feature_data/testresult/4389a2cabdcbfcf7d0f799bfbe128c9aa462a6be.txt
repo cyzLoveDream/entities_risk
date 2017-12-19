@@ -1,0 +1,1702 @@
+保	Bn	O
+定	Mn	O
+市	En	O
+市	Bn	O
+场	En	O
+监	Bn	O
+管	Mn	O
+局	En	O
+公	Bv	O
+布	Ev	O
+2	Bm	O
+9	Em	O
+批	Bd	O
+次	Ed	O
+抽	Bv	O
+检	Ev	O
+合	Bn	O
+格	En	O
+食	Bn	O
+品	En	O
+样	Bn	O
+品	En	O
+信	Bn	O
+息	En	O
+。	Sw	O
+
+中	Bns	O
+国	Ens	O
+质	Bn	O
+量	En	O
+新	Bnz	O
+闻	Mnz	O
+网	Enz	O
+讯	Sng	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+市	Bn	I
+场	En	I
+监	Bvn	I
+督	Evn	I
+管	Bn	I
+理	Mn	I
+局	En	E
+近	Bt	O
+日	Et	O
+发	Bv	O
+布	Ev	O
+了	Sul	O
+《	Sw	O
+关	Bp	O
+于	Ep	O
+承	Bv	O
+担	Ev	O
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+食	Bl	O
+品	Ml	O
+安	Ml	O
+全	El	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+信	Bn	O
+息	En	O
+的	Suj	O
+公	Bn	O
+告	En	O
+（	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+第	Sm	O
+3	Sm	O
+批	Sv	O
+）	Sw	O
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+年	Sm	O
+第	Sm	O
+1	Bm	O
+0	Em	O
+号	Sm	O
+》	Sw	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+发	Bv	O
+布	Ev	O
+的	Suj	O
+监	Bvn	O
+督	Evn	O
+抽	Bv	O
+检	Ev	O
+信	Bn	O
+息	En	O
+涉	Bv	O
+及	Ev	O
+蔬	Bn	O
+菜	En	O
+、	Sw	O
+水	Bn	O
+果	En	O
+、	Sw	O
+水	Bn	O
+产	Mn	O
+品	En	O
+3	Sm	O
+大	Bn	O
+类	En	O
+，	Sw	O
+共	Sd	O
+抽	Bv	O
+检	Ev	O
+样	Bn	O
+品	En	O
+2	Bm	O
+9	Em	O
+批	Bd	O
+次	Ed	O
+，	Sw	O
+全	Bn	O
+部	En	O
+合	Bn	O
+格	En	O
+。	Sw	O
+
+本	Br	O
+次	Er	O
+公	Bv	O
+布	Ev	O
+抽	Bv	O
+检	Ev	O
+食	Bn	O
+用	En	O
+农	Bn	O
+产	Mn	O
+品	En	O
+共	Sd	O
+涉	Bv	O
+及	Ev	O
+3	Sm	O
+大	Bn	O
+类	En	O
+2	Bm	O
+9	Em	O
+个	Sm	O
+合	Bn	O
+格	En	O
+样	Bn	O
+品	En	O
+
+序	Bn	O
+号	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+名	Bn	O
+称	En	O
+
+标	Bn	O
+称	En	O
+生	Bvn	O
+产	Evn	O
+企	Bn	O
+业	En	O
+地	Bn	O
+址	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	Mn	O
+名	Mn	O
+称	En	O
+
+被	Sp	O
+抽	Bv	O
+样	Ev	O
+单	Bn	O
+位	En	O
+所	Bb	O
+在	Eb	O
+省	Bn	O
+份	En	O
+
+食	Bn	O
+品	En	O
+名	Bn	O
+称	En	O
+
+规	Bn	O
+格	Mn	O
+型	Mn	O
+号	En	O
+
+生	Bn	O
+产	Mn	O
+日	Mn	O
+期	En	O
+/	Sw	O
+批	Bn	O
+号	En	O
+
+分	Bn	O
+类	En	O
+
+备	Bv	O
+注	Ev	O
+
+1	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+清	Bns	I
+苑	Ens	I
+区	Bn	I
+客	En	I
+都	Sd	I
+时	Bn	I
+代	En	I
+超	Bv	I
+市	Ev	E
+
+河	Bns	O
+北	Ens	O
+
+红	Sa	O
+提	Bn	O
+子	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+3	Em	O
+
+水	Bn	O
+果	En	O
+
+2	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+清	Bns	I
+苑	Ens	I
+区	Bn	I
+客	En	I
+都	Sd	I
+时	Bn	I
+代	En	I
+超	Bv	I
+市	Ev	E
+
+河	Bns	O
+北	Ens	O
+
+小	Sa	O
+油	Bn	O
+菜	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+3	Em	O
+
+蔬	Bn	O
+菜	En	O
+
+3	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+莲	Bn	I
+池	En	I
+区	Sn	I
+津	Sj	I
+新	Sa	I
+水	Bn	I
+产	En	I
+经	Bn	I
+销	Mn	I
+处	En	E
+
+河	Bns	O
+北	Ens	O
+
+对	Bn	O
+虾	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+7	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+4	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+莲	Bn	I
+池	En	I
+区	Sn	I
+保	Bns	I
+津	Ens	I
+水	Bn	I
+产	En	I
+批	Bv	I
+发	Ev	I
+经	Bn	I
+销	Mn	I
+处	En	E
+
+河	Bns	O
+北	Ens	O
+
+虾	Sn	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+7	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+5	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+鳊	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+6	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+罗	Bnr	O
+非	Mnr	O
+鱼	Enr	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+7	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+加	Bns	O
+州	Ens	O
+鲈	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+8	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+兴	Bns	O
+城	Ens	O
+多	Sm	O
+宝	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+9	Sw	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+鲤	Bnz	O
+鱼	Enz	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+0	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+乌	Bnr	O
+鲤	Enr	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+1	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+大	Bn	O
+黄	Mn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+2	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+鳜	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+3	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+鲫	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+4	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+草	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+5	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+多	Sm	O
+宝	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+6	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+沃	Bnr	O
+尔	Mnr	O
+玛	Enr	O
+（	Sw	O
+河	Bns	O
+北	Ens	O
+）	Sw	O
+商	Bn	O
+业	En	O
+零	Bvn	O
+售	Evn	O
+有	Bn	O
+限	Mn	O
+公	Mn	O
+司	En	O
+保	Bv	O
+定	Ev	O
+朝	Bns	O
+阳	Ens	O
+大	Bns	O
+街	Ens	O
+分	Bn	O
+店	En	O
+
+河	Bns	O
+北	Ens	O
+
+鲈	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+7	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+双	Bnr	I
+宝	Enr	I
+商	Bn	I
+贸	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+河	Bns	O
+北	Ens	O
+
+鲤	Bnz	O
+鱼	Enz	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+8	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+双	Bnr	I
+宝	Enr	I
+商	Bn	I
+贸	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+河	Bns	O
+北	Ens	O
+
+鲈	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+1	Bm	O
+9	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+双	Bnr	I
+宝	Enr	I
+商	Bn	I
+贸	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+河	Bns	O
+北	Ens	O
+
+黄	Bnr	O
+花	Mnr	O
+鱼	Enr	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+0	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+双	Bnr	I
+宝	Enr	I
+商	Bn	I
+贸	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	E
+
+河	Bns	O
+北	Ens	O
+
+罗	Bnr	O
+非	Mnr	O
+鱼	Enr	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+8	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+1	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bv	O
+定	Ev	O
+北	Bns	O
+国	Ens	O
+商	Bns	O
+城	Ens	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+先	Sd	O
+天	Bs	O
+下	Es	O
+广	Bn	O
+场	En	O
+分	Bn	O
+公	Mn	O
+司	En	O
+
+河	Bns	O
+北	Ens	O
+
+鲈	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+2	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bv	O
+定	Ev	O
+北	Bns	O
+国	Ens	O
+商	Bns	O
+城	Ens	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+先	Sd	O
+天	Bs	O
+下	Es	O
+广	Bn	O
+场	En	O
+分	Bn	O
+公	Mn	O
+司	En	O
+
+河	Bns	O
+北	Ens	O
+
+鲈	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+3	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bv	O
+定	Ev	O
+北	Bns	O
+国	Ens	O
+商	Bns	O
+城	Ens	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+先	Sd	O
+天	Bs	O
+下	Es	O
+广	Bn	O
+场	En	O
+分	Bn	O
+公	Mn	O
+司	En	O
+
+河	Bns	O
+北	Ens	O
+
+多	Sm	O
+宝	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+4	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bv	O
+定	Ev	O
+北	Bns	O
+国	Ens	O
+商	Bns	O
+城	Ens	O
+有	Bl	O
+限	Ml	O
+责	Ml	O
+任	El	O
+公	Bn	O
+司	En	O
+先	Sd	O
+天	Bs	O
+下	Es	O
+广	Bn	O
+场	En	O
+分	Bn	O
+公	Mn	O
+司	En	O
+
+河	Bns	O
+北	Ens	O
+
+黄	Bnr	O
+花	Mnr	O
+鱼	Enr	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+5	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+惠	Bnr	I
+友	Enr	I
+万	Bm	I
+家	Em	I
+福	Sns	I
+超	Bn	I
+级	Mn	I
+市	Mn	I
+场	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+高	Sa	I
+开	Bn	I
+店	En	E
+
+河	Bns	O
+北	Ens	O
+
+鲫	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+6	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+惠	Bnr	I
+友	Enr	I
+万	Bm	I
+家	Em	I
+福	Sns	I
+超	Bn	I
+级	Mn	I
+市	Mn	I
+场	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+高	Sa	I
+开	Bn	I
+店	En	E
+
+河	Bns	O
+北	Ens	O
+
+鲈	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+7	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+惠	Bnr	I
+友	Enr	I
+万	Bm	I
+家	Em	I
+福	Sns	I
+超	Bn	I
+级	Mn	I
+市	Mn	I
+场	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+高	Sa	I
+开	Bn	I
+店	En	E
+
+河	Bns	O
+北	Ens	O
+
+罗	Bnr	O
+非	Mnr	O
+鱼	Enr	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+8	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+惠	Bnr	I
+友	Enr	I
+万	Bm	I
+家	Em	I
+福	Sns	I
+超	Bn	I
+级	Mn	I
+市	Mn	I
+场	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+高	Sa	I
+开	Bn	I
+店	En	E
+
+河	Bns	O
+北	Ens	O
+
+鳜	Bn	O
+鱼	En	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+
+2	Bm	O
+9	Em	O
+
+/	Sw	O
+
+/	Sw	O
+
+保	Bn	B
+定	Mn	I
+市	En	I
+惠	Bnr	I
+友	Enr	I
+万	Bm	I
+家	Em	I
+福	Sns	I
+超	Bn	I
+级	Mn	I
+市	Mn	I
+场	En	I
+有	Bn	I
+限	Mn	I
+公	Mn	I
+司	En	I
+高	Sa	I
+开	Bn	I
+店	En	E
+
+河	Bns	O
+北	Ens	O
+
+鲤	Bnz	O
+鱼	Enz	O
+
+计	Bn	O
+量	En	O
+
+2	Bm	O
+0	Mm	O
+1	Mm	O
+7	Em	O
+-	Sw	O
+0	Bm	O
+7	Em	O
+-	Sw	O
+1	Bm	O
+9	Em	O
+
+水	Bn	O
+产	Mn	O
+品	En	O
+

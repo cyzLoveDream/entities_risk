@@ -1,0 +1,4972 @@
+宁	Bns
+夏	Ens
+食	Bn
+药	Mn
+监	En
+抽	Bv
+检	Ev
+地	Bn
+产	En
+药	Bn
+品	En
+1	Bm
+0	Mm
+6	Em
+批	Bd
+次	Ed
+ 	Sw
+
+全	Bn
+部	En
+符	Bn
+合	Mn
+规	Mn
+定	En
+。	Sw
+
+中	Bns
+国	Ens
+质	Bn
+量	En
+新	Bnz
+闻	Mnz
+网	Enz
+讯	Sng
+ 	Sw
+
+根	Bp
+据	Ep
+宁	Bns
+夏	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+《	Sw
+2	Bm
+0	Mm
+1	Mm
+7	Em
+年	Sm
+全	Bn
+区	En
+药	Bn
+品	En
+抽	Bv
+验	Ev
+工	Bvn
+作	Evn
+计	Bn
+划	En
+》	Sw
+安	Bv
+排	Ev
+，	Sw
+各	Br
+级	Er
+药	Bn
+品	En
+监	Bn
+管	Mn
+部	Mn
+门	En
+和	Sc
+药	Bn
+品	En
+检	Bvn
+验	Evn
+机	Bn
+构	En
+对	Sp
+辖	Bn
+区	En
+药	Bn
+品	En
+生	Bvn
+产	Evn
+企	Bn
+业	En
+开	Bv
+展	Ev
+地	Bn
+产	En
+药	Bn
+品	En
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+工	Bvn
+作	Evn
+，	Sw
+宁	Bns
+夏	Mns
+回	Mns
+族	Mns
+自	Mns
+治	Mns
+区	Ens
+食	Bn
+品	En
+药	Bnt
+品	Mnt
+监	Mnt
+督	Mnt
+管	Mnt
+理	Mnt
+局	Ent
+近	Bt
+日	Et
+公	Bv
+布	Ev
+3	Sm
+至	Sp
+7	Sm
+月	Bn
+份	En
+药	Bn
+品	En
+抽	Bv
+验	Ev
+情	Bn
+况	En
+。	Sw
+
+ 	Sw
+
+截	Bv
+止	Ev
+7	Sm
+月	Sm
+3	Bm
+1	Em
+日	Sm
+，	Sw
+全	Bn
+区	En
+共	Sd
+抽	Bv
+样	Ev
+检	Bvn
+验	Evn
+地	Bn
+产	En
+药	Bn
+品	En
+1	Bm
+0	Mm
+6	Em
+批	Bd
+次	Ed
+，	Sw
+其	Br
+中	Er
+化	Sn
+药	Bn
+制	Mn
+剂	En
+及	Sc
+中	Sns
+药	Bn
+制	Mn
+剂	En
+1	Bm
+1	Em
+批	Bd
+次	Ed
+，	Sw
+中	Bn
+药	Mn
+饮	Mn
+片	En
+8	Bm
+8	Em
+批	Bd
+次	Ed
+，	Sw
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+7	Sw
+批	Bd
+次	Ed
+。	Sw
+
+经	Sn
+自	Bn
+治	Mn
+区	En
+药	Bn
+品	En
+检	Bn
+验	Mn
+所	En
+和	Sc
+固	Bns
+原	Mns
+市	Ens
+市	Bn
+场	Mn
+监	Mn
+管	En
+检	Bvn
+测	Evn
+中	Bn
+心	En
+检	Bvn
+验	Evn
+，	Sw
+全	Bn
+部	En
+符	Bn
+合	Mn
+规	Mn
+定	En
+。	Sw
+
+ 	Sw
+
+3	Sm
+至	Sp
+7	Sm
+月	Bn
+份	En
+地	Bn
+产	En
+药	Bn
+品	En
+抽	Bv
+验	Ev
+品	Bn
+种	En
+明	Bad
+细	Ead
+ 	Sw
+
+序	Bn
+号	En
+ 	Sw
+
+企	Bn
+业	En
+名	Bn
+称	En
+ 	Sw
+
+产	Bn
+品	Mn
+名	Mn
+称	En
+ 	Sw
+
+批	Bn
+号	En
+ 	Sw
+
+检	Bvn
+验	Evn
+结	Bn
+果	En
+ 	Sw
+
+备	Bv
+注	Ev
+ 	Sw
+
+1	Sw
+ 	Sw
+
+上	Bns
+海	Ens
+华	Bnz
+源	Enz
+药	Bn
+业	En
+（	Sw
+宁	Bns
+夏	Ens
+）	Sw
+沙	Bnr
+赛	Enr
+制	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+氟	Bnz
+康	Mnz
+唑	Enz
+氯	Bnz
+化	Mnz
+钠	Enz
+注	Bn
+射	Mn
+液	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+2	Mm
+6	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+2	Sw
+ 	Sw
+
+上	Bns
+海	Ens
+华	Bnz
+源	Enz
+药	Bn
+业	En
+（	Sw
+宁	Bns
+夏	Ens
+）	Sw
+沙	Bnr
+赛	Enr
+制	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+注	Bn
+射	Mn
+用	En
+胸	Bn
+腺	En
+五	Sm
+肽	Sng
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+1	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+3	Sw
+ 	Sw
+
+上	Bns
+海	Ens
+华	Bnz
+源	Enz
+药	Bn
+业	En
+（	Sw
+宁	Bns
+夏	Ens
+）	Sw
+沙	Bnr
+赛	Enr
+制	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+注	Bn
+射	Mn
+用	En
+更	Sd
+昔	Stg
+洛	Bns
+韦	Ens
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+8	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+4	Sw
+ 	Sw
+
+上	Bns
+海	Ens
+华	Bnz
+源	Enz
+药	Bn
+业	En
+（	Sw
+宁	Bns
+夏	Ens
+）	Sw
+沙	Bnr
+赛	Enr
+制	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+葛	Bnr
+根	Mnr
+素	Enr
+氯	Bnz
+化	Mnz
+钠	Enz
+注	Bn
+射	Mn
+液	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+2	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+5	Sw
+ 	Sw
+
+宁	Bns
+夏	Ens
+启	Bnz
+元	Enz
+国	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+阿	Bnz
+苯	Mnz
+达	Mnz
+唑	Mnz
+片	Enz
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+6	Sw
+ 	Sw
+
+宁	Bns
+夏	Ens
+启	Bnz
+元	Enz
+国	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+小	Bn
+儿	En
+氨	Bnz
+酚	Enz
+黄	Bnr
+那	Mnr
+敏	Enr
+颗	Bn
+粒	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+1	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+7	Sw
+ 	Sw
+
+宁	Bns
+夏	Ens
+启	Bnz
+元	Enz
+国	Bn
+药	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+布	Bnr
+洛	Mnr
+芬	Enr
+片	Sq
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+8	Sw
+ 	Sw
+
+宁	Bns
+夏	Ens
+康	Bnr
+亚	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+吲	Bn
+达	En
+帕	Bnz
+胺	Enz
+缓	Bn
+释	Mn
+片	En
+ 	Sw
+
+1	Bm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+9	Sw
+ 	Sw
+
+宁	Bns
+夏	Ens
+康	Bnr
+亚	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+苄	Bnz
+达	Enz
+赖	Bn
+氨	Mn
+酸	En
+滴	Bn
+眼	Mn
+液	En
+ 	Sw
+
+3	Bm
+1	Mm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+康	Bnr
+亚	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+牛	Bn
+磺	Mn
+酸	En
+滴	Bn
+眼	Mn
+液	En
+ 	Sw
+
+3	Bm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+4	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+金	Bnr
+太	Mnr
+阳	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+咽	Bn
+炎	En
+含	Bn
+片	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+永	Bns
+寿	Ens
+堂	Sq
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+苍	Bn
+术	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+5	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+永	Bns
+寿	Ens
+堂	Sq
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+玫	Bn
+瑰	Mn
+花	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+6	Mm
+0	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+永	Bns
+寿	Ens
+堂	Sq
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+甘	Bn
+草	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+8	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+永	Bns
+寿	Ens
+堂	Sq
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+党	Bn
+参	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+5	Mm
+0	Mm
+1	Mm
+0	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+醋	Sn
+延	Bnr
+胡	Mnr
+索	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+7	Mm
+0	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+酒	Sn
+苁	Bn
+蓉	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+4	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+苍	Bn
+术	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+4	Mm
+0	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+牡	Bn
+丹	Mn
+皮	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+4	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+金	Bnr
+钱	Mnr
+草	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+0	Mm
+0	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+当	Bv
+归	Ev
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+5	Mm
+0	Mm
+7	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+板	Sng
+兰	Bns
+根	Ens
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+1	Mm
+6	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+龙	Bn
+齿	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+4	Mm
+0	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+僵	Bn
+蚕	En
+（	Sw
+麸	Bn
+炒	En
+）	Sw
+ 	Sw
+
+1	Bm
+6	Mm
+1	Mm
+0	Mm
+2	Mm
+2	Mm
+0	Mm
+4	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+红	Bn
+花	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+5	Mm
+2	Mm
+3	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+桑	Bnr
+椹	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+2	Mm
+7	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+黄	Bnr
+芩	Enr
+片	Sq
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+2	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+盐	Sn
+杜	Bnr
+仲	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+3	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+2	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+炒	Sv
+白	Bn
+芍	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+6	Mm
+0	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+黄	Bnr
+柏	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+5	Mm
+1	Mm
+1	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+厚	Ba
+朴	Ea
+ 	Sw
+
+1	Bm
+6	Mm
+1	Mm
+2	Mm
+3	Mm
+1	Mm
+0	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+浙	Bnz
+贝	Mnz
+母	Enz
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+1	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+连	Bnr
+翘	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+醋	Sn
+狼	Bn
+毒	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+5	Mm
+0	Mm
+9	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+西	Bns
+北	Ens
+药	Bn
+材	En
+科	Bn
+技	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+菊	Bn
+花	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+5	Mm
+1	Mm
+3	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+没	Bv
+药	Ev
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+2	Mm
+0	Mm
+0	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+蛇	Bn
+床	Mn
+子	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+7	Mm
+0	Mm
+6	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+白	Bn
+芍	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+4	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+3	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+小	Bn
+通	Mn
+草	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+0	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+肉	Bn
+桂	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+浙	Bnz
+贝	Mnz
+母	Enz
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+0	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+车	Bnr
+前	Mnr
+子	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+1	Mm
+2	Mm
+0	Mm
+3	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+地	Bn
+黄	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+7	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+紫	Bn
+草	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+3	Mm
+7	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+秦	Bnr
+艽	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+7	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+海	Bnr
+金	Mnr
+沙	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+5	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+栀	Bn
+子	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+0	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+黄	Bn
+芪	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+2	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+4	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+银	Bnr
+柴	Mnr
+胡	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+9	Mm
+0	Mm
+5	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+大	Bb
+黄	Eb
+ 	Sw
+
+1	Bm
+6	Mm
+1	Mm
+0	Mm
+0	Mm
+1	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+川	Sj
+穹	Sn
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+8	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+远	Bn
+志	En
+ 	Sw
+
+1	Bm
+5	Mm
+0	Mm
+9	Mm
+1	Mm
+0	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+板	Bn
+蓝	Mn
+根	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+0	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+紫	Bnr
+苏	Mnr
+子	Enr
+ 	Sw
+
+1	Bm
+5	Mm
+1	Mm
+0	Mm
+0	Mm
+6	Mm
+7	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+烫	Sv
+骨	Bi
+碎	Mi
+补	Ei
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+9	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+延	Bnr
+胡	Mnr
+索	Enr
+ 	Sw
+
+1	Bm
+5	Mm
+0	Mm
+6	Mm
+0	Mm
+5	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+土	Bn
+鳖	Mn
+虫	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+8	Mm
+0	Mm
+8	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+厚	Ba
+朴	Ea
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+9	Mm
+0	Mm
+1	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+5	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+党	Bn
+参	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+7	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+甘	Bn
+草	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+5	Mm
+0	Mm
+4	Mm
+7	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+黄	Bnr
+柏	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+5	Mm
+1	Mm
+7	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+蒲	Bnr
+黄	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+1	Mm
+0	Mm
+9	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+白	Bnr
+头	Mnr
+翁	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+5	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+砂	Bn
+仁	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+2	Mm
+1	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+延	Bnr
+胡	Mnr
+索	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+7	Mm
+1	Mm
+0	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+甘	Bn
+草	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+2	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+知	Bn
+母	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+9	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+白	Bn
+矾	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+2	Mm
+0	Mm
+8	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+6	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+吴	Bn
+茱	Mn
+萸	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+6	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+红	Bn
+花	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+2	Mm
+0	Mm
+2	Mm
+6	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+苍	Bn
+术	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+8	Mm
+0	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+厚	Ba
+朴	Ea
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+2	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+红	Bn
+花	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+1	Mm
+3	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+金	Bnr
+银	Mnr
+花	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+7	Mm
+0	Mm
+1	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+泽	Bn
+泻	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+8	Mm
+1	Mm
+2	Mm
+0	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+明	Bnr
+德	Enr
+中	Bn
+药	Mn
+饮	Mn
+片	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+杜	Bnr
+仲	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+9	Mm
+0	Mm
+6	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+金	Bnr
+太	Mnr
+阳	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+海	Bn
+螵	Mn
+蛸	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+金	Bnr
+太	Mnr
+阳	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+苎	Bn
+麻	Mn
+根	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+7	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+金	Bnr
+太	Mnr
+阳	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+炒	Sv
+麦	Bnr
+芽	Enr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+金	Bnr
+太	Mnr
+阳	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+火	Bn
+麻	Mn
+仁	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+金	Bnr
+太	Mnr
+阳	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+炒	Sv
+僵	Bn
+蚕	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+金	Bnr
+太	Mnr
+阳	Enr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+蒲	Bnr
+公	Mnr
+英	Enr
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+桂	Bnr
+枝	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+5	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+麦	Bnr
+芽	Enr
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+6	Mm
+0	Mm
+3	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+桔	Bn
+梗	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+2	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+浙	Bnz
+贝	Mnz
+母	Enz
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+2	Mm
+0	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+桑	Bnr
+寄	Mnr
+生	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+1	Mm
+0	Mm
+1	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+红	Bn
+花	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+0	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+8	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+土	Bn
+鳖	Mn
+虫	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+5	Mm
+0	Mm
+4	Mm
+4	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+厚	Ba
+朴	Ea
+ 	Sw
+
+1	Bm
+6	Mm
+1	Mm
+0	Mm
+0	Mm
+0	Mm
+4	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+醋	Sn
+延	Bnr
+胡	Mnr
+索	Enr
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+4	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+板	Bn
+蓝	Mn
+根	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+2	Mm
+0	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+牡	Bn
+蛎	En
+ 	Sw
+
+1	Bm
+6	Mm
+1	Mm
+1	Mm
+0	Mm
+1	Mm
+0	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+盐	Sn
+泽	Bn
+泻	En
+ 	Sw
+
+1	Bm
+6	Mm
+0	Mm
+5	Mm
+0	Mm
+2	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+炒	Sv
+白	Bn
+芍	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+4	Mm
+7	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+透	Bn
+骨	Mn
+草	En
+ 	Sw
+
+1	Bm
+6	Mm
+1	Mm
+0	Mm
+0	Mm
+2	Mm
+7	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+7	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+粉	Bn
+葛	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+3	Mm
+7	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+8	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+党	Bn
+参	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+4	Mm
+0	Mm
+2	Mm
+9	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+9	Bm
+9	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+百	Bn
+草	En
+王	Snr
+药	Bn
+业	En
+有	Bn
+限	Mn
+公	Mn
+司	En
+ 	Sw
+
+木	Bn
+瓜	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+3	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+中	Bn
+药	Mn
+饮	Mn
+片	En
+ 	Sw
+
+1	Bm
+0	Mm
+0	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+医	Bn
+科	Mn
+大	Mn
+学	En
+总	Bn
+院	En
+制	Bn
+剂	En
+中	Bn
+心	En
+ 	Sw
+
+复	Bn
+方	En
+硫	Bn
+磺	En
+软	Bn
+膏	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+0	Mm
+1	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+医	Bn
+科	Mn
+大	Mn
+学	En
+总	Bn
+院	En
+制	Bn
+剂	En
+中	Bn
+心	En
+ 	Sw
+
+复	Bn
+方	En
+苯	Bnz
+甲	Mnz
+酸	Enz
+软	Bn
+膏	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+1	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+0	Mm
+2	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+医	Bn
+科	Mn
+大	Mn
+学	En
+总	Bn
+院	En
+制	Bn
+剂	En
+中	Bn
+心	En
+ 	Sw
+
+复	Bn
+方	En
+薄	Bnz
+荷	Mnz
+脑	Enz
+滴	Bn
+鼻	Mn
+剂	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+2	Mm
+3	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+0	Mm
+3	Em
+ 	Sw
+
+宁	Bns
+夏	Ens
+医	Bn
+科	Mn
+大	Mn
+学	En
+总	Bn
+院	En
+制	Bn
+剂	En
+中	Bn
+心	En
+ 	Sw
+
+水	Bnz
+合	Mnz
+氯	Mnz
+醛	Enz
+合	Bn
+剂	En
+ 	Sw
+
+1	Bm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+4	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+0	Mm
+4	Em
+ 	Sw
+
+宁	Bns
+夏	Mns
+回	Mns
+族	Mns
+自	Mns
+治	Mns
+区	Ens
+中	Bnt
+医	Mnt
+医	Mnt
+院	Ent
+ 	Sw
+
+消	Bn
+食	En
+化	Bn
+滞	Mn
+液	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+1	Mm
+8	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+0	Mm
+5	Em
+ 	Sw
+
+宁	Bns
+夏	Mns
+回	Mns
+族	Mns
+自	Mns
+治	Mns
+区	Ens
+中	Bnt
+医	Mnt
+医	Mnt
+院	Ent
+ 	Sw
+
+健	Bn
+脾	En
+肥	Bn
+儿	En
+口	Bn
+服	Mn
+液	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+2	Mm
+0	Mm
+2	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+ 	Sw
+
+1	Bm
+0	Mm
+6	Em
+ 	Sw
+
+宁	Bns
+夏	Mns
+回	Mns
+族	Mns
+自	Mns
+治	Mns
+区	Ens
+中	Bnt
+医	Mnt
+医	Mnt
+院	Ent
+ 	Sw
+
+补	Bn
+益	En
+通	Bn
+乳	Mn
+汤	En
+ 	Sw
+
+2	Bm
+0	Mm
+1	Mm
+7	Mm
+0	Mm
+3	Mm
+0	Mm
+5	Em
+ 	Sw
+
+符	Bn
+合	Mn
+规	Mn
+定	En
+ 	Sw
+
+医	Bn
+疗	Mn
+机	Mn
+构	En
+制	Bn
+剂	En
+
+
